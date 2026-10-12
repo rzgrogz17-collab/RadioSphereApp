@@ -24,7 +24,7 @@
     "name": "Music Box Radio",
     "url": "https://musicbox.amgradio.ru/musicbox.aacpo",
     "url_resolved": "https://musicbox.amgradio.ru/musicbox.aacp",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/musicboxradio.webp",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/283/music-box-radio-russia.c2168a4f.png",
     "country": "Russia",
     "tags": "pop,dance",
     "votes": 0
@@ -34,7 +34,7 @@
     "name": "SK-RADIO",
     "url": "https://a8.radioheart.ru:9003/sk-radio",
     "url_resolved": "https://a8.radioheart.ru:9003/sk-radio",
-    "favicon": "https://pbs.twimg.com/profile_images/2018973010691002368/LZEexcx9_400x400.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SKFMRU.jpg",
     "country": "Russia",
     "tags": "блюз,рок",
     "votes": 0
@@ -44,7 +44,7 @@
     "name": "101.ru Russia Top 50",
     "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/34",
     "url_resolved": "https://srv01.gpmradio.ru/stream/pro/aac/64/34",
-    "favicon": "https://www.radio.net/175/101rueurohits.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/ONLINERADIO101.jpg",
     "country": "Russia",
     "tags": "Russian Music",
     "votes": 0
@@ -54,7 +54,7 @@
     "name": "DJIN FM",
     "url": "https://djin.amgradio.ru/djin.aacp",
     "url_resolved": "https://djin.amgradio.ru/djin.aacp",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/djin-fm.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIODJINFM.jpg",
     "country": "Russia",
     "tags": "dj,club,hits",
     "votes": 0
@@ -64,7 +64,7 @@
     "name": "Русские Песни (AMG Radio)",
     "url": "https://rusongs.amgradio.ru/rusongs?radio_net=",
     "url_resolved": "https://rusongs.amgradio.ru/rusongs?radio_net=",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AMGRU.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/AMGRU.jpg",
     "country": "Russia",
     "tags": "Russian Music,Pop",
     "votes": 0
@@ -214,7 +214,7 @@
     "name": "Europa Plus",
     "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
     "url_resolved": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
-    "favicon": "http://liveam.tv/img/2494.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/EUROPLUSRU.jpg",
     "country": "Russia",
     "tags": "dance,house,pop",
     "votes": 99
@@ -254,7 +254,7 @@
     "name": "Радио 7",
     "url": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
     "url_resolved": "https://radio7.hostingradio.ru:8040/radio7256.mp3",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/radio7-na7holmah.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIO7RU.jpg",
     "country": "Russia",
     "tags": "dance,house,pop",
     "votes": 7
@@ -274,7 +274,7 @@
     "name": "Соловьёв LIVE",
     "url": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
     "url_resolved": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
-    "favicon": "https://cdn.smotrim.ru/photobank/prod/large/901/590/7.png",
+    "favicon": "https://cdn.smotrim.ru/photobank/prod/large/150/555/89.jpg",
     "country": "Russia",
     "tags": "politics,world news",
     "votes": 70
@@ -284,7 +284,7 @@
     "name": "Радио «Комсомольская Правда» | КП Россия",
     "url": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
     "url_resolved": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
-    "favicon": "https://radiogenerator.ru/upload/iblock/3a9/komsomolskaya_pravda_moskva.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RadioKomsomolskayaPravda.jpg",
     "country": "Russia",
     "tags": "moscow,music,news,russia,talk",
     "votes": 65
@@ -324,7 +324,7 @@
     "name": "Спутник",
     "url": "https://icecast-rian.cdnvideo.ru/voicerus",
     "url_resolved": "https://icecast-rian.cdnvideo.ru/voicerus",
-    "favicon": "https://radiopotok.ru/f/station_webp/512/962.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SPUTNIKRURADIO.jpg",
     "country": "Russia",
     "tags": "news,talk",
     "votes": 50
@@ -344,7 +344,7 @@
     "name": "DFM Дискач 90-х",
     "url": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
     "url_resolved": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
-    "favicon": "https://www.prfm.ru/logo/dfm-diskach-90-130.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/DFM90XRU.jpg",
     "country": "Russia",
     "tags": "90-е,eurodance,nostalgia",
     "votes": 43
@@ -354,7 +354,7 @@
     "name": "Радио Русские Песни",
     "url": "http://listen.rusongs.ru/ru-mp3-128",
     "url_resolved": "http://listen.rusongs.ru/ru-mp3-128",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AMGRU.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/AMGRU.jpg",
     "country": "Russia",
     "tags": "russian pop",
     "votes": 40
@@ -364,7 +364,7 @@
     "name": "Соловьёв FM",
     "url": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
     "url_resolved": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/CONOBLEBFMRU.png",
     "country": "Russia",
     "tags": "news,politics,talk",
     "votes": 38
@@ -374,7 +374,7 @@
     "name": "Вести FM",
     "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
     "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
-    "favicon": "https://radiopotok.ru/f/station_webp/512/644.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/VESTIFMRU.jpg",
     "country": "Russia",
     "tags": "news,talk",
     "votes": 37
@@ -384,7 +384,7 @@
     "name": "Дорожное радио",
     "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "url_resolved": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
-    "favicon": "https://www.radiobells.com/stations/dorognoe.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/DorognoyeRadio.jpg",
     "country": "Russia",
     "tags": "dorojnoe",
     "votes": 37
@@ -1004,7 +1004,7 @@
     "name": "Radio Record Ambient",
     "url": "http://radiorecord.hostingradio.ru/ambient96.aacp",
     "url_resolved": "http://radiorecord.hostingradio.ru/ambient96.aacp",
-    "favicon": "https://cdn-profiles.tunein.com/s309967/images/logod.jpg?t=1",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIORECORDAMBIENT.jpg",
     "country": "Russia",
     "tags": "ambient",
     "votes": 1113
@@ -1034,7 +1034,7 @@
     "name": "Radio Record - Summer Dance",
     "url": "https://radiorecord.hostingradio.ru/summerparty96.aacp",
     "url_resolved": "https://radiorecord.hostingradio.ru/summerparty96.aacp",
-    "favicon": "https://i.imgur.com/n5PBous.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RadioRecordSummerDance.jpg",
     "country": "Russia",
     "tags": "dance,dance music,dance pop,eurodance",
     "votes": 616
@@ -1044,7 +1044,7 @@
     "name": "Metaradio",
     "url": "https://s2.metaradio.ru/mradio.aacp",
     "url_resolved": "https://s2.metaradio.ru/mradio.aacp",
-    "favicon": "https://metaradio.ru/gallery/Metaradio_ID.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/MRURADIO.jpg",
     "country": "Russia",
     "tags": "russian dance electronic pop hits radio",
     "votes": 386
@@ -1054,7 +1054,7 @@
     "name": "Советская Классика",
     "url": "https://rr-sovclass.hostingradio.ru/sovclass96.aacp",
     "url_resolved": "https://rr-sovclass.hostingradio.ru/sovclass96.aacp",
-    "favicon": "https://radio-24.ru/img/logo/logo-415.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/sovclass96.jpg",
     "country": "Russia",
     "tags": "ретро",
     "votes": 282
@@ -1064,7 +1064,7 @@
     "name": "DEEP IN SPACE",
     "url": "https://stream.drugradio.ru:8020/stream128",
     "url_resolved": "https://stream.drugradio.ru:8020/stream128",
-    "favicon": "https://radiopotok.ru/f/station_webp/512/2562.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/DEEPINSPACERUFM.jpg",
     "country": "Russia",
     "tags": "ambi,ambient,chillout,deep space,space music",
     "votes": 277
@@ -1074,7 +1074,7 @@
     "name": "Роксана радиосы",
     "url": "https://listen1.myradio24.com/2761",
     "url_resolved": "https://listen1.myradio24.com/2761",
-    "favicon": "https://radiopotok.ru/f/station_webp/512/803.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/103POKCAHARU.jpg",
     "country": "Russia",
     "tags": "folk,live,news,pop,talk,tatar",
     "votes": 266
@@ -1084,7 +1084,7 @@
     "name": "Radio Record Lo-Fi",
     "url": "https://radiorecord.hostingradio.ru/lofi96.aacp",
     "url_resolved": "https://radiorecord.hostingradio.ru/lofi96.aacp",
-    "favicon": "https://www.radiobells.com/stations/recordlofi.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RECORDRADIOLUFIRU.jpg",
     "country": "Russia",
     "tags": "chill,chill beats,chillhop,jazzhop,lo-fi",
     "votes": 257
@@ -1104,7 +1104,7 @@
     "name": "Кекс FM",
     "url": "https://dorognoe.hostingradio.ru/keksfm64.aac",
     "url_resolved": "https://dorognoe.hostingradio.ru/keksfm64.aac",
-    "favicon": "https://www.prfm.ru/logo/keks-fm-130.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/keksfm.jpg",
     "country": "Russia",
     "tags": "ретро",
     "votes": 212
@@ -1124,7 +1124,7 @@
     "name": "Wow Русское",
     "url": "https://stream.vyshka24.ru/wowrusskoe",
     "url_resolved": "https://stream.vyshka24.ru/wowrusskoe",
-    "favicon": "https://radio24.ru/upload/image/potoki/small/RM_24_krug_new_small.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/PETPOFM90RU.jpg",
     "country": "Russia",
     "tags": "русское",
     "votes": 195
@@ -1214,7 +1214,7 @@
     "name": "Садовод",
     "url": "https://stream.cassiopeia-station.ru:1315/stream",
     "url_resolved": "https://stream.cassiopeia-station.ru:1315/stream",
-    "favicon": "http://top-radio.ru/assets/image/radio/180/radio-sadovod.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/radio-sadovod.jpg",
     "country": "Russia",
     "tags": "разговорный",
     "votes": 118
@@ -1224,7 +1224,7 @@
     "name": "Радио Ностальжи Россия",
     "url": "https://listen7.myradio24.com/alexx333",
     "url_resolved": "https://listen7.myradio24.com/alexx333",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/nostalgierus.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/nostalgierus.jpg",
     "country": "Russia",
     "tags": "70s,80s,90s,nostalgie",
     "votes": 1561
@@ -1244,7 +1244,7 @@
     "name": "Radio Gameplay",
     "url": "https://c22.radioboss.fm:8144/GamePlay",
     "url_resolved": "https://c22.radioboss.fm:8144/GamePlay",
-    "favicon": "https://c22.radioboss.fm/w/artwork/144.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOGAMERU.jpg",
     "country": "Russia",
     "tags": "16bit,8 bit,8bit,gamemusic,retro games,video game",
     "votes": 141
@@ -1294,7 +1294,7 @@
     "name": "Радио 7 на семи холмах - Настроение счастья",
     "url": "https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp",
     "url_resolved": "https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp",
-    "favicon": "https://top-radio.ru/assets/image/radio/100/radio7-na7holmah.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIO7RU.jpg",
     "country": "Russia",
     "tags": "поп-музыка",
     "votes": 658
@@ -1304,7 +1304,7 @@
     "name": "Радио Гусь",
     "url": "https://stream4.radiogoose.ru/listen/radiogoose/play",
     "url_resolved": "https://stream4.radiogoose.ru/listen/radiogoose/play",
-    "favicon": "https://sun9-39.userapi.com/s/v1/ig2/KXjKWRr58qCPoZaah4OEfn8UL3mL-dNRd4amtz58-DpFv8oZ-1tsHkXGw3UeBUyGwj8N5L8gEV9gh3uPlb0qcNS5.jpg?size=100x100&quality=95&crop=0,0,520,520&ava=1",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/radio-goose.jpg",
     "country": "Russia",
     "tags": "dancecore,house,trance",
     "votes": 253
@@ -1324,7 +1324,7 @@
     "name": "Biker FM",
     "url": "https://listen4.myradio24.com/69846",
     "url_resolved": "https://listen4.myradio24.com/69846",
-    "favicon": "https://radiopotok.ru/f/station_webp/512/2286.webp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/BIKERFMRU.jpg",
     "country": "Russia",
     "tags": "bikers,metal,rock",
     "votes": 146
@@ -1354,7 +1354,7 @@
     "name": "Instrumental Jazz",
     "url": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
     "url_resolved": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
-    "favicon": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/JAZZMUSICRU.png",
     "country": "Russia",
     "tags": "instrumental,jazz",
     "votes": 6308
@@ -1364,7 +1364,7 @@
     "name": "ULTRA",
     "url": "http://nashe1.hostingradio.ru/ultra-256",
     "url_resolved": "http://nashe1.hostingradio.ru/ultra-256",
-    "favicon": "https://radioultra.ru/favicons/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RadioUltra.jpg",
     "country": "Russia",
     "tags": "рок",
     "votes": 2055
@@ -1374,7 +1374,7 @@
     "name": "Radio Record Deep",
     "url": "http://radiorecord.hostingradio.ru/deep96.aacp",
     "url_resolved": "http://radiorecord.hostingradio.ru/deep96.aacp",
-    "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
+    "favicon": "https://www.radio.net/175/recorddeep.png",
     "country": "Russia",
     "tags": "deep house,house",
     "votes": 1466
@@ -1394,7 +1394,7 @@
     "name": "rockfm.ru heavy",
     "url": "https://jfm1.hostingradio.ru:14536/metal.mp3",
     "url_resolved": "https://jfm1.hostingradio.ru:14536/metal.mp3",
-    "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/ROCKRURADIO.png",
     "country": "Russia",
     "tags": "heavy metal,metal",
     "votes": 1198
@@ -1404,7 +1404,7 @@
     "name": "Хит FM Стопудовый хит",
     "url": "https://hitfm-hit100pud.hostingradio.ru/hit100pud96.aacp",
     "url_resolved": "https://hitfm-hit100pud.hostingradio.ru/hit100pud96.aacp",
-    "favicon": "https://hitfm.ru/apple-icon.png?b1d3d31b1e6c8f8f",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/XNTFMRU.jpg",
     "country": "Russia",
     "tags": "поп-музыка",
     "votes": 352
@@ -1424,7 +1424,7 @@
     "name": "Коммерсантъ FM 93.6",
     "url": "https://kommersant77.hostingradio.ru:8085/kommersant128.mp3",
     "url_resolved": "https://kommersant77.hostingradio.ru:8085/kommersant128.mp3",
-    "favicon": "https://im.kommersant.ru/contentflex/images/favicons2020/apple-touch-icon-120.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/KommersantFMRU.png",
     "country": "Russia",
     "tags": "economics,finance,information,news,talk",
     "votes": 1433
@@ -1444,7 +1444,7 @@
     "name": "Звезда 95.6 FM",
     "url": "https://radio.mediacdn.ru/radio/zvezda/zvezda_96",
     "url_resolved": "https://radio.mediacdn.ru/radio/zvezda/zvezda_96",
-    "favicon": "https://radiozvezda.ru/_next/static/media/apple-touch-icon-120x120-precomposed.e280aea4.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/861/radio-zvezda-956-fm-radio-zvezda.32c07a78.png",
     "country": "Russia",
     "tags": "32 kbps,aac,audiobooks,news,talk",
     "votes": 405
@@ -1474,7 +1474,7 @@
     "name": "Нестандарт (aac • 64)",
     "url": "https://listen.radionestandart.ru:8200/64.aac",
     "url_resolved": "https://listen.radionestandart.ru:8200/64.aac",
-    "favicon": "https://radionestandart.ru/favicon.png",
+    "favicon": "https://vo-radio.ru/images/logoweb1/radio-nestandart-180.jpg",
     "country": "Russia",
     "tags": "jazz,pop music,rock",
     "votes": 152
@@ -1484,7 +1484,7 @@
     "name": "НАРОДНОЕ РАДИО «РОДНИКИ»",
     "url": "https://rodniki.hostingradio.ru/rodniki128.mp3",
     "url_resolved": "https://rodniki.hostingradio.ru/rodniki128.mp3",
-    "favicon": "https://radiopotok.ru/f/station_webp/256/2449.webp",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/narodnoeradiorodniki.png",
     "country": "Russia",
     "tags": "Родники",
     "votes": 148
@@ -1494,7 +1494,7 @@
     "name": "Радио дача",
     "url": "https://listen.vdfm.ru:8000/dacha",
     "url_resolved": "https://listen.vdfm.ru:8000/dacha",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Radio_Dacha.jpg/500px-Logo_Radio_Dacha.jpg?utm_source=ru.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RadioDachaFM.jpg",
     "country": "Russia",
     "tags": "radio",
     "votes": 5924
