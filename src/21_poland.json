@@ -54,7 +54,7 @@
     "name": "ESKA ROCK",
     "url": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
     "url_resolved": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/927/radio-muzofm.29c0cbd0.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/648/eska-rock-classic.ca001b5b.png",
     "country": "Poland",
     "tags": "",
     "votes": 62
@@ -134,7 +134,7 @@
     "name": "VOX FM 128",
     "url": "https://ic2.smcdn.pl/3990-1.mp3",
     "url_resolved": "https://ic2.smcdn.pl/3990-1.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/255/radio-vox-fm-933.26c4e4f3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/255/radio-vox-fm-933.26c4e4f3.png",
     "country": "Poland",
     "tags": "Pop / Top 40",
     "votes": 33
@@ -144,7 +144,7 @@
     "name": "VOX DJ Mix",
     "url": "https://waw.ic.smcdn.pl/6020-1.aac",
     "url_resolved": "https://waw.ic.smcdn.pl/6020-1.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/629/vox-roztanczony-pge-narodowy.8798854e.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/VOXDJMIXPO.jpg",
     "country": "Poland",
     "tags": "dj,mix",
     "votes": 32
@@ -154,7 +154,7 @@
     "name": "Antyradio",
     "url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
     "url_resolved": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/789/antyradio.7bbc4249.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/AntyradioBallads.jpg",
     "country": "Poland",
     "tags": "metal,rock",
     "votes": 27547
@@ -164,7 +164,7 @@
     "name": "RMF Classic",
     "url": "http://31.192.216.8/RMFCLASSIC48",
     "url_resolved": "http://31.192.216.8/RMFCLASSIC48",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/872/rmf-classic.1a0c50f0.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RFMCLASSICPO.jpg",
     "country": "Poland",
     "tags": "classical",
     "votes": 14354
@@ -181,12 +181,12 @@
   },
   {
     "stationuuid": "960f4b0b-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Gdansk",
-    "url": "http://stream.task.gda.pl:8000/rg1",
-    "url_resolved": "http://stream.task.gda.pl:8000/rg1",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Collage_of_views_of_Gdansk.jpg/500px-Collage_of_views_of_Gdansk.jpg?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "name": "80er 90er OLDIE ANTENNE",
+    "url": "https://stream.antenne.de/oldie-antenne/stream/mp3",
+    "url_resolved": "https://s8-webradio.antenne.de/oldie-antenne/stream/mp3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/OLDIE%20ANTENNE.jpg",
     "country": "Poland",
-    "tags": "pop",
+    "tags": "Lata 80, Stare przeboje,Lata 90",
     "votes": 5302
   },
   {
@@ -424,7 +424,7 @@
     "name": "Radio ZET 128",
     "url": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
     "url_resolved": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
-    "favicon": "https://i.postimg.cc/BQmzGmPR/radio-zet-8fe59cd4.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOZET.jpg",
     "country": "Poland",
     "tags": "top hits",
     "votes": 79
@@ -434,7 +434,7 @@
     "name": "RMF MAXX Podlasie",
     "url": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
     "url_resolved": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
-    "favicon": "https://i.ytimg.com/vi/Jr7C7LQYssM/maxresdefault.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RFMMAXX.jpg",
     "country": "Poland",
     "tags": "pop music",
     "votes": 74
@@ -444,7 +444,7 @@
     "name": "Radio 40plus Forty Plus",
     "url": "https://s1.slotex.pl:7178/stream/1/",
     "url_resolved": "https://s1.slotex.pl:7178/stream/1/",
-    "favicon": "https://radio40plus.pl/wp-content/uploads/2023/04/Logo-RFZielone230x230small.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOFORTYPLUS.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 68
@@ -534,7 +534,7 @@
     "name": "Radio Sierpc",
     "url": "https://ssl-1.radiohost.pl:10700/stream",
     "url_resolved": "https://ssl-1.radiohost.pl:10700/stream",
-    "favicon": "https://radio.sierpc.pl/wp-content/uploads/2024/02/cropped-logo-1-180x180.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RadioSierpc.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 37
@@ -544,7 +544,7 @@
     "name": "Radio Jasna Gora",
     "url": "http://online.radiojasnagora.pl:8000/rjg",
     "url_resolved": "http://online.radiojasnagora.pl:8000/rjg",
-    "favicon": "https://www.radiojasnagora.pl/images/logo.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOJASNAGORA.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 36
@@ -561,12 +561,12 @@
   },
   {
     "stationuuid": "e49f5776-8aea-4db8-ba6e-4b12b262d4ab",
-    "name": "Radio Macabrismix",
-    "url": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
-    "url_resolved": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
-    "favicon": "https://panel.macabrismix.com.pl/static/uploads/macabris_mix_radio_station_1-2c6_ghz/album_art.1787481138.jpg",
+    "name": "Radio Express",
+    "url": "https://stream.rcs.revma.com/yx6cub73kwzuv",
+    "url_resolved": "https://stream.rcs.revma.com/yx6cub73kwzuv",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOEXPRESSPO.jpg",
     "country": "Poland",
-    "tags": "dancehall,dub reggae,hip hop,rap,reggae",
+    "tags": "Stare przeboje",
     "votes": 23
   },
   {
@@ -591,10 +591,10 @@
   },
   {
     "stationuuid": "55b0217d-e799-4e6b-a313-9db5f522c228",
-    "name": "Radio Opole 1 96 kbps",
+    "name": "Radio Opole 1",
     "url": "https://audio.radio.opole.pl/ro1aac",
     "url_resolved": "https://audio.radio.opole.pl/ro1aac",
-    "favicon": "https://i.postimg.cc/XqMBQWMd/zalvf5mnczj9.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/134/pr-radio-opole.10a77d26.png",
     "country": "Poland",
     "tags": "information",
     "votes": 20
@@ -634,7 +634,7 @@
     "name": "Radio Aktywne",
     "url": "https://listen.radioaktywne.pl/ramp3",
     "url_resolved": "https://listen.radioaktywne.pl/ramp3",
-    "favicon": "https://radioaktywne.pl/static/images/ra_banner-b3198ed95c743c1739835454f4d52637.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOAKTYWREPO.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 14
@@ -704,7 +704,7 @@
     "name": "Radio Fraszka",
     "url": "https://s3.slotex.pl:7132/;",
     "url_resolved": "https://s3.slotex.pl:7132/;",
-    "favicon": "https://files.catbox.moe/u8jz0y.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOFRASZKEPO.jpg",
     "country": "Poland",
     "tags": "fm,university radio",
     "votes": 4
@@ -784,7 +784,7 @@
     "name": "Radioparty.pl House Party",
     "url": "http://house.radioparty.pl:8010/",
     "url_resolved": "http://house.radioparty.pl:8010/",
-    "favicon": "http://radioparty.pl/images/radioparty2017.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RPPOLONYA.jpg",
     "country": "Poland",
     "tags": "house",
     "votes": 5712
@@ -794,7 +794,7 @@
     "name": "MC Radio",
     "url": "http://stream4.nadaje.com:8624/mcradio",
     "url_resolved": "http://stream4.nadaje.com:8624/mcradio",
-    "favicon": "https://cdn-profiles.tunein.com/s103210/images/logoq.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/MCRADIOPO.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 185
@@ -804,7 +804,7 @@
     "name": "Norda FM",
     "url": "http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8",
     "url_resolved": "http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/493/norda-fm.8285c8da.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIONORDAFMPO.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 178
@@ -841,12 +841,12 @@
   },
   {
     "stationuuid": "126c9b63-9c07-4e68-bbad-412604c035b2",
-    "name": "RadioBEST.pl",
-    "url": "https://n09-us.rcs.revma.com/k7z0hu129s3vv?rj-ttl=5&rj-tok=AAABoQzG_r8ABKA6B4o4I84xUQ",
-    "url_resolved": "https://n09-us.rcs.revma.com/k7z0hu129s3vv?rj-ttl=5&rj-tok=AAABoQzG_r8ABKA6B4o4I84xUQ",
-    "favicon": "https://radiobest.pl/images/max_400_400/langs/pl/logo/logo_www-1.png",
+    "name": "Radio BEST",
+    "url": "https://www.radiobest.pl/stream1",
+    "url_resolved": "https://www.radiobest.pl/stream1",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/346/radio-best-poland.784799c3.png",
     "country": "Poland",
-    "tags": "country",
+    "tags": "Lata 80,Lata 90,Szlagiery",
     "votes": 5
   },
   {
@@ -961,12 +961,12 @@
   },
   {
     "stationuuid": "85479a6a-29c3-446b-9885-7416deacbcd1",
-    "name": "Punk Radio Underground",
-    "url": "https://s1.slotex.pl:7604/stream/1/?sid=1;",
-    "url_resolved": "https://s1.slotex.pl:7604/stream/1/?sid=1;",
-    "favicon": "https://www.radiounderground.org/Grafika/title.png",
+    "name": "RadioCmp3.eu - Muzyka Klubowa | Kanał Główny",
+    "url": "https://s1.cmp3.eu/stream256",
+    "url_resolved": "https://s1.cmp3.eu/stream256",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOCMP3.jpg",
     "country": "Poland",
-    "tags": "radio",
+    "tags": "Techno,Pop /,Top 40,Dance,EDM",
     "votes": 84
   },
   {
