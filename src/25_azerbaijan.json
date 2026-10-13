@@ -7,6 +7,56 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DFMAZ.png",
     "country": "Azerbaijan",
     "tags": "Dance,Disco,Pop",
-    "votes": 14481
+    "votes": 0
+  }
+  {
+    "stationuuid": "96165757-0603-12e9-ae98-53544be05c93",
+    "name": "AutoLife Azerbaijan",
+    "url": "https://radio.autoliferadio.com:8005/radio",
+    "url_resolved": "https://radio.autoliferadio.com:8005/radio",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/AUTOLIFEAZ.jpg",
+    "country": "Azerbaijan",
+    "tags": "dance, pop, jazz, 90s, 80s",
+    "votes": 1
+  }
+   {
+    "stationuuid": "96165758-0604-12e0-ae99-53544be05c94",
+    "name": "Radio Araz FM",
+    "url": "https://s14.myradiostream.com/:30454/listen.mp3",
+    "url_resolved": "https://s14.myradiostream.com/:30454/listen.mp3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/ARAZFMAZ.jpg",
+    "country": "Azerbaijan",
+    "tags": "Variety",
+    "votes": 2
+  }
+  {
+    "stationuuid": "96165759-0605-12e1-ae01-53544be05c95",
+    "name": "90 FM",
+    "url": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
+    "url_resolved": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/9OFMAZ.jpg",
+    "country": "Azerbaijan",
+    "tags": "Variety",
+    "votes": 3
+  }
+    {
+    "stationuuid": "96165760-0606-12e2-ae02-53544be05c96",
+    "name": "Europa Plus Baku - Pop Rock",
+    "url": "https://hls-01-fresh.emgsound.ru/europaplus-fresh/playlist.m3u8",
+    "url_resolved": "https://hls-01-fresh.emgsound.ru/europaplus-fresh/playlist.m3u8",
+    "favicon": "https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/43500909.jpg",
+    "country": "Azerbaijan",
+    "tags": "Pop Music, Rock",
+    "votes": 4
+  }
+      {
+    "stationuuid": "96165761-0605-12e3-ae03-53544be06c97",
+    "name": "AzTV",
+    "url": "https://str2.yodacdn.net/radio_respublica/tracks-a1/mono.ts.m3u8",
+    "url_resolved": "https://str2.yodacdn.net/radio_respublica/tracks-a1/mono.ts.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/AZTVAZ.jpg",
+    "country": "Azerbaijan",
+    "tags": "pop, news, talk, folk",
+    "votes": 5
   }
 ]
