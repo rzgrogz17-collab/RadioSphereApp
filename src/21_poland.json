@@ -454,7 +454,7 @@
     "name": "RMF Maxx Włocławek",
     "url": "http://31.192.216.4/rmf_maxxx_wlc",
     "url_resolved": "http://31.192.216.4/rmf_maxxx_wlc",
-    "favicon": "https://www.rmfmaxx.pl/assets-22/images/logo-pink.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RMFMAXXWPO.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 65
@@ -472,9 +472,9 @@
   {
     "stationuuid": "a7a9392d-f6a1-418a-aff3-58381fe9525f",
     "name": "Mega Radio",
-    "url": "https://n04-us.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABoQzG89cAO-_67rSAv5FWVQ",
+    "url": "https://stream1.dabcom.pl/mg_src",
     "url_resolved": "https://n04-us.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABoQzG89cAO-_67rSAv5FWVQ",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/343/mega-radio2.5d8a7bd9.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIODABMEGAPO.jpg",
     "country": "Poland",
     "tags": "2000s,90's,dance,pop",
     "votes": 59
