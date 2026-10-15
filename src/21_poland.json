@@ -84,7 +84,7 @@
     "name": "TokFM",
     "url": "https://radiostream.pl/tuba10-1.mp3",
     "url_resolved": "https://radiostream.pl/tuba10-1.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/893/tok-fm.23f26493.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/TokFM.jpg",
     "country": "Poland",
     "tags": "News",
     "votes": 54
@@ -364,7 +364,7 @@
     "name": "Radio Ostrowiec 95.2 FM",
     "url": "http://s1.slotex.pl:7050/stream/1/;?type=http",
     "url_resolved": "http://s1.slotex.pl:7050/stream/1/;?type=http",
-    "favicon": "https://radioostrowiec.pl/wp-content/uploads/2017/05/cropped-ikona-180x180.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RadioOstrowiec.jpg",
     "country": "Poland",
     "tags": "public radio",
     "votes": 233
@@ -384,7 +384,7 @@
     "name": "Polskie Radio Czwórka",
     "url": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
     "url_resolved": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/261/polskie-radio-czworka.a7062b22.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/POLSKIEPO.jpg",
     "country": "Poland",
     "tags": "polish,public radio",
     "votes": 98
