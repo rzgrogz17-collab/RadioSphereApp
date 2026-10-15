@@ -414,7 +414,7 @@
     "name": "Зайцев FM Rus",
     "url": "https://abs.zaycev.fm/rus256k",
     "url_resolved": "https://abs.zaycev.fm/rus256k",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/zaycevrus.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/FMRUS.jpg",
     "country": "Russia",
     "tags": "",
     "votes": 39
@@ -454,7 +454,7 @@
     "name": "Наше Радио",
     "url": "http://nashe1.hostingradio.ru/nashe-128.mp3",
     "url_resolved": "http://nashe1.hostingradio.ru/nashe-128.mp3",
-    "favicon": "https://www.nashe.ru/favicons/apple-touch-icon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/HAWERU.png",
     "country": "Russia",
     "tags": "live air",
     "votes": 45013
@@ -534,7 +534,7 @@
     "name": "Anon.FM",
     "url": "https://icecast.anon.fm/radio",
     "url_resolved": "https://icecast.anon.fm/radio",
-    "favicon": "https://icecast.anon.fm/favicon.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/ANONFMRU.jpg",
     "country": "Russia",
     "tags": "anime,dnb,downtempo,experimental,jazz,psychedelic,rock,trance",
     "votes": 9989
@@ -642,8 +642,8 @@
   {
     "stationuuid": "191da48e-2977-11e8-91bf-52543be04c81",
     "name": "PromoDJ Too Deep",
-    "url": "http://radio.promodj.com:8000/toodeep-192",
-    "url_resolved": "http://radio.promodj.com:8000/toodeep-192",
+    "url": "https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8",
+    "url_resolved": "https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8",
     "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_49932.png",
     "country": "Russia",
     "tags": "deep house,too deep",
@@ -654,7 +654,7 @@
     "name": "Радио Звезда",
     "url": "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128",
     "url_resolved": "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128",
-    "favicon": "https://radiozvezda.ru/_next/static/media/apple-touch-icon.86c2338c.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/russkijrok.png",
     "country": "Russia",
     "tags": "",
     "votes": 1785
@@ -842,8 +842,8 @@
   {
     "stationuuid": "ff45c6e7-ca6c-4e72-82d3-3b438b48a0ef",
     "name": "Relax FM",
-    "url": "http://ic4.101.ru:8000/stream/air/aac/64/200",
-    "url_resolved": "http://ic4.101.ru:8000/stream/air/aac/64/200",
+    "url": "https://hls-01-gpm.hostingradio.ru/relaxfm495/playlist.m3u8",
+    "url_resolved": "https://hls-01-gpm.hostingradio.ru/relaxfm495/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RELAXFM.png",
     "country": "Russia",
     "tags": "",
@@ -914,7 +914,7 @@
     "name": "Studio 21",
     "url": "http://icecast-studio21.cdnvideo.ru/S21cl_1r",
     "url_resolved": "http://icecast-studio21.cdnvideo.ru/S21cl_1r",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/studio21.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/STUDIO21RU.jpg",
     "country": "Russia",
     "tags": "hip-hop,rap,trap",
     "votes": 173
@@ -934,7 +934,7 @@
     "name": "Comedy Radio",
     "url": "http://23.105.238.4/gpm-comedyradio495.aacp",
     "url_resolved": "http://23.105.238.4/gpm-comedyradio495.aacp",
-    "favicon": "https://comedy-radio.ru/design/images/logo/apple-touch-icon-180.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/COMEDYRADIORU.png",
     "country": "Russia",
     "tags": "",
     "votes": 8
@@ -944,7 +944,7 @@
     "name": "Ретро FM",
     "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
     "url_resolved": "http://retroserver.streamr.ru:8043/retro256.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/ru/c/cb/RetroFM.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/yefHwktXGz.png",
     "country": "Russia",
     "tags": "classic hits,moscow,music,pop,retro,russia",
     "votes": 55486
@@ -974,7 +974,7 @@
     "name": "Radio DFM Ufa 91.5 FM",
     "url": "http://92.50.177.134:8000/dfm_ufa",
     "url_resolved": "http://92.50.177.134:8000/dfm_ufa",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/dfm.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/rad%C4%B1odfm915fm.jpg",
     "country": "Russia",
     "tags": "dance",
     "votes": 1723
@@ -1474,7 +1474,7 @@
     "name": "Нестандарт (aac • 64)",
     "url": "https://listen.radionestandart.ru:8200/64.aac",
     "url_resolved": "https://listen.radionestandart.ru:8200/64.aac",
-    "favicon": "https://vo-radio.ru/images/logoweb1/radio-nestandart-180.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/HECTAHNAPTRU.jpg",
     "country": "Russia",
     "tags": "jazz,pop music,rock",
     "votes": 152
@@ -1484,7 +1484,7 @@
     "name": "НАРОДНОЕ РАДИО «РОДНИКИ»",
     "url": "https://rodniki.hostingradio.ru/rodniki128.mp3",
     "url_resolved": "https://rodniki.hostingradio.ru/rodniki128.mp3",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/narodnoeradiorodniki.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RodnikiRU.jpg",
     "country": "Russia",
     "tags": "Родники",
     "votes": 148
