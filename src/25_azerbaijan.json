@@ -1,5 +1,5 @@
 [
-  {
+{
     "stationuuid": "96165756-0602-12e8-ae98-53544be05c92",
     "name": "DFM JUST DANCE",
     "url": "http://b8e00b2e5592.sn.mynetname.net:8000/onefm",
@@ -8,7 +8,7 @@
     "country": "Azerbaijan",
     "tags": "Dance,Disco,Pop",
     "votes": 0
-  }
+  },
   {
     "stationuuid": "96165757-0603-12e9-ae98-53544be05c93",
     "name": "AutoLife Azerbaijan",
@@ -18,8 +18,8 @@
     "country": "Azerbaijan",
     "tags": "dance, pop, jazz, 90s, 80s",
     "votes": 1
-  }
-   {
+  },
+  {
     "stationuuid": "96165758-0604-12e0-ae99-53544be05c94",
     "name": "Radio Araz FM",
     "url": "https://s14.myradiostream.com/:30454/listen.mp3",
@@ -38,8 +38,8 @@
     "country": "Azerbaijan",
     "tags": "Variety",
     "votes": 3
-  }
-    {
+  },
+  {
     "stationuuid": "96165760-0606-12e2-ae02-53544be05c96",
     "name": "Europa Plus Baku - Pop Rock",
     "url": "https://hls-01-fresh.emgsound.ru/europaplus-fresh/playlist.m3u8",
@@ -48,8 +48,8 @@
     "country": "Azerbaijan",
     "tags": "Pop Music, Rock",
     "votes": 4
-  }
-      {
+  },
+  {
     "stationuuid": "96165761-0605-12e3-ae03-53544be06c97",
     "name": "AzTV",
     "url": "https://str2.yodacdn.net/radio_respublica/tracks-a1/mono.ts.m3u8",
