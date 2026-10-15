@@ -386,7 +386,7 @@
     "url_resolved": "https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POWERDANCE.jpg",
     "country": "Turkey",
-    "tags": "",
+    "tags": "dance,hit,dans",
     "votes": 725
   },
   {
@@ -446,7 +446,7 @@
     "url_resolved": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CNNTRKFM.jpg",
     "country": "Turkey",
-    "tags": "",
+    "tags": "news,haber",
     "votes": 477
   },
   {
@@ -456,7 +456,7 @@
     "url_resolved": "https://yayin.jumboserver.net:9100/stream",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOALATURKA.png",
     "country": "Turkey",
-    "tags": "",
+    "tags": "nostalji",
     "votes": 443
   },
   {
@@ -506,7 +506,7 @@
     "url_resolved": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
     "favicon": "https://www.canliradyodinle.fm/wp-content/uploads/power-love-fm.png",
     "country": "Turkey",
-    "tags": "",
+    "tags": "slow",
     "votes": 311
   },
   {
@@ -516,7 +516,7 @@
     "url_resolved": "https://ligradyo.radyotvonline.net/ligradyo",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LIGRADYO.jpg",
     "country": "Turkey",
-    "tags": "",
+    "tags": "futbol",
     "votes": 246
   },
   {
@@ -526,7 +526,7 @@
     "url_resolved": "https://m.egm.gov.tr:8093/stream?/;stream.mp3",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POL%C4%B0SRADYO.png",
     "country": "Turkey",
-    "tags": "",
+    "tags": "pop,müzik",
     "votes": 236
   },
   {
@@ -536,7 +536,7 @@
     "url_resolved": "https://yayin.turkhosted.com/4591/stream",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOTURKU.jpg",
     "country": "Turkey",
-    "tags": "",
+    "tags": "türkü",
     "votes": 212
   },
   {
@@ -546,7 +546,7 @@
     "url_resolved": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOD.jpg",
     "country": "Turkey",
-    "tags": "",
+    "tags": "pop",
     "votes": 196
   },
   {
@@ -556,7 +556,7 @@
     "url_resolved": "https://yayin.radyoakdeniz.com/9470/stream",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOAKDENIZ.jpg",
     "country": "Turkey",
-    "tags": "",
+    "tags": "yerel",
     "votes": 180
   },
   {
@@ -576,7 +576,7 @@
     "url_resolved": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/APARAFM.jpg",
     "country": "Turkey",
-    "tags": "",
+    "tags": "para,ekonomi,borsa",
     "votes": 162
   },
   {
@@ -584,9 +584,9 @@
     "name": "Best FM",
     "url": "http://officialbestfm.radyotvonline.net/bestfmofficial",
     "url_resolved": "http://officialbestfm.radyotvonline.net/bestfmofficial",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BESTFM.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/BESTFM.jpg",
     "country": "Turkey",
-    "tags": "",
+    "tags": "pop",
     "votes": 146
   },
   {
