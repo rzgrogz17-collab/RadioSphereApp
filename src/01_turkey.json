@@ -16,7 +16,7 @@
     "url_resolved": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AKRAFM.jpg",
     "country": "Turkey",
-    "tags": "akra fm,türk,islâm",
+    "tags": "akra fm,türk,dini",
     "votes": 0
   },
   {
@@ -46,7 +46,7 @@
     "url_resolved": "http://ntvrdwmp.radyotvonline.com/",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ntvradyo.png",
     "country": "Turkey",
-    "tags": "news",
+    "tags": "Haber",
     "votes": 0
   },
   {
@@ -86,7 +86,7 @@
     "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ahaberradyo.png",
     "country": "Turkey",
-    "tags": "news",
+    "tags": "Haber",
     "votes": 0
   },
   {
@@ -156,7 +156,7 @@
     "url_resolved": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/htradyo.png",
     "country": "Turkey",
-    "tags": "news",
+    "tags": "Haber",
     "votes": 0
   },
   {
@@ -336,7 +336,7 @@
     "url_resolved": "https://trt.radyotvonline.net/trthaber",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTRADYOHABER.jpeg",
     "country": "Turkey",
-    "tags": "news",
+    "tags": "Haber",
     "votes": 1036
   },
   {
@@ -446,7 +446,7 @@
     "url_resolved": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CNNTRKFM.jpg",
     "country": "Turkey",
-    "tags": "news,haber",
+    "tags": "Haber",
     "votes": 477
   },
   {
@@ -476,7 +476,7 @@
     "url_resolved": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm",
     "favicon": "https://tgrtfm.com.tr/wp-content/uploads/2025/01/favicon_512.png",
     "country": "Turkey",
-    "tags": "news talk music",
+    "tags": "Haber",
     "votes": 369
   },
   {
@@ -566,7 +566,7 @@
     "url_resolved": "http://yayin2.canliyayin.org:7052/;*.mp3",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ENDRUNFM.png",
     "country": "Turkey",
-    "tags": "islamic",
+    "tags": "Dini",
     "votes": 165
   },
   {
@@ -606,7 +606,7 @@
     "url_resolved": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTMEMLEKETIM.png",
     "country": "Turkey",
-    "tags": "national radio",
+    "tags": "trt,türk,yerel",
     "votes": 103
   },
   {
@@ -626,7 +626,7 @@
     "url_resolved": "https://radio-trtgap.medya.trt.com.tr/master.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADIODIYARBAKIR.jpg",
     "country": "Turkey",
-    "tags": "local radio",
+    "tags": "trt",
     "votes": 87
   },
   {
@@ -676,7 +676,7 @@
     "url_resolved": "https://stream.zeno.fm/0cfiqwdkobavv",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MORALFM.png",
     "country": "Turkey",
-    "tags": "",
+    "tags": "Dini",
     "votes": 40
   },
   {
@@ -716,7 +716,7 @@
     "url_resolved": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/semerkand.png",
     "country": "Turkey",
-    "tags": "",
+    "tags": "Dini",
     "votes": 0
   }
 ]
