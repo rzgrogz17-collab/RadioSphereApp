@@ -224,7 +224,7 @@
     "name": "Power Pop",
     "url": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
     "url_resolved": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/e9lulrqkzf7n.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/POWERPOP.jpg",
     "country": "Turkey",
     "tags": "00s,70s,80s,90s,pop,rock",
     "votes": 11242
@@ -464,7 +464,7 @@
     "name": "Radyo Trafik 104.2 Ankara",
     "url": "http://live2.radyotvonline.com:8000/",
     "url_resolved": "http://live2.radyotvonline.com:8000/",
-    "favicon": "http://www.otomobil.com.tr/wp-content/uploads/2012/04/RADYO_TRAFIK_1.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADYOTRAFIK.jpg",
     "country": "Turkey",
     "tags": "ankara,traffic,trafik",
     "votes": 426
