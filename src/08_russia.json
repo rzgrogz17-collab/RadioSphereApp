@@ -74,7 +74,7 @@
     "name": "Дорожное радио Выборг 106.7 FM",
     "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
     "url_resolved": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
-    "favicon": "https://region-media.com/upload/iblock/b49/logo-dorozhnoe-radio.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/DorognoyeRadio.jpg",
     "country": "Russia",
     "tags": "47,music,nostalgie,region 47,vyborg",
     "votes": 0
@@ -234,7 +234,7 @@
     "name": "Радио Родных Дорог",
     "url": "https://stream1.radiord.ru:8000/live128.mp3",
     "url_resolved": "https://stream1.radiord.ru:8000/live128.mp3",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/Rodnyix-doroG.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/Rodnyix-doroG.jpg",
     "country": "Russia",
     "tags": "dance,house,pop",
     "votes": 599
@@ -404,7 +404,7 @@
     "name": "Новое Радио",
     "url": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
     "url_resolved": "https://hls.newradio.ru/novoeradio/112/playlist.m3u8",
-    "favicon": "https://radiopotok-fm.ru/cover/station/uNp3HjWBwDCCnF5bJRVLawSXbjaQOZqQALxNg9wF.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/HOBOCRU.jpg",
     "country": "Russia",
     "tags": "",
     "votes": 38
@@ -684,7 +684,7 @@
     "name": "Radio Fantastika",
     "url": "http://fantasyradioru.no-ip.biz:8002/live",
     "url_resolved": "http://fantasyradioru.no-ip.biz:8002/live",
-    "favicon": "https://www.radio.net/300/fantastica.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/FANTASTICARUFM.jpg",
     "country": "Russia",
     "tags": "fantasy,talk",
     "votes": 1486
@@ -794,7 +794,7 @@
     "name": "Пи FM",
     "url": "https://cdn.pifm.ru/mp3",
     "url_resolved": "https://cdn.pifm.ru/mp3",
-    "favicon": "https://pi.fm/img/logonew.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/pifmru.jpg",
     "country": "Russia",
     "tags": "dance",
     "votes": 710
@@ -854,7 +854,7 @@
     "name": "Dance FM Россия",
     "url": "https://listen3.myradio24.com/dmfm",
     "url_resolved": "https://listen3.myradio24.com/dmfm",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/dance-fm-rossiya.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/DANCERADIORU.jpg",
     "country": "Russia",
     "tags": "танцевальная,электронная",
     "votes": 316
@@ -864,7 +864,7 @@
     "name": "Радио Орфей",
     "url": "https://channels.fonotron.ru:8000/Chan_73_256.mp3",
     "url_resolved": "https://channels.fonotron.ru:8000/Chan_73_256.mp3",
-    "favicon": "http://static2.mytuner.mobi/media/tvos_radios/j7W3zxgj3Q.png",
+    "favicon": "https://www.radio.fr/300/orpheus.png",
     "country": "Russia",
     "tags": "classical,cultural",
     "votes": 313
@@ -874,7 +874,7 @@
     "name": "Старый портфель",
     "url": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
     "url_resolved": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
-    "favicon": "https://media.pcradio.app/media/logos/180/1005566/logo_Qd4Vb4Fzse.jpg",
+    "favicon": "https://radiopotok.ru/f/station_webp/512/2357.webp",
     "country": "Russia",
     "tags": "",
     "votes": 275
@@ -964,7 +964,7 @@
     "name": "Шансон без цензуры",
     "url": "http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3",
     "url_resolved": "http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3",
-    "favicon": "https://www.eff.org/files/Button_Russian_white.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/ButtonRussianwhite.jpg",
     "country": "Russia",
     "tags": "russia,russian,shanson,без,русский,цензуры",
     "votes": 18402
@@ -1114,7 +1114,7 @@
     "name": "Ретро FM 90e",
     "url": "http://retro90.hostingradio.ru:8025/retro90-128.mp3",
     "url_resolved": "http://retro90.hostingradio.ru:8025/retro90-128.mp3",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/logo_rfm_90.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/qzac49g7cxkx.png",
     "country": "Russia",
     "tags": "1990's,retro",
     "votes": 199
@@ -1194,7 +1194,7 @@
     "name": "Всесоюзное радио",
     "url": "https://stream.cassiopeia-station.ru:1045/stream",
     "url_resolved": "https://stream.cassiopeia-station.ru:1045/stream",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/vsesoyuznoe-radio-onlain.jpg",
+    "favicon": "https://radiopotok.ru/f/station_webp/512/2362.webp",
     "country": "Russia",
     "tags": "ретро",
     "votes": 232
@@ -1254,7 +1254,7 @@
     "name": "Comedy Radio",
     "url": "https://hls-01-gpm.hostingradio.ru/comedyradio495/playlist.m3u8",
     "url_resolved": "https://hls-01-gpm.hostingradio.ru/comedyradio495/playlist.m3u8",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/comedyradio.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/COMEDYRADIORU.jpg",
     "country": "Russia",
     "tags": "radio",
     "votes": 119
@@ -1374,7 +1374,7 @@
     "name": "Radio Record Deep",
     "url": "http://radiorecord.hostingradio.ru/deep96.aacp",
     "url_resolved": "http://radiorecord.hostingradio.ru/deep96.aacp",
-    "favicon": "https://www.radio.net/175/recorddeep.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RECORDDEEPFMRU.jpg",
     "country": "Russia",
     "tags": "deep house,house",
     "votes": 1466
@@ -1434,7 +1434,7 @@
     "name": "Vesti FM Nizhny Novgorod 98.6 FM",
     "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_nn",
     "url_resolved": "http://icecast.vgtrk.cdnvideo.ru/vestifm_nn",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/vestifm.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/VestiFM.jpg",
     "country": "Russia",
     "tags": "radio",
     "votes": 420
@@ -1464,7 +1464,7 @@
     "name": "Владивосток (Vladivostok FM) FM - 106.4",
     "url": "https://stream.pari-radio.ru/vfm",
     "url_resolved": "https://stream.pari-radio.ru/vfm",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/vladivostok-fm.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/VladivostokFM.jpg",
     "country": "Russia",
     "tags": "",
     "votes": 200
