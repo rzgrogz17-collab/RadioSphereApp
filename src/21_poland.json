@@ -144,7 +144,7 @@
     "name": "VOX DJ Mix",
     "url": "https://waw.ic.smcdn.pl/6020-1.aac",
     "url_resolved": "https://waw.ic.smcdn.pl/6020-1.aac",
-    "favicon": "hhttps://static.mytuner.mobi/media/tvos_radios/629/vox-roztanczony-pge-narodowy.8798854e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/629/vox-roztanczony-pge-narodowy.8798854e.jpg",
     "country": "Poland",
     "tags": "dj,mix",
     "votes": 32
@@ -484,7 +484,7 @@
     "name": "Zamek Nadaje",
     "url": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
     "url_resolved": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nHRWpNX26b.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nHRWpNX26b.png",
     "country": "Poland",
     "tags": "electronic,punk,rock,word",
     "votes": 54
@@ -494,7 +494,7 @@
     "name": "Akademickie Radio LUZ",
     "url": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
     "url_resolved": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/989/akademickie-radio-luz.be08fb44.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/989/akademickie-radio-luz.be08fb44.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 54
@@ -514,7 +514,7 @@
     "name": "Antyradio Unplugged",
     "url": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
     "url_resolved": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/721/antyradio-unplugged.f3d8aca4.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/721/antyradio-unplugged.f3d8aca4.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 44
@@ -674,7 +674,7 @@
     "name": "Twoja Polska Stacja",
     "url": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
     "url_resolved": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
-    "favicon": "https://twojapolskastacja.pl/tps-logo.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/TwojaPolskaStacja.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 10
@@ -824,7 +824,7 @@
     "name": "EL-Stacja",
     "url": "http://radio.el-stacja.pl:8000/elstacja320.ogg",
     "url_resolved": "http://radio.el-stacja.pl:8000/elstacja320.ogg",
-    "favicon": "https://el-stacja.pl/logo.png",
+    "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_59301.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 15
@@ -834,7 +834,7 @@
     "name": "Radio Elbląg",
     "url": "https://rostr1.radioolsztyn.pl:8543/ELBLAG",
     "url_resolved": "https://rostr1.radioolsztyn.pl:8543/ELBLAG",
-    "favicon": "https://polskieradioelblag.pl/posluchaj/img/nowy/re.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADIOELBLAGPO.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 11
