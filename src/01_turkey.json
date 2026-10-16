@@ -141,7 +141,7 @@
   },
   {
     "stationuuid": "c5cd0f2d-a8ee-42c6-82b6-df54f04460b8",
-    "name": "POP LAND",
+    "name": "POPLAND",
     "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
     "url_resolved": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/popland.png",
@@ -714,7 +714,7 @@
     "name": "Semerkand Radyo",
     "url": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
     "url_resolved": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/semerkand.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SEMERKANDRADYO.jpg",
     "country": "Turkey",
     "tags": "Dini",
     "votes": 0
