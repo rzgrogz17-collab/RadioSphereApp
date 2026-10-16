@@ -712,7 +712,7 @@
   {
     "stationuuid": "2072d084-1863-4c73-ad67-2b5a0ab5fe70",
     "name": "Semerkand Radyo",
-    "url": "https://semerkandshoutcast.mediatriple.net/semerkandradyolive/semerkandshoutcast.stream/Playlist.m3u8",
+    "url": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
     "url_resolved": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SEMERKANDRADYO.jpg",
     "country": "Turkey",
