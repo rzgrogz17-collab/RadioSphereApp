@@ -4,7 +4,7 @@
     "name": "RMF FM",
     "url": "http://195.150.20.242:8000/rmf_fm",
     "url_resolved": "http://195.150.20.242:8000/rmf_fm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/802/rfm-radio.d7a93827.png",
     "country": "Poland",
     "tags": "fm,rmf,rmffm",
     "votes": 177
@@ -24,7 +24,7 @@
     "name": "Polskie Radio Program II (PR2) Dwójka",
     "url": "http://stream3.polskieradio.pl:8902/;",
     "url_resolved": "http://stream3.polskieradio.pl:8902/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/259/polskie-radio-program-ii-pr2-dwojka.f001dc78.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/259/polskie-radio-program-ii-pr2-dwojka.f001dc78.png",
     "country": "Poland",
     "tags": "Klasyczna,Kultura & Edukacja",
     "votes": 179
@@ -34,7 +34,7 @@
     "name": "Radio 357",
     "url": "https://stream.radio357.pl/",
     "url_resolved": "https://stream.radio357.pl/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/188/radio-357.6648c6a0.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/188/radio-357.6648c6a0.jpg",
     "country": "Poland",
     "tags": "adult contemporary",
     "votes": 146
@@ -44,7 +44,7 @@
     "name": "Radio RMF MAXXX",
     "url": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
     "url_resolved": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/891/rmf-maxxx.8bab39cf.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/891/rmf-maxxx.8bab39cf.png",
     "country": "Poland",
     "tags": "misc",
     "votes": 64
@@ -64,7 +64,7 @@
     "name": "Radio Nowy Świat",
     "url": "https://go-audio.toya.net.pl/63214",
     "url_resolved": "https://go-audio.toya.net.pl/63214",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/460/radio-nowy-swiat.1e8810ed.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/460/radio-nowy-swiat.1e8810ed.jpg",
     "country": "Poland",
     "tags": "soft adult contemporary",
     "votes": 57
@@ -74,7 +74,7 @@
     "name": "Radio Eska Wrocław",
     "url": "https://ic1.smcdn.pl/2180-1.mp3",
     "url_resolved": "https://ic1.smcdn.pl/2180-1.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/192/eska-wroclaw.5fe77e51.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/192/eska-wroclaw.5fe77e51.jpg",
     "country": "Poland",
     "tags": "dance,pop,pop music,rock",
     "votes": 55
@@ -94,7 +94,7 @@
     "name": "Radio RMF FM",
     "url": "http://31.192.216.8:8000/rmf_fm",
     "url_resolved": "http://31.192.216.8:8000/rmf_fm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/845/rmf-fm.cc5c0df7.png",
+    "favicon": "https://big-radio.net/uploads/posts/2024-12/rmf-fm.webp",
     "country": "Poland",
     "tags": "classical",
     "votes": 50
@@ -114,7 +114,7 @@
     "name": "Radio ZET Chilli",
     "url": "https://ch.cdn.eurozet.pl/chi-net.mp3",
     "url_resolved": "https://ch.cdn.eurozet.pl/chi-net.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/888/zet-chilli.9bfde6ae.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/888/zet-chilli.9bfde6ae.jpg",
     "country": "Poland",
     "tags": "",
     "votes": 45
@@ -124,14 +124,14 @@
     "name": "VOX Dance",
     "url": "https://waw.ic.smcdn.pl/6180-2.aac",
     "url_resolved": "https://waw.ic.smcdn.pl/6180-2.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/630/vox-disco-party.7b17b2e4.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/630/vox-disco-party.7b17b2e4.jpg",
     "country": "Poland",
     "tags": "",
     "votes": 40
   },
   {
     "stationuuid": "c62a050f-cfd4-4fc5-8c93-ebaf0bc84738",
-    "name": "VOX FM 128",
+    "name": "VOX FM",
     "url": "https://ic2.smcdn.pl/3990-1.mp3",
     "url_resolved": "https://ic2.smcdn.pl/3990-1.mp3",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/255/radio-vox-fm-933.26c4e4f3.png",
@@ -144,7 +144,7 @@
     "name": "VOX DJ Mix",
     "url": "https://waw.ic.smcdn.pl/6020-1.aac",
     "url_resolved": "https://waw.ic.smcdn.pl/6020-1.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/VOXDJMIXPO.jpg",
+    "favicon": "hhttps://static.mytuner.mobi/media/tvos_radios/629/vox-roztanczony-pge-narodowy.8798854e.jpg",
     "country": "Poland",
     "tags": "dj,mix",
     "votes": 32
@@ -194,7 +194,7 @@
     "name": "Radio Plus",
     "url": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
     "url_resolved": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/185/radio-plus-polska.8e5f5d63.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/185/radio-plus-polska.8e5f5d63.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 4273
@@ -204,7 +204,7 @@
     "name": "Radio Krakow",
     "url": "http://stream3.nadaje.com:9116/radiokrakow",
     "url_resolved": "http://stream3.nadaje.com:9116/radiokrakow",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Kola%C5%BC_Krakowa.JPG/500px-Kola%C5%BC_Krakowa.JPG?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/930/pr-radio-krakow.822f42ed.png",
     "country": "Poland",
     "tags": "local news",
     "votes": 3267
@@ -214,7 +214,7 @@
     "name": "Meloradio Wrocław",
     "url": "https://ml02.cdn.eurozet.pl/mel-wro.mp3",
     "url_resolved": "https://ml02.cdn.eurozet.pl/mel-wro.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Wroc%C5%82aw_Collage.png/500px-Wroc%C5%82aw_Collage.png?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/225/pr-radio-wroclaw-1023.561bf0fd.png",
     "country": "Poland",
     "tags": "dance,pop,pop dance",
     "votes": 296
@@ -224,7 +224,7 @@
     "name": "Chillizet Ladies -om",
     "url": "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01",
     "url_resolved": "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01",
-    "favicon": "https://gfx-player.chillizet.pl/var/player/storage/images/player-chillizet/kanaly-muzyczne/chillizet-ladies/710371-2-pol-PL/Chillizet-Ladies_social_share.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/912/radio-zet-chilli-ladies.bc4eef1c.png",
     "country": "Poland",
     "tags": "chill,hits,relax,singer-songwriter,smooth jazz",
     "votes": 137
@@ -234,7 +234,7 @@
     "name": "Polskie Radio Poznań",
     "url": "http://stream4.nadaje.com:8578/poznan",
     "url_resolved": "http://stream4.nadaje.com:8578/poznan",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Polskie_Radio_al._Niepodleg%C5%82o%C5%9Bci_2017.jpg/500px-Polskie_Radio_al._Niepodleg%C5%82o%C5%9Bci_2017.jpg?utm_source=pl.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/708/radio-poznan.88084531.jpg",
     "country": "Poland",
     "tags": "radio",
     "votes": 919
@@ -244,7 +244,7 @@
     "name": "Radio Eska Kraków",
     "url": "http://ic1.smcdn.pl/2070-1.mp3",
     "url_resolved": "http://ic1.smcdn.pl/2070-1.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/168/eska-krakow.5fe77e51.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/168/eska-krakow.5fe77e51.jpg",
     "country": "Poland",
     "tags": "pop dance",
     "votes": 2738
@@ -254,7 +254,7 @@
     "name": "SmoothJazz.com.pl",
     "url": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
     "url_resolved": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/352/smoothjazzcompl.fa0d883a.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/352/smoothjazzcompl.fa0d883a.png",
     "country": "Poland",
     "tags": "jazz,smooth jazz",
     "votes": 2319
@@ -264,7 +264,7 @@
     "name": "Radio 7",
     "url": "http://stream.radio7.pl:443/radio7.mp3",
     "url_resolved": "http://stream.radio7.pl:443/radio7.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/109/radio-72.60d43859.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/109/radio-72.60d43859.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 1614
@@ -521,10 +521,10 @@
   },
   {
     "stationuuid": "33d69452-3417-4e90-92b9-c1f2e0aced66",
-    "name": "Radio Kolor",
-    "url": "https://n07-us.rcs.revma.com/zbq79057xd3vv?rj-ttl=5&rj-tok=AAABoQzG9XoALZmhMWZLkjYYJA",
-    "url_resolved": "https://n07-us.rcs.revma.com/zbq79057xd3vv?rj-ttl=5&rj-tok=AAABoQzG9XoALZmhMWZLkjYYJA",
-    "favicon": "https://radiokolor.pl/wp-content/uploads/2023/11/Logo_poziom-kolor-e1700132634498-1024x438.png",
+    "name": "Radio Kolor 103 FM",
+    "url": "http://stream.rcs.revma.com/nrfscb49xd3vv",
+    "url_resolved": "http://stream.rcs.revma.com/nrfscb49xd3vv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/311/radio-kolor-103-fm.d63616c3.png",
     "country": "Poland",
     "tags": "radio",
     "votes": 40
