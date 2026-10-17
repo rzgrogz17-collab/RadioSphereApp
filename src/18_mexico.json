@@ -182,8 +182,8 @@
   {
     "stationuuid": "960c154f-0601-11e8-ae97-52543be04c81",
     "name": "XHEXA \"Exa FM\" 104.9 FM Mexico City, DF",
-    "url": "http://18213.live.streamtheworld.com:3690/XHEXA_SC",
-    "url_resolved": "http://18213.live.streamtheworld.com:3690/XHEXA_SC",
+    "url": "https://14223.live.streamtheworld.com/XHEXA_SC",
+    "url_resolved": "https://14223.live.streamtheworld.com/XHEXA_SC",
     "favicon": "https://static2.mytuner.mobi/media/tvos_radios/038/exa-1049.9ba498b0.png",
     "country": "Mexico",
     "tags": "electronica,latin pop,mexico city,pop,top 40",
