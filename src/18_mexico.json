@@ -181,10 +181,10 @@
   },
   {
     "stationuuid": "960c154f-0601-11e8-ae97-52543be04c81",
-    "name": "Exa FM 104.9",
-    "url": "https://29318.live.streamtheworld.com/XHEXA_SC",
-    "url_resolved": "https://29318.live.streamtheworld.com/XHEXA_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/038/exa-1049.9ba498b0.png",
+    "name": "Exa FM 100.5",
+    "url": "https://18503.live.streamtheworld.com/XHFRE.mp3",
+    "url_resolved": "https://18503.live.streamtheworld.com/XHFRE.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/215/exa-fm-fresnillo.d11329fd.png",
     "country": "Mexico",
     "tags": "Pop / Top 40",
     "votes": 7064
