@@ -14,7 +14,7 @@
     "name": "REPLAY NEWS - Tiếng Việt Radio tin tức mỗi 5 phút",
     "url": "http://replaynewsve.ice.infomaniak.ch/replaynewsve-128.mp3",
     "url_resolved": "http://replaynewsve.ice.infomaniak.ch/replaynewsve-128.mp3",
-    "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-VI.png",
+    "favicon": "https://uk.radio.net/300/replaynewsvietnamese.png",
     "country": "Vietnam",
     "tags": "news",
     "votes": 35
@@ -24,7 +24,7 @@
     "name": "Vietnamese National People",
     "url": "http://c13.radioboss.fm:8127/stream",
     "url_resolved": "http://c13.radioboss.fm:8127/stream",
-    "favicon": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/VietnameseNationalPeople.jpg",
     "country": "Vietnam",
     "tags": "news",
     "votes": 1881
