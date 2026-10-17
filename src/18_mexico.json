@@ -161,12 +161,12 @@
   },
   {
     "stationuuid": "f8fb7eac-cc70-4e71-b56d-47ff892f9e85",
-    "name": "La Mejor Ciudad de México - 97.7 FM",
-    "url": "https://29318.live.streamtheworld.com/XERCFM_SC?dist=tunein",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC?dist=tunein",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/507/knnr-la-mejor-977-fm.d57d3d95.jpg",
+    "name": "La Octava 88.1 FM",
+    "url": "https://18863.live.streamtheworld.com/XHRED_FMAAC_SC",
+    "url_resolved": "https://18863.live.streamtheworld.com/XHRED_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/333/la-octava-881-fm.ab01c4ec.jpg",
     "country": "Mexico",
-    "tags": "97.7,97.7 fm,aquí nomás,banda,cdmx,ciudad de méxico",
+    "tags": "Radio hablada,Noticias",
     "votes": 4183
   },
   {
