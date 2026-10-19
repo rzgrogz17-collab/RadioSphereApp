@@ -1,5 +1,75 @@
 [
   {
+    "stationuuid": "d69e38f7-f565-4217-b9a8-0075c5e32340",
+    "name": "RTL France",
+    "url": "https://icecast.rtl.fr/rtl-1-44-128",
+    "url_resolved": "https://icecast.rtl.fr/rtl-1-44-128",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/797/radio-rtl-direct.e673b434.png",
+    "country": "France",
+    "tags": "news,pop-music",
+    "votes": 2000
+  },
+  {
+    "stationuuid": "1cfb151d-a341-11e9-a787-52543be04c81",
+    "name": "France Info",
+    "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+    "url_resolved": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/589/france-info-direct.ee02e261.png",
+    "country": "France",
+    "tags": "Infos,Discussions et débats",
+    "votes": 1999
+  },
+  {
+    "stationuuid": "88496158-90c1-411f-9a3b-719397a8dcca",
+    "name": "Radio Nostalgie France",
+    "url": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm",
+    "url_resolved": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/610/radio-nostalgie.e87897d3.png",
+    "country": "France",
+    "tags": "radio",
+    "votes": 1998
+  },
+  {
+    "stationuuid": "33960c43-0464-44b4-abfa-73591ebf647f",
+    "name": "France Inter",
+    "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+    "url_resolved": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/375/france-inter-direct.6307ea1d.png",
+    "country": "France",
+    "tags": "Publiques,Infos",
+    "votes": 1997
+  },
+  {
+    "stationuuid": "dfcef843-6bf9-40f6-b3fe-2b224df86e48",
+    "name": "Europe 1",
+    "url": "https://stream.europe1.fr/europe1.aac",
+    "url_resolved": "https://stream.europe1.fr/europe1.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/799/europe-1-direct.e1270441.png",
+    "country": "France",
+    "tags": "aac,news,talk",
+    "votes": 1996
+  },
+  {
+    "stationuuid": "2dffb353-5341-4438-b67b-83de8c3efbab",
+    "name": "RFM",
+    "url": "https://rfm.lmn.fm/rfm.mp3",
+    "url_resolved": "https://rfm.lmn.fm/rfm.mp3",
+    "favicon": "https://assets.radioplayer.org/250/2502600/1400/1400/mtv9a4qc.png",
+    "country": "France",
+    "tags": "Pop / Top 40,Old School",
+    "votes": 1995
+  },
+  {
+    "stationuuid": "da5f481e-f7d6-49b3-b213-514027740d39",
+    "name": "RMC",
+    "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+    "url_resolved": "https://audio.bfmtv.com/rmcradio_128.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/810/rmc.4c584647.png",
+    "country": "France",
+    "tags": "infos,news,talk",
+    "votes": 369
+  },
+  {
     "stationuuid": "99b7ac90-358d-4bcf-93d2-5e4760b5a311",
     "name": "Phare FM",
     "url": "https://str0.creacast.com/pharefm",
@@ -100,26 +170,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "1cfb151d-a341-11e9-a787-52543be04c81",
-    "name": "France Info",
-    "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
-    "url_resolved": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/589/france-info-direct.ee02e261.png",
-    "country": "France",
-    "tags": "",
-    "votes": 262
-  },
-  {
-    "stationuuid": "33960c43-0464-44b4-abfa-73591ebf647f",
-    "name": "France Inter",
-    "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
-    "url_resolved": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/375/france-inter-direct.6307ea1d.png",
-    "country": "France",
-    "tags": "",
-    "votes": 225
-  },
-  {
     "stationuuid": "6a1440b2-e6f0-11e9-a96c-52543be04c81",
     "name": "France Culture",
     "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
@@ -170,16 +220,6 @@
     "votes": 85
   },
   {
-    "stationuuid": "2dffb353-5341-4438-b67b-83de8c3efbab",
-    "name": "RFM",
-    "url": "https://rfm.lmn.fm/rfm.mp3",
-    "url_resolved": "https://rfm.lmn.fm/rfm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/802/rfm-radio.d7a93827.png",
-    "country": "France",
-    "tags": "",
-    "votes": 82
-  },
-  {
     "stationuuid": "60ceaabd-4efd-4f47-b961-0dab6f475731",
     "name": "EuroDance 90 radio",
     "url": "https://stream-eurodance90.fr/radio/8000/128.mp3",
@@ -188,16 +228,6 @@
     "country": "France",
     "tags": "dancefloor,electronic dance music,eurodance,pop dance,pop music",
     "votes": 82
-  },
-  {
-    "stationuuid": "dfcef843-6bf9-40f6-b3fe-2b224df86e48",
-    "name": "Europe 1",
-    "url": "https://stream.europe1.fr/europe1.aac",
-    "url_resolved": "https://stream.europe1.fr/europe1.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/799/europe-1-direct.e1270441.png",
-    "country": "France",
-    "tags": "aac,news,talk",
-    "votes": 79
   },
   {
     "stationuuid": "96136fe5-0601-41e8-ae97-52543be04c77",
@@ -228,16 +258,6 @@
     "country": "France",
     "tags": "pop,rock",
     "votes": 74
-  },
-  {
-    "stationuuid": "d69e38f7-f565-4217-b9a8-0075c5e32340",
-    "name": "RTL France",
-    "url": "https://icecast.rtl.fr/rtl-1-44-128",
-    "url_resolved": "https://icecast.rtl.fr/rtl-1-44-128",
-    "favicon": "https://www.radio.net/175/rtl.png",
-    "country": "France",
-    "tags": "news,pop-music",
-    "votes": 65
   },
   {
     "stationuuid": "9f756e2d-8e9b-45f5-8fc1-61573e23036b",
@@ -317,7 +337,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/FfnupQFn7u.png",
     "country": "France",
     "tags": "aac,music,public radio,radio france",
-    "votes": 43555
+    "votes": 0
   },
   {
     "stationuuid": "188c36ae-f1ef-4b5c-8587-f29c216bfaa2",
@@ -327,7 +347,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/928/sud-radio-france2.7fb386ff.png",
     "country": "France",
     "tags": "conservative,info,mp3,news,talk",
-    "votes": 26523
+    "votes": 0
   },
   {
     "stationuuid": "81440088-0a76-11e8-ae97-52543be04c81",
@@ -337,7 +357,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/376/france-musique.f5afb05c.png",
     "country": "France",
     "tags": "classical,jazz,music,public radio,radio france",
-    "votes": 22205
+    "votes": 0
   },
   {
     "stationuuid": "9617ba77-0601-11e8-ae97-52543be04c81",
@@ -347,7 +367,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/254/latina-salsa.372bf5f2.png",
     "country": "France",
     "tags": "latin",
-    "votes": 21883
+    "votes": 0
   },
   {
     "stationuuid": "958c558d-6b13-4829-92ff-49233f56de97",
@@ -367,7 +387,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/797/radio-rtl-direct.e673b434.png",
     "country": "France",
     "tags": "généraliste",
-    "votes": 2526
+    "votes": 0
   },
   {
     "stationuuid": "c998424a-e6f5-11e9-a96c-52543be04c81",
@@ -377,7 +397,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/381/mouv.818f4798.jpg",
     "country": "France",
     "tags": "aac,music,public radio,radio france",
-    "votes": 869
+    "votes": 0
   },
   {
     "stationuuid": "a70cdc64-9a33-4432-91a1-957beb5ac6e7",
@@ -387,17 +407,7 @@
     "favicon": "https://thumb.wikimedia.org/wikipedia/fr/thumb/e/e6/RIRECHANSONS.svg/500px-RIRECHANSONS.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "country": "France",
     "tags": "radio",
-    "votes": 862
-  },
-  {
-    "stationuuid": "88496158-90c1-411f-9a3b-719397a8dcca",
-    "name": "Radio Nostalgie France",
-    "url": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm",
-    "url_resolved": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/fr/thumb/0/0b/Nostalgie_logo_2015.png/500px-Nostalgie_logo_2015.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "France",
-    "tags": "radio",
-    "votes": 831
+    "votes": 0
   },
   {
     "stationuuid": "36eba167-5c51-4421-98f0-d2cda24be928",
@@ -407,7 +417,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/620/nrj-hits.c85ce4ae.jpg",
     "country": "France",
     "tags": "hits",
-    "votes": 810
+    "votes": 0
   },
   {
     "stationuuid": "ce61ecb3-cf9f-4991-b860-32047def71ed",
@@ -417,7 +427,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/450/tsf-jazz.c599fd3d.png",
     "country": "France",
     "tags": "radio",
-    "votes": 1519
+    "votes": 0
   },
   {
     "stationuuid": "ddc49aac-eb85-11e9-a96c-52543be04c81",
@@ -427,7 +437,7 @@
     "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg",
     "country": "France",
     "tags": "aac,public radio,radio france,rock",
-    "votes": 3403
+    "votes": 0
   },
   {
     "stationuuid": "a9464601-eaa5-11e9-a96c-52543be04c81",
@@ -437,7 +447,7 @@
     "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/e061141c-f6b4-4502-ba43-f6ec693a049b/200x200_fip-nouveau_ok.jpg",
     "country": "France",
     "tags": "aac,music,public radio,radio france",
-    "votes": 863
+    "votes": 0
   },
   {
     "stationuuid": "780f330e-5a1f-4f98-a5ba-cc261ec6a06c",
@@ -447,7 +457,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/500/tekno1.989600d2.png",
     "country": "France",
     "tags": "techno",
-    "votes": 803
+    "votes": 0
   },
   {
     "stationuuid": "924985e9-ecb4-4126-b3f1-34ddeb93f4a4",
@@ -457,7 +467,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/267/oui-fm-rock-80s.046d9419.png",
     "country": "France",
     "tags": "80's,rock",
-    "votes": 703
+    "votes": 0
   },
   {
     "stationuuid": "96175ba1-0601-11e8-ae97-52543be04c81",
@@ -467,7 +477,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/425/freedom-2.274c2e1f.jpg",
     "country": "France",
     "tags": "outre-mer",
-    "votes": 673
+    "votes": 0
   },
   {
     "stationuuid": "c09dbfe5-71f6-45fb-819e-839a58cdef10",
@@ -477,7 +487,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/978/ici-nord.a5974548.png",
     "country": "France",
     "tags": "régionale",
-    "votes": 650
+    "votes": 0
   },
   {
     "stationuuid": "81bc1bcb-cab2-4011-b85c-5001ff8b708b",
@@ -487,7 +497,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/440/oui-fm-alternatif.f9f1f4ae.png",
     "country": "France",
     "tags": "alternative rock",
-    "votes": 589
+    "votes": 0
   },
   {
     "stationuuid": "f1aad29c-8013-45a8-8d94-9bb63eb90320",
@@ -497,7 +507,7 @@
     "favicon": "https://www.radiofrance.fr/s3/cruiser-production/2019/06/840a4431-0db0-4a94-aa28-53f8de011ab6/300x300_fip-jazz-01.jpg",
     "country": "France",
     "tags": "jazz",
-    "votes": 543
+    "votes": 0
   },
   {
     "stationuuid": "9acf48e5-8acb-45d3-bbf1-75a3f637c218",
@@ -507,7 +517,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/949/fm-80-funky-music-radio.703059a2.png",
     "country": "France",
     "tags": "radio",
-    "votes": 539
+    "votes": 0
   },
   {
     "stationuuid": "0b3ff698-3282-483c-96bc-1ba9ff08ea25",
@@ -517,7 +527,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/347/jazz-radio-electro-swing.7ad7028b.png",
     "country": "France",
     "tags": "electro swing,jazz",
-    "votes": 483
+    "votes": 0
   },
   {
     "stationuuid": "a373697c-730a-455c-903a-447d7c26aa6a",
@@ -527,7 +537,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s262538/images/logod.png?t=636966437370000000",
     "country": "France",
     "tags": "radio",
-    "votes": 436
+    "votes": 0
   },
   {
     "stationuuid": "bf16cbc0-164f-4736-bc61-0ffa1c988f47",
@@ -537,7 +547,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/264/oui-fm-reggae.bc4e2a9d.png",
     "country": "France",
     "tags": "reggae",
-    "votes": 421
+    "votes": 0
   },
   {
     "stationuuid": "24340331-c16f-4e8d-9bfc-bc7a1dc6a00d",
@@ -547,7 +557,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/108/crooner-radio-classic-gold.9834af1f.jpg",
     "country": "France",
     "tags": "classic hits,crooner",
-    "votes": 400
+    "votes": 0
   },
   {
     "stationuuid": "aab0149f-9b8c-4098-82bc-0dd1c53bd5d9",
@@ -557,7 +567,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s309248/images/logod.jpg",
     "country": "France",
     "tags": "80s,new wave",
-    "votes": 397
+    "votes": 0
   },
   {
     "stationuuid": "e7c5fe5d-1110-455a-9d80-c07f851cf799",
@@ -567,7 +577,7 @@
     "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/500px-FIP_logo_2021.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "country": "France",
     "tags": "chansons françaises,fip,french",
-    "votes": 354
+    "votes": 0
   },
   {
     "stationuuid": "02fed767-38db-42d2-8a68-9ad4f6f33a49",
@@ -577,7 +587,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/351/france-bleu-haute-normandie.8022b353.jpg",
     "country": "France",
     "tags": "music,news,traffic,weather",
-    "votes": 337
+    "votes": 0
   },
   {
     "stationuuid": "7e27dacb-0faf-4213-a633-71e39c3bf395",
@@ -587,7 +597,7 @@
     "favicon": "https://www.allzicradio.com/media/radios/jazzradio-1400x1400_fusion.png",
     "country": "France",
     "tags": "radio",
-    "votes": 319
+    "votes": 0
   },
   {
     "stationuuid": "2470f399-4883-44fb-8eb4-f54a6df61e72",
@@ -597,7 +607,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s293089/images/logod.png?t=636966438620000000",
     "country": "France",
     "tags": "radio",
-    "votes": 314
+    "votes": 0
   },
   {
     "stationuuid": "564536d6-87b6-42f8-947c-a3e8caabf49b",
@@ -607,7 +617,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/192/atlantica-oldies.7e2c6ef3.jpg",
     "country": "France",
     "tags": "decades",
-    "votes": 268
+    "votes": 0
   },
   {
     "stationuuid": "dac522ea-640f-4e23-a90c-770e8cf7140f",
@@ -617,7 +627,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/443/cinemusic-radio.60577cec.png",
     "country": "France",
     "tags": "cinema,classical,jazz,movie,movie scores,music",
-    "votes": 230
+    "votes": 0
   },
   {
     "stationuuid": "93151cc8-6953-11ea-b1cf-52543be04c81",
@@ -627,7 +637,7 @@
     "favicon": "https://fichiers.rjrradio.fr/logo/Fond%20blanc/RJR%202016%20carr%C3%A9%20sans%20marge.png",
     "country": "France",
     "tags": "pop/rock",
-    "votes": 212
+    "votes": 0
   },
   {
     "stationuuid": "766f2be3-676f-40af-80e7-eab16f0da225",
@@ -637,7 +647,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/848/made-in-80.0ddd1a11.png",
     "country": "France",
     "tags": "1980s hits,80's,80s,the best of 80's",
-    "votes": 187
+    "votes": 0
   },
   {
     "stationuuid": "5dfeeef5-334c-4159-95a5-2af653656c59",
@@ -647,7 +657,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/225/crooner-radio-dean-martin.8307d7c7.png",
     "country": "France",
     "tags": "crooner,crooners,dean,dean martin,martin,oldies",
-    "votes": 187
+    "votes": 0
   },
   {
     "stationuuid": "e1ed8978-1bb0-4070-8db0-9bac6136cb6c",
@@ -657,7 +667,7 @@
     "favicon": "https://static.wixstatic.com/media/d50cc2_204dcbcc38444c29a41fb23b0a5b4041~mv2.png/v1/fill/w_502,h_173,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_21_Radio_bmp.png",
     "country": "France",
     "tags": "goldies,local music,local news,poetry,variety hits",
-    "votes": 183
+    "votes": 0
   },
   {
     "stationuuid": "3a6c5454-a001-4800-ae33-813b1227789e",
@@ -667,7 +677,7 @@
     "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg",
     "country": "France",
     "tags": "pop",
-    "votes": 168
+    "votes": 0
   },
   {
     "stationuuid": "2718e9ee-4225-47ea-9f79-450b317c2b0a",
@@ -677,7 +687,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/236/crooner-radio-love.3dd8fa0c.png",
     "country": "France",
     "tags": "crooner,crooner radio,crooners,love songs,oldies,romantique",
-    "votes": 138
+    "votes": 0
   },
   {
     "stationuuid": "b3b83be8-042c-4e1a-93de-b6f5323a70f3",
@@ -687,7 +697,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/109/crooner-radio-italiano.c46c5525.jpg",
     "country": "France",
     "tags": "crooner,crooner radio,crooners,italiano,oldies,smooth",
-    "votes": 137
+    "votes": 0
   },
   {
     "stationuuid": "7afe45d4-0227-11ea-bbf2-52543be04c81",
@@ -697,7 +707,7 @@
     "favicon": "https://radiobrony.fr/img/icons/bwavatar-details.png",
     "country": "France",
     "tags": "brony,fan music,live show,mlp,my little pony: friendship is magic",
-    "votes": 122
+    "votes": 0
   },
   {
     "stationuuid": "ecbfc812-3f38-4157-8bdc-4fa381848ac6",
@@ -707,7 +717,7 @@
     "favicon": "https://images.rtl.fr/~c/300v300/rtl/www/1595806-rtl-radio80-1400x1400-copie.jpg",
     "country": "France",
     "tags": "80s,music,oldies",
-    "votes": 119
+    "votes": 0
   },
   {
     "stationuuid": "94d42cb6-14ea-48cd-9523-6c3ee2ded1a2",
@@ -717,7 +727,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/229/nova-hip-hop.74f52c83.jpg",
     "country": "France",
     "tags": "hip-hop and rap oldies",
-    "votes": 118
+    "votes": 0
   },
   {
     "stationuuid": "f5481400-edb1-4c32-8069-8c86f325cb76",
@@ -787,7 +797,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/571/bfm-radio3.8511aeb8.png",
     "country": "France",
     "tags": "radio",
-    "votes": 4756
+    "votes": 0
   },
   {
     "stationuuid": "5c781485-ee91-47bc-aa2d-bbe66024ff52",
@@ -797,7 +807,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/061/radio-choco.798179ea.png",
     "country": "France",
     "tags": "eclectic programming",
-    "votes": 2183
+    "votes": 0
   },
   {
     "stationuuid": "f956de7a-cf01-49d3-8acf-45a25e5bdf5e",
@@ -807,7 +817,7 @@
     "favicon": "https://static.wixstatic.com/media/8f2aad_b81fa83db54340c3af97af5cf2cd0d0e~mv2.png",
     "country": "France",
     "tags": "radio",
-    "votes": 986
+    "votes": 0
   },
   {
     "stationuuid": "cb510c9c-2445-4003-8467-0ea4fe9688e5",
@@ -838,16 +848,6 @@
     "country": "France",
     "tags": "80s,90s",
     "votes": 383
-  },
-  {
-    "stationuuid": "da5f481e-f7d6-49b3-b213-514027740d39",
-    "name": "RMC",
-    "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
-    "url_resolved": "https://audio.bfmtv.com/rmcradio_128.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/810/rmc.4c584647.png",
-    "country": "France",
-    "tags": "infos,news,talk",
-    "votes": 369
   },
   {
     "stationuuid": "6affdd69-650a-46a9-94bf-cff80541e152",
@@ -961,7 +961,7 @@
   },
   {
     "stationuuid": "33e9106b-aef2-400e-9e50-2281aa341d67",
-    "name": "📻 Positively Meditation",
+    "name": "Positively Meditation",
     "url": "https://streaming.positivity.radio/pr/posimeditation/icecast.audio",
     "url_resolved": "https://streaming.positivity.radio/pr/posimeditation/icecast.audio",
     "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtmuQxXsk4FaNYHUD5IPcExKD0y4EU8OU1rSzpdaIrX-0CrYddUFVaGixVG6WJDz7A5EYjo_UbJ-DSt56f9J5Z0rK4O_JhDCrH2nkc6BViZLmpa9gwh3ZUzyHavUE2Buz_DVrLMbwBX_VKxqxrDLCgV11NeUZmxbI4MTZ0KSkjhoWAePu_j2xXVuhTRA/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-12-19_16-17-59.png",
@@ -991,7 +991,7 @@
   },
   {
     "stationuuid": "cf918f1b-1aa8-49e7-a34c-a30c2dd8dc6d",
-    "name": "🕺 Générations Dancehall",
+    "name": "Générations Dancehall",
     "url": "https://generations-dancehall.ice.infomaniak.ch/generations-dancehall.aac",
     "url_resolved": "https://generations-dancehall.ice.infomaniak.ch/generations-dancehall.aac",
     "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnhJmvti_BH6oOOGOTfiuUc26pCXXZbu2kSzAztx5Djgb1TqKDf64tgGm2EGlhR08B10iUj4Aa0YcM1960rrGNkQd9R_-nj5hJ4mOhz119h-ipkZtnyblHix9CHBS_vnoSa2QXCGHtWPDWg0M2oANax1FdG8cAey3Sw10FuQMWx8z8Sh9RH6Jw48py/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-18_11-39-43.png",
@@ -1097,6 +1097,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/n8hp4nng3mck.jpg",
     "country": "France",
     "tags": "dub,reggae",
-    "votes": 2687
+    "votes": 0
   }
 ]
