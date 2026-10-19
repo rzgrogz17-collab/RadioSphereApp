@@ -502,52 +502,52 @@
   {
     "stationuuid": "961696dc-0601-11e8-ae97-52543be04c81",
     "name": "MDR Jump",
-    "url": "http://f131.rndfnk.com/ard/mdr/284320/0/mp3/128/stream.mp3?cid=01FBPZXA57C37S4VNZ987DHSAG&sid=3KHUpCeyhAtg3w67zsuyfFdaL6t&token=T1FuasByemldgBpCnJp2U-O05gQUKxK_aeBQpce4Vd8&tvf=XkxSpnC_2xhmMTMxLnJuZGZuay5jb20",
-    "url_resolved": "http://f131.rndfnk.com/ard/mdr/284320/0/mp3/128/stream.mp3?cid=01FBPZXA57C37S4VNZ987DHSAG&sid=3KHUpCeyhAtg3w67zsuyfFdaL6t&token=T1FuasByemldgBpCnJp2U-O05gQUKxK_aeBQpce4Vd8&tvf=XkxSpnC_2xhmMTMxLnJuZGZuay5jb20",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/470/mdr-jump.2aee1569.jpg",
+    "url": "https://mdr-radio-hls.akamaized.net/hls/live/2112904/mdr-284320-0-hls/96/seglist.m3u8",
+    "url_resolved": "https://mdr-radio-hls.akamaized.net/hls/live/2112904/mdr-284320-0-hls/96/seglist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/470/mdr-jump.2aee1569.jpg",
     "country": "Germany",
     "tags": "youth",
-    "votes": 340
+    "votes": 3448
   },
   {
     "stationuuid": "600c73d1-2ea5-45ee-b3c1-c108674343e6",
     "name": "HR1",
     "url": "http://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3",
     "url_resolved": "http://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/141/hr1.83f0222e.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/141/hr1.83f0222e.png",
     "country": "Germany",
     "tags": "pop",
-    "votes": 264
+    "votes": 3447
   },
   {
     "stationuuid": "c0646941-d526-44c2-ad99-dbb793678055",
     "name": "HR3",
     "url": "http://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3",
     "url_resolved": "http://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/388/hr3.7c312c14.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/388/hr3.7c312c14.png",
     "country": "Germany",
     "tags": "radio",
-    "votes": 236
+    "votes": 3446
   },
   {
     "stationuuid": "dca6e9a6-d9df-4e0e-a603-e4ae89c62b24",
     "name": "Radio Hamburg",
     "url": "https://stream.radiohamburg.de/live/mp3-192/linkradiohamburg/appmind_radiofm/",
     "url_resolved": "https://stream.radiohamburg.de/live/mp3-192/linkradiohamburg/appmind_radiofm/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/459/radio-hamburg-1036.a4646f08.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/459/radio-hamburg-1036.a4646f08.png",
     "country": "Germany",
     "tags": "radio",
-    "votes": 138
+    "votes": 3445
   },
   {
     "stationuuid": "29010f42-faef-4a9e-b15c-3ad1613b45cb",
     "name": "BR-Klassik",
     "url": "http://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid",
     "url_resolved": "http://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/158/br-klassik.8a4b92e3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/158/br-klassik.8a4b92e3.png",
     "country": "Germany",
     "tags": "classical",
-    "votes": 117
+    "votes": 3444
   },
   {
     "stationuuid": "13c44275-0f32-4fed-b9cc-9610ce01609a",
@@ -557,97 +557,97 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADION-JOY.jpg",
     "country": "Germany",
     "tags": "pop",
-    "votes": 702
+    "votes": 3443
   },
   {
     "stationuuid": "960f13ae-0601-11e8-ae97-52543be04c81",
     "name": "radio SAW - 90er",
     "url": "https://stream.radiosaw.de/saw-90er/mp3-192/internetradio-hoeren-de/",
     "url_resolved": "https://stream.radiosaw.de/saw-90er/mp3-192/internetradio-hoeren-de/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/296/radio-saw-90er.2153af46.png",
+    "favicon": "https://assets.radioplayer.org/276/27692/600/600/kyeqe05l.png",
     "country": "Germany",
     "tags": "90s",
-    "votes": 481
+    "votes": 3442
   },
   {
     "stationuuid": "960c1970-0601-11e8-ae97-52543be04c81",
     "name": "Fritz",
     "url": "https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/low",
     "url_resolved": "https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/low",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/233/fritz-vom-rbb.06a4650f.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/233/fritz-vom-rbb.06a4650f.png",
     "country": "Germany",
     "tags": "ard,public radio,rbb,youth",
-    "votes": 388
+    "votes": 3441
   },
   {
     "stationuuid": "ffd351fe-219e-4c6e-b14f-9c2e02fbe45e",
     "name": "Klassik Radio - Live",
-    "url": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-4099384?listenerid=0ee2736cd858fe7680251c1d1b771405",
-    "url_resolved": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-4099384?listenerid=0ee2736cd858fe7680251c1d1b771405",
-    "favicon": "https://www.klassikradio.de/img/ms-mediumtile.png",
+    "url": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-4099384",
+    "url_resolved": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-4099384",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/934/klassik-radio.d3f58dbb.png",
     "country": "Germany",
     "tags": "classical",
-    "votes": 349
+    "votes": 3440
   },
   {
     "stationuuid": "5f20d10f-732b-11e8-83fa-52543be04c81",
     "name": "egoFM",
     "url": "https://streams.egofm.de/egoFM-hq",
     "url_resolved": "https://streams.egofm.de/egoFM-hq",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/939/egofm.b8209f1f.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/939/egofm.b8209f1f.jpg",
     "country": "Germany",
     "tags": "indie",
-    "votes": 124
+    "votes": 3439
   },
   {
     "stationuuid": "e6822dac-209c-4ea2-b565-643cf1b31ce1",
     "name": "Bremen Eins",
-    "url": "https://f121.rndfnk.com/ard/rb/bremeneins/live/mp3/128/stream.mp3?cid=01FC1W5AX0V19NKBFPPE0A91GX&sid=36ea5NaHBlqLC7bWgur99DZzrTR&token=uolEhpI2QpwlWr-pztHCagSU4ur_enCCAwhThbZSIQI&tvf=Jr2DKa3tfxhmMTIxLnJuZGZuay5jb20",
-    "url_resolved": "https://f121.rndfnk.com/ard/rb/bremeneins/live/mp3/128/stream.mp3?cid=01FC1W5AX0V19NKBFPPE0A91GX&sid=36ea5NaHBlqLC7bWgur99DZzrTR&token=uolEhpI2QpwlWr-pztHCagSU4ur_enCCAwhThbZSIQI&tvf=Jr2DKa3tfxhmMTIxLnJuZGZuay5jb20",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/569/bremen-eins.7ae825e9.png",
+    "url": "https://rbhlsaudio.akamaized.net/hls/live/2110510/bremeneins/96/seglist.m3u8",
+    "url_resolved": "https://rbhlsaudio.akamaized.net/hls/live/2110510/bremeneins/96/seglist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/569/bremen-eins.7ae825e9.png",
     "country": "Germany",
     "tags": "radio",
-    "votes": 131
+    "votes": 3438
   },
   {
     "stationuuid": "961591c6-0601-11e8-ae97-52543be04c81",
     "name": "FluxFM",
     "url": "https://162-19-223-151-a47d94.sfn.edge-ovh-de1.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/7efc3ff2-4804-431f-aaa9-7d1f8a7727c7/stream.aac",
     "url_resolved": "https://162-19-223-151-a47d94.sfn.edge-ovh-de1.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/7efc3ff2-4804-431f-aaa9-7d1f8a7727c7/stream.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/177/fluxfm.a88fc8a5.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/177/fluxfm.a88fc8a5.jpg",
     "country": "Germany",
     "tags": "alternative,indie,rock",
-    "votes": 0
+    "votes": 3437
   },
   {
     "stationuuid": "40819a21-3b7e-11ea-8dd7-52543be04c81",
     "name": "90s90s Grunge",
     "url": "https://regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468",
     "url_resolved": "https://regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/43dbccthykg5.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/43dbccthykg5.png",
     "country": "Germany",
     "tags": "90s,grunge,rock",
-    "votes": 250
+    "votes": 3436
   },
   {
     "stationuuid": "900a7450-c2fb-4896-a38f-99a2e6dc0c6e",
     "name": "80s80s Italo Disco",
     "url": "https://streams.80s80s.de/italohits/mp3-192/homepage/",
     "url_resolved": "https://streams.80s80s.de/italohits/mp3-192/homepage/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/437/80s80s-italo-disco.618e013e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/437/80s80s-italo-disco.618e013e.jpg",
     "country": "Germany",
     "tags": "80s,decades,italo disco",
-    "votes": 220
+    "votes": 3435
   },
   {
     "stationuuid": "3a0985e9-788d-11e8-83fa-52543be04c81",
     "name": "Bayern 1 Franken",
     "url": "http://dispatcher.rndfnk.com/br/br1/franken/mp3/mid",
     "url_resolved": "http://dispatcher.rndfnk.com/br/br1/franken/mp3/mid",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/342/bayern-1-franken.118568b2.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/342/bayern-1-franken.118568b2.png",
     "country": "Germany",
     "tags": "oldies",
-    "votes": 204
+    "votes": 3434
   },
   {
     "stationuuid": "9606b0a2-0601-11e8-ae97-52543be04c81",
@@ -657,7 +657,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MDRSPUTNIK.jpg",
     "country": "Germany",
     "tags": "radio",
-    "votes": 197
+    "votes": 3433
   },
   {
     "stationuuid": "d23f9ea2-80bd-4b43-b25c-31903bbbcaec",
@@ -667,207 +667,207 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ONEWORLDRADIOT.jpg",
     "country": "Germany",
     "tags": "radio",
-    "votes": 194
+    "votes": 3432
   },
   {
     "stationuuid": "960e4255-0601-11e8-ae97-52543be04c81",
     "name": "NDR Blue",
     "url": "http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3",
     "url_resolved": "http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3",
-    "favicon": "https://www.radio.net/300/ndrblue.png",
+    "favicon": "https://assets.radioplayer.org/276/276348/600/600/kyeiwg8i.png",
     "country": "Germany",
     "tags": "jazz,live concert,pop,rock,soul",
-    "votes": 148
+    "votes": 3431
   },
   {
     "stationuuid": "9620b9a8-0601-11e8-ae97-52543be04c81",
     "name": "101FM - 80s",
     "url": "http://0-2480erpoprock.stream.laut.fm/0-24_80er_pop_rock?t302=2026-10-05_17-29-30&uuid=ed45d32f-50ca-8046-2af3-da021ddaac56",
     "url_resolved": "http://0-2480erpoprock.stream.laut.fm/0-24_80er_pop_rock?t302=2026-10-05_17-29-30&uuid=ed45d32f-50ca-8046-2af3-da021ddaac56",
-    "favicon": "https://101fm.de/wp-content/uploads/2020/02/cropped-512er-180x180.png",
+    "favicon": "https://101fm.de/wp-content/uploads/2020/02/facebook-logo.png",
     "country": "Germany",
     "tags": "80s,pop,rock",
-    "votes": 147
+    "votes": 3430
   },
   {
     "stationuuid": "fad19829-939d-45de-83a4-8b7fd7dc88e1",
-    "name": "90s90s Hits | aac",
-    "url": "http://regiocast.streamabc.net/regc-90s90spop4760822-aacplus-64-6822493?sABC=6np3p25n%230%23s65r66r063r929868s1087503sqsqn63%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1791214170",
-    "url_resolved": "http://regiocast.streamabc.net/regc-90s90spop4760822-aacplus-64-6822493?sABC=6np3p25n%230%23s65r66r063r929868s1087503sqsqn63%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1791214170",
-    "favicon": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/10/90s90s_hits_600x600.png",
+    "name": "90s90s Hits",
+    "url": "https://regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761",
+    "url_resolved": "https://regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/xagygsnfedzx.png",
     "country": "Germany",
     "tags": "radio",
-    "votes": 141
+    "votes": 3429
   },
   {
     "stationuuid": "f1e65b1b-fb00-47a1-8826-eff02dc7fef8",
     "name": "SWR Aktuell",
     "url": "https://liveradio.swr.de/myt11m3/swraktuell/",
     "url_resolved": "https://liveradio.swr.de/myt11m3/swraktuell/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/307/swr-aktuell.c4c7c6a7.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/307/swr-aktuell.c4c7c6a7.png",
     "country": "Germany",
     "tags": "info",
-    "votes": 133
+    "votes": 3428
   },
   {
     "stationuuid": "963022af-0601-11e8-ae97-52543be04c81",
-    "name": "WDR 1Live - DJ Session",
-    "url": "http://f121.rndfnk.com/ard/wdr/1live/dancehits/mp3/128/stream.mp3?cid=01GRBVXAXXH65N79NEZ1A6AJXQ&sid=3KHUpjrar2cNFJvtpAjuNcdqf1F&token=NLjEXhPbRbGOoFX3yvdm3vh44gwQlcI4odeSxh3Q70I&tvf=qh7GhHG_2xhmMTIxLnJuZGZuay5jb20",
-    "url_resolved": "http://f121.rndfnk.com/ard/wdr/1live/dancehits/mp3/128/stream.mp3?cid=01GRBVXAXXH65N79NEZ1A6AJXQ&sid=3KHUpjrar2cNFJvtpAjuNcdqf1F&token=NLjEXhPbRbGOoFX3yvdm3vh44gwQlcI4odeSxh3Q70I&tvf=qh7GhHG_2xhmMTIxLnJuZGZuay5jb20",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/500px-WDR_1LIVE_Logo_2016.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name": "1LIVE DIGGI",
+    "url": "https://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3",
+    "url_resolved": "https://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/154/1live-diggi.7fa2dfd2.jpg",
     "country": "Germany",
-    "tags": "dj,dj sets",
-    "votes": 131
+    "tags": "Rock,Hip-Hop,Dance / EDM",
+    "votes": 3427
   },
   {
     "stationuuid": "73273788-b236-4569-89a8-72c87423524e",
     "name": "80s80s Maxis",
     "url": "https://streams.80s80s.de/maxis/mp3-192/homepage/",
     "url_resolved": "https://streams.80s80s.de/maxis/mp3-192/homepage/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/675/80s80s-maxis.6de8fb45.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/675/80s80s-maxis.6de8fb45.png",
     "country": "Germany",
     "tags": "12inch,80s,decades,maxi,single",
-    "votes": 107
+    "votes": 3426
   },
   {
     "stationuuid": "aa1c5537-b9ee-11e9-acb2-52543be04c81",
     "name": "NORA Oldie Stream",
-    "url": "http://regiocast.streamabc.net/regc-noraoldie-mp3-192-4426850?sABC=6np3p25p%230%231541965n4928836519027q1888p2n9pp%23fgernzf.abenjrofgernzf.qr&aw_0_1st.playerid=streams.norawebstreams.de&amsparams=playerid:streams.norawebstreams.de;skey:1791214172",
-    "url_resolved": "http://regiocast.streamabc.net/regc-noraoldie-mp3-192-4426850?sABC=6np3p25p%230%231541965n4928836519027q1888p2n9pp%23fgernzf.abenjrofgernzf.qr&aw_0_1st.playerid=streams.norawebstreams.de&amsparams=playerid:streams.norawebstreams.de;skey:1791214172",
+    "url": "https://streams.norawebstreams.de/oldieparty/aac-64",
+    "url_resolved": "https://streams.norawebstreams.de/oldieparty/aac-64",
     "favicon": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/10/nora_oldies_600x600.png",
     "country": "Germany",
     "tags": "60er,70er,oldies",
-    "votes": 95
+    "votes": 3425
   },
   {
     "stationuuid": "664e0f96-cdaa-4aa2-a362-1543e2dd2c36",
     "name": "NIUS",
     "url": "https://radio.nius.de/live",
     "url_resolved": "https://radio.nius.de/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/036/nius.995ca9ff.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/036/nius.995ca9ff.png",
     "country": "Germany",
     "tags": "2000s,80s,90s,hits,news,news talk",
-    "votes": 91
+    "votes": 3424
   },
   {
     "stationuuid": "38282707-d199-4ea1-8ded-9fe35659767a",
-    "name": "BOBs Death Metal Stream",
-    "url": "http://regiocast.streamabc.net/regc-radiobobdeathmetal8709679-mp3-192-6241857?sABC=6np3p25q%230%23s4329os22q884950sq8r070562206pn9%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1791214173",
-    "url_resolved": "http://regiocast.streamabc.net/regc-radiobobdeathmetal8709679-mp3-192-6241857?sABC=6np3p25q%230%23s4329os22q884950sq8r070562206pn9%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1791214173",
-    "favicon": "http://aggregatorservice.loverad.io/wp-content/uploads/2020/07/bob_death-metal_600x600.png",
+    "name": "Metal Radio",
+    "url": "http://curiosity.shoutca.st:9073/stream",
+    "url_resolved": "http://curiosity.shoutca.st:9073/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/p85fm24zfezq.jpeg",
     "country": "Germany",
     "tags": "radio",
-    "votes": 88
+    "votes": 3423
   },
   {
     "stationuuid": "960dca5d-0601-11e8-ae97-52543be04c81",
     "name": "94,3 rs2",
     "url": "https://topradio.stream41.radiohost.de/rs2_mp3-192",
     "url_resolved": "https://topradio.stream41.radiohost.de/rs2_mp3-192",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/971/943-rs2.fd10cc1d.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/971/943-rs2.fd10cc1d.png",
     "country": "Germany",
     "tags": "pop",
-    "votes": 87
+    "votes": 3422
   },
   {
     "stationuuid": "d4aff3d1-61b9-453a-bb5b-24be59d5b343",
     "name": "Ballermann Radio Club Style",
     "url": "https://stream.bmr-radio.de/bmr-clubstyle.mp3",
     "url_resolved": "https://stream.bmr-radio.de/bmr-clubstyle.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/796/ballermann-radio-club-style.f8253e90.jpg",
+    "favicon": "https://www.radio.se/300/ballermannradioclubstyle.jpeg",
     "country": "Germany",
     "tags": "radio",
-    "votes": 70
+    "votes": 3421
   },
   {
     "stationuuid": "694a26a3-0cf6-11ea-a87e-52543be04c81",
-    "name": "Toms Club 70s",
-    "url": "http://151.80.43.143:8000/.mp3",
-    "url_resolved": "http://151.80.43.143:8000/.mp3",
-    "favicon": "https://myhitmusic.de/wp-content/uploads/2016/03/TOMS-70s-CLUB-3.jpg",
+    "name": "Metropol FM",
+    "url": "https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112",
+    "url_resolved": "https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/160/metropol-fm.6b9f4f15.jpg",
     "country": "Germany",
-    "tags": "70er,70s,classic rock",
-    "votes": 69
+    "tags": "Berlin - 101.9 FM",
+    "votes": 3420
   },
   {
     "stationuuid": "ae648419-2ac9-431d-8933-deb732ad6c9c",
     "name": "ROCK FM METAL",
-    "url": "http://audiotainment-sw.streamabc.net/atsw-metal-mp3-128-9461233?sABC=6np3p25r%230%23s65r66r063r929868s1087503sqsqn63%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1791214174",
-    "url_resolved": "http://audiotainment-sw.streamabc.net/atsw-metal-mp3-128-9461233?sABC=6np3p25r%230%23s65r66r063r929868s1087503sqsqn63%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1791214174",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-metal-mp3-128-9461233",
+    "url_resolved": "https://audiotainment-sw.streamabc.net/atsw-metal-mp3-128-9461233",
     "favicon": "https://image.atsw.de/atsw/production/2024-05/rockfm_metal_600x600.jpg",
     "country": "Germany",
     "tags": "hardrock,heavy metal,metal",
-    "votes": 66
+    "votes": 3419
   },
   {
     "stationuuid": "f757f4d3-b97c-11e9-acb2-52543be04c81",
     "name": "Radio Nordseewelle (Ostfriesland)",
     "url": "https://stream.radio-nordseewelle.de/live/mp3-192/Homepage/",
     "url_resolved": "https://stream.radio-nordseewelle.de/live/mp3-192/Homepage/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/990/radio-nordseewelle.465025a9.png",
+    "favicon": "https://assets.radioplayer.org/276/2761136/600/600/l9r1ncs8.png",
     "country": "Germany",
     "tags": "pop,regional radio",
-    "votes": 66
+    "votes": 3418
   },
   {
     "stationuuid": "d6874c84-5e44-4cfd-ae7c-a42232a5fc0e",
     "name": "NDR Info Schleswig-Holstein",
     "url": "http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3",
     "url_resolved": "http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/054/ndr-info-schleswig-holstein.a40b2492.png",
+    "favicon": "https://assets.radioplayer.org/276/2763353/600/600/mo9vumfm.png",
     "country": "Germany",
     "tags": "radio",
-    "votes": 65
+    "votes": 3417
   },
   {
     "stationuuid": "b25e0078-9931-4fe0-aa75-e8db63726e0e",
     "name": "80s80s DEUTSCH",
     "url": "https://regiocast.streamabc.net/regc-80s80sdeutsch9246502-mp3-192-4601709",
     "url_resolved": "https://regiocast.streamabc.net/regc-80s80sdeutsch9246502-mp3-192-4601709",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/786/80s80s-deutsch.c66bfa02.jpg",
+    "favicon": "https://assets.radioplayer.org/276/2762774/600/600/kyaeyc0t.png",
     "country": "Germany",
     "tags": "80's,80er,80s",
-    "votes": 65
+    "votes": 3416
   },
   {
     "stationuuid": "85954f7d-387f-4857-861f-4c6d464a16cb",
     "name": "Ballermann Radio Ab 18",
     "url": "https://stream.bmr-radio.de/bmr-ab18.mp3",
     "url_resolved": "https://stream.bmr-radio.de/bmr-ab18.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/791/ballermann-radio-ab18.56ab036b.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/791/ballermann-radio-ab18.56ab036b.png",
     "country": "Germany",
     "tags": "radio",
-    "votes": 64
+    "votes": 3415
   },
   {
     "stationuuid": "7d9eda5c-b6cf-4792-92ed-f13fe79d0728",
     "name": "90s90s Dance Radio HQ",
     "url": "https://regiocast.streamabc.net/regc-90s90sdanceradio-mp3-192-7820726",
     "url_resolved": "https://regiocast.streamabc.net/regc-90s90sdanceradio-mp3-192-7820726",
-    "favicon": "https://images.90s90s.de/files/2023-09/90s90s_90s90s-dance-radio_1920x1080.jpg",
+    "favicon": "https://assets.radioplayer.org/276/2761183/600/600/lhrgi3rk.png",
     "country": "Germany",
     "tags": "radio",
-    "votes": 60
+    "votes": 3414
   },
   {
     "stationuuid": "9630e1a7-0601-11e8-ae97-52543be04c81",
     "name": "Ostseewelle Schlagerhits",
     "url": "https://irmedia.streamabc.net/irm-oswschlager-mp3-128-3202635",
     "url_resolved": "https://irmedia.streamabc.net/irm-oswschlager-mp3-128-3202635",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/988/ostseewelle-schlager-hits.2d84b897.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/988/ostseewelle-schlager-hits.2d84b897.png",
     "country": "Germany",
     "tags": "schlager",
-    "votes": 59
+    "votes": 3413
   },
   {
     "stationuuid": "8f37c5fe-76b0-435f-9701-b44b6904106b",
     "name": "NDR Schlager",
     "url": "https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3",
     "url_resolved": "https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/901/ndr-schlager.ebf97cc2.png",
+    "favicon": "https://assets.radioplayer.org/276/2762786/600/600/kyeiqf4i.png",
     "country": "Germany",
     "tags": "music,pop,schlager",
-    "votes": 58
+    "votes": 3412
   },
   {
     "stationuuid": "961449d4-0601-11e8-ae97-52543be04c81",
