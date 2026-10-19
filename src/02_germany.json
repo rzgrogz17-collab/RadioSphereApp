@@ -874,110 +874,110 @@
     "name": "harmony.fm",
     "url": "http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3?aw_0_req.gdpr=true",
     "url_resolved": "http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3?aw_0_req.gdpr=true",
-    "favicon": "https://www.harmonyfm.de/android-icon.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/289/harmonyfm.15f778b8.png",
     "country": "Germany",
     "tags": "classic hits",
-    "votes": 225
+    "votes": 3411
   },
   {
     "stationuuid": "96063808-0601-11e8-ae97-52543be04c81",
     "name": "Antenne Brandenburg",
     "url": "https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/low",
     "url_resolved": "https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/low",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/365/antenne-brandenburg-vom-rbb.a8ce418a.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/365/antenne-brandenburg-vom-rbb.a8ce418a.png",
     "country": "Germany",
     "tags": "ard,information,pop,public radio,rbb,schlager",
-    "votes": 133
+    "votes": 3410
   },
   {
     "stationuuid": "960de84a-0601-11e8-ae97-52543be04c81",
     "name": "89.0 RTL - In The Mix",
     "url": "https://stream.89.0rtl.de/mix/mp3-128/myTuner",
     "url_resolved": "https://stream.89.0rtl.de/mix/mp3-128/myTuner",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/580/890-rtl-in-the-mix.e9eb7a86.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/580/890-rtl-in-the-mix.e9eb7a86.jpg",
     "country": "Germany",
     "tags": "radio",
-    "votes": 111
+    "votes": 3409
   },
   {
     "stationuuid": "960c1c0e-0601-11e8-ae97-52543be04c81",
-    "name": "Kulturradio",
-    "url": "http://f121.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=3KHUppGUHXHA06JHLMLNqOnGvfY&token=PLnykkAsD94dLtfuOR6oZOwOSTXlO3ErZDXYIhknYag&tvf=OWhCyXG_2xhmMTIxLnJuZGZuay5jb20",
-    "url_resolved": "http://f121.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=3KHUppGUHXHA06JHLMLNqOnGvfY&token=PLnykkAsD94dLtfuOR6oZOwOSTXlO3ErZDXYIhknYag&tvf=OWhCyXG_2xhmMTIxLnJuZGZuay5jb20",
-    "favicon": "https://www.radiodrei.de/content/dam/rbb/rbb/logos/touch/radio3-128.png",
+    "name": "Heart Dance",
+    "url": "https://media-ssl.musicradio.com/HeartDance",
+    "url_resolved": "https://media-ssl.musicradio.com/HeartDance",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/615/heart-dance.99ed7ed7.png",
     "country": "Germany",
-    "tags": "ard,classical,culture,features,information,public radio",
-    "votes": 101
+    "tags": "Dance / EDM",
+    "votes": 3408
   },
   {
     "stationuuid": "67ef89f3-27f0-11e8-91bf-52543be04c81",
-    "name": "i love radio - bass",
-    "url": "http://ilm.stream35.radiohost.de/ilm_iloveradiorock_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwNzk4MDI5JmQ9NGMyNDQ2YjExMjUwNGVkZjRmMjk",
-    "url_resolved": "http://ilm.stream35.radiohost.de/ilm_iloveradiorock_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwNzk4MDI5JmQ9NGMyNDQ2YjExMjUwNGVkZjRmMjk",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s167726q.png",
+    "name": "HITRADIO RTL Sachsen",
+    "url": "https://edge69.radio.hitradio-rtl.de/hrrtl-dresden?aggregator=mytuner",
+    "url_resolved": "https://edge69.radio.hitradio-rtl.de/hrrtl-dresden?aggregator=mytuner",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/547/hitradio-rtl-sachsen.916bebbb.png",
     "country": "Germany",
-    "tags": "bass,edm,future bass,futurepop,iloveradio,trap",
-    "votes": 97
+    "tags": "Adult Contemporary,80er",
+    "votes": 3407
   },
   {
     "stationuuid": "96474269-0601-11e8-ae97-52543be04c81",
     "name": "planet radio",
     "url": "https://streams.planetradio.de/planetradio/aac/hqlivestream.aac",
     "url_resolved": "https://streams.planetradio.de/planetradio/aac/hqlivestream.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/290/planet-radio.07e38198.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/290/planet-radio.07e38198.png",
     "country": "Germany",
     "tags": "radio",
-    "votes": 84
+    "votes": 3406
   },
   {
     "stationuuid": "961557bd-0601-11e8-ae97-52543be04c81",
     "name": "Radio Brocken",
     "url": "https://fhhalle.streamabc.net/fhhal-rblive-mp3-256-3654873",
     "url_resolved": "https://fhhalle.streamabc.net/fhhal-rblive-mp3-256-3654873",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/833/radio-brocken.2f85a982.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/833/radio-brocken.2f85a982.png",
     "country": "Germany",
     "tags": "pop,regional radio,top 40",
-    "votes": 77
+    "votes": 3405
   },
   {
     "stationuuid": "b4a4e953-3e58-4538-8b3d-20faf35ecb1a",
-    "name": "RBB Kultur",
-    "url": "http://f131.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=3KHUqGtx0nI2o1K5kF4smv0m4YE&token=DdQtyfhMstQPa3zZpIO2riw0OEE_MSz5avyjLjmgG5Q&tvf=pFqqhHK_2xhmMTMxLnJuZGZuay5jb20",
-    "url_resolved": "http://f131.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=3KHUqGtx0nI2o1K5kF4smv0m4YE&token=DdQtyfhMstQPa3zZpIO2riw0OEE_MSz5avyjLjmgG5Q&tvf=pFqqhHK_2xhmMTMxLnJuZGZuay5jb20",
-    "favicon": "https://www.rbb-online.de/content/dam/rbb/rbb/logos/touch/rbb-n-128.png",
+    "name": "Schlagerparadies",
+    "url": "http://5.9.19.239:30842/schlagerparadies128k.mp3",
+    "url_resolved": "http://5.9.19.239:30842/schlagerparadies128k.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/533/schlagerparadies.b4b28997.jpg",
     "country": "Germany",
-    "tags": "radio",
-    "votes": 73
+    "tags": "Pop / Top 40,Schlager",
+    "votes": 3404
   },
   {
     "stationuuid": "52e18f3e-1d9e-4035-b93c-3922f1c7601c",
     "name": "radio eins | rbb | neuer Stream | niedrige Qualität",
     "url": "http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KHUq5CakBPcfEQf7uyl7a63AX7&token=xfiflikM6wOH1rb2ANo25kR3D6Z1gwD1pXDu5CIPSQw&tvf=6b4URnK_2xhmMTExLnJuZGZuay5jb20",
     "url_resolved": "http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KHUq5CakBPcfEQf7uyl7a63AX7&token=xfiflikM6wOH1rb2ANo25kR3D6Z1gwD1pXDu5CIPSQw&tvf=6b4URnK_2xhmMTExLnJuZGZuay5jb20",
-    "favicon": "https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/869/radioeins-vom-rbb.97d8a509.png",
     "country": "Germany",
     "tags": "low stream new,neuer stream niedrige qualität,radio eins,rbb",
-    "votes": 79
+    "votes": 3403
   },
   {
     "stationuuid": "960cccb6-0601-11e8-ae97-52543be04c81",
     "name": "punkrockers-radio",
     "url": "https://stream.punkrockers-radio.de:8443/mobile.opus",
     "url_resolved": "https://stream.punkrockers-radio.de:8443/mobile.opus",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/484/punkrockers-radio.7ed212fd.png",
+    "favicon": "https://www.phonostar.de/images/auto_created/punkrockersradio184x184.png",
     "country": "Germany",
     "tags": "punk,punk oi ska",
-    "votes": 69
+    "votes": 3402
   },
   {
     "stationuuid": "143caaf5-1354-442b-bc83-3bae08aa45c7",
     "name": "0nlineradio SOFT ROCK",
     "url": "https://stream.0nlineradio.com/soft-rock",
     "url_resolved": "https://stream.0nlineradio.com/soft-rock",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/487/0nline-radio-soft-rock.463be400.jpg",
+    "favicon": "https://radiosphere.net/uploads/logos/0nlineradio-soft-rock-bdaa6eb40e.jpg",
     "country": "Germany",
     "tags": "70s soft rock,80s soft rock,pop rock,rock,rock'n'roll,soft rock",
-    "votes": 564
+    "votes": 3401
   },
   {
     "stationuuid": "5ea0c406-cc3e-4a36-9a32-37ed4d5a180e",
@@ -987,7 +987,7 @@
     "favicon": "https://i.ibb.co/TmRLJsp/EDM-TL.jpg",
     "country": "Germany",
     "tags": "club house,dance,edm,electro,electro house,electronic",
-    "votes": 467
+    "votes": 3400
   },
   {
     "stationuuid": "830a7eff-916d-456c-842a-d7786e475658",
@@ -997,26 +997,36 @@
     "favicon": "https://i.ibb.co/B4R6kNj/Electrohouse-tl.jpg",
     "country": "Germany",
     "tags": "club dance,dance,edm,electro,electro house,electronic",
-    "votes": 310
+    "votes": 3399
   },
   {
     "stationuuid": "be26f3f5-1ee1-4661-a3de-4544fc29e833",
-    "name": "_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!",
-    "url": "https://rautemusik.stream25.radiohost.de/breakz?ref=radiobrowser-deejay-remixes-radio&upd-meta&upd-scheme=https&_art=dD0xNzkxMjE0NDY5JmQ9MDQyOWVjMTdiMDgxNmY5ZmI3NmE",
-    "url_resolved": "https://rautemusik.stream25.radiohost.de/breakz?ref=radiobrowser-deejay-remixes-radio&upd-meta&upd-scheme=https&_art=dD0xNzkxMjE0NDY5JmQ9MDQyOWVjMTdiMDgxNmY5ZmI3NmE",
-    "favicon": "https://i.ibb.co/sP4q4Wh/breakz-fm-logo-fav.png",
+    "name": "bigFM Deutschrap",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-deutschraprasiert-mp3-128-9511380",
+    "url_resolved": "https://audiotainment-sw.streamabc.net/atsw-deutschraprasiert-mp3-128-9511380",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/688/bigfm-deutschrap.844cac25.jpg",
     "country": "Germany",
-    "tags": "#mashup,bass,beach music,breaks,breakz,breakzfm",
-    "votes": 265
+    "tags": "Hip-Hop,Lokalradio",
+    "votes": 3398
   },
   {
     "stationuuid": "96180a5c-0601-11e8-ae97-52543be04c81",
-    "name": "psyradio * fm - chillout",
-    "url": "http://streamer.psyradio.org:8020/;listen.mp3",
-    "url_resolved": "http://streamer.psyradio.org:8020/;listen.mp3",
-    "favicon": "https://lh6.ggpht.com/dU5W-XpgWgEgtIt3Ho990I9bre5IZTq7AK2ffSt_bXTDTNQ6eUkTG-WqERh6c_EHPb8=w300",
+    "name": "106.8 pure fm Berlin",
+    "url": "https://s4.radionetz.de/purefm-bln.mp3",
+    "url_resolved": "https://s4.radionetz.de/purefm-bln.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/319/pure-fm.d4304aa4.jpg",
     "country": "Germany",
-    "tags": "chillout",
-    "votes": 177
+    "tags": "Dance / EDM,House,Elektro",
+    "votes": 3397
+  },
+  {
+    "stationuuid": "98280a5c-0601-12e9-ae98-53554be04c82",
+    "name": "bigFM Balkan",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-bigbalkan-mp3-128-8067682",
+    "url_resolved": "https://audiotainment-sw.streamabc.net/atsw-bigbalkan-mp3-128-8067682",
+    "favicon": "https://assets.radioplayer.org/276/27638/600/600/lz0z6rj9.jpeg",
+    "country": "Germany",
+    "tags": "Pop / Top 40,Dance / EDM ,Weltmusik",
+    "votes": 3396
   }
 ]
