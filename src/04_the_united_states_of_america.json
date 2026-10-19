@@ -1,5 +1,15 @@
 [
     {
+    "stationuuid": "e2b82da1-f1c6-4217-bd2a-65ab1f37838b",
+    "name": "WNSP",
+    "url": "https://centova.rockhost.com/proxy/dotcompl?mp=%2Fwnsp",
+    "url_resolved": "https://centova.rockhost.com/proxy/dotcompl?mp=%2Fwnsp",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/WNSP.jpg",
+    "country": "The United States Of America",
+    "tags": "sports",
+    "votes": 3501
+    },
+    {
     "stationuuid": "510aeeac-e7a0-41c2-aea2-e572e811ffe7",
     "name": "Fox News Radio",
     "url": "https://prod-3-83-204-160.amperwave.net/foxnewsradio-foxnewsradioaac-imc",
@@ -204,7 +214,7 @@
     "name": "WJMJ Catholic Radio 88.9",
     "url": "https://www.ophanim.net:8444/s/7760/",
     "url_resolved": "https://www.ophanim.net:8444/s/7760/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nrdhyZQNXj.pngg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nrdhyZQNXj.png",
     "country": "The United States Of America",
     "tags": "radio",
     "votes": 3470
@@ -258,6 +268,16 @@
     "country": "The United States Of America",
     "tags": "bozeman,university radio,variety",
     "votes": 3465
+  },
+    {
+    "stationuuid": "0e9dbff4-182d-571d-aeb0-73db6f76f8c6",
+    "name": "KSDS Jazz 88.3 FML",
+    "url": "https://ksds-ice.streamguys1.com/ksds.mp3",
+    "url_resolved": "https://ksds-ice.streamguys1.com/ksds.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/427/ksds-jazz-883-fm.ae998525.jpg",
+    "country": "The United States Of America",
+    "tags": "jazz",
+    "votes": 3464
   },
   {
     "stationuuid": "0e9dbff4-182d-571d-aeb0-73db6f76f8c6",
@@ -375,16 +395,6 @@
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac",
     "favicon": "https://www.radio.net/175/wmsp-sports-radio-740.png",
-    "country": "The United States Of America",
-    "tags": "sports",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e2b82da1-f1c6-4217-bd2a-65ab1f37838b",
-    "name": "WNSP",
-    "url": "https://centova.rockhost.com/proxy/dotcompl?mp=%2Fwnsp",
-    "url_resolved": "https://centova.rockhost.com/proxy/dotcompl?mp=%2Fwnsp",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/WNSP.jpg",
     "country": "The United States Of America",
     "tags": "sports",
     "votes": 0
@@ -524,7 +534,7 @@
     "name": "NPR 24 Hour Program Stream",
     "url": "http://npr-ice.streamguys1.com/live.mp3",
     "url_resolved": "http://npr-ice.streamguys1.com/live.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/NPR_new_logo.svg/500px-NPR_new_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://station-images-prod.radio-assets.com/1200/npr.png",
     "country": "The United States Of America",
     "tags": "news,news talk,political talk,politics,public radio,talk",
     "votes": 999
@@ -534,7 +544,7 @@
     "name": "KQED 88.5 San Francisco, CA",
     "url": "http://streams.kqed.org/kqedradio.m3u",
     "url_resolved": "http://streams.kqed.org/kqedradio.m3u",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/500px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/073/kqed-885-and-893-fm.013788e4.png",
     "country": "The United States Of America",
     "tags": "npr,public radio,san francisco",
     "votes": 998
@@ -544,7 +554,7 @@
     "name": "KEXP 90.3 Seattle, WA",
     "url": "http://live-mp3-128.kexp.org/kexp128.mp3",
     "url_resolved": "http://live-mp3-128.kexp.org/kexp128.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Seattle_Center_as_night_falls.jpg/500px-Seattle_Center_as_night_falls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/040/kexp-fm-903.3377ac57.jpg",
     "country": "The United States Of America",
     "tags": "alternative rock,indie,live,public radio,seattle,variety",
     "votes": 996
@@ -561,10 +571,10 @@
   },
   {
     "stationuuid": "962263bc-0601-11e8-ae97-52543be04c81",
-    "name": "WCSP 90.1 \"C-SPAN Radio\" Washington, DC",
+    "name": "WCSP 90.1",
     "url": "http://26183.live.streamtheworld.com/CSPANRADIO_SC",
     "url_resolved": "http://26183.live.streamtheworld.com/CSPANRADIO_SC",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/CSPAN_HQ_%2855265816527%29.jpg/500px-CSPAN_HQ_%2855265816527%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/409/wcsp-c-span-radio.84effde7.jpg",
     "country": "The United States Of America",
     "tags": "current affairs,national news,news,politics",
     "votes": 994
@@ -574,7 +584,7 @@
     "name": "KFI",
     "url": "http://cloud.revma.ihrhls.com/zc177?rj-org=n23b-e2&rj-ttl=5&rj-tok=AAABoQy3d7wAwKBdp4Hd4Q3Xrg",
     "url_resolved": "http://cloud.revma.ihrhls.com/zc177?rj-org=n23b-e2&rj-ttl=5&rj-tok=AAABoQy3d7wAwKBdp4Hd4Q3Xrg",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/2e/KFI_AM640_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "favicon": "https://radioink.com/wp-content/uploads/2016/03/KFI-Radio-Logo.jpg",
     "country": "The United States Of America",
     "tags": "radio",
     "votes": 458
@@ -584,7 +594,7 @@
     "name": "WAMU American University Radio",
     "url": "https://wamu.cdnstream1.com/wamu.mp3",
     "url_resolved": "https://wamu.cdnstream1.com/wamu.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/WAMU_%2888.5_FM%29_%2855263906387%29.jpg/500px-WAMU_%2888.5_FM%29_%2855263906387%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/863/wamu-wyau-wrau-885-895-883-fm.932b0485.png",
     "country": "The United States Of America",
     "tags": "news,public,talk",
     "votes": 327
@@ -594,9 +604,9 @@
     "name": "Jazz24",
     "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
     "url_resolved": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/893/jazz24.1a9a48c7.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/893/jazz24.1a9a48c7.jpg",
     "country": "The United States Of America",
-    "tags": "radio",
+    "tags": "jazz",
     "votes": 303
   },
   {
@@ -604,7 +614,7 @@
     "name": "KCRW ECLECTIC 24",
     "url": "https://streams.kcrw.com/e24_mp3",
     "url_resolved": "https://streams.kcrw.com/e24_mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c4/KCRW_2025_BLACK_LOGO_FILLED.png/500px-KCRW_2025_BLACK_LOGO_FILLED.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/921/kcrw-news.d01f6f98.png",
     "country": "The United States Of America",
     "tags": "radio",
     "votes": 288
@@ -634,7 +644,7 @@
     "name": "WBEZ 91.5 Chicago Public Radio",
     "url": "http://stream.wbez.org/wbez128.mp3",
     "url_resolved": "http://stream.wbez.org/wbez128.mp3",
-    "favicon": "https://www.wbez.org/apple-touch-icon.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/903/wbez-915-fm.48ef5978.jpg",
     "country": "The United States Of America",
     "tags": "chicago,news,npr,public radio",
     "votes": 834
@@ -644,7 +654,7 @@
     "name": "WBBR 1130 \"Bloomberg Radio\" New York, NY",
     "url": "http://29308.live.streamtheworld.com/WBBRAMAAC_SC",
     "url_resolved": "http://29308.live.streamtheworld.com/WBBRAMAAC_SC",
-    "favicon": "https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/100/wbbr-bloomberg-1130.3f58fbb0.png",
     "country": "The United States Of America",
     "tags": "business news,economic news",
     "votes": 993
@@ -654,7 +664,7 @@
     "name": "WBUR 90.9 FM Boston [MP3]",
     "url": "http://wbur-sc.streamguys.com/wbur",
     "url_resolved": "http://wbur-sc.streamguys.com/wbur",
-    "favicon": "https://static.wbur.org/images/icons/favicon.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/911/wbur-909-fm.b73ae774.png",
     "country": "The United States Of America",
     "tags": "news,npr,public,talk",
     "votes": 682
@@ -714,7 +724,7 @@
     "name": "NBC News Radio",
     "url": "http://cloud.revma.ihrhls.com/zc6043?rj-org=n2fb-e2&rj-ttl=5&rj-tok=AAABoQy3eO0AIP9zTfvgP8WlQw",
     "url_resolved": "http://cloud.revma.ihrhls.com/zc6043?rj-org=n2fb-e2&rj-ttl=5&rj-tok=AAABoQy3eO0AIP9zTfvgP8WlQw",
-    "favicon": "https://iscale.iheart.com/v3/surl/aHR0cHM6Ly9pLmloZWFydC5jb20vdjMvcmUvYXNzZXRzLnN0cmVhbXMvNjZkYjc4OGIxYWYwMTllZGM3Mzg2MmVi?sn=eGtleWJhc2UyMDIxMTExMDpD2WdBc5Ooc6KZCXPSClkDttmE00Ac-rJpbx2HfWXYWQ%3D%3D&surrogate=1cOXl179JY-syhxYSCX6Q1ukM8fpR64K-EYmLHpSOU-LjccUNCWuL1_fUmb3tjq95TTX2tgapcEoH4qaIBBIZjy5fy-0RaTtYOuJgMpxG181cHQjBqia-wJGTgBi4wMk5YYjL0Aoce80OAoX5cYaZp8Kfi9nUx3T1hMucLStgz2LL6GTUB2qyqJpGQ23Jyxd4YbCJ21-5ZuMMYSA",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/844/nbc-news-now.707e972e.jpg",
     "country": "The United States Of America",
     "tags": "news",
     "votes": 992
@@ -894,7 +904,7 @@
     "name": "Music City Roadhouse",
     "url": "http://das-edge93-live365-dal05.cdnstream.com/a73754",
     "url_resolved": "http://das-edge93-live365-dal05.cdnstream.com/a73754",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/620/music-city-roadhouse.6a477c0d.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/620/music-city-roadhouse.6a477c0d.jpg",
     "country": "The United States Of America",
     "tags": "blues rock,honky tonk,southern rock",
     "votes": 633
@@ -914,7 +924,7 @@
     "name": "Dance Wave!",
     "url": "https://stream1.dancewave.online:8082/dance.flac.ogg",
     "url_resolved": "https://stream1.dancewave.online:8082/dance.flac.ogg",
-    "favicon": "https://dancewave.online/dw_logo.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/kQGwsahjAv.png",
     "country": "The United States Of America",
     "tags": "club dance electronic house trance",
     "votes": 539
@@ -934,17 +944,17 @@
     "name": "The River Of Calm",
     "url": "https://listen.radioking.com/radio/49831/stream/86743",
     "url_resolved": "https://listen.radioking.com/radio/49831/stream/86743",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/244/the-river-of-calm.9c58397d.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/244/the-river-of-calm.9c58397d.jpg",
     "country": "The United States Of America",
     "tags": "chillout,lounge,piano,smooth",
     "votes": 525
   },
   {
     "stationuuid": "95474386-aaca-4d90-9d5c-3913ea75bce1",
-    "name": "Happy Rave Radio [90s Happy Hardcore]",
+    "name": "Happy Rave Radio",
     "url": "https://happyrave-rex.radioca.st/stream",
     "url_resolved": "https://happyrave-rex.radioca.st/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/425/happy-rave-radio.91aa858e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/425/happy-rave-radio.91aa858e.jpg",
     "country": "The United States Of America",
     "tags": "happy hardcore,hardcore,rave",
     "votes": 506
@@ -1024,7 +1034,7 @@
     "name": "WFED Federal News Network",
     "url": "https://27053.live.streamtheworld.com:443/WFEDAM.mp3",
     "url_resolved": "https://27053.live.streamtheworld.com:443/WFEDAM.mp3",
-    "favicon": "https://federalnewsnetwork.com/wp-content/uploads/2017/12/cropped-icon-512x512-1.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/081/wfed-federal-news-radio-1500-am.c9a5768f.png",
     "country": "The United States Of America",
     "tags": "government,talk,washington dc",
     "votes": 353
@@ -1264,7 +1274,7 @@
     "name": "KTMY \"My Talk 107.1\" Coon Rapids, MN",
     "url": "http://27163.live.streamtheworld.com/KTMYFM_SC",
     "url_resolved": "http://27163.live.streamtheworld.com/KTMYFM_SC",
-    "favicon": "https://www.mytalk1071.com/wp-content/uploads/2023/07/cropped-mytalk_mt-bubble-1-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/fHkWm3nN8P.png",
     "country": "The United States Of America",
     "tags": "coon rapids,minneapolis,talk radio",
     "votes": 227
@@ -1374,7 +1384,7 @@
     "name": "Radio Disney Country FM 99.1",
     "url": "https://listen.radioking.com/radio/453221/stream/508076",
     "url_resolved": "https://listen.radioking.com/radio/453221/stream/508076",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSNzAYoI5Femhuri7WV9SNYheO4GO_Ovr_MUzgWIWYg&s/favicon.ico",
+    "favicon": "https://radioink.com/wp-content/uploads/2019/11/RadioDisneys-logos.jpg",
     "country": "The United States Of America",
     "tags": "county music,pop",
     "votes": 174
@@ -1574,7 +1584,7 @@
     "name": "Yacht Rock Miami",
     "url": "https://anchor.yachtrock.miami/listen/yacht_rock_miami/perignon.mp3",
     "url_resolved": "https://anchor.yachtrock.miami/listen/yacht_rock_miami/perignon.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/755/yacht-rock-miami.080eb27e.pngg",
+    "favicon": "https://www.getmeradio.com/stations/yachtrockmiami-1335/logos/512x512.png",
     "country": "The United States Of America",
     "tags": "yacht rock",
     "votes": 125
@@ -1584,7 +1594,7 @@
     "name": "WXTS 88.3 - Real Jazz Radio Toledo, OH",
     "url": "http://ice23.securenetsystems.net/WXTS",
     "url_resolved": "http://ice23.securenetsystems.net/WXTS",
-    "favicon": "https://cdnrf.securenetsystems.net//file_radio/stations_large/WXTS/mobile/v9/orig/iconApp.png?r=20230319122538",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/074/wxts-jazz-883-fm.bb3936f7.jpg",
     "country": "The United States Of America",
     "tags": "jazz",
     "votes": 122
@@ -1634,7 +1644,7 @@
     "name": "Ambiant Sleeping Pill",
     "url": "https://radio.stereoscenic.com/asp-s",
     "url_resolved": "https://radio.stereoscenic.com/asp-s",
-    "favicon": "https://ambientsleepingpill.com/wp-content/uploads/cropped-asp-small-logo-512-trans-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/914/ambient-sleeping-pill.c6238c6a.png",
     "country": "The United States Of America",
     "tags": "radio",
     "votes": 112
@@ -1664,7 +1674,7 @@
     "name": "ATOS Theatre Organ Radio",
     "url": "http://atosradio.com:8001/ATOSRadio",
     "url_resolved": "http://atosradio.com:8001/ATOSRadio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/089/atos-theatre-organ-radio.362024db.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/089/atos-theatre-organ-radio.362024db.jpg",
     "country": "The United States Of America",
     "tags": "instrumental,organ,theatre",
     "votes": 110
