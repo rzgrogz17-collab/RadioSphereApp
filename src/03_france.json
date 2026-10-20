@@ -60,6 +60,266 @@
     "votes": 1995
   },
   {
+    "stationuuid": "01b61e49-18bd-486d-b0e1-cb51cbaf9a6d",
+    "name": "Skyrock",
+    "url": "http://icecast.skyrock.net/s/natio_mp3_128k",
+    "url_resolved": "http://icecast.skyrock.net/s/natio_mp3_128k",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/056/skyrock.b2e80fc9.png",
+    "country": "France",
+    "tags": "rap",
+    "votes": 1994
+  },
+  {
+    "stationuuid": "36eba167-5c51-4421-98f0-d2cda24be928",
+    "name": "Nrj Hits",
+    "url": "https://streaming.nrjaudio.fm/oumvmk8fnozc",
+    "url_resolved": "https://streaming.nrjaudio.fm/oumvmk8fnozc",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/619/nrj-radio.8e389a5b.png",
+    "country": "France",
+    "tags": "Pop / Top 40,Danse / EDM",
+    "votes": 1993
+  },
+  {
+    "stationuuid": "f9ed1fa4-63d7-45a4-bdd6-48c5567f0f6b",
+    "name": "Chérie FM",
+    "url": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
+    "url_resolved": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/571/radio-cherie-fm.cee62f19.png",
+    "country": "France",
+    "tags": "Années 00",
+    "votes": 1992
+  },
+  {
+    "stationuuid": "034d52a3-30dc-4017-8495-004cd65383b1",
+    "name": "RTL2",
+    "url": "https://icecast.rtl2.fr/rtl2-1-44-128",
+    "url_resolved": "https://icecast.rtl2.fr/rtl2-1-44-128",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/798/radio-rtl-2-direct.903caddb.jpg",
+    "country": "France",
+    "tags": "pop,rock",
+    "votes": 1991
+  },
+  {
+    "stationuuid": "9f756e2d-8e9b-45f5-8fc1-61573e23036b",
+    "name": "FUN Radio",
+    "url": "http://icecast.funradio.fr/fun-1-44-128",
+    "url_resolved": "http://icecast.funradio.fr/fun-1-44-128",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/796/fun-radio-france.0681849b.png",
+    "country": "France",
+    "tags": "dance,electro,latino",
+    "votes": 1990
+  },
+  {
+    "stationuuid": "932eb148-e6f6-11e9-a96c-52543be04c81",
+    "name": "FIP",
+    "url": "http://icecast.radiofrance.fr/fip-hifi.aac",
+    "url_resolved": "http://icecast.radiofrance.fr/fip-hifi.aac",
+    "favicon": "https://stan-mathis.com/images/presse/FIP_logo_2005.png",
+    "country": "France",
+    "tags": "Variété,Alternative / Indie",
+    "votes": 1989
+  },
+  {
+    "stationuuid": "a70cdc64-9a33-4432-91a1-957beb5ac6e7",
+    "name": "Rire et Chansons",
+    "url": "https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios",
+    "url_resolved": "https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/635/radio-rire-et-chanson.6d4ae057.png",
+    "country": "France",
+    "tags": "radio",
+    "votes":1988
+  },
+  {
+    "stationuuid": "be1e97e2-064a-4710-9ce9-d792d8beb1ca",
+    "name": "Europe 2",
+    "url": "http://europe2.lmn.fm/europe2.mp3",
+    "url_resolved": "http://europe2.lmn.fm/europe2.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/813/virgin-radio-france.ad4db024.jpg",
+    "country": "France",
+    "tags": "pop rock",
+    "votes": 1987
+  },
+  {
+    "stationuuid": "963fb390-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Nova",
+    "url": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
+    "url_resolved": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/424/radio-nova-france.086bd724.jpg",
+    "country": "France",
+    "tags": "alternative,pop,world music",
+    "votes": 1986
+  },
+  {
+    "stationuuid": "d1aa02d7-e611-4208-b38b-da21bc236cd8",
+    "name": "Radio Classique",
+    "url": "https://str0.creacast.com/classique1",
+    "url_resolved": "https://str0.creacast.com/classique1",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/420/radio-classique.89e88431.png",
+    "country": "France",
+    "tags": "",
+    "votes": 1985
+  },
+  {
+    "stationuuid": "6a1440b2-e6f0-11e9-a96c-52543be04c81",
+    "name": "France Culture",
+    "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+    "url_resolved": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/374/france-culture.2b69e363.png",
+    "country": "France",
+    "tags": "aac,culture,public radio,radio france",
+    "votes": 1984
+  },
+  {
+    "stationuuid": "9613faf1-0601-11e8-ae97-52543be04c81",
+    "name": "M Radio Francophonie",
+    "url": "http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3",
+    "url_resolved": "http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/180/mfm-radio.9e475b7c.png",
+    "country": "France",
+    "tags": "Pop / Top 40,Variété,Adult Contemporary",
+    "votes": 1983
+  },
+   {
+    "stationuuid": "2e5c08e4-ab83-4036-baf6-339aeffcb3b8",
+    "name": "BFM Radio",
+    "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+    "url_resolved": "https://audio.bfmtv.com/bfmradio_128.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/571/bfm-radio3.8511aeb8.png",
+    "country": "France",
+    "tags": "Infos,Discussions et débats",
+    "votes": 1982
+  },
+  {
+    "stationuuid": "9609743b-0601-11e8-ae97-52543be04c81",
+    "name": "Chante France",
+    "url": "http://stream.chantefrance.com/Chante_France",
+    "url_resolved": "http://stream.chantefrance.com/Chante_France",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/NEAvLcfyyr.png",
+    "country": "France",
+    "tags": "Pop / Top 40 ,Adult Contemporary",
+    "votes": 1981
+  },
+  {
+    "stationuuid": "dad680e2-76eb-4f26-adaf-c955e727663e",
+    "name": "FG.DJ RADIO 98.2",
+    "url": "https://n01-us.rcs.revma.com/7081n2b6p98uv?rj-ttl=5&rj-tok=AAABoQy6NvQArOZVbYZFvVn0iw",
+    "url_resolved": "https://n01-us.rcs.revma.com/7081n2b6p98uv?rj-ttl=5&rj-tok=AAABoQy6NvQArOZVbYZFvVn0iw",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/265/fg.c7bcf930.jpg",
+    "country": "France",
+    "tags": "Techno ,Danse / EDM,House",
+    "votes": 1980
+  },
+  {
+    "stationuuid": "da5f481e-f8d6-49b3-b213-514027740d409",
+    "name": "Skyrock Klassiks",
+    "url": "https://icecast.skyrock.net/s/klassiks_aac_128k?tvr_name=mytuner&tvr_section1=64aac",
+    "url_resolved": "https://icecast.skyrock.net/s/klassiks_aac_128k?tvr_name=mytuner&tvr_section1=64aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/058/skyrock-klassiks.19cd1598.png",
+    "country": "France",
+    "tags": "Hip-hop",
+    "votes": 1979
+  },
+  {
+    "stationuuid": "96136fe5-0601-11e8-ae97-52543be04c81",
+    "name": "Jazz Radio",
+    "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+    "url_resolved": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/342/jazz-radio.f395517e.png",
+    "country": "France",
+    "tags": "jazz,soul",
+    "votes": 1978
+  },
+  {
+    "stationuuid": "96136fe5-0601-41e8-ae97-52543be04c77",
+    "name": "Impact FM - Années 80",
+    "url": "https://impactfmannees80.ice.infomaniak.ch/impactfmannees80-64.aac",
+    "url_resolved": "https://impactfmannees80.ice.infomaniak.ch/impactfmannees80-64.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/730/impact-annees-80.9d763eac.jpg",
+    "country": "France",
+    "tags": "Années 80,Old School",
+    "votes": 1977
+  },
+  {
+    "stationuuid": "958c558d-6b13-4829-92ff-49233f56de97",
+    "name": "OUI FM",
+    "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
+    "url_resolved": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/855/oui-fm.d974774d.png",
+    "country": "France",
+    "tags": "rock,variété",
+    "votes": 1976
+  },
+  {
+    "stationuuid": "9617ba77-0601-11e8-ae97-52543be04c81",
+    "name": "Latina Salsa",
+    "url": "http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3",
+    "url_resolved": "http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/930/latina.e5afe351.png",
+    "country": "France",
+    "tags": "latin",
+    "votes": 1975
+  },
+  {
+    "stationuuid": "960c68f8-0601-11e8-ae97-52543be04c81",
+    "name": "RFI Monde",
+    "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+    "url_resolved": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/420/rfi-monde.5f56b1a1.png",
+    "country": "France",
+    "tags": "news,world music",
+    "votes": 1974
+  },
+  {
+    "stationuuid": "ce61ecb3-cf9f-4991-b860-32047def71ed",
+    "name": "TSF Jazz",
+    "url": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+    "url_resolved": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/450/tsf-jazz.c599fd3d.png",
+    "country": "France",
+    "tags": "jazz",
+    "votes": 1973
+  },
+  {
+    "stationuuid": "81940088-0a76-141e8-ae97-52543be04c18",
+    "name": "ABC Lounge Jazz",
+    "url": "https://listen.openstream.co/3139/audio",
+    "url_resolved": "https://cast1.asurahosting.com/proxy/julien/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/218/abc-lounge-jazz.802e5230.png",
+    "country": "France",
+    "tags": "Jazz,Folk,Détente",
+    "votes": 1972
+  },
+  {
+    "stationuuid": "81940088-0a76-141e8-ae97-52543be04c18",
+    "name": "Radio Orient",
+    "url": "https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3",
+    "url_resolved": "https://stream.rcs.revma.com/7hnrkawf4p8uv",
+    "favicon": "https://www.lalettre.pro/photo/art/grande/24016154-26032591.jpg",
+    "country": "France",
+    "tags": "Infos,Islam,Musique orientale",
+    "votes": 1971
+  },
+  {
+    "stationuuid": "81440088-0a76-11e8-ae97-52543be04c81",
+    "name": "France Musique",
+    "url": "http://icecast.radiofrance.fr/francemusique-midfi.mp3",
+    "url_resolved": "http://icecast.radiofrance.fr/francemusique-midfi.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/376/france-musique.f5afb05c.png",
+    "country": "France",
+    "tags": "classical,jazz,music,public radio,radio france",
+    "votes": 1970
+  },
+  {
+    "stationuuid": "188c36ae-f1ef-4b5c-8587-f29c216bfaa2",
+    "name": "Sud Radio",
+    "url": "https://ice.creacast.com/sudradio",
+    "url_resolved": "https://ice.creacast.com/sudradio",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/928/sud-radio-france2.7fb386ff.png",
+    "country": "France",
+    "tags": "conservative,info,mp3,news,talk",
+    "votes": 1973
+  },
+  {
     "stationuuid": "da5f481e-f7d6-49b3-b213-514027740d39",
     "name": "RMC",
     "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
@@ -170,16 +430,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "6a1440b2-e6f0-11e9-a96c-52543be04c81",
-    "name": "France Culture",
-    "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
-    "url_resolved": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/374/france-culture.2b69e363.png",
-    "country": "France",
-    "tags": "aac,culture,public radio,radio france",
-    "votes": 165
-  },
-  {
     "stationuuid": "96102c22-0601-11e8-ae97-52543be04c81",
     "name": "Jazz Radio Blues",
     "url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
@@ -210,16 +460,6 @@
     "votes": 102
   },
   {
-    "stationuuid": "01b61e49-18bd-486d-b0e1-cb51cbaf9a6d",
-    "name": "Skyrock",
-    "url": "http://icecast.skyrock.net/s/natio_mp3_128k",
-    "url_resolved": "http://icecast.skyrock.net/s/natio_mp3_128k",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/056/skyrock.b2e80fc9.png",
-    "country": "France",
-    "tags": "rap",
-    "votes": 85
-  },
-  {
     "stationuuid": "60ceaabd-4efd-4f47-b961-0dab6f475731",
     "name": "EuroDance 90 radio",
     "url": "https://stream-eurodance90.fr/radio/8000/128.mp3",
@@ -230,66 +470,6 @@
     "votes": 82
   },
   {
-    "stationuuid": "96136fe5-0601-41e8-ae97-52543be04c77",
-    "name": "Jazz FM",
-    "url": "http://broadcast.infomaniak.ch/jazzradio-high.aac",
-    "url_resolved": "http://broadcast.infomaniak.ch/jazzradio-high.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/342/jazz-radio.f395517e.png",
-    "country": "France",
-    "tags": "jazz,soul",
-    "votes": 75
-  },
-  {
-    "stationuuid": "96136fe5-0601-11e8-ae97-52543be04c81",
-    "name": "Jazz Radio",
-    "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
-    "url_resolved": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/342/jazz-radio.f395517e.png",
-    "country": "France",
-    "tags": "jazz,soul",
-    "votes": 75
-  },
-  {
-    "stationuuid": "034d52a3-30dc-4017-8495-004cd65383b1",
-    "name": "RTL2",
-    "url": "https://icecast.rtl2.fr/rtl2-1-44-128",
-    "url_resolved": "https://icecast.rtl2.fr/rtl2-1-44-128",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/798/radio-rtl-2-direct.903caddb.jpg",
-    "country": "France",
-    "tags": "pop,rock",
-    "votes": 74
-  },
-  {
-    "stationuuid": "9f756e2d-8e9b-45f5-8fc1-61573e23036b",
-    "name": "FUN Radio",
-    "url": "http://icecast.funradio.fr/fun-1-44-128",
-    "url_resolved": "http://icecast.funradio.fr/fun-1-44-128",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png",
-    "country": "France",
-    "tags": "dance,electro,latino",
-    "votes": 62
-  },
-  {
-    "stationuuid": "9609743b-0601-11e8-ae97-52543be04c81",
-    "name": "Chante France",
-    "url": "http://stream.chantefrance.com/Chante_France",
-    "url_resolved": "http://stream.chantefrance.com/Chante_France",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/NEAvLcfyyr.png",
-    "country": "France",
-    "tags": "",
-    "votes": 54
-  },
-  {
-    "stationuuid": "d1aa02d7-e611-4208-b38b-da21bc236cd8",
-    "name": "Radio Classique",
-    "url": "https://str0.creacast.com/classique1",
-    "url_resolved": "https://str0.creacast.com/classique1",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/420/radio-classique.89e88431.png",
-    "country": "France",
-    "tags": "",
-    "votes": 53
-  },
-  {
     "stationuuid": "96136071-0601-11e8-ae97-52543be04c81",
     "name": "Jazz Radio Classic Jazz",
     "url": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
@@ -298,86 +478,6 @@
     "country": "France",
     "tags": "classical,jazz",
     "votes": 50
-  },
-  {
-    "stationuuid": "963fb390-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Nova",
-    "url": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
-    "url_resolved": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/424/radio-nova-france.086bd724.jpg",
-    "country": "France",
-    "tags": "alternative,pop,world music",
-    "votes": 50
-  },
-  {
-    "stationuuid": "960c68f8-0601-11e8-ae97-52543be04c81",
-    "name": "RFI Monde",
-    "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
-    "url_resolved": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/420/rfi-monde.5f56b1a1.png",
-    "country": "France",
-    "tags": "news,world music",
-    "votes": 47
-  },
-  {
-    "stationuuid": "be1e97e2-064a-4710-9ce9-d792d8beb1ca",
-    "name": "Europe 2",
-    "url": "http://europe2.lmn.fm/europe2.mp3",
-    "url_resolved": "http://europe2.lmn.fm/europe2.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/813/virgin-radio-france.ad4db024.jpg",
-    "country": "France",
-    "tags": "pop rock",
-    "votes": 44
-  },
-  {
-    "stationuuid": "932eb148-e6f6-11e9-a96c-52543be04c81",
-    "name": "FIP",
-    "url": "http://icecast.radiofrance.fr/fip-hifi.aac",
-    "url_resolved": "http://icecast.radiofrance.fr/fip-hifi.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/FfnupQFn7u.png",
-    "country": "France",
-    "tags": "aac,music,public radio,radio france",
-    "votes": 0
-  },
-  {
-    "stationuuid": "188c36ae-f1ef-4b5c-8587-f29c216bfaa2",
-    "name": "Sud Radio",
-    "url": "https://ice.creacast.com/sudradio",
-    "url_resolved": "https://ice.creacast.com/sudradio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/928/sud-radio-france2.7fb386ff.png",
-    "country": "France",
-    "tags": "conservative,info,mp3,news,talk",
-    "votes": 0
-  },
-  {
-    "stationuuid": "81440088-0a76-11e8-ae97-52543be04c81",
-    "name": "France Musique",
-    "url": "http://icecast.radiofrance.fr/francemusique-midfi.mp3",
-    "url_resolved": "http://icecast.radiofrance.fr/francemusique-midfi.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/376/france-musique.f5afb05c.png",
-    "country": "France",
-    "tags": "classical,jazz,music,public radio,radio france",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9617ba77-0601-11e8-ae97-52543be04c81",
-    "name": "Latina Salsa",
-    "url": "http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3",
-    "url_resolved": "http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/254/latina-salsa.372bf5f2.png",
-    "country": "France",
-    "tags": "latin",
-    "votes": 0
-  },
-  {
-    "stationuuid": "958c558d-6b13-4829-92ff-49233f56de97",
-    "name": "OUI FM",
-    "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
-    "url_resolved": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/855/oui-fm.d974774d.png",
-    "country": "France",
-    "tags": "rock",
-    "votes": 4835
   },
   {
     "stationuuid": "042d3140-227c-4fac-9387-4903b692d5f2",
@@ -397,36 +497,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/381/mouv.818f4798.jpg",
     "country": "France",
     "tags": "aac,music,public radio,radio france",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a70cdc64-9a33-4432-91a1-957beb5ac6e7",
-    "name": "Rire et Chansons",
-    "url": "https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios",
-    "url_resolved": "https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/fr/thumb/e/e6/RIRECHANSONS.svg/500px-RIRECHANSONS.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "France",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "36eba167-5c51-4421-98f0-d2cda24be928",
-    "name": "Nrj Hits",
-    "url": "https://streaming.nrjaudio.fm/ouuk8j5n3nje",
-    "url_resolved": "https://streaming.nrjaudio.fm/ouuk8j5n3nje",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/620/nrj-hits.c85ce4ae.jpg",
-    "country": "France",
-    "tags": "hits",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ce61ecb3-cf9f-4991-b860-32047def71ed",
-    "name": "TSF Jazz",
-    "url": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
-    "url_resolved": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/450/tsf-jazz.c599fd3d.png",
-    "country": "France",
-    "tags": "radio",
     "votes": 0
   },
   {
@@ -780,26 +850,6 @@
     "votes": 187
   },
   {
-    "stationuuid": "9613faf1-0601-11e8-ae97-52543be04c81",
-    "name": "M Radio Francophonie",
-    "url": "http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3",
-    "url_resolved": "http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/350/m-radio-francophonie.f511b062.jpg",
-    "country": "France",
-    "tags": "radio",
-    "votes": 97
-  },
-  {
-    "stationuuid": "2e5c08e4-ab83-4036-baf6-339aeffcb3b8",
-    "name": "BFM Radio (128.mp3)",
-    "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
-    "url_resolved": "https://audio.bfmtv.com/bfmradio_128.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/571/bfm-radio3.8511aeb8.png",
-    "country": "France",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "5c781485-ee91-47bc-aa2d-bbe66024ff52",
     "name": "Radio Choco",
     "url": "https://listen.radioking.com/radio/669715/stream/733765",
@@ -880,16 +930,6 @@
     "votes": 246
   },
   {
-    "stationuuid": "f9ed1fa4-63d7-45a4-bdd6-48c5567f0f6b",
-    "name": "Chérie FM",
-    "url": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
-    "url_resolved": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/571/radio-cherie-fm.cee62f19.png",
-    "country": "France",
-    "tags": "radio",
-    "votes": 215
-  },
-  {
     "stationuuid": "ae6b2e23-248c-11e8-91bf-52543be04c81",
     "name": "Soleil FM",
     "url": "http://radio-shoutcast2.cyber-streaming.com:8120/;",
@@ -938,16 +978,6 @@
     "country": "France",
     "tags": "radio",
     "votes": 182
-  },
-  {
-    "stationuuid": "dad680e2-76eb-4f26-adaf-c955e727663e",
-    "name": "Radio FG 98.2",
-    "url": "https://n01-us.rcs.revma.com/7081n2b6p98uv?rj-ttl=5&rj-tok=AAABoQy6NvQArOZVbYZFvVn0iw",
-    "url_resolved": "https://n01-us.rcs.revma.com/7081n2b6p98uv?rj-ttl=5&rj-tok=AAABoQy6NvQArOZVbYZFvVn0iw",
-    "favicon": "https://play-lh.googleusercontent.com/EkigAkEtsnvSZgXUXgY4eFsBcLgKo9KKloDC784c-QuF25wHe0wOpP2TgqVBUN_4Zbp5QUXhbIFNbaqD5ho_8Q=w240-h480",
-    "country": "France",
-    "tags": "radio",
-    "votes": 166
   },
   {
     "stationuuid": "f5465623-6be1-49bc-b3f9-83ded8c00705",
