@@ -14,7 +14,7 @@
     "name": "talkSPORT",
     "url": "https://talksport.live.stream.broadcasting.news/stream",
     "url_resolved": "https://talksport.live.stream.broadcasting.news/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/22yeCk65a6.jpg",
+    "favicon": "https://assets.radioplayer.org/826/826500/1400/1400/lgcd6blf.png",
     "country": "United Kingdom",
     "tags": "news",
     "votes": 1501
@@ -42,8 +42,8 @@
   {
     "stationuuid": "9608ade8-0601-11e8-ae97-52543be04c81",
     "name": "Heart London 106.2",
-    "url": "http://ice-sov.musicradio.com/HeartLondonMP3",
-    "url_resolved": "http://ice-sov.musicradio.com/HeartLondonMP3",
+    "url": "https://media-ssl.musicradio.com/HeartLondon",
+    "url_resolved": "https://media-ssl.musicradio.com/HeartLondon",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/956/heart-london-1062.e0548a1b.png",
     "country": "United Kingdom",
     "tags": "commercial,hot adult contemporary,london",
