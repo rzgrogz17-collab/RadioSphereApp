@@ -70,6 +70,56 @@
     "votes": 1494
   },
   {
+    "stationuuid": "f8a910c3-fd87-4376-af20-1af5bfec6ab4",
+    "name": "Radio M2O",
+    "url": "https://streamcdni1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8",
+    "url_resolved": "https://streamcdni1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/298/radio-m2o.24a4d505.jpg",
+    "country": "Italy",
+    "tags": "commercial,dance,electronic,house",
+    "votes": 1993
+  },
+  {
+    "stationuuid": "e5a0255c-1a28-4e9c-8ece-466ed39be2af",
+    "name": "RDS relax",
+    "url": "http://icstream.rds.radio/rdsrelax",
+    "url_resolved": "http://icstream.rds.radio/rdsrelax",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/698/rds-relax.00deead8.png",
+    "country": "Italy",
+    "tags": "",
+    "votes": 1992
+  },
+  {
+    "stationuuid": "632c1b9b-6735-45b4-a96f-2d024a932c79",
+    "name": "Radio Kiss Kiss Napoli",
+    "url": "https://kisskiss.fluidstream.eu/KKNapoli.mp3",
+    "url_resolved": "https://kisskiss.fluidstream.eu/KKNapoli.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/077/radio-kiss-kiss-napoli.9ebfd8e6.png",
+    "country": "Italy",
+    "tags": "Radio locale",
+    "votes": 1991
+  },
+  {
+    "stationuuid": "044acc55-255b-4382-af22-ccf28445bb3e",
+    "name": "Radio Capital",
+    "url": "https://nmcdn-4c4b867c89244861ac216426883d1ad0.msvdn.net/icecastRelay/S27527655/PgDUwbWSoFKn/icecast",
+    "url_resolved": "https://streamcdnf25-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/676/radio-capital-live.515e2038.png",
+    "country": "Italy",
+    "tags": "Pop / Top 40,Oldies",
+    "votes": 1990
+  },
+  {
+    "stationuuid": "9619eb8a-0601-11e8-ae97-52543be04c81",
+    "name": "Virgin Radio Italia",
+    "url": "http://icecast.unitedradio.it/Virgin.mp3",
+    "url_resolved": "http://icecast.unitedradio.it/Virgin.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/virgin-radio.89dd9417.png",
+    "country": "Italy",
+    "tags": "mediaset,pop rock",
+    "votes": 1989
+  },
+  {
     "stationuuid": "37e29298-81c9-4996-bd22-4e905296d7f8",
     "name": "RMC Music Star Mina",
     "url": "http://edge.radiomontecarlo.net/rmcweb014",
@@ -240,16 +290,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "e5a0255c-1a28-4e9c-8ece-466ed39be2af",
-    "name": "RDS relax",
-    "url": "http://icstream.rds.radio/rdsrelax",
-    "url_resolved": "http://icstream.rds.radio/rdsrelax",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/698/rds-relax.00deead8.png",
-    "country": "Italy",
-    "tags": "",
-    "votes": 0
-  },
-  {
     "stationuuid": "5532c4d9-616e-4d62-a49f-984a13e3189c",
     "name": "50s 60s RETRO HITS",
     "url": "https://stream.zeno.fm/pxzwykxbluitv",
@@ -300,26 +340,6 @@
     "votes": 27
   },
   {
-    "stationuuid": "044acc55-255b-4382-af22-ccf28445bb3e",
-    "name": "Radio Capital",
-    "url": "https://nmcdn-4c4b867c89244861ac216426883d1ad0.msvdn.net/icecastRelay/S27527655/PgDUwbWSoFKn/icecast",
-    "url_resolved": "https://nmcdn-4c4b867c89244861ac216426883d1ad0.msvdn.net/icecastRelay/S27527655/PgDUwbWSoFKn/icecast",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/676/radio-capital-live.515e2038.png",
-    "country": "Italy",
-    "tags": "",
-    "votes": 26
-  },
-  {
-    "stationuuid": "9619eb8a-0601-11e8-ae97-52543be04c81",
-    "name": "Virgin Radio Italia",
-    "url": "http://icecast.unitedradio.it/Virgin.mp3",
-    "url_resolved": "http://icecast.unitedradio.it/Virgin.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Virgin_Radio_Italy_logo.svg/500px-Virgin_Radio_Italy_logo.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Italy",
-    "tags": "mediaset,pop rock",
-    "votes": 0
-  },
-  {
     "stationuuid": "962766ef-0601-11e8-ae97-52543be04c81",
     "name": "R101 Made in Italy",
     "url": "http://icy.unitedradio.it/R101MadeInItaly.aac",
@@ -337,16 +357,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/629/radio-subasio.cb8e49ac.jpg",
     "country": "Italy",
     "tags": "assisi,italy,mediaset",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f8a910c3-fd87-4376-af20-1af5bfec6ab4",
-    "name": "Radio M2O",
-    "url": "https://streamcdni1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8",
-    "url_resolved": "https://streamcdni1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/298/radio-m2o.24a4d505.jpg",
-    "country": "Italy",
-    "tags": "commercial,dance,electronic,house",
     "votes": 0
   },
   {
@@ -585,16 +595,6 @@
     "url": "http://icecast.unitedradio.it/r101",
     "url_resolved": "http://icecast.unitedradio.it/r101",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/023/radio-r101.ed50d960.png",
-    "country": "Italy",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "632c1b9b-6735-45b4-a96f-2d024a932c79",
-    "name": "Radio Kiss Kiss Napoli",
-    "url": "https://kisskiss.fluidstream.eu/KKNapoli.mp3",
-    "url_resolved": "https://kisskiss.fluidstream.eu/KKNapoli.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/077/radio-kiss-kiss-napoli.9ebfd8e6.png",
     "country": "Italy",
     "tags": "radio",
     "votes": 0
