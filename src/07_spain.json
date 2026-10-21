@@ -1,43 +1,203 @@
 [
   {
+    "stationuuid": "b34cbbb3-7809-18e9-aa22-52123be04c77",
+    "name": "Cadena COPE - 106.3 FM",
+    "url": "https://flucast-bl04.flumotion.com/cope/net1.mp3",
+    "url_resolved": "https://flucast-bl04.flumotion.com/cope/net1.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/556/cadena-cope.fb1248fc.png",
+    "country": "Spain",
+    "tags": "Variado,Radio hablada,Madrid",
+    "votes": 1500
+  },
+  {
     "stationuuid": "d5fa92f2-9884-632b-88fa-45d967862e0e",
     "name": "EsRadio",
     "url": "http://livestreaming.esradio.fm/stream64.mp3",
     "url_resolved": "http://livestreaming.esradio.fm/stream64.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/592/esradio.fab2c4b6.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/EsRadio.jpg",
     "country": "Spain",
     "tags": "Deportes,Noticias,Radio hablada",
-    "votes": 0
+    "votes": 1499
+  },
+  {
+    "stationuuid": "692a3b69-0f68-11ea-a87e-52543be04c81",
+    "name": "Cadena SER España",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/3yE4sGgKJ3.jpg",
+    "country": "Spain",
+    "tags": "cultural news,live,news,news talk,spanish,sports news",
+    "votes": 1498
+  },
+  {
+    "stationuuid": "b8601593-152a-429d-9cb2-5065cf7c0185",
+    "name": "ONDA CERO (España)",
+    "url": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
+    "url_resolved": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/168/onda-cero-madrid.eb6cebfc.png",
+    "country": "Spain",
+    "tags": "noticias y música",
+    "votes": 1497
+  },
+  {
+    "stationuuid": "b81c57c3-eb05-47ac-a0ea-eb01a6960cc4",
+    "name": "LOS 40 Principales",
+    "url": "https://25493.live.streamtheworld.com:443/LOS40.mp3",
+    "url_resolved": "https://25493.live.streamtheworld.com:443/LOS40.mp3",
+    "favicon": "https://envivo.los40.cl/build/assets/los40chile/img/cuadrada.jpg",
+    "country": "Spain",
+    "tags": "music,pop,top 40, España",
+    "votes": 1996
+  },
+  {
+    "stationuuid": "de39fc19-0636-4d05-acbb-2aba2c0d1f7a",
+    "name": "LOS40 Classic",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/WwgbG6g5tt.png",
+    "country": "Spain",
+    "tags": "Contemporánea para adultos,Años 80,Años 90",
+    "votes": 1995
   },
   {
     "stationuuid": "d5fa87f2-7394-531b-88fa-44d123658e0e",
     "name": "Radio Marca Nacional",
     "url": "https://27863.live.streamtheworld.com/RADIOMARCA_NACIONAL_SC",
     "url_resolved": "https://27863.live.streamtheworld.com/RADIOMARCA_NACIONAL_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/076/radio-marca.04f5691c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/076/radio-marca.04f5691c.png",
     "country": "Spain",
     "tags": "Deportes",
-    "votes": 0
+    "votes": 1994
   },
   {
     "stationuuid": "7a4c78ee-9a86-410d-97bf-83b99f59bc02",
     "name": "IBIZA LIVE RADIO",
     "url": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
     "url_resolved": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
-    "favicon": "https://www.radio.net/175/ibizalive.jpeg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/IBIZALIVERADIOES.png",
     "country": "Spain",
     "tags": "DJ,House,Electro",
-    "votes": 0
+    "votes": 1993
+  },
+  {
+    "stationuuid": "743889d5-5472-4e9f-ac61-5f0f04e7efa8",
+    "name": "KISS FM",
+    "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+    "url_resolved": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/117/kiss-fm.51b9402b.jpg",
+    "country": "Spain",
+    "tags": "2000s,80's,80s,90's,90s,music,Años 80,Antiguas",
+    "votes": 1992
+  },
+  {
+    "stationuuid": "960c37c6-0601-11e8-ae97-52543be04c81",
+    "name": "Cadena 100",
+    "url": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
+    "url_resolved": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/544/cadena-100.0f175521.jpg",
+    "country": "Spain",
+    "tags": "music",
+    "votes": 1991
+  },
+  {
+    "stationuuid": "84c6f3cc-3c66-415d-aff5-050b5f330adc",
+    "name": "Cadena Dial",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
+    "url_resolved": "https://28033.live.streamtheworld.com/CADENADIALAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/511/cadena-dial-directo.02aaa529.png",
+    "country": "Spain",
+    "tags": "música en español,Latino",
+    "votes": 1990
+  },
+  {
+    "stationuuid": "9649dec5-0601-11e8-ae97-52543be04c81",
+    "name": "Rock FM",
+    "url": "http://flucast02-h-cloud.flumotion.com/cope/rockfm-low.mp3",
+    "url_resolved": "http://flucast02-h-cloud.flumotion.com/cope/rockfm-low.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/167/rock-fm.78334880.png",
+    "country": "Spain",
+    "tags": "Rock",
+    "votes": 1989
+  },
+  {
+    "stationuuid": "5d6b6684-d6721-588a-83fc-1d0d04800780",
+    "name": "RNE 1 Radio Nacional",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
+    "url_resolved": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/711/rne.81d258e6.png",
+    "country": "Spain",
+    "tags": "Deportes,Noticias,Radio hablada",
+    "votes": 1988
+  },
+  {
+    "stationuuid": "38a33fc0-be05-4c98-8c6a-ba3869575bc1",
+    "name": "RAC1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1_SC",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Logotip_de_RAC_1.svg/960px-Logotip_de_RAC_1.svg.png",
+    "country": "Spain",
+    "tags": "culture,humour,local news,news,sports",
+    "votes": 1987
+  },
+  {
+    "stationuuid": "8cc2da8b-ae85-4e37-9027-9ad765a1ea7a",
+    "name": "Los 40 Urban",
+    "url": "https://20073.live.streamtheworld.com:443/LOS40_URBAN.mp3",
+    "url_resolved": "https://20073.live.streamtheworld.com:443/LOS40_URBAN.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/wjjjFDCWEd.jpg",
+    "country": "Spain",
+    "tags": "dance,music,pop,urban",
+    "votes": 1986
+  },
+  {
+    "stationuuid": "5d6b5573-d661-477a-82fc-1d0d03799679",
+    "name": "Radio 5 RNE",
+    "url": "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high",
+    "url_resolved": "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/745/radio-5.9b6b99b4.png",
+    "country": "Spain",
+    "tags": "news,talk,nacional,españa",
+    "votes": 1985
+  },
+  {
+    "stationuuid": "00526b4f-47a3-432d-baca-f914c1273f0b",
+    "name": "Cope Madrid FM",
+    "url": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3",
+    "url_resolved": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/871/cope-madrid.51d780e3.png",
+    "country": "Spain",
+    "tags": "Variado,Radio hablada",
+    "votes": 1994
+  },
+  {
+    "stationuuid": "40cf6cba-2dde-11ea-aa0c-52543be04c81",
+    "name": "Radiolé",
+    "url": "http://28573.live.streamtheworld.com/RADIOLEAAC_SC",
+    "url_resolved": "http://28573.live.streamtheworld.com/RADIOLEAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/293/radiole.cfef710c.png",
+    "country": "Spain",
+    "tags": "Latino",
+    "votes": 1993
+  },
+  {
+    "stationuuid": "c53cbbb3-7809-11e9-aa30-52543be04c81",
+    "name": "Cope Sevilla",
+    "url": "http://wecast12-h-cloud.flumotion.com/copesedes/sevilla.mp3",
+    "url_resolved": "http://wecast12-h-cloud.flumotion.com/copesedes/sevilla.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/888/cope-sevilla.6cf56ae0.png",
+    "country": "Spain",
+    "tags": "Variado,Deportes,Radio hablada,Andalucía - 99.6 FM,Cadena",
+    "votes": 1992
   },
   {
     "stationuuid": "d5fa90f2-7994-531b-88fa-45d976796e0e",
     "name": "S+ ibiza",
     "url": "https://ice.studiopiu.net/studiopiuibiza.aac",
     "url_resolved": "https://ice.studiopiu.net/studiopiuibiza.aac",
-    "favicon": "https://www.radio.net/175/ibizasonica.jpeg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/IBIZASONICAES.jpg",
     "country": "Spain",
-    "tags": "",
-    "votes": 0
+    "tags": "deep house,melodic house,chillout",
+    "votes": 1991
   },
   {
     "stationuuid": "352e8751-e922-428c-8e76-89a623e44ad0",
@@ -210,46 +370,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "692a3b69-0f68-11ea-a87e-52543be04c81",
-    "name": "Cadena SER España",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
-    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/3yE4sGgKJ3.jpg",
-    "country": "Spain",
-    "tags": "cultural news,live,news,news talk,spanish,sports news",
-    "votes": 104
-  },
-  {
-    "stationuuid": "38a33fc0-be05-4c98-8c6a-ba3869575bc1",
-    "name": "RAC1",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/672/rac-1.47923c08.png",
-    "country": "Spain",
-    "tags": "culture,humour,local news,news,sports",
-    "votes": 75
-  },
-  {
-    "stationuuid": "b8601593-152a-429d-9cb2-5065cf7c0185",
-    "name": "ONDA CERO (España)",
-    "url": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
-    "url_resolved": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/168/onda-cero-madrid.eb6cebfc.png",
-    "country": "Spain",
-    "tags": "noticias y música",
-    "votes": 59
-  },
-  {
-    "stationuuid": "de39fc19-0636-4d05-acbb-2aba2c0d1f7a",
-    "name": "LOS40 Classic",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/WwgbG6g5tt.png",
-    "country": "Spain",
-    "tags": "pop rock",
-    "votes": 59
-  },
-  {
     "stationuuid": "3fd18c3f-8157-11e9-aa30-52543be04c81",
     "name": "Café del Mar",
     "url": "https://streams.radio.co/se1a320b47/listen",
@@ -257,7 +377,7 @@
     "favicon": "https://cafedelmar.com/apple-touch-icon.png",
     "country": "Spain",
     "tags": "chillout,ibiza,lounge",
-    "votes": 51
+    "votes": 0
   },
   {
     "stationuuid": "e34d6ca5-d554-49e1-a673-a04d8930f303",
@@ -267,17 +387,7 @@
     "favicon": "https://img2.rtve.es/imagenes/directo-elecciones-cataluna/1504082563113.jpg",
     "country": "Spain",
     "tags": "",
-    "votes": 35
-  },
-  {
-    "stationuuid": "84c6f3cc-3c66-415d-aff5-050b5f330adc",
-    "name": "Cadena Dial",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
-    "url_resolved": "https://28033.live.streamtheworld.com/CADENADIALAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/511/cadena-dial-directo.02aaa529.png",
-    "country": "Spain",
-    "tags": "música en español",
-    "votes": 33
+    "votes": 0
   },
   {
     "stationuuid": "2087b4c4-820a-4545-9bd7-eaf28792f44a",
@@ -340,16 +450,6 @@
     "votes": 21
   },
   {
-    "stationuuid": "5d6b5573-d661-477a-82fc-1d0d03799679",
-    "name": "Radio Nacional de España - Radio 5 Todo noticias",
-    "url": "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high",
-    "url_resolved": "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high",
-    "favicon": "https://www.radio.es/175/rneradio5.jpeg",
-    "country": "Spain",
-    "tags": "news,talk",
-    "votes": 19
-  },
-  {
     "stationuuid": "6e36299b-6a91-4022-9db4-f72a2c8e9fef",
     "name": "RAC1 +1",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3",
@@ -361,43 +461,13 @@
   },
   {
     "stationuuid": "5783c95b-67d9-4976-905a-64acd2b4f7aa",
-    "name": "RNE - R5 --> Madrid",
+    "name": "RNE R5 ",
     "url": "https://dispatcher.rndfnk.com/crtve/rne5/mad/mp3/high",
     "url_resolved": "https://dispatcher.rndfnk.com/crtve/rne5/mad/mp3/high",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RNE-R5.jpg",
     "country": "Spain",
-    "tags": "",
-    "votes": 15
-  },
-  {
-    "stationuuid": "960c37c6-0601-11e8-ae97-52543be04c81",
-    "name": "Cadena 100",
-    "url": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
-    "url_resolved": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/544/cadena-100.0f175521.jpg",
-    "country": "Spain",
-    "tags": "music",
-    "votes": 43726
-  },
-  {
-    "stationuuid": "743889d5-5472-4e9f-ac61-5f0f04e7efa8",
-    "name": "KISS FM",
-    "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-    "url_resolved": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/117/kiss-fm.51b9402b.jpg",
-    "country": "Spain",
-    "tags": "2000s,80's,80s,90's,90s,music",
-    "votes": 4702
-  },
-  {
-    "stationuuid": "c53cbbb3-7809-11e9-aa30-52543be04c81",
-    "name": "Cope Sevilla",
-    "url": "http://wecast12-h-cloud.flumotion.com/copesedes/sevilla.mp3",
-    "url_resolved": "http://wecast12-h-cloud.flumotion.com/copesedes/sevilla.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Logo_de_la_Cadena_COPE.svg/500px-Logo_de_la_Cadena_COPE.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Spain",
-    "tags": "radio",
-    "votes": 4585
+    "tags": "Madrid",
+    "votes": 0
   },
   {
     "stationuuid": "013b6039-7c0b-442e-9617-15c7f068a056",
@@ -420,26 +490,6 @@
     "votes": 185
   },
   {
-    "stationuuid": "9649dec5-0601-11e8-ae97-52543be04c81",
-    "name": "Rock FM",
-    "url": "http://flucast02-h-cloud.flumotion.com/cope/rockfm-low.mp3",
-    "url_resolved": "http://flucast02-h-cloud.flumotion.com/cope/rockfm-low.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/167/rock-fm.78334880.png",
-    "country": "Spain",
-    "tags": "radio",
-    "votes": 24600
-  },
-  {
-    "stationuuid": "40cf6cba-2dde-11ea-aa0c-52543be04c81",
-    "name": "Radiolé",
-    "url": "http://28573.live.streamtheworld.com/RADIOLEAAC_SC",
-    "url_resolved": "http://28573.live.streamtheworld.com/RADIOLEAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/293/radiole.cfef710c.png",
-    "country": "Spain",
-    "tags": "radio",
-    "votes": 4333
-  },
-  {
     "stationuuid": "376b9347-d2df-402c-9118-0da44056a930",
     "name": "Radio Euskadi",
     "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
@@ -447,17 +497,7 @@
     "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Radio_Euskadi.png/500px-Radio_Euskadi.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "country": "Spain",
     "tags": "radio",
-    "votes": 720
-  },
-  {
-    "stationuuid": "b81c57c3-eb05-47ac-a0ea-eb01a6960cc4",
-    "name": "LOS 40 Principales España",
-    "url": "https://25493.live.streamtheworld.com:443/LOS40.mp3",
-    "url_resolved": "https://25493.live.streamtheworld.com:443/LOS40.mp3",
-    "favicon": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
-    "country": "Spain",
-    "tags": "music,pop,top 40",
-    "votes": 34592
+    "votes": 0
   },
   {
     "stationuuid": "49b2b4f0-c60f-11e8-a498-52543be04c81",
@@ -467,7 +507,7 @@
     "favicon": "http://static-1.ivooxcdn.com/radios/0/4/0/3/6371460973040_XXL.jpg",
     "country": "Spain",
     "tags": "entertainment,news",
-    "votes": 654
+    "votes": 0
   },
   {
     "stationuuid": "14f40244-e7a6-40bb-8bd9-4c05bdd4278c",
@@ -477,17 +517,7 @@
     "favicon": "https://myradioonline.es/public/uploads/radio_img/radio-espana/fb_cover.jpg",
     "country": "Spain",
     "tags": "entretenimiento,variedades,varios",
-    "votes": 470
-  },
-  {
-    "stationuuid": "00526b4f-47a3-432d-baca-f914c1273f0b",
-    "name": "Cope Madrid FM",
-    "url": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3",
-    "url_resolved": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/871/cope-madrid.51d780e3.png",
-    "country": "Spain",
-    "tags": "radio",
-    "votes": 454
+    "votes": 0
   },
   {
     "stationuuid": "32becdea-e73a-4d1a-bb5f-587d403fe15b",
@@ -604,7 +634,7 @@
     "name": "Cadena SER - Radio Morón",
     "url": "https://21223.live.streamtheworld.com:443/SER_ASO_MORON.mp3",
     "url_resolved": "https://21223.live.streamtheworld.com:443/SER_ASO_MORON.mp3",
-    "favicon": "https://cdn-profiles.tunein.com/s114093/images/logog.png?t=1",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/706/cadena-ser-moron.e1f569c4.jpg",
     "country": "Spain",
     "tags": "cadenaser,morón de la fra,morón de la frontera,noticias",
     "votes": 59
@@ -904,7 +934,7 @@
     "name": "Cadena Ser Castellón",
     "url": "https://27833.live.streamtheworld.com/SER_ASO_CASTELLON.mp3",
     "url_resolved": "https://27833.live.streamtheworld.com/SER_ASO_CASTELLON.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/500px-Cadena_Ser_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/211/cadena-ser-castellon.3bb845f3.png",
     "country": "Spain",
     "tags": "radio",
     "votes": 1
@@ -1018,16 +1048,6 @@
     "country": "Spain",
     "tags": "radio",
     "votes": 2
-  },
-  {
-    "stationuuid": "8cc2da8b-ae85-4e37-9027-9ad765a1ea7a",
-    "name": "Los 40 Urban",
-    "url": "https://20073.live.streamtheworld.com:443/LOS40_URBAN.mp3",
-    "url_resolved": "https://20073.live.streamtheworld.com:443/LOS40_URBAN.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/wjjjFDCWEd.jpg",
-    "country": "Spain",
-    "tags": "dance,music,pop,urban",
-    "votes": 17318
   },
   {
     "stationuuid": "bc5e41ee-51da-454b-993a-56895be3e864",
