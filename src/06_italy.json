@@ -52,8 +52,8 @@
   {
     "stationuuid": "675bd925-8b13-43fe-a1b9-43bb0f90fbbd",
     "name": "RTL 102.5",
-    "url": "https://streamingv2.shoutcast.com/rtl-1025",
-    "url_resolved": "https://streamingv2.shoutcast.com/rtl-1025",
+    "url": "https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8",
+    "url_resolved": "https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/713/radio-rtl-1025.249f1237.png",
     "country": "Italy",
     "tags": "local,news,varied",
