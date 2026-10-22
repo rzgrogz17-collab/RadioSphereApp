@@ -394,7 +394,7 @@
     "name": "Graba Radio Ibiza",
     "url": "https://radio.grabamusic.com/gmr-hd",
     "url_resolved": "https://radio.grabamusic.com/gmr-hd",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/713/graba-radio-ibiza.7f9dd8af.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/GRABARADIOIBIZAES.jpg",
     "country": "Spain",
     "tags": "dance,electronic",
     "votes": 1472
@@ -470,6 +470,16 @@
     "votes": 1465
   },
   {
+    "stationuuid": "80275338-f9c4-418c-a142-28acf902ef5c",
+    "name": "Radio Libertad",
+    "url": "https://radiolibertad.emitironline.com/",
+    "url_resolved": "https://radiolibertad.emitironline.com/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/462/libertad-fm.3d806c6d.jpg",
+    "country": "Spain",
+    "tags": "radio",
+    "votes": 1464
+  },
+  {
     "stationuuid": "7ff895f3-1b00-48b3-9c2f-4bc576568b75",
     "name": "Onda Wantuki",
     "url": "https://stream-53.zeno.fm/5dfkzqm70s8uv",
@@ -477,7 +487,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/onda.jpg",
     "country": "Spain",
     "tags": "80s,90s,dance,hip hop,pop,punk,rock",
-    "votes": 0
+    "votes": 1463
   },
   {
     "stationuuid": "160dc9f8-4e54-4770-ac0d-530182487f6b",
@@ -487,7 +497,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/Onda%20Aranjuez%20-%20Madrid.png",
     "country": "Spain",
     "tags": "music,spoken word",
-    "votes": 0
+    "votes": 1462
   },
   {
     "stationuuid": "9c484f4a-418c-4d6c-be62-cf117ee1747b",
@@ -497,37 +507,37 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/156/rne-radio-5-cadiz.27e7d97b.png",
     "country": "Spain",
     "tags": "almería,juanjitos,news,noticias,rne",
-    "votes": 0
+    "votes": 1461
   },
   {
     "stationuuid": "1d7d8cd8-cf89-45b7-8285-4afcbef0a19d",
     "name": "Ona Cat Ràdio",
     "url": "https://server8.emitironline.com:10824/",
     "url_resolved": "https://server8.emitironline.com:10824/",
-    "favicon": "https://www.radio.es/175/onacatradio.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/7DqAhMKgcr.jpeg",
     "country": "Spain",
     "tags": "music",
-    "votes": 0
+    "votes": 1460
   },
   {
     "stationuuid": "3fd18c3f-8157-11e9-aa30-52543be04c81",
     "name": "Café del Mar",
     "url": "https://streams.radio.co/se1a320b47/listen",
     "url_resolved": "https://streams.radio.co/se1a320b47/listen",
-    "favicon": "https://cafedelmar.com/apple-touch-icon.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/019/cafe-del-mar.fa751c2d.jpg",
     "country": "Spain",
     "tags": "chillout,ibiza,lounge",
-    "votes": 0
+    "votes": 1459
   },
   {
     "stationuuid": "e34d6ca5-d554-49e1-a673-a04d8930f303",
     "name": "24h RTVE Televisión",
     "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
     "url_resolved": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "favicon": "https://img2.rtve.es/imagenes/directo-elecciones-cataluna/1504082563113.jpg",
+    "favicon": "https://img.rtve.es/imagenes/ondas-ayer-canal-24-horas-rtve-cumple-25-anos/1663020520103.jpg",
     "country": "Spain",
     "tags": "",
-    "votes": 0
+    "votes": 1458
   },
   {
     "stationuuid": "1fdc8bd2-a8a9-11e8-a907-52543be04c81",
@@ -537,27 +547,27 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/135/1000-hits-80s.f84ab504.jpg",
     "country": "Spain",
     "tags": "70s,80s,90s,italo,italo dance,italo disco,oldies",
-    "votes": 28
+    "votes": 1457
   },
   {
     "stationuuid": "960e4940-0601-11e8-ae97-52543be04c81",
     "name": "Ibiza Global Radio",
     "url": "http://ibizaglobalradio.streaming-pro.com:8024/",
     "url_resolved": "http://ibizaglobalradio.streaming-pro.com:8024/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/578/ibiza-global-radio.09be2f23.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/578/ibiza-global-radio.09be2f23.png",
     "country": "Spain",
     "tags": "dance,electronic,house",
-    "votes": 27
+    "votes": 1456
   },
   {
     "stationuuid": "db656299-a63e-4b7b-ac5a-ac2444459ae4",
     "name": "RNE - R1 --> Madrid",
     "url": "https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high",
     "url_resolved": "https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high",
-    "favicon": "https://img2.rtve.es/a/3893534/square/?h=320",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/711/rne.81d258e6.png",
     "country": "Spain",
-    "tags": "",
-    "votes": 25
+    "tags": "Deportes,Noticias,Radio hablada",
+    "votes": 1455
   },
   {
     "stationuuid": "2b85feeb-2fb3-4144-af8e-d1df0b5d686b",
@@ -567,17 +577,17 @@
     "favicon": "http://www.absolutechillout.com/favicon.ico",
     "country": "Spain",
     "tags": "",
-    "votes": 21
+    "votes": 1454
   },
   {
     "stationuuid": "6e36299b-6a91-4022-9db4-f72a2c8e9fef",
     "name": "RAC1 +1",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3",
-    "favicon": "https://www.rac1.cat/apple-touch-icon-120x120.png",
+    "favicon": "https://mussaracycling.com/wp-content/uploads/2023/10/Rac1.png",
     "country": "Spain",
     "tags": "cultural,live sports,local news,news,sports,sports news",
-    "votes": 19
+    "votes": 1453
   },
   {
     "stationuuid": "5783c95b-67d9-4976-905a-64acd2b4f7aa",
@@ -587,27 +597,27 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RNE-R5.jpg",
     "country": "Spain",
     "tags": "Madrid",
-    "votes": 0
+    "votes": 1452
   },
   {
     "stationuuid": "6da055c0-389c-40d8-bd16-f90167987c14",
     "name": "RNE - Radio Clásica",
     "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
     "url_resolved": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/826/radio-clasica.6e635648.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/826/radio-clasica.6e635648.png",
     "country": "Spain",
     "tags": "classical",
-    "votes": 185
+    "votes": 1451
   },
   {
     "stationuuid": "376b9347-d2df-402c-9118-0da44056a930",
     "name": "Radio Euskadi",
     "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
     "url_resolved": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Radio_Euskadi.png/500px-Radio_Euskadi.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://psicoterapiabilbao.es/wp-content/uploads/2018/03/Radio-Euskadi.jpg",
     "country": "Spain",
     "tags": "radio",
-    "votes": 0
+    "votes": 1450
   },
   {
     "stationuuid": "49b2b4f0-c60f-11e8-a498-52543be04c81",
@@ -617,7 +627,7 @@
     "favicon": "http://static-1.ivooxcdn.com/radios/0/4/0/3/6371460973040_XXL.jpg",
     "country": "Spain",
     "tags": "entertainment,news",
-    "votes": 0
+    "votes": 1449
   },
   {
     "stationuuid": "14f40244-e7a6-40bb-8bd9-4c05bdd4278c",
@@ -627,7 +637,7 @@
     "favicon": "https://myradioonline.es/public/uploads/radio_img/radio-espana/fb_cover.jpg",
     "country": "Spain",
     "tags": "entretenimiento,variedades,varios",
-    "votes": 0
+    "votes": 1448
   },
   {
     "stationuuid": "32becdea-e73a-4d1a-bb5f-587d403fe15b",
@@ -637,27 +647,27 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/572/remember-radio.3ed28223.jpg",
     "country": "Spain",
     "tags": "dance music,remember",
-    "votes": 420
+    "votes": 1447
   },
   {
     "stationuuid": "ef15ea2a-35ea-446c-9e21-388bc8af58ea",
     "name": "HitFM",
     "url": "http://hitfm.kissfmradio.cires21.com/hitfm.mp3",
     "url_resolved": "http://hitfm.kissfmradio.cires21.com/hitfm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/640/hit-fm.477231d3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/640/hit-fm.477231d3.png",
     "country": "Spain",
     "tags": "pop rock",
-    "votes": 281
+    "votes": 1446
   },
   {
     "stationuuid": "50289e26-93e2-45e4-802e-222067940cff",
     "name": "Cope Cieza",
     "url": "https://sonic.mediatelekom.net/8448/;",
     "url_resolved": "https://sonic.mediatelekom.net/8448/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/095/cope-cieza.ea0336ff.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/095/cope-cieza.ea0336ff.jpg",
     "country": "Spain",
     "tags": "radio",
-    "votes": 180
+    "votes": 1445
   },
   {
     "stationuuid": "94f0d7d6-8631-452b-8e04-379f749aeaa6",
@@ -667,7 +677,7 @@
     "favicon": "https://assets.radioplayer.org/724/724528/600/600/kywx97am.png",
     "country": "Spain",
     "tags": "local news,news",
-    "votes": 160
+    "votes": 1444
   },
   {
     "stationuuid": "c9802580-7f04-46ea-be34-d8d0b98e8710",
@@ -677,17 +687,17 @@
     "favicon": "https://assets.radioplayer.org/724/724505/600/600/kywx5mfr.png",
     "country": "Spain",
     "tags": "international news,news",
-    "votes": 143
+    "votes": 1443
   },
   {
     "stationuuid": "960dc74d-0601-11e8-ae97-52543be04c81",
     "name": "Radio Balear 99.9 Palma de Mallorca",
     "url": "http://server6.20comunicacion.com:8076/",
     "url_resolved": "http://server6.20comunicacion.com:8076/",
-    "favicon": "https://radiobalear.net/wp-content/uploads/2025/01/cropped-icono-rb2-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/mYCexFgck5.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 138
+    "votes": 1442
   },
   {
     "stationuuid": "358fc8da-653d-42e2-aaf0-6fffdb589fab",
@@ -697,17 +707,17 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/846/amorfm.83d2ce0d.jpg",
     "country": "Spain",
     "tags": "balada en español,musica,musica romantica,romantic",
-    "votes": 117
+    "votes": 1441
   },
   {
     "stationuuid": "4b8b39c7-54a7-4e97-b9a9-e7dfda5eaa81",
-    "name": "TDP TV",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_drm.m3u8?hdnts=exp%3D1791228749~hmac%3D4f7dd3313177a4afe71015e17616a0e9d9280a6d0547ac7e0d6bd52a7390376e&idasset=1712295",
-    "url_resolved": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_drm.m3u8?hdnts=exp%3D1791228749~hmac%3D4f7dd3313177a4afe71015e17616a0e9d9280a6d0547ac7e0d6bd52a7390376e&idasset=1712295",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/500px-Teledeporte.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name": "Top Radio | España",
+    "url": "https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8",
+    "url_resolved": "https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/252/top-radio-spain.d42e4423.jpg",
     "country": "Spain",
-    "tags": "deportes,sports",
-    "votes": 111
+    "tags": "Salsa,Latino",
+    "votes": 1440
   },
   {
     "stationuuid": "f324cb47-0635-4bae-84c2-afdd5f5d4773",
@@ -717,27 +727,27 @@
     "favicon": "https://la999.es/wp-content/uploads/2020/06/circulo999blanco-negro.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 71
+    "votes": 1439
   },
   {
     "stationuuid": "2f905407-9ad8-4799-9b95-b59c366efbfe",
     "name": "Radio Oro Marbella",
     "url": "http://185.23.192.118:8004/;stream.mp3",
     "url_resolved": "http://185.23.192.118:8004/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/707/radio-oro-marbella.3154f504.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/707/radio-oro-marbella.3154f504.png",
     "country": "Spain",
     "tags": "70s,80s,disco,pop,romantic",
-    "votes": 67
+    "votes": 1438
   },
   {
     "stationuuid": "5f93e29e-0c25-430d-b917-2263b4a7cee0",
     "name": "Azul FM Murcia",
     "url": "https://azura5.emisiononline.es:8000/azulfm986",
     "url_resolved": "https://azura5.emisiononline.es:8000/azulfm986",
-    "favicon": "https://azulfm.com.es/azulfmlogo-800.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/319/azul-fm-986.edae4969.jpg",
     "country": "Spain",
-    "tags": "radio",
-    "votes": 65
+    "tags": "Rock clásico,Éxitos clásicos,Antiguas",
+    "votes": 1437
   },
   {
     "stationuuid": "b97e1107-e151-4e5c-ac5e-a9630fed6dc1",
@@ -747,47 +757,47 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/706/cadena-ser-moron.e1f569c4.jpg",
     "country": "Spain",
     "tags": "cadenaser,morón de la fra,morón de la frontera,noticias",
-    "votes": 59
+    "votes": 1436
   },
   {
     "stationuuid": "764fd2f1-65ee-439b-9c7d-642249e43983",
-    "name": "Master FM - Guadalhorce",
-    "url": "https://radios.lamaster.es:8000/guadalhorce",
-    "url_resolved": "https://radios.lamaster.es:8000/guadalhorce",
-    "favicon": "https://masterfm.es/wp-content/uploads/2022/02/cropped-cropped-cropped-fav-300x300-1-180x180.png",
+    "name": "Gozadera FM",
+    "url": "https://azura.abcorp.es/listen/gozadera_en_directo/live",
+    "url_resolved": "https://azura.abcorp.es/listen/gozadera_en_directo/live",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/032/gozadera-fm.2e87b8b8.png",
     "country": "Spain",
-    "tags": "spain,spanish",
-    "votes": 51
+    "tags": "spain,Reguetón,Reggae,Latino",
+    "votes": 1435
   },
   {
     "stationuuid": "bee75217-968e-4c6f-ab4d-6d4c0ae97d2b",
     "name": "Zona Rap Radio",
     "url": "https://radio.zonarap.es/listen/zona_rap_radio/radio.mp3",
     "url_resolved": "https://radio.zonarap.es/listen/zona_rap_radio/radio.mp3",
-    "favicon": "https://zonarap.es/img/logo.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/610/zona-rap-radio-hip-hop.493ccf24.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 43
+    "votes": 1434
   },
   {
     "stationuuid": "9674235f-6c75-478a-b830-2a92e2729d3d",
     "name": "PLAY FM",
     "url": "https://radioplaneta.emitironline.com:9000/radio",
     "url_resolved": "https://radioplaneta.emitironline.com:9000/radio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/lrzmseukemxg.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/qgp7nvsjwnam.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 40
+    "votes": 1433
   },
   {
     "stationuuid": "82e58a58-62b2-421f-a383-694ee1b25951",
     "name": "Boom FM Granada 103.8",
     "url": "http://streaming.elitecomunicacion.es:8086/;",
     "url_resolved": "http://streaming.elitecomunicacion.es:8086/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/dxfd6gkkklvm.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/dxfd6gkkklvm.jpg",
     "country": "Spain",
     "tags": "2000s,2010s,80s,90s,classic hits,entretenimiento",
-    "votes": 34
+    "votes": 1432
   },
   {
     "stationuuid": "19b40f64-630e-4850-a70e-92b3e397fe66",
@@ -797,27 +807,27 @@
     "favicon": "https://img2.rtve.es/a/3893537/square/?h=320",
     "country": "Spain",
     "tags": "noticias,variado",
-    "votes": 31
+    "votes": 1431
   },
   {
     "stationuuid": "5039d406-baab-4ffe-8f1a-2bfae81a8924",
     "name": "Lola Fm",
     "url": "https://srv7031.dns-lcinternet.com/8096/stream",
     "url_resolved": "https://srv7031.dns-lcinternet.com/8096/stream",
-    "favicon": "https://lolafm.es/wp-content/uploads/2021/10/logo_lola-09.png",
+    "favicon": "https://www.radio.es/300/lolafmx3.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 31
+    "votes": 1430
   },
   {
     "stationuuid": "f4a2b852-953d-4417-a876-d2ca45503c76",
     "name": "Radio Callao Madrid",
     "url": "https://server8.emitironline.com:18176/stream",
     "url_resolved": "https://server8.emitironline.com:18176/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/384/radio-callao-madrid.aec6c223.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/384/radio-callao-madrid.aec6c223.png",
     "country": "Spain",
     "tags": "jazz,soul",
-    "votes": 29
+    "votes": 1429
   },
   {
     "stationuuid": "1bd34c7a-ebed-40a9-a139-9cae2d08cd2f",
@@ -827,7 +837,7 @@
     "favicon": "https://lapatronafm.es/wp-content/uploads/2023/02/cropped-LA-PATRONA-LOGO-APP.png",
     "country": "Spain",
     "tags": "cumbia,latino,música variada,regional mexican,salsa,tropical",
-    "votes": 27
+    "votes": 1428
   },
   {
     "stationuuid": "a2181634-3e59-4786-ab0e-2f72f9ed2d3f",
@@ -837,7 +847,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/2yfxs9vebeua.jpeg",
     "country": "Spain",
     "tags": "radio",
-    "votes": 26
+    "votes": 1427
   },
   {
     "stationuuid": "09963b82-aacb-4f4b-8948-f1731f01f4d3",
@@ -847,27 +857,27 @@
     "favicon": "https://play-lh.googleusercontent.com/fsH1q6XjjD42uI-UcbglhhHniU6hZj1J-vVEElIAChsvTYv0EL2v9WM95VpdnbWWQA",
     "country": "Spain",
     "tags": "dance,electronic,makina",
-    "votes": 22
+    "votes": 1426
   },
   {
     "stationuuid": "b42cbee2-dc0f-4539-bd5d-635d90b7edc1",
-    "name": "ApopcalipsisRadio",
-    "url": "https://sonic.sistemahost.es:7002/;",
-    "url_resolved": "https://sonic.sistemahost.es:7002/;",
-    "favicon": "https://cdn-images-3.listennotes.com/podcasts/apocalipsis-radio-uwALvlRb2hV-cOXAhq20JYD.1400x1400.jpg",
+    "name": "Energia 97 FM",
+    "url": "https://26453.live.streamtheworld.com/ENERGIA_97_FM_SC",
+    "url_resolved": "https://26453.live.streamtheworld.com/ENERGIA_97_FM_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/553/energia-97-fm.ff74b6c2.jpg",
     "country": "Spain",
-    "tags": "radio",
-    "votes": 20
+    "tags": "Pop / Top 40,Deportes,Dance / EDM",
+    "votes": 1425
   },
   {
     "stationuuid": "a0b0a46b-49da-486e-817d-56457d9f6e9b",
     "name": "Radio Universitaria León",
     "url": "http://radio.unileon.es:8000/radio-unileon-320",
     "url_resolved": "http://radio.unileon.es:8000/radio-unileon-320",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/buYWdNzXvp.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/buYWdNzXvp.png",
     "country": "Spain",
     "tags": "juanjitos,león,radio universitaria,students,university",
-    "votes": 18
+    "votes": 1424
   },
   {
     "stationuuid": "ce7046f3-d8c2-4853-bf6f-2675f5641ca6",
@@ -877,17 +887,17 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/955/ecuashyri-fm.f1417558.png",
     "country": "Spain",
     "tags": "entretenimiento,latino,música en español,música variada,radio hablada,tropical",
-    "votes": 0
+    "votes":1423
   },
   {
     "stationuuid": "f7fc130e-98f4-4916-a9f5-ef755a16f786",
     "name": "Efecto FM 89.0Mhz",
     "url": "http://directo.efectofm.es:19000/;",
     "url_resolved": "http://directo.efectofm.es:19000/;",
-    "favicon": "https://efectofm.es/EfectoFMMix.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/3qr9a2jmredg.jpeg",
     "country": "Spain",
     "tags": "dance,electronic,electronic dance music,house,trance",
-    "votes": 14
+    "votes": 1422
   },
   {
     "stationuuid": "86b86c61-35ea-4b43-af12-5be07052bdeb",
@@ -897,97 +907,97 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/169/onda-madrid.365edbe5.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 13
+    "votes": 1421
   },
   {
     "stationuuid": "5fdeaaf5-614f-454c-b654-58b1204df208",
-    "name": "ES RADIO LAS PALMAS 91.1",
-    "url": "http://uk1.streamingpulse.com:7039/stream",
-    "url_resolved": "http://uk1.streamingpulse.com:7039/stream",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/057/esradio-sevilla.7dd7d2a5.jpg",
+    "name": "Wonder 80's",
+    "url": "https://80.streeemer.com/listen/80s/radio.aac",
+    "url_resolved": "https://80.streeemer.com/listen/80s/radio.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/680/wonder-80s.46eec212.jpg",
     "country": "Spain",
-    "tags": "variety",
-    "votes": 10
+    "tags": "Éxitos clásicos,Años 80",
+    "votes": 1420
   },
   {
     "stationuuid": "35700a95-8258-4c46-9635-41500401aa23",
-    "name": "Olimpica Stereo Zaragoza",
-    "url": "https://eu1.lhdserver.es:3081/stream",
-    "url_resolved": "https://eu1.lhdserver.es:3081/stream",
-    "favicon": "https://www.olimpicastereo.es/assets/images/logo.png",
+    "name": "Smooth Jazz - Groov",
+    "url": "https://jazz.streeemer.com/listen/jazz/radio.aac",
+    "url_resolved": "https://jazz.streeemer.com/listen/jazz/radio.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/676/groov-smooth-jazz.7d0b32ad.png",
     "country": "Spain",
-    "tags": "latina",
-    "votes": 10
+    "tags": "Jazz,Smooth Jazz",
+    "votes": 1419
   },
   {
     "stationuuid": "09088d36-4653-4700-b6b1-d8e4e32f6837",
     "name": "Medea Fm Asturias",
     "url": "https://sonic.mediatelekom.net/8562/;",
     "url_resolved": "https://sonic.mediatelekom.net/8562/;",
-    "favicon": "https://medeafm.es/wp-content/uploads/2023/09/Medeafm-LOGO-23-1.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/358/medea-fm.4132381b.jpg",
     "country": "Spain",
     "tags": "radio",
-    "votes": 4
+    "votes": 1418
   },
   {
     "stationuuid": "0531c2e0-cebe-44e0-ba24-b313b0550ed7",
-    "name": "ANTENITA",
-    "url": "https://vps-9f1e2662.vps.ovh.net/antenitafm",
-    "url_resolved": "https://vps-9f1e2662.vps.ovh.net/antenitafm",
-    "favicon": "https://www.antenita.es/wp-content/uploads/go-x/u/d7b922ec-ac61-4ec8-8bd4-c0263dc72ddb/image-384x413.png",
+    "name": "Epic Piano - CHILLOUT PIANO",
+    "url": "https://stream.epic-piano.com/chillout-piano",
+    "url_resolved": "https://stream.epic-piano.com/chillout-piano",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/102/epic-piano-chillout-piano.5b06b7e7.jpg",
     "country": "Spain",
-    "tags": "radio",
-    "votes": 3
+    "tags": "Clásica,Contemporánea para adultos,Músicas del mundo",
+    "votes": 1417
   },
   {
     "stationuuid": "bcccb1a1-1ed4-4457-827f-90622a6fb1c3",
     "name": "Ona 92 FM",
     "url": "https://ona92fm.es/radio",
     "url_resolved": "https://ona92fm.es/radio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/845/ona-92-fm.b6167d95.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/845/ona-92-fm.b6167d95.png",
     "country": "Spain",
     "tags": "blues,jazz,pop,rock",
-    "votes": 3
+    "votes": 1416
   },
   {
     "stationuuid": "c2c315d5-20cd-49a7-b2ce-fc47553e6e32",
     "name": "La Bomba Radio Asturias",
     "url": "https://stm2.emiteonline.com:9014/labomba",
     "url_resolved": "https://stm2.emiteonline.com:9014/labomba",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wytNRtEEdmhWrORDB90J5MiKgFvuBPmpAA7KgRdonQ&s",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/482/la-bomba-radio.077c0898.png",
     "country": "Spain",
     "tags": "bachata,cumbia,reggaeton,salsa",
-    "votes": 2
+    "votes": 1415
   },
   {
     "stationuuid": "70f4f461-a7e1-4ac6-80d8-f883653a58a8",
-    "name": "Gran Via Radio Barcelona",
-    "url": "https://servidor14-3.brlogic.com:7066/live",
-    "url_resolved": "https://servidor14-3.brlogic.com:7066/live",
-    "favicon": "https://public-rf-upload.minhawebradio.net/246535/logo/53a76bd0c2369b2c46a538b72197b04c.png",
+    "name": "España FM 92.9 FM",
+    "url": "http://99.198.107.186:8526/stream.m3u",
+    "url_resolved": "http://99.198.107.186:8526/stream.m3u",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/444/espana-fm-929-fm.f9a9e6d5.png",
     "country": "Spain",
     "tags": "80s,90s,variety",
-    "votes": 2
+    "votes": 1414
   },
   {
     "stationuuid": "74e8f4f2-cfa9-460a-a3b2-af8fbbd03373",
-    "name": "pp",
+    "name": "RPA - Radio del Principado de Asturias",
     "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/media_0.m3u8",
     "url_resolved": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/media_0.m3u8",
-    "favicon": "https://assets.radioplayer.org/724/724602/600/600/lw5z2ao2.png",
+    "favicon": "https://assets.radioplayer.org/724/724602/1400/1400/lw5z2ao3.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 2
+    "votes": 1413
   },
   {
     "stationuuid": "282bdcac-fc11-41b2-87a9-2527fd9ecef7",
     "name": "Radio Laciana",
     "url": "https://server8.emitironline.com:18528/stream",
     "url_resolved": "https://server8.emitironline.com:18528/stream",
-    "favicon": "https://radiolaciana.es/wp-content/uploads/2025/09/Logo-home-mitad.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RadioLaciana.jpg",
     "country": "Spain",
-    "tags": "radio",
-    "votes": 2
+    "tags": "Pop latino, Música folclórica, Rock en español, Música urbana, Balada latina",
+    "votes": 1412
   },
   {
     "stationuuid": "d7414ffd-3255-485a-b027-6f75c40d6483",
@@ -997,47 +1007,47 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/211/cadena-ser-castellon.3bb845f3.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 1
+    "votes": 1411
   },
   {
     "stationuuid": "46f51123-82c4-46d8-8c1b-529655ac84b9",
     "name": "Yuh FM",
     "url": "https://sonic.mediatelekom.net/9012/stream",
     "url_resolved": "https://sonic.mediatelekom.net/9012/stream",
-    "favicon": "https://yuhfm.es/wp-content/uploads/2021/02/cropped-logo.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/YUHFMES.png",
     "country": "Spain",
-    "tags": "radio",
-    "votes": 1
+    "tags": "Música Latina,Música Latina,Música Urbana / Reggaetón,Éxitos de las Décadas (70, 80, `90 y 2000),Música de Baile / Dance ",
+    "votes": 1410
   },
   {
     "stationuuid": "9fe4f191-6cdc-4f0f-b56f-ae2d7f5c4862",
-    "name": "Taro Radio",
-    "url": "https://stream.tagoror.com/8101/radio",
-    "url_resolved": "https://stream.tagoror.com/8101/radio",
-    "favicon": "https://www.tagoror.es/icon-512.png",
+    "name": "Blue Marlin Ibiza Radio",
+    "url": "https://ibizasonica.streaming-pro.com:8001/bluemarlin",
+    "url_resolved": "https://ibizasonica.streaming-pro.com:8001/bluemarlin",
+    "favicon": "https://discoveribiza.com/wp-content/uploads/2018/09/Blue-marlin-logo.jpg",
     "country": "Spain",
-    "tags": "radio",
-    "votes": 1
+    "tags": "Dance / EDM,Electrónica",
+    "votes": 1409
   },
   {
     "stationuuid": "1b5c4717-fa8a-4745-97fb-899427d1dbaf",
     "name": "OndaCero Castellón",
     "url": "https://19993.live.streamtheworld.com/OC_CASTELLONAAC/HLS/playlist.m3u8",
     "url_resolved": "https://19993.live.streamtheworld.com/OC_CASTELLONAAC/HLS/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/Dg5s2RNLLa.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/Dg5s2RNLLa.png",
     "country": "Spain",
     "tags": "radio",
-    "votes": 1
+    "votes": 1408
   },
   {
     "stationuuid": "ab1fb752-3897-4e5c-80e8-c6950b94e01c",
     "name": "RFC Radio",
     "url": "http://lyra.shoutca.st:8151/rfcmp3",
     "url_resolved": "http://lyra.shoutca.st:8151/rfcmp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/zmyx2bzkxuk7.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/zmyx2bzkxuk7.png",
     "country": "Spain",
     "tags": "80s,90s,music,talk,today",
-    "votes": 1
+    "votes": 1407
   },
   {
     "stationuuid": "63a8cbf4-63e5-4218-8267-8d8fd8e0e30f",
@@ -1058,16 +1068,6 @@
     "country": "Spain",
     "tags": "dance,edm,pop,techno",
     "votes": 0
-  },
-  {
-    "stationuuid": "80275338-f9c4-418c-a142-28acf902ef5c",
-    "name": "Radio Libertad",
-    "url": "https://radiolibertad.emitironline.com/",
-    "url_resolved": "https://radiolibertad.emitironline.com/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/462/libertad-fm.3d806c6d.jpg",
-    "country": "Spain",
-    "tags": "radio",
-    "votes": 1119
   },
   {
     "stationuuid": "a970f427-4aae-46e4-8933-bff77e80324e",
