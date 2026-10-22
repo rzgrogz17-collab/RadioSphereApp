@@ -106,7 +106,7 @@
     "url_resolved": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/791/bbc-radio-1.e765a9d5.png",
     "country": "United Kingdom",
-    "tags": "radio",
+    "tags": "Dance / EDM",
     "votes": 1492
   },
   {
@@ -140,14 +140,84 @@
     "votes": 1989
   },
   {
+    "stationuuid": "79a3cd9e-6205-40c4-aefe-8369bdd4649a",
+    "name": "Soul Central Radio",
+    "url": "http://65.21.202.84:8519/stream/",
+    "url_resolved": "http://65.21.202.84:8519/stream/",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/344/soul-central-radio.76a898a8.png",
+    "country": "United Kingdom",
+    "tags": "radio",
+    "votes": 1988
+  },
+  {
+    "stationuuid": "53733e08-7728-40ee-b968-59e71f0281b6",
+    "name": "KISSTORY",
+    "url": "https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+    "url_resolved": "https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/093/kisstory.8f926e09.jpg",
+    "country": "United Kingdom",
+    "tags": "anthems,bauer radio,classics,dance anthems,dance classics,england",
+    "votes": 1987
+  },
+  {
+    "stationuuid": "70df08a8-d166-4acf-8c09-079b4374e1ba",
+    "name": "BBC RADIO 1 DANCE",
+    "url": "http://151.80.56.90:8090/bbc_radio_one_dance.aac",
+    "url_resolved": "http://151.80.56.90:8090/bbc_radio_one_dance.aac",
+    "favicon": "https://getdigitalradio.com/wp-content/uploads/2025/09/r1dance.jpg",
+    "country": "United Kingdom",
+    "tags": "bbc,bbc radio 1,bbc radio 1 dance,club dance,dab+,dance",
+    "votes": 1986
+  },
+  {
+    "stationuuid": "0de4d5eb-53ce-46fa-a20c-73b8300f9c58",
+    "name": "Retro Soul Radio",
+    "url": "https://streaming.galaxywebsolutions.com/stream/retrosoul",
+    "url_resolved": "https://streaming.galaxywebsolutions.com/stream/retrosoul",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/601/retro-soul-radio.54cc72e9.png",
+    "country": "United Kingdom",
+    "tags": "disco,funk,jazz,soul",
+    "votes": 1985
+  },
+  {
+    "stationuuid": "0f1a8621-d35a-4073-83d3-7ee14207a9a9",
+    "name": "KISS 104.1 FM",
+    "url": "https://prod-3-239-102-165.amperwave.net/townsquare-wwylfmaac-hlsc3.m3u8",
+    "url_resolved": "https://prod-3-239-102-165.amperwave.net/townsquare-wwylfmaac-hlsc3.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/885/kiss-1041-fm.ac902a73.png",
+    "country": "United Kingdom",
+    "tags": "dab,dance,dance music,digital radio,edm,england",
+    "votes": 1984
+  },
+  {
+    "stationuuid": "98137c2d-ce68-4e33-8cb7-ddf3692ecc9d",
+    "name": "BBC Radio 4",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3D128000.norewind.m3u8",
+    "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3D128000.norewind.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/795/bbc-radio-4.cf7d8a55.png",
+    "country": "United Kingdom",
+    "tags": "comedy,drama,news,talk",
+    "votes": 1983
+  },
+  {
+    "stationuuid": "30820d12-0409-44b7-b5e8-edc594910d92",
+    "name": "UK Roots FM",
+    "url": "http://138.201.198.218:8043/;",
+    "url_resolved": "http://138.201.198.218:8043/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/216/uk-roots-fm.26639a7e.png",
+    "country": "United Kingdom",
+    "tags": "Reggae ,R&B / Soul",
+    "votes": 1982
+  },
+  {
     "stationuuid": "375f1734-1308-4aca-9e25-a641097ce89f",
     "name": "NoiseBox Radio",
     "url": "http://n11.radiojar.com/n1bs4ekbvuhvv",
     "url_resolved": "http://n11.radiojar.com/n1bs4ekbvuhvv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/rs2AVvKHwu.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/rs2AVvKHwu.jpg",
     "country": "United Kingdom",
     "tags": "adult contemporary,eclectic,variety",
-    "votes": 0
+    "votes": 1981
   },
   {
     "stationuuid": "71e40131-5d2f-44d0-ae14-40e22582c777",
@@ -157,27 +227,27 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FRED.png",
     "country": "United Kingdom",
     "tags": "culture,film,movie",
-    "votes": 0
+    "votes": 1980
   },
   {
     "stationuuid": "7501a391-3903-49da-8271-02ca49a329b9",
     "name": "Belters",
     "url": "http://uk2.internet-radio.com:8008/stream",
     "url_resolved": "http://uk2.internet-radio.com:8008/stream",
-    "favicon": "https://uk.radio.net/podcast-images/175/brews-and-belters.jpeg",
+    "favicon": "https://pbs.twimg.com/profile_images/1358186139010613249/y0e94Fbn_400x400.jpg",
     "country": "United Kingdom",
     "tags": "",
-    "votes": 0
+    "votes": 1979
   },
   {
     "stationuuid": "c23448e9-2bb5-48e1-9436-61fc13d79558",
     "name": "Margate Radio",
     "url": "https://margate-radio.radiocult.fm/stream",
     "url_resolved": "https://margate-radio.radiocult.fm/stream",
-    "favicon": "https://images.squarespace-cdn.com/content/v1/55dccc18e4b080417ce5fafa/1585823097541-KVKK0PO2RTI5SZC6YLWF/MargateRadio_White_72dpi.png?format=1500w",
+    "favicon": "https://f4.bcbits.com/img/0045020315_25.jpg",
     "country": "United Kingdom",
     "tags": "",
-    "votes": 0
+    "votes": 1978
   },
   {
     "stationuuid": "3199aaa9-bbfc-40ba-a1d5-eb8af2b5867e",
@@ -187,7 +257,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/279/rewind-radio-cornwall.8120f9ee.png",
     "country": "United Kingdom",
     "tags": "00s,90s,dance,oldschool,pop",
-    "votes": 0
+    "votes": 1977
   },
   {
     "stationuuid": "d38c7d24-a8b5-4148-a3ef-0a64b2988ca8",
@@ -197,37 +267,37 @@
     "favicon": "https://www.radio.net/175/blooplondonradio.png",
     "country": "United Kingdom",
     "tags": "electronic",
-    "votes": 0
+    "votes": 1976
   },
   {
     "stationuuid": "7a947ab6-3ff3-43a5-a551-04d6d08cb593",
     "name": "Cam FM",
     "url": "https://stream.camfm.co.uk/camfm",
     "url_resolved": "https://stream.camfm.co.uk/camfm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/393/cam-fm.cab8d060.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/393/cam-fm.cab8d060.png",
     "country": "United Kingdom",
-    "tags": "",
-    "votes": 0
+    "tags": "College,Classic Rock",
+    "votes": 1975
   },
   {
     "stationuuid": "cac4c694-99b2-40eb-8957-6361e7d3768e",
     "name": "Reform Radio",
     "url": "https://testform.out.airtime.pro/testform_a",
     "url_resolved": "https://testform.out.airtime.pro/testform_a",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/753/reform-radio.84f2fd5a.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/753/reform-radio.84f2fd5a.png",
     "country": "United Kingdom",
     "tags": "music,variety",
-    "votes": 0
+    "votes": 1974
   },
   {
     "stationuuid": "48683066-a5a0-48be-805e-76ab6ffc15c6",
     "name": "Rhubarb Radio",
     "url": "http://178.159.3.19:8012/stream",
     "url_resolved": "http://178.159.3.19:8012/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/352/rhubarb-radio.878cccc5.jpg",
+    "favicon": "https://rhubarbradio.co.uk/media/1/202608-logo-21d7ab889bb7.png",
     "country": "United Kingdom",
     "tags": "local radio,music,pop music",
-    "votes": 0
+    "votes": 1973
   },
   {
     "stationuuid": "e70ca27e-0c1a-4045-8996-d754914b999d",
@@ -237,7 +307,7 @@
     "favicon": "https://ia601904.us.archive.org/9/items/eric-clapton-providence-ri-1974-fm-broadcast/Eric%20Clapton%20Providence%20RI%201974%20FM%20Broadcast.JPG?cnt=0",
     "country": "United Kingdom",
     "tags": "international",
-    "votes": 0
+    "votes": 1972
   },
   {
     "stationuuid": "3776ad55-969e-4958-a21e-7833758c05a4",
@@ -247,7 +317,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/z7HgcY76qE.jpg",
     "country": "United Kingdom",
     "tags": "",
-    "votes": 0
+    "votes": 1971
   },
   {
     "stationuuid": "484f4416-760b-4182-ba81-d07c7c59b8f4",
@@ -257,7 +327,7 @@
     "favicon": "https://i1.sndcdn.com/artworks-000279851561-udidwj-t500x500.jpg",
     "country": "United Kingdom",
     "tags": "128 kbps,128 mp3,classic hits",
-    "votes": 0
+    "votes": 1970
   },
   {
     "stationuuid": "b8cbbb93-dea3-47b9-be48-114b2f030667",
@@ -267,7 +337,7 @@
     "favicon": "https://www.phonostar.de/images/auto_created/Naim_Radio_Classical184x184.png",
     "country": "United Kingdom",
     "tags": "",
-    "votes": 0
+    "votes": 1969
   },
   {
     "stationuuid": "6efe216d-bf7e-11e9-8502-52543be04c81",
@@ -277,147 +347,137 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LBCUK.jpg",
     "country": "United Kingdom",
     "tags": "news talk,talk",
-    "votes": 198
+    "votes": 1968
   },
   {
     "stationuuid": "3606ef8c-cd58-4440-8c47-dbf1e0cacdac",
-    "name": "BBC Radio 2 (128k)",
+    "name": "BBC Radio 2",
     "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_two.m3u8",
     "url_resolved": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_two.m3u8",
-    "favicon": "https://www.radio.net/175/bbcradio2.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/758/bbc-radio-2.f6883f21.png",
     "country": "United Kingdom",
     "tags": "adult contemporary",
-    "votes": 99
+    "votes": 1967
   },
   {
     "stationuuid": "cae35448-1285-4f12-b3e0-2f4fdde00002",
-    "name": "BBC Radio 5 Live (128k)",
+    "name": "BBC Radio 5 Live",
     "url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8",
     "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8",
-    "favicon": "https://www.radio.net/175/bbcradio5live.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/799/bbc-radio-5-live.1f3fd9bc.png",
     "country": "United Kingdom",
     "tags": "news,sports,talk",
-    "votes": 69
+    "votes": 1966
   },
   {
     "stationuuid": "d1b0b82d-aa27-49e5-a98e-716ceff7e2f7",
     "name": "Times Radio UK",
     "url": "https://times.live.stream.broadcasting.news/stream",
     "url_resolved": "https://times.live.stream.broadcasting.news/stream",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/248/times-radio.20b98e5e.png",
+    "favicon": "https://stermemedical.uk/wp-content/uploads/2025/01/Times-Radio-Image-2.png",
     "country": "United Kingdom",
     "tags": "information,news,talk",
-    "votes": 66
+    "votes": 1965
   },
   {
     "stationuuid": "9606ceae-0601-11e8-ae97-52543be04c81",
     "name": "Radio Caroline",
     "url": "http://sc6.radiocaroline.net:8040/;",
     "url_resolved": "http://sc6.radiocaroline.net:8040/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/130/radio-caroline.910499fe.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/130/radio-caroline.910499fe.png",
     "country": "United Kingdom",
     "tags": "country,pop,rock",
-    "votes": 56
+    "votes": 1964
   },
   {
     "stationuuid": "03e68f6d-1ca3-459f-891a-c55d84711646",
-    "name": "BBC Radio 3 (128k)",
+    "name": "BBC Radio 3",
     "url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
     "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
-    "favicon": "https://www.radio.net/175/bbcradio3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/220/bbc-radio-3.6dc132b3.png",
     "country": "United Kingdom",
     "tags": "classical",
-    "votes": 52
+    "votes": 1963
   },
   {
     "stationuuid": "eec6dc9b-79de-4609-8c6d-88f2bfeb8110",
-    "name": "BBC Radio 6 Music (128k)",
+    "name": "BBC Radio 6 Music",
     "url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8",
     "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8",
-    "favicon": "https://www.radio.net/175/bbcradio6music.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/800/bbc-6-music.c1211abe.png",
     "country": "United Kingdom",
     "tags": "alternative",
-    "votes": 49
+    "votes": 1962
   },
   {
     "stationuuid": "0a1e0bb0-dc37-11e9-a8ba-52543be04c81",
-    "name": "Gold",
+    "name": "Gold Radio",
     "url": "https://media-ssl.musicradio.com/GoldMP3",
     "url_resolved": "https://media-ssl.musicradio.com/GoldMP3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/403/gold-radio.f41477a7.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/403/gold-radio.f41477a7.png",
     "country": "United Kingdom",
     "tags": "classic hits,national,oldies,public radio,variety",
-    "votes": 0
+    "votes": 1961
   },
   {
     "stationuuid": "dec031e0-4419-45d2-9f3e-76e91d876c40",
     "name": "PLANET ROCK: Where Rock Lives",
     "url": "https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
     "url_resolved": "https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
-    "favicon": "https://cdn-profiles.tunein.com/s2377/images/logod.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/626/planet-rock.e97d8e00.png",
     "country": "United Kingdom",
     "tags": "bauer radio,classic rock,dab,digital radio,england,europe",
-    "votes": 296
+    "votes": 1960
   },
   {
     "stationuuid": "7f7e3c30-08f0-4f52-a0a0-653d5a184800",
     "name": "Absolute Radio 90s",
     "url": "http://stream-ar.planetradio.co.uk/absolute90shigh.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true",
     "url_resolved": "http://stream-ar.planetradio.co.uk/absolute90shigh.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true",
-    "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1678796943/brand_manager/stations/ptydn13uvtcw7aa0t3cx.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/610/absolute-radio-90s.d06679c1.png",
     "country": "United Kingdom",
     "tags": "90s radio",
-    "votes": 93
-  },
-  {
-    "stationuuid": "98137c2d-ce68-4e33-8cb7-ddf3692ecc9d",
-    "name": "BBC Radio 4 (128k)",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3D128000.norewind.m3u8",
-    "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3D128000.norewind.m3u8",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s25419q.png",
-    "country": "United Kingdom",
-    "tags": "comedy,drama,news,talk",
-    "votes": 0
+    "votes": 1959
   },
   {
     "stationuuid": "5984167a-b25e-4eec-a878-ff9253ee0c4a",
     "name": "KISS UK",
     "url": "https://live-kiss.sharp-stream.com/kiss100.mp3",
     "url_resolved": "https://live-kiss.sharp-stream.com/kiss100.mp3",
-    "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1678797505/brand_manager/stations/mahvph4fqjmnp4y8d6wt.png",
+    "favicon": "https://i1.sndcdn.com/artworks-PVshAEYeL9Lz7cZE-MoCEKw-t1080x1080.jpg",
     "country": "United Kingdom",
     "tags": "bauer radio,kiss,kiss fm,pop",
-    "votes": 507
+    "votes": 1958
   },
   {
     "stationuuid": "a272b55d-7a7a-4e1c-92d5-293769adb80c",
     "name": "Joy Hits Radio",
     "url": "https://stream.joyhits.online:8072/joyhits.aac",
     "url_resolved": "https://stream.joyhits.online:8072/joyhits.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/176/joy-hits-united-kingdom.367c5368.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/176/joy-hits-united-kingdom.367c5368.jpg",
     "country": "United Kingdom",
     "tags": "radio",
-    "votes": 252
+    "votes": 1957
   },
   {
     "stationuuid": "11d4d77d-603c-43b5-b9a3-9f7deb75c8da",
     "name": "Capital XTRA",
     "url": "http://media-the.musicradio.com/CapitalXTRALondonMP3",
     "url_resolved": "http://media-the.musicradio.com/CapitalXTRALondonMP3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/891/capital-xtra-national.ee29bd72.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/891/capital-xtra-national.ee29bd72.png",
     "country": "United Kingdom",
     "tags": "radio",
-    "votes": 148
+    "votes": 1956
   },
   {
     "stationuuid": "9619e7d7-0601-11e8-ae97-52543be04c81",
     "name": "TMM 1",
     "url": "https://listen-msmn.sharp-stream.com/nme1.mp3",
     "url_resolved": "https://listen-msmn.sharp-stream.com/nme1.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/emxXEvzZ44.png",
+    "favicon": "https://assets.radioplayer.org/826/8261421/1400/1400/lp325wr8.png",
     "country": "United Kingdom",
     "tags": "alternative,alternative rock,garage,indie,indie pop,indie rock",
-    "votes": 0
+    "votes": 1955
   },
   {
     "stationuuid": "9619e894-0601-11e8-ae97-52543be04c81",
@@ -504,10 +564,10 @@
     "name": "Just House Music",
     "url": "https://justhousemusic.radioca.st/stream",
     "url_resolved": "https://justhousemusic.radioca.st/stream",
-    "favicon": "https://cdn-profiles.tunein.com/s293430/images/logod.png?t=638095610890000000",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/sRSaLWYWh3.png",
     "country": "United Kingdom",
     "tags": "radio",
-    "votes": 307
+    "votes": 0
   },
   {
     "stationuuid": "74b45490-b3ff-45a9-9087-d021f3fd7282",
@@ -524,10 +584,10 @@
     "name": "KAOS Sound - Pink Floyd Radio",
     "url": "https://s3.myradiostream.com/:59506/stream/1/",
     "url_resolved": "https://s3.myradiostream.com/:59506/stream/1/",
-    "favicon": "https://cdn-profiles.tunein.com/s140303/images/logog.png?t=160685",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/627/kaos-sound.0eb580c5.jpg",
     "country": "United Kingdom",
     "tags": "classic rock,rock",
-    "votes": 253
+    "votes": 0
   },
   {
     "stationuuid": "58e78405-cbb7-4efa-bc3a-f569254901c2",
@@ -550,16 +610,6 @@
     "votes": 179
   },
   {
-    "stationuuid": "f7fd408e-02a5-49a1-8c03-078727e97e8f",
-    "name": "BBC RADIO 1 - The biggest new pop and all-day vibes",
-    "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
-    "url_resolved": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
-    "favicon": "https://cdn-profiles.tunein.com/s24939/images/logod.png",
-    "country": "United Kingdom",
-    "tags": "97.1 fm,99.7 fm,bbc,bbc radio 1,dab,england",
-    "votes": 174
-  },
-  {
     "stationuuid": "29e6919f-076d-4643-82df-a8bbaa6263a6",
     "name": "Rockin50s Radio",
     "url": "https://eu10.fastcast4u.com/rockin50s",
@@ -580,16 +630,6 @@
     "votes": 112
   },
   {
-    "stationuuid": "53733e08-7728-40ee-b968-59e71f0281b6",
-    "name": "KISSTORY: Non-Stop Old Skool & Anthems",
-    "url": "https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
-    "url_resolved": "https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
-    "favicon": "https://cdn-profiles.tunein.com/s77960/images/logod.png",
-    "country": "United Kingdom",
-    "tags": "anthems,bauer radio,classics,dance anthems,dance classics,england",
-    "votes": 99
-  },
-  {
     "stationuuid": "72fe5798-bf1e-4df9-b4d9-aa4712a189f4",
     "name": "The Mix Radio 80s",
     "url": "https://tmr80s.radioca.st/stream",
@@ -608,36 +648,6 @@
     "country": "United Kingdom",
     "tags": "breakbeat,drum and bass,happy hardcore,house",
     "votes": 98
-  },
-  {
-    "stationuuid": "70df08a8-d166-4acf-8c09-079b4374e1ba",
-    "name": "BBC RADIO 1 DANCE: The biggest current, future and classic dance vibes",
-    "url": "http://151.80.56.90:8090/bbc_radio_one_dance.aac",
-    "url_resolved": "http://151.80.56.90:8090/bbc_radio_one_dance.aac",
-    "favicon": "https://cdn-profiles.tunein.com/s347238/images/logod.png",
-    "country": "United Kingdom",
-    "tags": "bbc,bbc radio 1,bbc radio 1 dance,club dance,dab+,dance",
-    "votes": 97
-  },
-  {
-    "stationuuid": "0de4d5eb-53ce-46fa-a20c-73b8300f9c58",
-    "name": "Retro Soul Radio",
-    "url": "https://streaming.galaxywebsolutions.com/stream/retrosoul",
-    "url_resolved": "https://streaming.galaxywebsolutions.com/stream/retrosoul",
-    "favicon": "https://static-media.streema.com/media/cache/cf/d9/cfd9303c27dd71c35a2370766d4d1309.jpg",
-    "country": "United Kingdom",
-    "tags": "disco,funk,jazz,soul",
-    "votes": 86
-  },
-  {
-    "stationuuid": "0f1a8621-d35a-4073-83d3-7ee14207a9a9",
-    "name": "KISS - The Best Vibes & Energy",
-    "url": "https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
-    "url_resolved": "https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
-    "favicon": "https://cdn-profiles.tunein.com/s6004/images/logod.png",
-    "country": "United Kingdom",
-    "tags": "dab,dance,dance music,digital radio,edm,england",
-    "votes": 78
   },
   {
     "stationuuid": "aa03434e-e002-4d61-9581-2812ea5a1a90",
@@ -710,16 +720,6 @@
     "votes": 53
   },
   {
-    "stationuuid": "79a3cd9e-6205-40c4-aefe-8369bdd4649a",
-    "name": "Soul Central Radio",
-    "url": "http://65.21.202.84:8519/stream/",
-    "url_resolved": "http://65.21.202.84:8519/stream/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/344/soul-central-radio.76a898a8.png",
-    "country": "United Kingdom",
-    "tags": "radio",
-    "votes": 220
-  },
-  {
     "stationuuid": "afb31087-30b4-44c7-8469-b3526d8f3bb5",
     "name": "Total Soul (UK) 192kb mp3",
     "url": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
@@ -767,16 +767,6 @@
     "favicon": "https://images-na.ssl-images-amazon.com/images/I/61wHBPSryzL.png",
     "country": "United Kingdom",
     "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "30820d12-0409-44b7-b5e8-edc594910d92",
-    "name": "Радио Сева (Radio Seva Novgorodsev)",
-    "url": "https://seva.ru/radio/stream",
-    "url_resolved": "https://seva.ru/radio/stream",
-    "favicon": "https://seva.ru/radio/radio.png",
-    "country": "United Kingdom",
-    "tags": "music,rock,talk,музыка,разговорное,рок",
     "votes": 0
   },
   {
