@@ -121,12 +121,12 @@
   },
   {
     "stationuuid": "5d6b6684-d6721-588a-83fc-1d0d04800780",
-    "name": "RNE 1 Radio Nacional",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
-    "url_resolved": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/711/rne.81d258e6.png",
+    "name": "AdagioRadio",
+    "url": "https://stream.tunerplay.com/listen/adagioradio/adagioradio.mp3",
+    "url_resolved": "https://stream.tunerplay.com/listen/adagioradio/adagioradio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/572/adagioradio.4b97ab85.png",
     "country": "Spain",
-    "tags": "Deportes,Noticias,Radio hablada",
+    "tags": "Clásica,Éxitos clásicos,Cultura & Educación",
     "votes": 1488
   },
   {
@@ -262,11 +262,11 @@
   {
     "stationuuid": "00cccb9f-39a4-4f98-a830-78b7a1363f66",
     "name": "Radio Esport 91.4 FM",
-    "url": "https://www.radio-espana.es/null/feedback/v1/play",
-    "url_resolved": "https://www.radio-espana.es/null/feedback/v1/play",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/829/radio-esport.1549a0bb.jpg",
+    "url": "https://streaming.radioesport914.com:58000/stream",
+    "url_resolved": "https://streaming.radioesport914.com:58000/stream",
+    "favicon": "https://static-1.ivoox.com/radios/4/3/8/2/2311761582834_XXL.jpg",
     "country": "Spain",
-    "tags": "all of edm and all of music,music,rock",
+    "tags": "Valencia,",
     "votes": 1484
   },
   {
@@ -422,8 +422,8 @@
   {
     "stationuuid": "d8b6ba19-f431-471e-9598-94f42af0d3ac",
     "name": "RNE Radio 3",
-    "url": "https://ztnr.rtve.es/ztnr/2795617.m3u8 ",
-    "url_resolved": "https://ztnr.rtve.es/ztnr/2795617.m3u8 ",
+    "url": "https://ztnr.rtve.es/ztnr/2795617.m3u8",
+    "url_resolved": "https://ztnr.rtve.es/ztnr/2795617.m3u8",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/741/radio-3.56e90133.png",
     "country": "Spain",
     "tags": "indie,indie pop,indie rock,jazz,pop,rock,various",
@@ -601,12 +601,12 @@
   },
   {
     "stationuuid": "6da055c0-389c-40d8-bd16-f90167987c14",
-    "name": "RNE - Radio Clásica",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
-    "url_resolved": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/826/radio-clasica.6e635648.png",
+    "name": "Orquestas",
+    "url": "http://server8.emitironline.com:18743/",
+    "url_resolved": "http://server8.emitironline.com:18743/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/048/orquesta-fm.94f7fb4d.png",
     "country": "Spain",
-    "tags": "classical",
+    "tags": "Salsa,Latino",
     "votes": 1451
   },
   {
@@ -652,8 +652,8 @@
   {
     "stationuuid": "ef15ea2a-35ea-446c-9e21-388bc8af58ea",
     "name": "HitFM",
-    "url": "http://hitfm.kissfmradio.cires21.com/hitfm.mp3",
-    "url_resolved": "http://hitfm.kissfmradio.cires21.com/hitfm.mp3",
+    "url": "https://hitfm.kissfmradio.cires21.com/hitfm.mp3",
+    "url_resolved": "https://hitfm.kissfmradio.cires21.com/hitfm.mp3",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/640/hit-fm.477231d3.png",
     "country": "Spain",
     "tags": "pop rock",
@@ -671,12 +671,12 @@
   },
   {
     "stationuuid": "94f0d7d6-8631-452b-8e04-379f749aeaa6",
-    "name": "RNE Radio 5 Valencia",
-    "url": "https://d131.rndfnk.com/star/crtve/rne5/vlc/aac/128/stream.aac?cid=01GEP70HQKHM3WJB5GHG662KX3&sid=3KHVChnNLD8cQ5lcJS2CYPDAhww&token=CfBiHujO87GzZiKc3-kveTZnxufYruQCDNOJxtsH7mk&tvf=H9c9MZy_2xhkMTMxLnJuZGZuay5jb20",
-    "url_resolved": "https://d131.rndfnk.com/star/crtve/rne5/vlc/aac/128/stream.aac?cid=01GEP70HQKHM3WJB5GHG662KX3&sid=3KHVChnNLD8cQ5lcJS2CYPDAhww&token=CfBiHujO87GzZiKc3-kveTZnxufYruQCDNOJxtsH7mk&tvf=H9c9MZy_2xhkMTMxLnJuZGZuay5jb20",
-    "favicon": "https://assets.radioplayer.org/724/724528/600/600/kywx97am.png",
+    "name": "La Jungla Radio Valencia",
+    "url": "https://azurasttp.es/listen/wepappnew/webappnew.mp3",
+    "url_resolved": "https://azurasttp.es/listen/wepappnew/webappnew.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/490/la-jungla-radio-valencia.589b0d83.jpg",
     "country": "Spain",
-    "tags": "local news,news",
+    "tags": "Años 80,Años 90",
     "votes": 1444
   },
   {
@@ -971,12 +971,12 @@
   },
   {
     "stationuuid": "70f4f461-a7e1-4ac6-80d8-f883653a58a8",
-    "name": "España FM 92.9 FM",
-    "url": "http://99.198.107.186:8526/stream.m3u",
-    "url_resolved": "http://99.198.107.186:8526/stream.m3u",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/444/espana-fm-929-fm.f9a9e6d5.png",
+    "name": "Relax FM",
+    "url": "https://29334.live.streamtheworld.com/RELAX_FM_SC",
+    "url_resolved": "https://29334.live.streamtheworld.com/RELAX_FM_SC",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/4vgm28nzk8tb.jpg",
     "country": "Spain",
-    "tags": "80s,90s,variety",
+    "tags": "relax",
     "votes": 1414
   },
   {
