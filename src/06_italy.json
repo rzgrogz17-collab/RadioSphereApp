@@ -351,12 +351,12 @@
   },
   {
     "stationuuid": "4118e7c1-33f0-4cc7-8b7c-e3671a5b9552",
-    "name": "Radiofreccia",
+    "name": "Radio Freccia",
     "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8",
     "url_resolved": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8",
     "favicon": "https://assets.radioplayer.org/380/380224/1400/1400/lfcr0d37.png",
     "country": "Italy",
-    "tags": "rock",
+    "tags": "Rock,Classic Rock,Alternativa / Indie",
     "votes": 1965
   },
   {
@@ -540,214 +540,214 @@
     "votes": 1957
   },
   {
-    "stationuuid": "2499df6e-e260-4cda-8d7c-113bf8828074",
-    "name": "Radio Ibiza",
-    "url": "https://kisskiss.fluidstream.eu/ibiza.aac",
-    "url_resolved": "https://kisskiss.fluidstream.eu/ibiza.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/503/radio-ibiza.3281090f.png",
-    "country": "Italy",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d54e9197-8a26-4bb3-a0e8-de71269f6b37",
-    "name": "R101 Radio",
-    "url": "http://icecast.unitedradio.it/r101",
-    "url_resolved": "http://icecast.unitedradio.it/r101",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/023/radio-r101.ed50d960.png",
-    "country": "Italy",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "ab62df85-d027-4bb4-b32e-f75cc179a1bc",
     "name": "Radio Bruno",
     "url": "http://onair18.xdevel.com:8062/",
     "url_resolved": "http://onair18.xdevel.com:8062/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/187/radio-bruno.56b8f344.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/187/radio-bruno.56b8f344.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a8193e83-2df5-407b-a034-703733f5219b",
-    "name": "Rai Isoradio",
-    "url": "http://icestreaming.rai.it/12.mp3",
-    "url_resolved": "http://icestreaming.rai.it/12.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/881/rai-isoradio.b32bae01.png",
-    "country": "Italy",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "8174cd45-d249-40bf-b899-87c6ef6a74c0",
-    "name": "RTL 102.5 - Best",
-    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8",
-    "url_resolved": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/714/rtl-1025-best.aadc260e.png",
-    "country": "Italy",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "5a63b344-3a6b-4291-bc4d-90338fb4fc51",
-    "name": "Radio 70 80 90",
-    "url": "https://rblive.it:8020/radio.aac",
-    "url_resolved": "https://rblive.it:8020/radio.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/415/radio-70-80-90.effa572e.png",
-    "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "votes": 1956
   },
   {
     "stationuuid": "d762c392-bc4c-4d86-995d-541e022a234a",
     "name": "Tele Radio Stereo",
     "url": "https://sr8.inmystream.it:8016/stream",
     "url_resolved": "https://sr8.inmystream.it:8016/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/646/tele-radio-stereo.7d9873cb.png",
+    "favicon": "https://www.publiromaical.it/2024/assets/images/logo_trs_2.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1955
+  },
+  {
+    "stationuuid": "2499df6e-e260-4cda-8d7c-113bf8828074",
+    "name": "Radio Ibiza",
+    "url": "https://kisskiss.fluidstream.eu/ibiza.aac",
+    "url_resolved": "https://kisskiss.fluidstream.eu/ibiza.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/503/radio-ibiza.3281090f.png",
+    "country": "Italy",
+    "tags": "Dance / EDM",
+    "votes": 1954
+  },
+  {
+    "stationuuid": "d54e9197-8a26-4bb3-a0e8-de71269f6b37",
+    "name": "R101 Radio",
+    "url": "http://icecast.unitedradio.it/r101",
+    "url_resolved": "http://icecast.unitedradio.it/r101",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/023/radio-r101.ed50d960.png",
+    "country": "Italy",
+    "tags": "Adult Contemporary",
+    "votes": 1953
+  },
+  {
+    "stationuuid": "a8193e83-2df5-407b-a034-703733f5219b",
+    "name": "Rai Isoradio",
+    "url": "http://icestreaming.rai.it/12.mp3",
+    "url_resolved": "http://icestreaming.rai.it/12.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/881/rai-isoradio.b32bae01.png",
+    "country": "Italy",
+    "tags": "radio",
+    "votes": 1952
+  },
+  {
+    "stationuuid": "8174cd45-d249-40bf-b899-87c6ef6a74c0",
+    "name": "RTL 102.5 - Best",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8",
+    "url_resolved": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8",
+    "favicon": "https://assets.radioplayer.org/380/380202/600/600/m708dchw.png",
+    "country": "Italy",
+    "tags": "radio",
+    "votes": 1951
+  },
+  {
+    "stationuuid": "5a63b344-3a6b-4291-bc4d-90338fb4fc51",
+    "name": "Radio 70 80 90",
+    "url": "https://rblive.it:8020/radio.aac",
+    "url_resolved": "https://rblive.it:8020/radio.aac",
+    "favicon": "https://www.radiolinea.it/stream/708090-cover.png",
+    "country": "Italy",
+    "tags": "radio",
+    "votes": 1950
   },
   {
     "stationuuid": "37da3afc-5369-4329-aac7-6cf142ef70a7",
     "name": "Radio Radio 104.5 FM",
     "url": "https://sr6.inmystream.it/proxy/rrshout?mp=/stream",
     "url_resolved": "https://sr6.inmystream.it/proxy/rrshout?mp=/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/178/radio-radio-1045-fm.371511be.png",
+    "favicon": "https://www.luxurybrandagent.com/brands/Radio%20Radio/logo.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1949
   },
   {
     "stationuuid": "460e3c7e-24b7-4032-9c32-85e7eaf59fac",
     "name": "Radio 60 70 80",
     "url": "https://ice.studiopiu.net/radioplayer607080.aac",
     "url_resolved": "https://ice.studiopiu.net/radioplayer607080.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/220/radio-60-70-80.66404834.png",
+    "favicon": "https://assets.radioplayer.org/380/380114/600/600/kycu04x8.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1948
   },
   {
     "stationuuid": "1295bac6-bf37-4ca8-9a39-9b8d52883ee2",
     "name": "Dimensione Suono Soft",
     "url": "https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8",
     "url_resolved": "https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/537/dimensione-suono-soft.e3836820.jpg",
+    "favicon": "https://assets.radioplayer.org/380/380220/1400/1400/kyctwwmo.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1947
   },
   {
     "stationuuid": "32ef17f0-978a-41ba-9304-6e37060ec291",
     "name": "Radio Birikina",
     "url": "https://klasse1.fluidstream.eu/birikina.mp3",
     "url_resolved": "https://klasse1.fluidstream.eu/birikina.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/061/radio-birikina.93dbcce8.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/061/radio-birikina.93dbcce8.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1946
   },
   {
     "stationuuid": "ef1b9532-ec88-4694-a8e1-648e4f4af221",
     "name": "Dj Osso Radio",
     "url": "https://stream.rcs.revma.com/rqh8st7he5uvv",
     "url_resolved": "https://stream.rcs.revma.com/rqh8st7he5uvv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/893/dj-osso-radio.7cd040e2.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/893/dj-osso-radio.7cd040e2.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1945
   },
   {
     "stationuuid": "c4432dec-bcbe-4137-83e4-95760138e2fa",
     "name": "Radio Piterpan",
     "url": "https://klasse1.fluidstream.eu/piterpan",
     "url_resolved": "https://klasse1.fluidstream.eu/piterpan",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/142/radio-piterpan.db9a02ec.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/142/radio-piterpan.db9a02ec.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1944
   },
   {
     "stationuuid": "8e49e103-0e5a-4a26-b4f0-1f1210353dc4",
     "name": "Rete Sport",
     "url": "https://icecast.ithost.it/retesport.ogg",
     "url_resolved": "https://icecast.ithost.it/retesport.ogg",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/781/rete-sport.64a27406.png",
+    "favicon": "https://www.padelesalute.it/wp-content/uploads/2023/02/logo-retesport-vettoriale-colori-e-1colore-1_page-0001.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1943
   },
   {
     "stationuuid": "539589d6-124b-42b8-9ff8-b159471e3786",
     "name": "Radio LatteMiele",
     "url": "https://sr15.inmystream.it/stream/lattemiele",
     "url_resolved": "https://sr15.inmystream.it/stream/lattemiele",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/770/radio-lattemiele.0c0376b5.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/770/radio-lattemiele.0c0376b5.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1942
   },
   {
     "stationuuid": "a27756ca-bcd6-4c65-85af-4959f06cf35e",
     "name": "105 Dance 90",
     "url": "http://icy.unitedradio.it/105Dance90.mp3",
     "url_resolved": "http://icy.unitedradio.it/105Dance90.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/126/105-dance-90.06019e2c.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/126/105-dance-90.06019e2c.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM,Anni '90",
+    "votes": 1941
   },
   {
     "stationuuid": "e2d021f1-a709-48b3-a9ae-607e838840af",
     "name": "Radio Romanista",
     "url": "https://romanista.newradio.it/stream",
     "url_resolved": "https://romanista.newradio.it/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/354/radio-romanista.fad57e5e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/354/radio-romanista.fad57e5e.jpg",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Sport",
+    "votes": 1940
   },
   {
     "stationuuid": "39758034-3268-44bc-817b-18b19767eb67",
     "name": "Radio Kiss Kiss Italia",
     "url": "https://kisskiss.fluidstream.eu/KKItalia.mp3",
     "url_resolved": "https://kisskiss.fluidstream.eu/KKItalia.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/075/radio-kiss-kiss-italia.3096bbce.png",
+    "favicon": "https://assets.radioplayer.org/380/380228/1400/1400/kyctw7dl.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Radio locale",
+    "votes": 1939
   },
   {
     "stationuuid": "affb0f71-8ea6-4408-99dd-06366e66b11a",
     "name": "Radio Mitology",
     "url": "https://stream9.xdevel.com/audio2s977583-3054/stream/icecast.audio",
     "url_resolved": "https://stream9.xdevel.com/audio2s977583-3054/stream/icecast.audio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/067/radio-mitology.5e7a866e.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/067/radio-mitology.5e7a866e.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1938
   },
   {
     "stationuuid": "06b47ae0-37b4-47b2-92ab-1fc64e08a9f9",
     "name": "Radio Studio Più",
     "url": "https://ice.studiopiu.net/sito.aac",
     "url_resolved": "https://ice.studiopiu.net/sito.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/218/radio-studio-piu.8e09f94d.jpg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/218/radio-studio-piu.8e09f94d.jpg",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Anni '80,Oldies",
+    "votes": 1937
   },
   {
     "stationuuid": "79ff6d78-0b52-4d9b-aa23-5ec5b136a01d",
     "name": "ITALIAN RADIO - ITALIAN.radio",
     "url": "https://italianradio.streamingmedia.it/play",
     "url_resolved": "https://italianradio.streamingmedia.it/play",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/076/italian-radio-italianradio.670921e7.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/076/italian-radio-italianradio.670921e7.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary,Oldies",
+    "votes": 1936
   },
   {
     "stationuuid": "fb281abf-664f-4694-b29e-007edc46f190",
@@ -756,28 +756,28 @@
     "url_resolved": "https://icy.unitedradio.it/VirginRock70.mp3",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/614/virgin-radio-rock-70.5d749bc2.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Oldies",
+    "votes": 1935
   },
   {
     "stationuuid": "671f4229-e1da-445c-9eca-3a9040233d69",
     "name": "Radio Sei 98.1 FM",
     "url": "https://icecast.ithost.it/radiosei.ogg",
     "url_resolved": "https://icecast.ithost.it/radiosei.ogg",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/177/radio-sei-981-fm.4a9fca3b.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/177/radio-sei-981-fm.4a9fca3b.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Sport",
+    "votes": 1934
   },
   {
     "stationuuid": "732c5e3b-7491-4b5b-ab38-287b790981dd",
     "name": "Ritmo 80",
     "url": "https://rh.fluidstream.eu/ritmo80.mp3",
     "url_resolved": "https://rh.fluidstream.eu/ritmo80.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/469/ritmo-80.691d6579.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/469/ritmo-80.691d6579.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Anni '80",
+    "votes": 1933
   },
   {
     "stationuuid": "65dc067a-91cf-4ef9-9d90-795ac650b45a",
@@ -786,128 +786,128 @@
     "url_resolved": "https://icy.unitedradio.it/VirginRock80.mp3",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/618/virgin-radio-rock-80.a29e6555.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Anni '80",
+    "votes": 1932
   },
   {
     "stationuuid": "7421aa8e-d172-4762-bf5f-41842c7a6ca9",
     "name": "Rai Radio Classica",
     "url": "https://icestreaming.rai.it/5.mp3",
     "url_resolved": "https://icestreaming.rai.it/5.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/535/rai-radio-classica.dc930915.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/535/rai-radio-classica.dc930915.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Classical",
+    "votes": 1931
   },
   {
     "stationuuid": "aaa885fe-51a8-4ea3-b453-228684befa14",
     "name": "Dimensione Suono Roma",
     "url": "https://stream.dimensionesuonoroma.radio/audio/dsr.stream_aac/playlist.m3u8",
     "url_resolved": "https://stream.dimensionesuonoroma.radio/audio/dsr.stream_aac/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/477/dimensione-suono-roma.18fe9eaa.png",
+    "favicon": "https://assets.radioplayer.org/380/380227/600/600/kyctw9yu.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary",
+    "votes": 1930
   },
   {
     "stationuuid": "ba6dfdd8-18a8-46b5-b703-aaa90c73ca42",
     "name": "Radio Globo",
     "url": "https://globo.newradio.it/globorm64",
     "url_resolved": "https://globo.newradio.it/globorm64",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/504/radio-globo.2a2a798f.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/504/radio-globo.2a2a798f.jpg",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 1929
   },
   {
     "stationuuid": "11f4750d-17f3-45c3-88d5-d014205fecb7",
     "name": "Radio Cuore",
     "url": "https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio",
     "url_resolved": "https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/kkgCPre7CB.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/kkgCPre7CB.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Romantica",
+    "votes": 1928
   },
   {
     "stationuuid": "a3e3b87e-5b93-4c14-a20b-a654aaf634fc",
     "name": "Ram Power FM",
     "url": "https://stream.ram.radio/audio/ram.stream_aac/playlist.m3u8",
     "url_resolved": "https://stream.ram.radio/audio/ram.stream_aac/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/411/ram-power-fm.42674035.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/411/ram-power-fm.42674035.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1927
   },
   {
     "stationuuid": "df05b649-8dc2-4a57-80ea-31021074a976",
     "name": "RMC 80",
     "url": "http://edge.radiomontecarlo.net/rmcweb008",
     "url_resolved": "http://edge.radiomontecarlo.net/rmcweb008",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/605/rmc-80.2b8a4907.jpg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/605/rmc-80.2b8a4907.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1926
   },
   {
     "stationuuid": "aa10a2df-b8ea-4b60-b042-e9d8f27e9dc1",
     "name": "Hits Italia - United Music",
     "url": "https://icy.unitedradio.it/um011.aac",
     "url_resolved": "https://icy.unitedradio.it/um011.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/508/011-united-music-hits-italia.11ddb2c2.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/508/011-united-music-hits-italia.11ddb2c2.png",
     "country": "Italy",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary",
+    "votes": 1925
   },
   {
     "stationuuid": "e3cb78a1-f875-4fb4-8675-cc6d67879e5c",
     "name": "Amore - United Music",
     "url": "https://icy.unitedradio.it/um012.mp3",
     "url_resolved": "https://icy.unitedradio.it/um012.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/509/012-united-music-amore.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1924
   },
   {
     "stationuuid": "b770265d-4bb5-4dd0-b678-8e6786932284",
     "name": "Italia 2000 - United Music",
     "url": "https://icy.unitedradio.it/um013.mp3",
     "url_resolved": "https://icy.unitedradio.it/um013.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/510/013-united-music-italia-2000.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1923
   },
   {
     "stationuuid": "eec44a10-ac70-4e83-87a5-133942be73dd",
     "name": "Hits Italia 60 - United Music",
     "url": "https://icy.unitedradio.it/um014.mp3",
     "url_resolved": "https://icy.unitedradio.it/um014.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/564/014-united-music-italia-60.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1922
   },
   {
     "stationuuid": "1b47ed5f-f1b6-4f72-a2b6-6f1049457727",
     "name": "Auditorium - United Music",
     "url": "https://icy.unitedradio.it/um015.mp3",
     "url_resolved": "https://icy.unitedradio.it/um015.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/565/-015-united-music-auditorium.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1921
   },
   {
     "stationuuid": "1e1b8e23-fb4b-46fd-bc2e-2eb32b648ffd",
     "name": "Hits Italia 80 - United Music",
     "url": "https://icy.unitedradio.it/um016.mp3",
     "url_resolved": "https://icy.unitedradio.it/um016.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/566/-016-united-music-italia-80.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1920
   },
   {
     "stationuuid": "8cbb7265-e1a4-4cf9-85e6-9f00bd6f817d",
@@ -917,46 +917,66 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/567/-017-united-music-viva-napoli.11ddb2c2.png",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1919
   },
   {
     "stationuuid": "b594a0f2-4169-42ac-b476-969fcbdce0d3",
     "name": "Hits Italia 90 - United Music",
     "url": "https://icy.unitedradio.it/um018.mp3",
     "url_resolved": "https://icy.unitedradio.it/um018.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/568/-018-united-music-italia-90.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1918
   },
   {
     "stationuuid": "90bcee88-b558-4ec8-8ae2-17fbfc4cc9a8",
     "name": "Hits Italia 70 - United Music",
     "url": "https://icy.unitedradio.it/um020.mp3",
     "url_resolved": "https://icy.unitedradio.it/um020.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/644/-020-united-music-italia-70.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1917
   },
   {
     "stationuuid": "c9bb93a8-83b6-4486-a78c-23ec7dd0f880",
     "name": "Hits Italia 2010 - United Music",
     "url": "https://icy.unitedradio.it/um021.mp3",
     "url_resolved": "https://icy.unitedradio.it/um021.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/645/-021-united-music-millennials-italy.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1916
   },
   {
     "stationuuid": "94a6d7af-7f88-419d-ab13-4e0d645ebbc6",
     "name": "Love - United Music",
     "url": "https://icy.unitedradio.it/um022.mp3",
     "url_resolved": "https://icy.unitedradio.it/um022.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/646/-022-united-music-love.11ddb2c2.png",
+    "favicon": "https://cdn-images.dzcdn.net/images/misc/7501739459b137208ae3bc269b9b08d0/1900x1900-000000-80-0-0.jpg",
     "country": "Italy",
     "tags": "radio",
-    "votes": 0
+    "votes": 1915
+  },
+  {
+    "stationuuid": "93a6d4af-9f74-410d-ab03-4e0d015ebbc2",
+    "name": "Radio Marte",
+    "url": "https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio",
+    "url_resolved": "https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio",
+    "favicon": "https://assets.radioplayer.org/380/380142/1400/1400/kycty649.png",
+    "country": "Italy",
+    "tags": "talk show,pop",
+    "votes": 1914
+  },
+   {
+    "stationuuid": "95a6d7af-7f77-420d-ab13-4e0d655ebbc6",
+    "name": "Radio Margherita",
+    "url": "https://streaming.radiomargherita.com/stream/radiomargherita",
+    "url_resolved": "https://streaming.radiomargherita.com/stream/radiomargherita",
+    "favicon": "https://www.getmeradio.com/stations/radiomargherita-8951/logos/512x512.png",
+    "country": "Italy",
+    "tags": "musica italiana, pop melodico, musica leggera, canzoni d'autore, successi nostalgici,Lazio - 100.7 FM",
+    "votes": 1914
   }
 ]
