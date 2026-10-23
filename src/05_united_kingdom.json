@@ -144,7 +144,7 @@
     "name": "Soul Central Radio",
     "url": "http://65.21.202.84:8519/stream/",
     "url_resolved": "http://65.21.202.84:8519/stream/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/344/soul-central-radio.76a898a8.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SOULCENTERRADIOUK.jpg",
     "country": "United Kingdom",
     "tags": "radio",
     "votes": 1488
@@ -264,7 +264,7 @@
     "name": "Bloop London Radio - live4",
     "url": "https://radio.canstream.co.uk:8058/live4.mp3",
     "url_resolved": "https://radio.canstream.co.uk:8058/live4.mp3",
-    "favicon": "https://www.radio.net/175/blooplondonradio.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/BloopLondonRadioUK.jpg",
     "country": "United Kingdom",
     "tags": "electronic",
     "votes": 1476
@@ -284,7 +284,7 @@
     "name": "Reform Radio",
     "url": "https://testform.out.airtime.pro/testform_a",
     "url_resolved": "https://testform.out.airtime.pro/testform_a",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/753/reform-radio.84f2fd5a.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/REFORMRADIOUK.jpg",
     "country": "United Kingdom",
     "tags": "music,variety",
     "votes": 1474
@@ -572,8 +572,8 @@
   {
     "stationuuid": "74b45490-b3ff-45a9-9087-d021f3fd7282",
     "name": "Totally 80s Radio",
-    "url": "https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3",
-    "url_resolved": "https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3",
+    "url": "https://listen.streamaudio.co/proxy/totally80s/.mp3",
+    "url_resolved": "https://listen.streamaudio.co/proxy/totally80s/.mp3",
     "favicon": "https://static2.mytuner.mobi/media/tvos_radios/348/totally-80s-radio.ddacfd13.png",
     "country": "United Kingdom",
     "tags": "radio",
@@ -644,20 +644,20 @@
     "name": "Eruption Radio",
     "url": "http://streaming04.liveboxstream.uk:8116/stream",
     "url_resolved": "http://streaming04.liveboxstream.uk:8116/stream",
-    "favicon": "https://www.eruptionradio.uk/site/wp-content/uploads/2019/12/cropped-fav1-192x192.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/470/eruptionradiouk.53b6860f.png",
     "country": "United Kingdom",
     "tags": "breakbeat,drum and bass,happy hardcore,house",
-    "votes": 98
+    "votes": 1447
   },
   {
     "stationuuid": "aa03434e-e002-4d61-9581-2812ea5a1a90",
     "name": "kmfm (Canterbury)",
     "url": "https://listen-kmfm.sharp-stream.com/kmfmcanterbury.mp3",
     "url_resolved": "https://listen-kmfm.sharp-stream.com/kmfmcanterbury.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/396/kmfm-canterbury.c2d9f118.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/396/kmfm-canterbury.c2d9f118.png",
     "country": "United Kingdom",
     "tags": "local radio,pop",
-    "votes": 72
+    "votes": 1446
   },
   {
     "stationuuid": "b57cef96-d760-4d33-b743-46f0f1a4591b",
@@ -667,17 +667,17 @@
     "favicon": "https://static2.mytuner.mobi/media/tvos_radios/ku8qxjlffvfr.png",
     "country": "United Kingdom",
     "tags": "90s,dance",
-    "votes": 71
+    "votes": 1445
   },
   {
     "stationuuid": "c6441239-598b-470c-a4d8-1d2b610ba197",
     "name": "SMOOTH JAZZ 24/7 UK",
     "url": "http://smoothjazz247.edge.audiocdn.com/11222_192.mp3",
     "url_resolved": "http://smoothjazz247.edge.audiocdn.com/11222_192.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/953/smooth-jazz-247-uk.4b3a5f0d.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/953/smooth-jazz-247-uk.4b3a5f0d.png",
     "country": "United Kingdom",
     "tags": "radio",
-    "votes": 71
+    "votes": 1444
   },
   {
     "stationuuid": "f3d2adf5-822b-4e7d-928a-fe914ce4b8b1",
@@ -871,12 +871,12 @@
   },
   {
     "stationuuid": "973c30a5-a178-4daf-89c7-272ec6c47456",
-    "name": "Kool FM",
-    "url": "https://admin.stream.rinse.fm/proxy/kool/stream",
-    "url_resolved": "https://admin.stream.rinse.fm/proxy/kool/stream",
-    "favicon": "https://pbs.twimg.com/profile_images/1638236080674578434/Hbww_nFm_400x400.jpg",
+    "name": "JFSR - Jazz Funk Soul Radio",
+    "url": "https://s2.radio.co/s22ae5a8a6/listen",
+    "url_resolved": "https://s2.radio.co/s22ae5a8a6/listen",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/923/jfsr-jazz-funk-soul-radio.8242d090.jpg",
     "country": "United Kingdom",
-    "tags": "breakbeat,dancefloor,drum and bass,jump up,jungle,jungle hardcore",
+    "tags": "Jazz,Funk,Soul",
     "votes": 0
   },
   {
@@ -884,7 +884,7 @@
     "name": "CruiseOne Radio",
     "url": "https://solid24.streamupsolutions.com/proxy/cbwjiowr/stream",
     "url_resolved": "https://solid24.streamupsolutions.com/proxy/cbwjiowr/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/013/cruiseone-radio.f8449ddd.png",
+    "favicon": "https://i1.sndcdn.com/avatars-000037533466-mgfbsp-t1080x1080.jpg",
     "country": "United Kingdom",
     "tags": "electronic,indie,indie rock,pop,rock",
     "votes": 0
