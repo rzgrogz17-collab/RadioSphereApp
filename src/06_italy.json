@@ -141,12 +141,12 @@
   },
   {
     "stationuuid": "37d59e5c-6a34-4058-8508-99cdaad43f0c",
-    "name": "Radio Notte Stereo",
-    "url": "http://nr9.newradio.it:9199/stream",
-    "url_resolved": "http://nr9.newradio.it:9199/stream",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RadioNotteStereIT.jpg",
+    "name": "105 Zoo Radio",
+    "url": "https://icy.unitedradio.it/105Zoo.mp3",
+    "url_resolved": "https://icy.unitedradio.it/105Zoo.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/759/105-zoo-radio.4814524b.png",
     "country": "Italy",
-    "tags": "classic hits,hits,top100",
+    "tags": "Lombardia",
     "votes": 1986
   },
   {
@@ -162,8 +162,8 @@
   {
     "stationuuid": "c5d0995e-ee6d-4448-b1f5-daafc4e541a5",
     "name": "Radio Forever 80",
-    "url": "https://stream.laut.fm/forever80",
-    "url_resolved": "https://stream.laut.fm/forever80",
+    "url": "https://stream.zeno.fm/de4731r2rmzuv",
+    "url_resolved": "https://stream.zeno.fm/de4731r2rmzuv",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/017/forever-80.4e18ca05.jpg",
     "country": "Italy",
     "tags": "80's,classic dance,oldies",
