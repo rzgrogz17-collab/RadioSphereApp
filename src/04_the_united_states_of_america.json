@@ -1407,27 +1407,27 @@
     "favicon": "http://www.espn975.com/wp-content/uploads/2016/07/kfnc_cover.png",
     "country": "The United States Of America",
     "tags": "espn,houston,mont belevieu,sport",
-    "votes": 167
+    "votes": 3350
   },
   {
     "stationuuid": "22f4883a-fe4e-4ee5-b4ef-6ddfa349bd85",
     "name": "Real Punk Radio",
     "url": "http://149.56.155.73:8080/stream",
     "url_resolved": "http://149.56.155.73:8080/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/gCKvbC9bNq.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/gCKvbC9bNq.png",
     "country": "The United States Of America",
     "tags": "punk,rock,ska",
-    "votes": 164
+    "votes": 3349
   },
   {
     "stationuuid": "6363f6d6-29ae-436e-a013-ffbb05537706",
     "name": "WRMI-Radio Miami International",
     "url": "http://wrmi.listen.creek.fm/stream",
     "url_resolved": "http://wrmi.listen.creek.fm/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/781/wrmi-radio-miami-international.23cea53a.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/781/wrmi-radio-miami-international.23cea53a.jpg",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 162
+    "tags": "International",
+    "votes": 3348
   },
   {
     "stationuuid": "f7004008-3996-4507-a747-69ea8a40fdc7",
@@ -1437,37 +1437,37 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/730/kpcr-929fm.f213000a.jpg",
     "country": "The United States Of America",
     "tags": "alternative,college radio,post retro freeform",
-    "votes": 154
+    "votes": 3347
   },
   {
     "stationuuid": "e9470c45-3dbc-4bec-8383-b49b32665bd9",
     "name": "intra Nature Radio",
     "url": "http://nap.casthost.net:8793/stream",
     "url_resolved": "http://nap.casthost.net:8793/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/495/intranature-radio.bd230f9e.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/495/intranature-radio.bd230f9e.png",
     "country": "The United States Of America",
-    "tags": "nature",
-    "votes": 150
+    "tags": "Easy Listening,World Music,Chillout",
+    "votes": 3346
   },
   {
     "stationuuid": "f19316db-f839-44c8-a7e0-1194ff6e1f6a",
     "name": "113.FM - Indie Nation",
     "url": "https://113fm-atunwadigital.streamguys1.com/1047",
     "url_resolved": "https://113fm-atunwadigital.streamguys1.com/1047",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/962/113fm-indie-nation.7e235adc.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/962/113fm-indie-nation.7e235adc.jpg",
     "country": "The United States Of America",
-    "tags": "indie",
-    "votes": 150
+    "tags": "Alternative / Indie",
+    "votes": 3345
   },
   {
     "stationuuid": "b973dc9a-508d-44bc-afcb-15ca3c6cad80",
     "name": "Sam Meyers Classic Country",
     "url": "http://s31.myradiostream.com:63224/;",
     "url_resolved": "http://s31.myradiostream.com:63224/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/931/sam-meyers-classic-country.165c26d6.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/931/sam-meyers-classic-country.165c26d6.png",
     "country": "The United States Of America",
     "tags": "classic country",
-    "votes": 150
+    "votes": 3344
   },
   {
     "stationuuid": "4ad61111-7dca-4fec-945c-98ad1ef66cd3",
@@ -1477,17 +1477,17 @@
     "favicon": "https://static.wixstatic.com/media/7d32c5_12b386b9d6c147f28d7952c9d466bc06~mv2.png/v1/fill/w_1132,h_789,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/317590051_5176753955758743_1784250402823184359_n.png",
     "country": "The United States Of America",
     "tags": "cbsrmt,mystery,old time radio,old time radio shows,otr",
-    "votes": 147
+    "votes": 3343
   },
   {
     "stationuuid": "c9b65784-d744-4ab9-b3b6-1a36bba493f2",
     "name": "Beatles (181.FM USA)",
     "url": "http://listen.181fm.com/181-beatles_128k.mp3",
     "url_resolved": "http://listen.181fm.com/181-beatles_128k.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/766/beatles-radio.481c295e.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/766/beatles-radio.481c295e.png",
     "country": "The United States Of America",
     "tags": "1960s,classic rock oldies",
-    "votes": 145
+    "votes": 3342
   },
   {
     "stationuuid": "67fb5b08-75ba-4901-8e1b-0b9ccace10cd",
@@ -1497,7 +1497,7 @@
     "favicon": "https://player.yesstreaming.com/uploads/logos/1657394553_2a60c766d829113ee8f7.png",
     "country": "The United States Of America",
     "tags": "radio",
-    "votes": 144
+    "votes": 3341
   },
   {
     "stationuuid": "b0b470cc-05b6-4b2b-b028-3f687af54de9",
@@ -1507,17 +1507,17 @@
     "favicon": "https://media.ruralradio.co/nrr/uploads/sites/4/2021/02/cropped-ktic-1-180x180.png",
     "country": "The United States Of America",
     "tags": "country",
-    "votes": 139
+    "votes": 3340
   },
   {
     "stationuuid": "d71dd8f6-a3d7-11e8-abb8-52543be04c81",
     "name": "New Sounds Radio",
     "url": "https://q2stream.wqxr.org/q2-web",
     "url_resolved": "https://q2stream.wqxr.org/q2-web",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ak9plq8ldxdq.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ak9plq8ldxdq.png",
     "country": "The United States Of America",
     "tags": "radio",
-    "votes": 134
+    "votes": 3339
   },
   {
     "stationuuid": "f0b5ad4c-bab9-11e9-acb2-52543be04c81",
@@ -1527,17 +1527,17 @@
     "favicon": "https://img.radios.com.br/radio/xl/radio28107_1596714146.jpg",
     "country": "The United States Of America",
     "tags": "classical",
-    "votes": 133
+    "votes": 3338
   },
   {
     "stationuuid": "689fe07b-efa8-4b6f-8994-eba7d2ea7c46",
     "name": "ProgRadio",
     "url": "https://s4.radio.co/s1e0b382a0/listen",
     "url_resolved": "https://s4.radio.co/s1e0b382a0/listen",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/mKJbTA9k9m.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/mKJbTA9k9m.png",
     "country": "The United States Of America",
     "tags": "progressive rock",
-    "votes": 132
+    "votes": 3337
   },
   {
     "stationuuid": "87a98749-0247-4314-a528-7d0ebcf13c13",
@@ -1547,7 +1547,7 @@
     "favicon": "https://www.reignradio.com/wp-content/uploads/2019/06/cropped-rrsite-180x180.png",
     "country": "The United States Of America",
     "tags": "radio",
-    "votes": 127
+    "votes": 3336
   },
   {
     "stationuuid": "9b65470b-c31d-4a3a-b57b-eea8c62c58c9",
@@ -1557,7 +1557,7 @@
     "favicon": "https://dashradio-files.s3.amazonaws.com/development/icon_logos/164/logos/0e64637e-7b29-477e-883b-ae7408d275ee.png",
     "country": "The United States Of America",
     "tags": "90s,grunge,rock",
-    "votes": 127
+    "votes": 3335
   },
   {
     "stationuuid": "fb93956f-a004-4676-a3fb-28c8d9143d60",
@@ -1567,7 +1567,7 @@
     "favicon": "https://www.getmeradio.com/stations/yachtrockmiami-1335/logos/512x512.png",
     "country": "The United States Of America",
     "tags": "yacht rock",
-    "votes": 125
+    "votes": 3334
   },
   {
     "stationuuid": "8ae240aa-5687-4f01-9b02-8b20f2b24a81",
@@ -1577,7 +1577,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/074/wxts-jazz-883-fm.bb3936f7.jpg",
     "country": "The United States Of America",
     "tags": "jazz",
-    "votes": 122
+    "votes": 3333
   },
   {
     "stationuuid": "434e9a4b-018a-4557-8ca1-8c328bb1e09d",
@@ -1587,17 +1587,17 @@
     "favicon": "https://cdn.prod.website-files.com/5f4bdfc87623ea5cc5d24cf3/606da84551eef3d5fa8c0cb9_icon.png",
     "country": "The United States Of America",
     "tags": "dance,electronic",
-    "votes": 116
+    "votes": 3332
   },
   {
     "stationuuid": "8c137563-0b79-4dd0-b968-311885c70db4",
     "name": "WMVP 1000 AM - ESPN Chicago, IL",
     "url": "https://prod-98-94-23-38.amperwave.net/goodkarma-wmvpammp3-ibc1?session-id=88adb82e46050901dcdec3e1be7a56ea",
     "url_resolved": "https://prod-98-94-23-38.amperwave.net/goodkarma-wmvpammp3-ibc1?session-id=88adb82e46050901dcdec3e1be7a56ea",
-    "favicon": "https://goodkarmabrands.com/images/ESPN_Chi_stk_FRE_lockup345x283.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/689/wmvp-espn-chicago-1000-am.3219c275.png",
     "country": "The United States Of America",
     "tags": "chicago sports,live sports,sports radio,sports talk",
-    "votes": 115
+    "votes": 3331
   },
   {
     "stationuuid": "74b352a5-3c75-404c-afab-02129017de8b",
@@ -1607,7 +1607,7 @@
     "favicon": "https://images.squarespace-cdn.com/content/v1/5b20207cf93fd43d362de762/1538069293334-P194H67966QDGJT9OB8R/jean+shepard+1.jpg",
     "country": "The United States Of America",
     "tags": "comedy,humorist,humourist,monologues,observation,old time radio",
-    "votes": 115
+    "votes": 3330
   },
   {
     "stationuuid": "1aea5c3d-1b75-4f24-8088-24538c18501d",
@@ -1617,7 +1617,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/461/kwkw-tu-liga-radio-1330-am.b7415d25.png",
     "country": "The United States Of America",
     "tags": "1330 am,américa,california,entretenimiento,español,estación",
-    "votes": 114
+    "votes": 3329
   },
   {
     "stationuuid": "3df334e7-9b3a-4d8e-9a60-0d045f5e77ba",
@@ -1626,8 +1626,8 @@
     "url_resolved": "https://radio.stereoscenic.com/asp-s",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/914/ambient-sleeping-pill.c6238c6a.png",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 112
+    "tags": "Chillout",
+    "votes": 3328
   },
   {
     "stationuuid": "b7a35256-ce81-46fb-96aa-2717bf5f0110",
@@ -1637,17 +1637,17 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/676/kprs-hot-103-jamz-1033-fm.38341c70.png",
     "country": "The United States Of America",
     "tags": "urban contemporary",
-    "votes": 112
+    "votes": 3327
   },
   {
     "stationuuid": "96416cf3-0601-11e8-ae97-52543be04c81",
     "name": "WWVR \"98.5 The River\" Paris, IL",
     "url": "http://27053.live.streamtheworld.com/WWVRFMAAC_SC",
     "url_resolved": "http://27053.live.streamtheworld.com/WWVRFMAAC_SC",
-    "favicon": "https://media.socastsrm.com/uploads/station/2111/home_screen_logo-5e343995f0850.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/750/wwvr-985-the-river.6b878984.jpg",
     "country": "The United States Of America",
     "tags": "champaign,classic rock,paris,terre haute",
-    "votes": 111
+    "votes": 3326
   },
   {
     "stationuuid": "c032608e-70c3-479c-867b-af7becd10ed9",
@@ -1657,17 +1657,17 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/089/atos-theatre-organ-radio.362024db.jpg",
     "country": "The United States Of America",
     "tags": "instrumental,organ,theatre",
-    "votes": 110
+    "votes": 3325
   },
   {
     "stationuuid": "dd31eb10-5e32-4fdb-bc60-3573714d068a",
     "name": "News/Talk 550 WDUN",
     "url": "https://ice42.securenetsystems.net/WDUN",
     "url_resolved": "https://ice42.securenetsystems.net/WDUN",
-    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WDUN.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/154/wdun-550-am.87c43cb2.png",
     "country": "The United States Of America",
     "tags": "news,talk",
-    "votes": 108
+    "votes": 3324
   },
   {
     "stationuuid": "c7118069-549d-4453-8f40-6e91c54ad6f5",
@@ -1676,8 +1676,8 @@
     "url_resolved": "https://streaming.radiostreamlive.com/radionylive_devices",
     "favicon": "https://radionewyorklive.com/en/wp-content/uploads/2024/07/rnyl-app.png",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 106
+    "tags": "80s,90s,pop,top 40",
+    "votes": 3323
   },
   {
     "stationuuid": "800ce5d4-099c-4005-af8c-7b385a7d3d0d",
@@ -1687,27 +1687,27 @@
     "favicon": "https://i.imgur.com/yuLbBtU.jpg",
     "country": "The United States Of America",
     "tags": "classic rock",
-    "votes": 105
+    "votes": 3322
   },
   {
     "stationuuid": "6ecc3205-800f-4d55-b52a-d51f230bfd62",
     "name": "Dr. Charles Stanley Radio",
     "url": "http://29312.live.streamtheworld.com:3690/ITRN_SC",
     "url_resolved": "http://29312.live.streamtheworld.com:3690/ITRN_SC",
-    "favicon": "https://www.intouch.org/assets/images/247_radio_540x540.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/qfvdsjmcdsqu.png",
     "country": "The United States Of America",
     "tags": "radio",
-    "votes": 105
+    "votes": 3321
   },
   {
     "stationuuid": "dc4cf16e-7898-45e1-9e4c-9cda9ed62f54",
     "name": "100Hitz - Alternative",
     "url": "https://pureplay.cdnstream1.com/6034_128.mp3",
     "url_resolved": "https://pureplay.cdnstream1.com/6034_128.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/319/100hitz-alternative.3e940722.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/319/100hitz-alternative.3e940722.png",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 103
+    "tags": "Alternative / Indie",
+    "votes": 3320
   },
   {
     "stationuuid": "d59fe6d5-987e-47ac-8470-1748c9184ed5",
@@ -1717,7 +1717,7 @@
     "favicon": "https://deow9bq0xqvbj.cloudfront.net/image-logo/8406343/porfiro.jpg",
     "country": "The United States Of America",
     "tags": "radio",
-    "votes": 103
+    "votes": 3319
   },
   {
     "stationuuid": "f08421c8-c3ec-4419-ab78-bdbec5e71fa3",
@@ -1727,27 +1727,27 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/116/radio-euro-disco.3618e1ca.png",
     "country": "The United States Of America",
     "tags": "pop music",
-    "votes": 101
+    "votes": 3318
   },
   {
     "stationuuid": "927ae5bd-2a8c-41c0-b029-49b45feed417",
     "name": "KFCF 88.1 - Pacifica Radio Fresno, CA",
     "url": "https://stream.kfcf.org:8443/128",
     "url_resolved": "https://stream.kfcf.org:8443/128",
-    "favicon": "https://i0.wp.com/www.kfcf.org/wp-content/uploads/2019/09/cropped-meatball.jpg?fit=180%2C180&#038;ssl=1",
+    "favicon": "https://www.radio.net/300/kfcf.png",
     "country": "The United States Of America",
     "tags": "misc",
-    "votes": 97
+    "votes": 3317
   },
   {
     "stationuuid": "6023f079-eded-471d-a2ef-8b80fae0d23c",
     "name": "105.1 The Bounce",
     "url": "https://29308.live.streamtheworld.com:443/WMGCFMAAC.aac",
     "url_resolved": "https://29308.live.streamtheworld.com:443/WMGCFMAAC.aac",
-    "favicon": "https://1051thebounce.com/wp-content/uploads/sites/31/2016/07/cropped-siteicon.jpg?w=180",
+    "favicon": "https://1051thebounce.com/wp-content/uploads/sites/31/2016/07/cropped-siteicon.jpg",
     "country": "The United States Of America",
     "tags": "hip hop",
-    "votes": 94
+    "votes": 3316
   },
   {
     "stationuuid": "6de14f9d-d100-4c3e-ba72-f699a12ebb9a",
@@ -1757,17 +1757,7 @@
     "favicon": "https://www.liveradio.ie/files/images/120326/resized/180x172c/cayman_chill_lounge.jpg",
     "country": "The United States Of America",
     "tags": "chillout,electronic,lounge",
-    "votes": 91
-  },
-  {
-    "stationuuid": "ffdb1149-75cf-4fab-a1bb-832017f5c793",
-    "name": "Final Fantasy",
-    "url": "http://finalfantasystation.com:8000/stream",
-    "url_resolved": "http://finalfantasystation.com:8000/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/003/final-fantasy-radio.7fda6a49.png",
-    "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 90
+    "votes": 3315
   },
   {
     "stationuuid": "86152b07-2ca7-4469-b7f9-c7814cac4bea",
@@ -1777,37 +1767,17 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/BtWEwdcaxg.png",
     "country": "The United States Of America",
     "tags": "ambient,space",
-    "votes": 90
+    "votes": 3314
   },
   {
     "stationuuid": "f341225c-4228-4865-9c88-137959b72ff6",
     "name": "99.1FM Downtown Radio",
     "url": "https://securestreams6.autopo.st:2110/stream.mp3",
     "url_resolved": "https://securestreams6.autopo.st:2110/stream.mp3",
-    "favicon": "https://downtownradio.org/wp-content/uploads/2020/01/cropped-dtrlogo-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/409/ktdt-lp-downtown-radio-tucson.96087caa.png",
     "country": "The United States Of America",
     "tags": "radio",
-    "votes": 89
-  },
-  {
-    "stationuuid": "4f7a1bc8-30c6-4126-ac6b-b063e64f7396",
-    "name": "Dirty Radio",
-    "url": "http://albireo.shoutca.st:8815/;",
-    "url_resolved": "http://albireo.shoutca.st:8815/;",
-    "favicon": "https://dirtyradio.fm/wp-content/uploads/2020/10/LOGO_DirtyRadioFM746x595.jpg",
-    "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 89
-  },
-  {
-    "stationuuid": "e2678020-6b6f-4a67-be14-756ada217702",
-    "name": "Scifi Radio",
-    "url": "https://station.kryptonradio.com:8080/stream",
-    "url_resolved": "https://station.kryptonradio.com:8080/stream",
-    "favicon": "https://i0.wp.com/scifi.radio/wp-content/uploads/2022/10/scifiradio-8bit-480x491-1.png?w=1113&ssl=1",
-    "country": "The United States Of America",
-    "tags": "fantasy,pop,rock,soundtracks",
-    "votes": 86
+    "votes": 3313
   },
   {
     "stationuuid": "f7227750-1740-49d1-93aa-246867c2030c",
@@ -1817,54 +1787,54 @@
     "favicon": "https://pwa.tunegenie.com/wlkz/icon-192.png",
     "country": "The United States Of America",
     "tags": "classic rock",
-    "votes": 86
+    "votes": 3312
   },
   {
     "stationuuid": "fd966a77-6c7b-40be-b1c0-a7f8d56579dc",
     "name": "Radio Surf Rock",
     "url": "https://das-edge13-live365-dal02.cdnstream.com/a06592",
     "url_resolved": "https://das-edge13-live365-dal02.cdnstream.com/a06592",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/236/radio-surf-rock.2fff4c45.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/236/radio-surf-rock.2fff4c45.png",
     "country": "The United States Of America",
     "tags": "surf,surf music,surf rock",
-    "votes": 86
+    "votes": 3311
   },
   {
     "stationuuid": "960decc6-0601-11e8-ae97-52543be04c81",
     "name": "WIZS 1450 Henderson, NC",
     "url": "http://26733.live.streamtheworld.com:3690/WIZSAMAAC_SC",
     "url_resolved": "http://26733.live.streamtheworld.com:3690/WIZSAMAAC_SC",
-    "favicon": "http://wizs.com/wp-content/uploads/2015/07/wizs-listen-live.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/314/wizs-1450-am.8509ef9b.png",
     "country": "The United States Of America",
     "tags": "country,henderson,local news,local sports",
-    "votes": 86
+    "votes": 3310
   },
   {
     "stationuuid": "961473eb-0601-11e8-ae97-52543be04c81",
     "name": "R/a/dio",
     "url": "http://relay0.r-a-d.io/main.mp3",
     "url_resolved": "http://relay0.r-a-d.io/main.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/150/ra-dio.d1a7fd49.png",
+    "favicon": "https://radioscristianasdelmundo.com/sites/default/files/2026-06/Ra-Dio-USA.png",
     "country": "The United States Of America",
     "tags": "4chan,jpop",
-    "votes": 85
+    "votes": 3309
   },
   {
     "stationuuid": "cabe9567-331a-4575-aeae-8e3dcafe2324",
     "name": "Radio Calico - lossless, with metadata",
     "url": "http://roon.radio-calico.com:8000/roon",
     "url_resolved": "http://roon.radio-calico.com:8000/roon",
-    "favicon": "https://www.radio-calico.com/wp-content/uploads/2023/03/RadioCalicoLogo-green-200px.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/648/radio-calico.240a8948.png",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 84
+    "tags": "Rock,Pop / Top 40,Variety",
+    "votes": 3308
   },
   {
     "stationuuid": "961079a5-0601-11e8-ae97-52543be04c81",
     "name": "MPR The Current",
     "url": "http://current.stream.publicradio.org/kcmp.mp3",
     "url_resolved": "http://current.stream.publicradio.org/kcmp.mp3",
-    "favicon": "https://www.thecurrent.org/apple-touch-icon.png",
+    "favicon": "https://pbs.twimg.com/profile_images/1488195026567979009/SvegEMtf_400x400.jpg",
     "country": "The United States Of America",
     "tags": "music,public radio",
     "votes": 543
