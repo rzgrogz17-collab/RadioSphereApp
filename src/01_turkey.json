@@ -7,207 +7,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SPRFM.jpg",
     "country": "Turkey",
     "tags": "hits,pop,turkish music",
-    "votes": 20499
-  },
-   {
-    "stationuuid": "2b540062e-d57b-4131-a073-a36bf7228866",
-    "name": "Akra Fm",
-    "url": "https://cdn.akra.media/akracanli2/_definst_/livestream_aac/playlist.m3u8?dvr",
-    "url_resolved": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AKRAFM.jpg",
-    "country": "Turkey",
-    "tags": "akra fm,türk,dini",
-    "votes": 0
-  },
-  {
-    "stationuuid": "0013c08a-31e7-48c6-87a9-7f64736e0a39",
-    "name": "Metro FM",
-    "url": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
-    "url_resolved": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/METROFM.png",
-    "country": "Turkey",
-    "tags": "pop,hit",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4ead410e-2f33-411b-8a06-df9ff62efa56",
-    "name": "Joy Fm",
-    "url": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
-    "url_resolved": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JOYFM.png",
-    "country": "Turkey",
-    "tags": "international",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ad09398c-3f3d-4311-9344-c76395e46805",
-    "name": "NTV Radyo",
-    "url": "http://ntvrdwmp.radyotvonline.com/",
-    "url_resolved": "http://ntvrdwmp.radyotvonline.com/",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ntvradyo.png",
-    "country": "Turkey",
-    "tags": "Haber",
-    "votes": 0
-  },
-  {
-    "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
-    "name": "Radyo Fenomen",
-    "url": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
-    "url_resolved": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FENOMENRADYO.jpg",
-    "country": "Turkey",
-    "tags": "hit",
-    "votes": 0
-  },
-  {
-    "stationuuid": "26cf81e2-ccae-5423-8cc1-42a688bae3e1",
-    "name": "RADYO TRİO",
-    "url": "https://radyotrio.radyotvonline.net/radyotrio",
-    "url_resolved": "https://radyotrio.radyotvonline.net/radyotrio",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOTRIO.png",
-    "country": "Turkey",
-    "tags": "pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1eaa11aa-8bff-48c4-9336-02a0d76389aa",
-    "name": "Erkam Radyo",
-    "url": "https://api-tv5.yayin.com.tr:8002/mp3",
-    "url_resolved": "https://api-tv5.yayin.com.tr:8002/mp3",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/erkamradyo.png",
-    "country": "Turkey",
-    "tags": "islam",
-    "votes": 0
-  },
-  {
-    "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
-    "name": "A HABER Radyo",
-    "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-    "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ahaberradyo.png",
-    "country": "Turkey",
-    "tags": "Haber",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1b18ec67-9641-4c02-92b4-cfc9f3dd85d8",
-    "name": "JoyTürk Rock",
-    "url": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
-    "url_resolved": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JOYTURKFM.jpg",
-    "country": "Turkey",
-    "tags": "alternative,classic rock,rock,turkish rock",
-    "votes": 0
-  },
-  {
-    "stationuuid": "2b119ec78-9752-5c02-93b5-cfc9f4dd96d9",
-    "name": "Yeni Pop",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POPFM.jpg",
-    "country": "Turkey",
-    "tags": "pop,müzik",
-    "votes": 4
-  },
-  {
-    "stationuuid": "1b18ec67-1456-4c55-92b4-cfc9f3dd85d8",
-    "name": "Küpe FM",
-    "url": "https://icecast.netmedya.net/kupefm",
-    "url_resolved": "https://icecast.netmedya.net/kupefm",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KPFM.jpg",
-    "country": "Turkey",
-    "tags": "Pop",
-    "votes": 5
-  },
-  {
-    "stationuuid": "302a2b72-09e5-5319-b1f2-6ed80f62dbfa",
-    "name": "Tempo FM Çorlu",
-    "url": "https://stream2.rtvtakip.com:7016/;",
-    "url_resolved": "https://stream2.rtvtakip.com:7016/;",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TEMPOFM102.jpeg",
-    "country": "Turkey",
-    "tags": "Pop",
-    "votes": 6
-  },
-  {
-    "stationuuid": "6d8f8858-7f5f-4223-956a-73ecd2b23b21",
-    "name": "İTÜ Klasik",
-    "url": "http://160.75.86.29:8088/ituklasikmp3",
-    "url_resolved": "http://160.75.86.29:8088/ituklasikmp3",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ITURADYO.jpg",
-    "country": "Turkey",
-    "tags": "classical,klasik",
-    "votes": 2
-  },
-  {
-    "stationuuid": "c5cd0f2d-a8ee-42c6-82b6-df54f04460b8",
-    "name": "POPLAND",
-    "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
-    "url_resolved": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/popland.png",
-    "country": "Turkey",
-    "tags": "pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "197b21b5-9f89-4f1f-8d68-cfc59ae9ba70",
-    "name": "Habertürk Radyo",
-    "url": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
-    "url_resolved": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/htradyo.png",
-    "country": "Turkey",
-    "tags": "Haber",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4dc09559-aa5c-4ecd-a8cf-4fc450471ae4",
-    "name": "Kafa Radyo",
-    "url": "https://stream.radyotvonline.net/hls/play/kafaradyo.m3u8",
-    "url_resolved": "https://stream.radyotvonline.net/hls/play/kafaradyo.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/kafaradyo.png",
-    "country": "Turkey",
-    "tags": "Pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "948408f4-0060-44fa-a26c-bf313f6c774d",
-    "name": "KRAL FM",
-    "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
-    "url_resolved": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KRALFM.jpg",
-    "country": "Turkey",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "97f3bb39-24a0-461d-b282-b0ccae5a12c4",
-    "name": "Slow Türk",
-    "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
-    "url_resolved": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SLOWTURKFM.jpg",
-    "country": "Turkey",
-    "tags": "Slow",
-    "votes": 0
-  },
-  {
-    "stationuuid": "df369586-40fc-11e9-aa55-52543be04c81",
-    "name": "Radyo 7",
-    "url": "http://46.20.3.250/;stream",
-    "url_resolved": "http://46.20.3.250/;stream",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYO7NEW.png",
-    "country": "Turkey",
-    "tags": "",
-    "votes": 0
-  },
-  {
-    "stationuuid": "02ad59d8-eeb6-41f0-b850-f453bc0401ae",
-    "name": "Radyo 45'lik",
-    "url": "https://stream.radyo45lik.com:4545/",
-    "url_resolved": "https://stream.radyo45lik.com:4545/",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/45RDY.jpg",
-    "country": "Turkey",
-    "tags": "yerel",
-    "votes": 0
+    "votes": 1500
   },
   {
     "stationuuid": "960969eb-0601-11e8-ae97-52543be04c81",
@@ -217,7 +17,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/virginradyot%C3%BCrkiye.jpg",
     "country": "Turkey",
     "tags": "pop rock",
-    "votes": 20498
+    "votes": 1499
   },
   {
     "stationuuid": "fb1fd397-78fd-11ea-8a3b-52543be04c81",
@@ -227,7 +27,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/POWERPOP.jpg",
     "country": "Turkey",
     "tags": "00s,70s,80s,90s,pop,rock",
-    "votes": 11242
+    "votes": 1498
   },
   {
     "stationuuid": "4e758ac3-15ad-11e9-a80b-52543be04c81",
@@ -237,7 +37,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ALEMFM.png",
     "country": "Turkey",
     "tags": "",
-    "votes": 10136
+    "votes": 1497
   },
   {
     "stationuuid": "1e3038cc-eafc-45d0-a2e5-ef4c5d40494a",
@@ -247,7 +47,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BABAFM.png",
     "country": "Turkey",
     "tags": "folk",
-    "votes": 8506
+    "votes": 1496
   },
   {
     "stationuuid": "de28a78a-6cee-453d-b9df-13557334dfdb",
@@ -257,7 +57,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SETMENFM.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 5573
+    "votes": 1495
   },
   {
     "stationuuid": "a31ff324-2ae1-11e9-a35e-52543be04c81",
@@ -267,7 +67,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VOYAGE107.png",
     "country": "Turkey",
     "tags": "folk,mood,relaxing,world",
-    "votes": 4616
+    "votes": 1494
   },
   {
     "stationuuid": "0edc51ea-fc6b-4ab8-a687-8dde4730007b",
@@ -277,7 +77,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/pal%20station106.png",
     "country": "Turkey",
     "tags": "",
-    "votes": 3867
+    "votes": 1493
   },
   {
     "stationuuid": "dff6fd72-58fe-4eb5-8bf7-c3f76f5375ca",
@@ -287,7 +87,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTNGM.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 1472
+    "votes": 1492
   },
   {
     "stationuuid": "960e5bb2-0601-11e8-ae97-52543be04c81",
@@ -297,7 +97,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOSPOR.png",
     "country": "Turkey",
     "tags": "sport",
-    "votes": 1442
+    "votes": 1491
   },
   {
     "stationuuid": "43061315-2893-46fa-ae1e-96e767d5bce3",
@@ -307,7 +107,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POWERTURK.png",
     "country": "Turkey",
     "tags": "",
-    "votes": 1415
+    "votes": 1490
   },
   {
     "stationuuid": "62402197-6bcd-4bba-8577-ef025800b453",
@@ -317,7 +117,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/VAVRADYO.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 1100
+    "votes": 1489
   },
   {
     "stationuuid": "0a2c3506-a136-40f2-b008-38daf2b12fd6",
@@ -327,7 +127,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTFM.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 1058
+    "votes": 1488
   },
   {
     "stationuuid": "bfce025c-fb60-44a4-885e-011ec39d8f57",
@@ -337,7 +137,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTRADYOHABER.jpeg",
     "country": "Turkey",
     "tags": "Haber",
-    "votes": 1036
+    "votes": 1487
   },
   {
     "stationuuid": "1e090517-d381-49f4-bb54-9b18ea649b41",
@@ -347,7 +147,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KRALPOP.png",
     "country": "Turkey",
     "tags": "",
-    "votes": 923
+    "votes": 1486
   },
   {
     "stationuuid": "f4121c74-9b1a-4051-8864-9db00eab2848",
@@ -357,7 +157,7 @@
     "favicon": "https://ik.imagekit.io/eywz9hvpg/pal/media/station/3/logo_square.png",
     "country": "Turkey",
     "tags": "pop",
-    "votes": 891
+    "votes": 1485
   },
   {
     "stationuuid": "dd307ed2-052d-4373-85c6-24f15f96d89c",
@@ -367,17 +167,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POWER100.png",
     "country": "Turkey",
     "tags": "",
-    "votes": 875
-  },
-  {
-    "stationuuid": "2b212ec70-9052-5c02-43b5-cfc9f4dd55d9",
-    "name": "DANCE MUSIC OF THE CITY",
-    "url": "https://stream.netradyom.com/radio/9300/radio.mp3",
-    "url_resolved": "https://stream.netradyom.com/radio/9300/radio.mp3",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DANCEMUSICOFTHECITY.png",
-    "country": "Turkey",
-    "tags": "pop,müzik",
-    "votes": 0
+    "votes": 1484
   },
   {
     "stationuuid": "2c0a7b55-c481-49e5-8b1a-9339bb132fd1",
@@ -387,7 +177,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POWERDANCE.jpg",
     "country": "Turkey",
     "tags": "dance,hit,dans",
-    "votes": 725
+    "votes": 1483
   },
   {
     "stationuuid": "4533a6a3-0b8e-476b-b0ec-b4a56162caa6",
@@ -397,7 +187,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RPYFM.png",
     "country": "Turkey",
     "tags": "Yerel",
-    "votes": 708
+    "votes": 1482
   },
   {
     "stationuuid": "203048eb-cb0c-4f34-b5e8-088ebac3adb1",
@@ -407,7 +197,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRT3RDY.jpg",
     "country": "Turkey",
     "tags": "classical,culture,independent,jazz,oldies,opera,pop,turkish music",
-    "votes": 705
+    "votes": 1481
   },
   {
     "stationuuid": "474b5f9f-6202-4928-a3c0-0a9068ce040e",
@@ -417,7 +207,7 @@
     "favicon": "https://cdn.radoxo.com/images/turkey/1021-arabeskin-merkezi-fm.webp",
     "country": "Turkey",
     "tags": "arabesk,arabesk fantazi,arabic,pop",
-    "votes": 641
+    "votes": 1480
   },
   {
     "stationuuid": "306970f9-8063-481d-9f6b-00b99833d206",
@@ -427,7 +217,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOBANKO.jpg",
     "country": "Turkey",
     "tags": "folk",
-    "votes": 589
+    "votes": 1479
   },
   {
     "stationuuid": "0352d949-cfe9-4c89-8540-00069791b5d6",
@@ -437,7 +227,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KARADEN%C4%B0ZFM.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 574
+    "votes": 1478
   },
   {
     "stationuuid": "e053f98a-e195-48f0-b07b-b2143c6e0964",
@@ -447,7 +237,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CNNTRKFM.jpg",
     "country": "Turkey",
     "tags": "Haber",
-    "votes": 477
+    "votes": 1477
   },
   {
     "stationuuid": "3dfe8d72-9ba4-47f2-9f57-a16cd5b273df",
@@ -457,7 +247,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOALATURKA.png",
     "country": "Turkey",
     "tags": "nostalji",
-    "votes": 443
+    "votes": 1476
   },
   {
     "stationuuid": "960e285b-0601-11e8-ae97-52543be04c81",
@@ -467,7 +257,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RADYOTRAFIK.jpg",
     "country": "Turkey",
     "tags": "ankara,traffic,trafik",
-    "votes": 426
+    "votes": 1475
   },
   {
     "stationuuid": "ff3b8372-1f59-4b18-a4fc-2240b8ab5417",
@@ -477,7 +267,7 @@
     "favicon": "https://tgrtfm.com.tr/wp-content/uploads/2025/01/favicon_512.png",
     "country": "Turkey",
     "tags": "Haber",
-    "votes": 369
+    "votes": 1474
   },
   {
     "stationuuid": "961fbfc8-0601-11e8-ae97-52543be04c81",
@@ -487,7 +277,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/EKSEN92.jpg",
     "country": "Turkey",
     "tags": "alternative rock,indie,istanbul,rock",
-    "votes": 367
+    "votes": 1473
   },
   {
     "stationuuid": "9ea7ed4e-d777-4e94-bd45-23abfaeaf2d6",
@@ -497,7 +287,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KISSTURK.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 328
+    "votes": 1472
   },
   {
     "stationuuid": "749c02c5-e596-4651-8e15-cfaec2d7680b",
@@ -507,7 +297,7 @@
     "favicon": "https://www.canliradyodinle.fm/wp-content/uploads/power-love-fm.png",
     "country": "Turkey",
     "tags": "slow",
-    "votes": 311
+    "votes": 1471
   },
   {
     "stationuuid": "d220e7fc-cfc3-48c0-895a-ec109709936d",
@@ -517,7 +307,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/LIGRADYO.jpg",
     "country": "Turkey",
     "tags": "futbol",
-    "votes": 246
+    "votes": 1470
   },
   {
     "stationuuid": "2ddf08ec-21fb-4613-9cd4-ec11a9e47f90",
@@ -527,7 +317,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POL%C4%B0SRADYO.png",
     "country": "Turkey",
     "tags": "pop,müzik",
-    "votes": 236
+    "votes": 1469
   },
   {
     "stationuuid": "28b60579-045a-4e06-89b6-e85bee30c228",
@@ -537,7 +327,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOTURKU.jpg",
     "country": "Turkey",
     "tags": "türkü",
-    "votes": 212
+    "votes": 1468
   },
   {
     "stationuuid": "bcf1eca1-d197-451b-bdd0-dde1e4bcaae1",
@@ -547,7 +337,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOD.jpg",
     "country": "Turkey",
     "tags": "pop",
-    "votes": 196
+    "votes": 1467
   },
   {
     "stationuuid": "14797ffb-2fdd-4a54-9748-e96486914dd2",
@@ -557,7 +347,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOAKDENIZ.jpg",
     "country": "Turkey",
     "tags": "yerel",
-    "votes": 180
+    "votes": 1466
   },
   {
     "stationuuid": "a23881c5-8c90-11e9-ad01-52543be04c81",
@@ -567,7 +357,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ENDRUNFM.png",
     "country": "Turkey",
     "tags": "Dini",
-    "votes": 165
+    "votes": 1465
   },
   {
     "stationuuid": "728789a2-8938-4c40-890e-768208376fc0",
@@ -577,7 +367,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/APARAFM.jpg",
     "country": "Turkey",
     "tags": "para,ekonomi,borsa",
-    "votes": 162
+    "votes": 1464
   },
   {
     "stationuuid": "837f9f9d-dcae-44a9-acc8-9bd6be8de720",
@@ -587,7 +377,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/BESTFM.jpg",
     "country": "Turkey",
     "tags": "pop",
-    "votes": 146
+    "votes": 1463
   },
   {
     "stationuuid": "fcbf07d8-d3b3-4d9f-839a-3cfea3391b35",
@@ -597,7 +387,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYO35.png",
     "country": "Turkey",
     "tags": "pop,türkçe",
-    "votes": 141
+    "votes": 1462
   },
   {
     "stationuuid": "59c37d82-9848-4f9a-8b4f-1aafce0fed86",
@@ -607,7 +397,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TRTMEMLEKETIM.png",
     "country": "Turkey",
     "tags": "trt,türk,yerel",
-    "votes": 103
+    "votes": 1461
   },
   {
     "stationuuid": "25fba87c-ddc8-409a-8474-4ffbac809c59",
@@ -617,7 +407,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADIOGLAMORIZE.jpg",
     "country": "Turkey",
     "tags": "electronic music,progressive house",
-    "votes": 92
+    "votes": 1460
   },
   {
     "stationuuid": "9326344e-10e4-4902-b1cd-e5a729df3f2d",
@@ -627,7 +417,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADIODIYARBAKIR.jpg",
     "country": "Turkey",
     "tags": "trt",
-    "votes": 87
+    "votes": 1459
   },
   {
     "stationuuid": "106c740c-1852-4b7b-82e1-927656bdf465",
@@ -637,7 +427,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/BOGAZFM.jpg",
     "country": "Turkey",
     "tags": "Yerel",
-    "votes": 82
+    "votes": 1458
   },
   {
     "stationuuid": "ad387a99-2311-48ff-befd-346b6fa8a9ef",
@@ -647,7 +437,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOViVA.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 59
+    "votes": 1457
   },
   {
     "stationuuid": "25cf80e1-ccae-4433-8cc3-50a685bae3e2",
@@ -657,7 +447,7 @@
     "favicon": "https://cdn.powergroup.com.tr/powerfm/u/wysiwyg/2018/10/05/rb.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 59
+    "votes": 1456
   },
   {
     "stationuuid": "7f1ef327-ff1c-4027-b679-59e5cf2739c6",
@@ -667,7 +457,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/showradyo.png",
     "country": "Turkey",
     "tags": "",
-    "votes": 40
+    "votes": 1455
   },
   {
     "stationuuid": "ef2a39d8-7633-48cf-99ef-a1f00f07d8a7",
@@ -677,7 +467,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MORALFM.png",
     "country": "Turkey",
     "tags": "Dini",
-    "votes": 40
+    "votes": 1454
   },
   {
     "stationuuid": "4dd16726-deed-45ed-afd5-c5c296a5dded",
@@ -687,7 +477,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/%C4%B0STANBULFM.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 38
+    "votes": 1453
   },
   {
     "stationuuid": "238b318c-0d7d-4f3b-98e6-b9f29bac7888",
@@ -697,7 +487,7 @@
     "favicon": "https://cdn.radoxo.com/images/turkey/radyo-karadeniz.webp",
     "country": "Turkey",
     "tags": "",
-    "votes": 31
+    "votes": 1452
   },
   {
     "stationuuid": "5ebff522-556b-4c1c-8699-e9f6eddafdcd",
@@ -707,7 +497,217 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POERTURKTAPTEZE.jpg",
     "country": "Turkey",
     "tags": "",
-    "votes": 25
+    "votes": 1451
+  },
+  {
+    "stationuuid": "302a2b72-09e5-5319-b1f2-6ed80f62dbfa",
+    "name": "Tempo FM Çorlu",
+    "url": "https://stream2.rtvtakip.com:7016/;",
+    "url_resolved": "https://stream2.rtvtakip.com:7016/;",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/TEMPOFM102.jpeg",
+    "country": "Turkey",
+    "tags": "Pop",
+    "votes": 1450
+  },
+  {
+    "stationuuid": "1b18ec67-1456-4c55-92b4-cfc9f3dd85d8",
+    "name": "Küpe FM",
+    "url": "https://icecast.netmedya.net/kupefm",
+    "url_resolved": "https://icecast.netmedya.net/kupefm",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KPFM.jpg",
+    "country": "Turkey",
+    "tags": "Pop",
+    "votes": 1449
+  },
+  {
+    "stationuuid": "2b119ec78-9752-5c02-93b5-cfc9f4dd96d9",
+    "name": "Yeni Pop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/POPFM.jpg",
+    "country": "Turkey",
+    "tags": "pop,müzik",
+    "votes": 1448
+  },
+  {
+    "stationuuid": "6d8f8858-7f5f-4223-956a-73ecd2b23b21",
+    "name": "İTÜ Klasik",
+    "url": "http://160.75.86.29:8088/ituklasikmp3",
+    "url_resolved": "http://160.75.86.29:8088/ituklasikmp3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ITURADYO.jpg",
+    "country": "Turkey",
+    "tags": "classical,klasik",
+    "votes": 1447
+  },
+  {
+    "stationuuid": "2b540062e-d57b-4131-a073-a36bf7228866",
+    "name": "Akra Fm",
+    "url": "https://cdn.akra.media/akracanli2/_definst_/livestream_aac/playlist.m3u8?dvr",
+    "url_resolved": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/AKRAFM.jpg",
+    "country": "Turkey",
+    "tags": "akra fm,türk,dini",
+    "votes": 1446
+  },
+  {
+    "stationuuid": "0013c08a-31e7-48c6-87a9-7f64736e0a39",
+    "name": "Metro FM",
+    "url": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
+    "url_resolved": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/METROFM.png",
+    "country": "Turkey",
+    "tags": "pop,hit",
+    "votes": 1445
+  },
+  {
+    "stationuuid": "4ead410e-2f33-411b-8a06-df9ff62efa56",
+    "name": "Joy Fm",
+    "url": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
+    "url_resolved": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JOYFM.png",
+    "country": "Turkey",
+    "tags": "international",
+    "votes": 1444
+  },
+  {
+    "stationuuid": "ad09398c-3f3d-4311-9344-c76395e46805",
+    "name": "NTV Radyo",
+    "url": "http://ntvrdwmp.radyotvonline.com/",
+    "url_resolved": "http://ntvrdwmp.radyotvonline.com/",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ntvradyo.png",
+    "country": "Turkey",
+    "tags": "Haber",
+    "votes": 1443
+  },
+  {
+    "stationuuid": "5a6e8de5-c9fc-4182-b651-32ad40c2e1dc",
+    "name": "Radyo Fenomen",
+    "url": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
+    "url_resolved": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FENOMENRADYO.jpg",
+    "country": "Turkey",
+    "tags": "hit",
+    "votes": 1442
+  },
+  {
+    "stationuuid": "26cf81e2-ccae-5423-8cc1-42a688bae3e1",
+    "name": "RADYO TRİO",
+    "url": "https://radyotrio.radyotvonline.net/radyotrio",
+    "url_resolved": "https://radyotrio.radyotvonline.net/radyotrio",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYOTRIO.png",
+    "country": "Turkey",
+    "tags": "pop",
+    "votes": 1441
+  },
+  {
+    "stationuuid": "1eaa11aa-8bff-48c4-9336-02a0d76389aa",
+    "name": "Erkam Radyo",
+    "url": "https://api-tv5.yayin.com.tr:8002/mp3",
+    "url_resolved": "https://api-tv5.yayin.com.tr:8002/mp3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/erkamradyo.png",
+    "country": "Turkey",
+    "tags": "islam",
+    "votes": 1440
+  },
+  {
+    "stationuuid": "862444ed-dcfb-4c23-b2ad-b85d5c8f91ba",
+    "name": "A HABER Radyo",
+    "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+    "url_resolved": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ahaberradyo.png",
+    "country": "Turkey",
+    "tags": "Haber",
+    "votes": 1439
+  },
+  {
+    "stationuuid": "1b18ec67-9641-4c02-92b4-cfc9f3dd85d8",
+    "name": "JoyTürk Rock",
+    "url": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
+    "url_resolved": "http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/JOYTURKFM.jpg",
+    "country": "Turkey",
+    "tags": "alternative,classic rock,rock,turkish rock",
+    "votes": 1438
+  },
+  {
+    "stationuuid": "c5cd0f2d-a8ee-42c6-82b6-df54f04460b8",
+    "name": "POPLAND",
+    "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+    "url_resolved": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/popland.png",
+    "country": "Turkey",
+    "tags": "pop",
+    "votes": 1437
+  },
+  {
+    "stationuuid": "197b21b5-9f89-4f1f-8d68-cfc59ae9ba70",
+    "name": "Habertürk Radyo",
+    "url": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
+    "url_resolved": "http://haberturkradyo.radyotvonline.net/haberturkradyo",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/htradyo.png",
+    "country": "Turkey",
+    "tags": "Haber",
+    "votes": 1436
+  },
+  {
+    "stationuuid": "4dc09559-aa5c-4ecd-a8cf-4fc450471ae4",
+    "name": "Kafa Radyo",
+    "url": "https://stream.radyotvonline.net/hls/play/kafaradyo.m3u8",
+    "url_resolved": "https://stream.radyotvonline.net/hls/play/kafaradyo.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/kafaradyo.png",
+    "country": "Turkey",
+    "tags": "Pop",
+    "votes": 1435
+  },
+  {
+    "stationuuid": "948408f4-0060-44fa-a26c-bf313f6c774d",
+    "name": "KRAL FM",
+    "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+    "url_resolved": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/KRALFM.jpg",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 1434
+  },
+  {
+    "stationuuid": "97f3bb39-24a0-461d-b282-b0ccae5a12c4",
+    "name": "Slow Türk",
+    "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+    "url_resolved": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/SLOWTURKFM.jpg",
+    "country": "Turkey",
+    "tags": "Slow",
+    "votes": 1433
+  },
+  {
+    "stationuuid": "df369586-40fc-11e9-aa55-52543be04c81",
+    "name": "Radyo 7",
+    "url": "http://46.20.3.250/;stream",
+    "url_resolved": "http://46.20.3.250/;stream",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RADYO7NEW.png",
+    "country": "Turkey",
+    "tags": "",
+    "votes": 1432
+  },
+  {
+    "stationuuid": "02ad59d8-eeb6-41f0-b850-f453bc0401ae",
+    "name": "Radyo 45'lik",
+    "url": "https://stream.radyo45lik.com:4545/",
+    "url_resolved": "https://stream.radyo45lik.com:4545/",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/45RDY.jpg",
+    "country": "Turkey",
+    "tags": "yerel",
+    "votes": 1431
+  },
+  {
+    "stationuuid": "2b212ec70-9052-5c02-43b5-cfc9f4dd55d9",
+    "name": "DANCE MUSIC OF THE CITY",
+    "url": "https://stream.netradyom.com/radio/9300/radio.mp3",
+    "url_resolved": "https://stream.netradyom.com/radio/9300/radio.mp3",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/DANCEMUSICOFTHECITY.png",
+    "country": "Turkey",
+    "tags": "pop,müzik",
+    "votes": 1430
   },
   {
     "stationuuid": "2072d084-1863-4c73-ad67-2b5a0ab5fe70",
@@ -717,6 +717,6 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SEMERKANDRADYO.jpg",
     "country": "Turkey",
     "tags": "Dini",
-    "votes": 0
+    "votes": 1429
   }
 ]
