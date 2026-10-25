@@ -647,17 +647,17 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/903/wbez-915-fm.48ef5978.jpg",
     "country": "The United States Of America",
     "tags": "chicago,news,npr,public radio",
-    "votes": 834
+    "votes": 3427
   },
   {
     "stationuuid": "96224885-0601-11e8-ae97-52543be04c81",
     "name": "WBBR 1130 \"Bloomberg Radio\" New York, NY",
     "url": "http://29308.live.streamtheworld.com/WBBRAMAAC_SC",
     "url_resolved": "http://29308.live.streamtheworld.com/WBBRAMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/100/wbbr-bloomberg-1130.3f58fbb0.png",
+    "favicon": "https://img.radios.com.br/radio/xl/radio244_1599211495.jpg",
     "country": "The United States Of America",
     "tags": "business news,economic news",
-    "votes": 993
+    "votes": 3426
   },
   {
     "stationuuid": "96147d8c-0601-11e8-ae97-52543be04c81",
@@ -667,27 +667,27 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/911/wbur-909-fm.b73ae774.png",
     "country": "The United States Of America",
     "tags": "news,npr,public,talk",
-    "votes": 682
+    "votes": 3425
   },
   {
     "stationuuid": "961f818a-0601-11e8-ae97-52543be04c81",
     "name": "WIIT 88.9 Illinois Institute of Technology, Chicago, IL",
     "url": "http://216.47.133.68:8000/WIITstream",
     "url_resolved": "http://216.47.133.68:8000/WIITstream",
-    "favicon": "https://radio.iit.edu/wp-content/uploads/2023/03/cropped-77-180x180.png",
+    "favicon": "https://radio.iit.edu/wp-content/uploads/2023/03/77.png",
     "country": "The United States Of America",
     "tags": "chicago,college radio",
-    "votes": 337
+    "votes": 3424
   },
   {
     "stationuuid": "2e53ff8e-1d21-4e04-b0e9-f68257c4e7e9",
     "name": "OnlyHit K-Pop",
     "url": "https://delivery.onlyhitsradio.net/kpop",
     "url_resolved": "https://delivery.onlyhitsradio.net/kpop",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/953/onlyhit-k-pop2.6933307c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/953/onlyhit-k-pop2.6933307c.png",
     "country": "The United States Of America",
     "tags": "hits,k-pop,korean,korean music,korean pop,kpop",
-    "votes": 151
+    "votes": 3423
   },
   {
     "stationuuid": "5e073f34-e94e-4dd3-9e09-f2aa42e72309",
@@ -696,38 +696,38 @@
     "url_resolved": "https://delivery.onlyhitsradio.net/japan",
     "favicon": "https://j.onlyhit.us/logo.png",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 93
+    "tags": "Pop,J-pop",
+    "votes": 3422
   },
   {
     "stationuuid": "01042cd5-5fa0-4667-a023-283cb8aafc92",
     "name": "Top Hits",
     "url": "https://delivery.onlyhitsradio.net/tophits",
     "url_resolved": "https://delivery.onlyhitsradio.net/tophits",
-    "favicon": "https://tophits.onlyhit.us/logo.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/onlyhit-us.a9354605.png",
     "country": "The United States Of America",
     "tags": "hits,top 40,top hits",
-    "votes": 91
+    "votes": 3421
   },
   {
     "stationuuid": "960cc332-0601-11e8-ae97-52543be04c81",
     "name": "Bassdrive",
     "url": "http://www.bassdrive.com/bassdrive.m3u",
     "url_resolved": "http://www.bassdrive.com/bassdrive.m3u",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/p4yH3yUEED.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/p4yH3yUEED.png",
     "country": "The United States Of America",
     "tags": "drum and bass",
-    "votes": 0
+    "votes": 3420
   },
   {
     "stationuuid": "8f6646dc-222a-4cbf-9f48-4bd60fea4493",
     "name": "NBC News Radio",
     "url": "http://cloud.revma.ihrhls.com/zc6043?rj-org=n2fb-e2&rj-ttl=5&rj-tok=AAABoQy3eO0AIP9zTfvgP8WlQw",
     "url_resolved": "http://cloud.revma.ihrhls.com/zc6043?rj-org=n2fb-e2&rj-ttl=5&rj-tok=AAABoQy3eO0AIP9zTfvgP8WlQw",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/844/nbc-news-now.707e972e.jpg",
+    "favicon": "https://cdn.mos.cms.futurecdn.net/gr4ZBX6jJMMaK7VLXz6FxG-650-80.jpg",
     "country": "The United States Of America",
     "tags": "news",
-    "votes": 992
+    "votes": 3419
   },
   {
     "stationuuid": "5565dd27-8a3a-453e-9b6d-41d3a31057c1",
@@ -736,8 +736,8 @@
     "url_resolved": "http://desertmountainbroadcasting.streamguys1.com/KYYA",
     "favicon": "https://pwa.tunegenie.com/kyyaam/icon-192.png",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 991
+    "tags": "Classic Hits,Oldies",
+    "votes": 3418
   },
   {
     "stationuuid": "0eb3dbcf-05f7-480e-83f4-7718102a4820",
@@ -747,57 +747,57 @@
     "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
     "country": "The United States Of America",
     "tags": "monterey,smooth jazz",
-    "votes": 990
+    "votes": 3417
   },
   {
     "stationuuid": "ce18872f-ed72-4ac7-a93e-07ae3fe7b40b",
-    "name": "Music Lake - Relaxation Music, Meditation, Focus, Chill, Nature Sounds",
+    "name": "Music Lake",
     "url": "http://nap.casthost.net:8626/stream",
     "url_resolved": "http://nap.casthost.net:8626/stream",
-    "favicon": "https://musiclake.com/wp-content/uploads/cropped-musiclake-lg-180x180.png",
+    "favicon": "https://forwardmystream.com/stations/300/musiclake-5444.png",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 989
+    "tags": " Relaxation Music, Meditation, Focus, Chill, Nature Sounds",
+    "votes": 3416
   },
   {
     "stationuuid": "961aeb3b-0601-11e8-ae97-52543be04c81",
     "name": "Ambient Modern",
     "url": "http://radio.stereoscenic.com/mod-h",
     "url_resolved": "http://radio.stereoscenic.com/mod-h",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/625/ambient-modern.8ee98ed3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/625/ambient-modern.8ee98ed3.png",
     "country": "The United States Of America",
     "tags": "ambient,chillout,non-commercial,relaxation music,relaxing",
-    "votes": 988
+    "votes": 3415
   },
   {
     "stationuuid": "c2958dcc-75ad-4ece-8781-6a465f4fb09f",
     "name": "Comedy 104 - Radiostorm",
     "url": "https://ais-sa5.cdnstream1.com/b42761_64mp3",
     "url_resolved": "https://ais-sa5.cdnstream1.com/b42761_64mp3",
-    "favicon": "https://radiostorm.com/wp-content/uploads/2018/01/cropped-imgpsh_fullsize2-180x180.png",
+    "favicon": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/5.png",
     "country": "The United States Of America",
     "tags": "comedy",
-    "votes": 987
+    "votes": 3414
   },
   {
     "stationuuid": "af37f773-0138-495d-b1a6-6e114ff2ceb7",
     "name": "SciFi Old Time Radio",
     "url": "http://s1.voscast.com:8652/stream",
     "url_resolved": "http://s1.voscast.com:8652/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/uvdwanbm9rcf.jpg",
+    "favicon": "https://i1.sndcdn.com/artworks-000045891531-6gfzpf-t500x500.jpg",
     "country": "The United States Of America",
     "tags": "old time radio,otr,radio drama,sci-fi",
-    "votes": 986
+    "votes": 3413
   },
   {
     "stationuuid": "93cdf24e-7ffe-44e7-95f1-16d88a6ceadf",
     "name": "Motown Radio",
     "url": "http://94.23.159.187:9990/;",
     "url_resolved": "http://94.23.159.187:9990/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/cHaKkfJXWy.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/cHaKkfJXWy.png",
     "country": "The United States Of America",
     "tags": "motown,oldies,retro,retro r&b",
-    "votes": 985
+    "votes": 3412
   },
   {
     "stationuuid": "7094b698-b1ac-4f08-a6cd-ac35f906765d",
@@ -807,17 +807,17 @@
     "favicon": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png",
     "country": "The United States Of America",
     "tags": "news,tv audio,world news,world news channels",
-    "votes": 984
+    "votes": 3411
   },
   {
     "stationuuid": "dc5b2464-f1c5-402f-af4a-e39a6d063d00",
     "name": "The Jazz Groove (West)",
     "url": "https://radio.streamthejazzgroove.com/mix1-128k-free",
     "url_resolved": "https://radio.streamthejazzgroove.com/mix1-128k-free",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/875/the-jazz-groove.65d380f9.png",
+    "favicon": "https://i1.sndcdn.com/avatars-4z66lyndgDzX5UFA-6JJcAA-t1080x1080.jpg",
     "country": "The United States Of America",
     "tags": "jazz,laid-back jazz",
-    "votes": 982
+    "votes": 3410
   },
   {
     "stationuuid": "1f73fdc3-e4df-48db-bcec-83a9460f1c93",
@@ -827,7 +827,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/223/werave-music-radio-01-dark-and-underground.5f5b970c.png",
     "country": "The United States Of America",
     "tags": "dance,deep house,electro,electronica,house,iconyc",
-    "votes": 981
+    "votes": 3409
   },
   {
     "stationuuid": "961f5d58-0601-11e8-ae97-52543be04c81",
@@ -837,7 +837,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/en/8/83/The_River_92.5_FM_logo.png",
     "country": "The United States Of America",
     "tags": "alternative,andover,boston",
-    "votes": 979
+    "votes": 3408
   },
   {
     "stationuuid": "81262f7e-fb9d-4ad1-bcee-d4a64f2fa662",
@@ -846,8 +846,8 @@
     "url_resolved": "https://2.mystreaming.net/uber/cmr00scountry/icecast.audio",
     "favicon": "https://static2.mytuner.mobi/media/tvos_radios/904/country-music-radio-00s-country.5f83bb9f.png",
     "country": "The United States Of America",
-    "tags": "radio",
-    "votes": 978
+    "tags": "Country",
+    "votes": 3407
   },
   {
     "stationuuid": "9641ff6b-0601-11e8-ae97-52543be04c81",
@@ -857,7 +857,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/093/931-wibc.5697ec60.png",
     "country": "The United States Of America",
     "tags": "indianapolis,news talk",
-    "votes": 977
+    "votes": 3406
   },
   {
     "stationuuid": "faec63bd-b626-4a31-8dff-7ef63e4a0f3c",
@@ -867,7 +867,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/165/wbsb-wbsh-wbsj-wbst-wbsw.39b6667f.png",
     "country": "The United States Of America",
     "tags": "npr,public radio",
-    "votes": 779
+    "votes": 3405
   },
   {
     "stationuuid": "0f49923b-f244-43f7-b451-6be86a1621d5",
@@ -877,7 +877,7 @@
     "favicon": "https://www.allclassical.org/wp-content/themes/acp-theme/img/acp_logo_600x600.jpg",
     "country": "The United States Of America",
     "tags": "classical,portland",
-    "votes": 747
+    "votes": 3404
   },
   {
     "stationuuid": "30928802-8f3b-4083-94ee-7cb3c6c41790",
@@ -887,7 +887,7 @@
     "favicon": "https://media.wnyc.org/i/500/500/c/80/1/wqxr_1_1.png",
     "country": "The United States Of America",
     "tags": "classical,new york city,new york public radio",
-    "votes": 730
+    "votes": 3403
   },
   {
     "stationuuid": "a64d61e0-48b9-4bfc-a57c-0117f58b9ea4",
@@ -897,7 +897,7 @@
     "favicon": "https://static2.mytuner.mobi/media/tvos_radios/905/country-music-radio-90s-country.5f83bb9f.png",
     "country": "The United States Of America",
     "tags": "radio",
-    "votes": 657
+    "votes": 3402
   },
   {
     "stationuuid": "dd6dfb85-5d3e-11e8-b0ce-52543be04c81",
@@ -907,17 +907,17 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/620/music-city-roadhouse.6a477c0d.jpg",
     "country": "The United States Of America",
     "tags": "blues rock,honky tonk,southern rock",
-    "votes": 633
+    "votes": 3401
   },
   {
     "stationuuid": "04fdc3cb-0958-4232-9f51-f946f937c0c6",
     "name": "SmoothLounge.com (320k MP3)",
     "url": "http://smoothjazz.cdnstream1.com/2586_320.mp3",
     "url_resolved": "http://smoothjazz.cdnstream1.com/2586_320.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/974/smoothloungecom.b290fdd0.png",
+    "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sl-circle-logo.png",
     "country": "The United States Of America",
     "tags": "electronic,lounge,monterey",
-    "votes": 552
+    "votes": 3400
   },
   {
     "stationuuid": "540bd58d-1d2f-4cae-a5b1-414b40ce3f3f",
@@ -927,7 +927,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/kQGwsahjAv.png",
     "country": "The United States Of America",
     "tags": "club dance electronic house trance",
-    "votes": 539
+    "votes": 3399
   },
   {
     "stationuuid": "960c00d8-54f0-48d8-88f2-6636a1e53547",
@@ -937,7 +937,7 @@
     "favicon": "https://asset.brandfetch.io/idQPhN-lSw/idojwfAi5K.png",
     "country": "The United States Of America",
     "tags": "cultural news,documentary,local news,news,news talk",
-    "votes": 530
+    "votes": 3398
   },
   {
     "stationuuid": "cfc90da8-50fe-4465-880d-137f73d52f4d",
@@ -947,7 +947,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/244/the-river-of-calm.9c58397d.jpg",
     "country": "The United States Of America",
     "tags": "chillout,lounge,piano,smooth",
-    "votes": 525
+    "votes": 3397
   },
   {
     "stationuuid": "95474386-aaca-4d90-9d5c-3913ea75bce1",
@@ -957,7 +957,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/425/happy-rave-radio.91aa858e.jpg",
     "country": "The United States Of America",
     "tags": "happy hardcore,hardcore,rave",
-    "votes": 506
+    "votes": 3396
   },
   {
     "stationuuid": "eeba16df-b101-4c39-ba26-ac9ec66946e0",
@@ -967,27 +967,27 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/671/the-80s-on-the-80s.72faf0f0.jpg",
     "country": "The United States Of America",
     "tags": "Oldies",
-    "votes": 505
+    "votes": 3395
   },
   {
     "stationuuid": "a7342ac8-5f7c-4592-b173-37486d19338d",
     "name": "RSE Freestyle Radio",
     "url": "http://s9.citrus3.com:8054/stream",
     "url_resolved": "http://s9.citrus3.com:8054/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/980/rse-freestyle-radio.9002a8f8.jpg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/980/rse-freestyle-radio.9002a8f8.jpg",
     "country": "The United States Of America",
     "tags": "80s,90s,dance music,freestyle",
-    "votes": 463
+    "votes": 3394
   },
   {
     "stationuuid": "cb136507-425b-4934-8991-d7fc8873c849",
     "name": "Sunset Chillout Lounge",
     "url": "https://listen.radioking.com/radio/571682/stream/631712",
     "url_resolved": "https://listen.radioking.com/radio/571682/stream/631712",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/973/sunset-chillout-lounge.9c3bf580.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/973/sunset-chillout-lounge.9c3bf580.jpg",
     "country": "The United States Of America",
     "tags": "chillout,lounge,sunset",
-    "votes": 422
+    "votes": 3393
   },
   {
     "stationuuid": "3d84e338-1226-401e-8184-401b91f81b10",
@@ -997,37 +997,37 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/XBEtTEnnMS.jpg",
     "country": "The United States Of America",
     "tags": "chicago,classical",
-    "votes": 416
+    "votes": 3392
   },
   {
     "stationuuid": "fee23ba3-3b49-4906-ae40-ab57c0502d0a",
     "name": "El Nuevo Zol 106.7 FM",
     "url": "https://liveaudio.lamusica.com/MIA_WXDJ_icy",
     "url_resolved": "https://liveaudio.lamusica.com/MIA_WXDJ_icy",
-    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WXDJ.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/914/wxdj-el-zol-1067-fm.1b84f99a.png",
     "country": "The United States Of America",
     "tags": "bachata,dembow,entretenimiento,latino,merengue,music",
-    "votes": 394
+    "votes": 3391
   },
   {
     "stationuuid": "dba1b7bc-6b92-409c-a543-8b42eec25636",
     "name": "100 Hip Hop and RNB FM (Official)",
     "url": "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm",
     "url_resolved": "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/591/100-hip-hop-and-rnbfm.c369c131.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/591/100-hip-hop-and-rnbfm.c369c131.png",
     "country": "The United States Of America",
     "tags": "hip-hop,rap hiphop rnb,ridwan,rnb",
-    "votes": 388
+    "votes": 3390
   },
   {
     "stationuuid": "cacd1a66-67b8-11ea-be63-52543be04c81",
     "name": "90.5 WICN Public Radio - Jazz+ for New England",
     "url": "https://wicn-ice.streamguys1.com/live-mp3",
     "url_resolved": "https://wicn-ice.streamguys1.com/live-mp3",
-    "favicon": "https://www.wicn.org/wp-content/uploads/2019/06/cropped-android-chrome-512x512-192x192.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/643/wicn-905-fm.3c94a54d.png",
     "country": "The United States Of America",
     "tags": "blues,classic jazz,folk,jazz,public radio",
-    "votes": 355
+    "votes": 3389
   },
   {
     "stationuuid": "c4346a0a-6beb-11ea-b1cf-52543be04c81",
