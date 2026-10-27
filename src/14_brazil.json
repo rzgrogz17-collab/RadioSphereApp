@@ -519,7 +519,7 @@
     "tags": "Adulto-Contemporânea,Hits Clássicos,Música Brasileira",
     "votes": 1449
   },
-   {
+  {
     "stationuuid": "b0b51549-41b7-4998-b8a3-67bb187693da",
     "name": "Rádio Deus é Amor",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_STUDIOC_SC",
@@ -528,7 +528,7 @@
     "country": "Brazil",
     "tags": "Talk,Gospel",
     "votes": 1448
-  }
+  },
   {
     "stationuuid": "f519f161-9633-4e6f-8de6-f34af2c22b7f",
     "name": "Rádio Liberdade FM 92.9",
@@ -778,7 +778,7 @@
     "country": "Brazil",
     "tags": "Música Brasileira,Bossa Nova,Latin",
     "votes": 1423
-  }
+  },
   {
     "stationuuid": "ba051cb9-29f3-47db-b66e-6dfc263232c4",
     "name": "Rádio Ouro Verde FM Easy 105.5",
