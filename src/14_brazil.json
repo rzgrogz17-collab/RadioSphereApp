@@ -770,15 +770,15 @@
     "votes": 1424
   },
   {
-    "stationuuid": "db8f5d94-d128-4eb6-9dec-797cabee805e",
-    "name": "Radio Germanica",
-    "url": "https://s18.maxcast.com.br:8983/live",
-    "url_resolved": "https://s18.maxcast.com.br:8983/live",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/926/radio-germanica.021fe2e5.png",
+    "stationuuid": "64ba7deb-c3e0-47f0-85ea-5b27ce3cdbeb",
+    "name": "Bossa Nova Brazil",
+    "url": "https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil",
+    "url_resolved": "https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/880/bossa-nova-brazil.6b0145eb.jpg",
     "country": "Brazil",
-    "tags": "german,multi,tirol",
+    "tags": "Música Brasileira,Bossa Nova,Latin",
     "votes": 1423
-  },
+  }
   {
     "stationuuid": "ba051cb9-29f3-47db-b66e-6dfc263232c4",
     "name": "Rádio Ouro Verde FM Easy 105.5",
@@ -826,8 +826,8 @@
     "url_resolved": "https://servidor25.brlogic.com:7058/live?v=1730093845978",
     "favicon": "https://www.radioleve.com.br/uploads/img/loja_logo/24/4cd25865baea1cf8a80eeb640a194c0d.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Hits Clássicos,Oldies,Romântica",
+    "votes": 1418
   },
   {
     "stationuuid": "b9ab2a19-2a03-4a59-928f-73b8b056891b",
@@ -837,116 +837,116 @@
     "favicon": "https://www.setecolinas.com.br/wa_images/logos-sete-colinas-fm-500x500.png",
     "country": "Brazil",
     "tags": "musicas,notícias",
-    "votes": 0
+    "votes": 1417
   },
   {
     "stationuuid": "15ca9a94-2ab0-44f4-9948-b4558be2d64b",
-    "name": "CIDADE 87,9 FM",
-    "url": "https://stm01.virtualcast.com.br:8276/cidadecamposgerais",
-    "url_resolved": "https://stm01.virtualcast.com.br:8276/cidadecamposgerais",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/986/cidade-879-fm.81fabc5e.jpg",
+    "name": "Gazeta FM",
+    "url": "https://27323.live.streamtheworld.com/GAZETA_FM_SC",
+    "url_resolved": "https://27323.live.streamtheworld.com/GAZETA_FM_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/202/gazeta-fm.90c48ea0.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Música Brasileira",
+    "votes": 1416
   },
   {
     "stationuuid": "bf49cc26-ce0d-4110-a9c7-786b6b999bcc",
-    "name": "Rádio Só Brega",
-    "url": "http://stm18.xcast.com.br:8290/;",
-    "url_resolved": "http://stm18.xcast.com.br:8290/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/469/radio-so-brega.abb7bd1d.jpg",
+    "name": "Rádio Pampa",
+    "url": "https://cast4.audiostream.com.br:2653/mp3",
+    "url_resolved": "https://cast4.audiostream.com.br:2653/mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/291/radio-pampa.be79447c.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Notícias,Talk",
+    "votes": 1415
   },
   {
     "stationuuid": "492b24a4-bf81-4cac-ae30-2e00a20422bf",
-    "name": "Rádio Amado Batista",
-    "url": "https://stream.zeno.fm/aeab6tt0yqruv",
-    "url_resolved": "https://stream.zeno.fm/aeab6tt0yqruv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/750/radio-amado-batista.88d262b9.png",
+    "name": "Rádio Forró",
+    "url": "https://stm5.painelcast.com:7600/;",
+    "url_resolved": "https://stm5.painelcast.com:7600/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/934/radio-forro.1df664aa.jpg",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Música Brasileira",
+    "votes": 1414
   },
   {
     "stationuuid": "f66f08c3-1616-4dd6-a54f-75aa29aa8249",
     "name": "Rádio Itatiaia 95.7 FM",
     "url": "https://8903.brasilstream.com.br/stream",
     "url_resolved": "https://8903.brasilstream.com.br/stream",
-    "favicon": "https://img.radios.com.br/radio/lg/radio14_1646746883.jpeg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/399/radio-itatiaia-fm.aa74a658.jpg",
     "country": "Brazil",
     "tags": "news,soccer,sports",
-    "votes": 0
+    "votes": 1413
   },
   {
     "stationuuid": "3f30701d-78ea-4a19-b543-ff4a24fcd38a",
-    "name": "Rádio Itatiaia FM",
-    "url": "https://8903.brasilstream.com.br/stream",
-    "url_resolved": "https://8903.brasilstream.com.br/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/399/radio-itatiaia-fm.aa74a658.jpg",
+    "name": "Itapoan FM 97.5",
+    "url": "https://streaming.livespanel.com:9300/stream",
+    "url_resolved": "https://streaming.livespanel.com:9300/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/itapoan-fm-975.ebe3fe59.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Esporte,Romântica",
+    "votes": 1412
   },
   {
     "stationuuid": "46d02cdb-49a6-11e9-a4d7-52543be04c81",
-    "name": "Gaúcha",
-    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "url_resolved": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "favicon": "https://gauchazh.clicrbs.com.br/static/icons/mstile-70x70.png",
+    "name": "Rádio Itapema FM 93.7",
+    "url": "https://26583.live.streamtheworld.com/ITA_FLOAAC/HLS/playlist.m3u8",
+    "url_resolved": "https://26583.live.streamtheworld.com/ITA_FLOAAC/HLS/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/903/radio-itapema-fm-937.3bb316cf.png",
     "country": "Brazil",
-    "tags": "futebol,notícias",
-    "votes": 0
+    "tags": "Adulto-Contemporânea,Notícias,Música Brasileira",
+    "votes": 1411
   },
   {
     "stationuuid": "ae29d970-be50-4cb0-ad16-ca643f8d111c",
     "name": "CBN Rio de Janeiro",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/266/cbn-rio-de-janeiro.06f57df4.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/266/cbn-rio-de-janeiro.06f57df4.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Esporte,Notícias",
+    "votes": 1410
   },
   {
     "stationuuid": "e0ea2a1e-3590-11e9-8f31-52543be04c81",
     "name": "CBN MACEIÓ",
     "url": "http://v3.directradios.com:8229/stream",
     "url_resolved": "http://v3.directradios.com:8229/stream",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/a/a9/CBN_Macei%C3%B3_logo.png",
+    "favicon": "https://pbs.twimg.com/profile_images/1636402389342093312/n6M7yxl2_400x400.jpg",
     "country": "Brazil",
     "tags": "cbn maceió",
-    "votes": 0
+    "votes": 1409
   },
   {
     "stationuuid": "7705406b-b0d2-4a0d-88bc-ff841ca2b6f7",
-    "name": "Radio Pampa",
-    "url": "https://cast4.audiostream.com.br:2653/mp3",
-    "url_resolved": "https://cast4.audiostream.com.br:2653/mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/291/radio-pampa.be79447c.png",
+    "name": "Rádio Gaúcha ZH - Zona Sul",
+    "url": "https://liverdgauzs.rbsdirect.com.br/primary/gau_zs.sdp/playlist.m3u8",
+    "url_resolved": "https://liverdgauzs.rbsdirect.com.br/primary/gau_zs.sdp/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/989/radio-gaucha-zh-zona-sul.ab654ea1.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Notícias",
+    "votes": 1408
+  },
+   {
+    "stationuuid": "db8f5d94-d128-4eb6-9dec-797cabee805e",
+    "name": "Radio Germanica",
+    "url": "https://s18.maxcast.com.br:8983/live",
+    "url_resolved": "https://s18.maxcast.com.br:8983/live",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/926/radio-germanica.021fe2e5.png",
+    "country": "Brazil",
+    "tags": "german,multi,tirol",
+    "votes": 1407
   },
   {
     "stationuuid": "8eb03f0d-ebf8-4f97-ba85-cdce78522733",
-    "name": "Rádio Notícias Tatuí - 98,3 FM",
-    "url": "https://f100.fabricahost.com.br/radionoticias?f=1790881640N01M3WDTCGG27JJF7SYZRJBK7B5&tid=01M3WDTCGG46T772AXF1FC8G91",
-    "url_resolved": "https://f100.fabricahost.com.br/radionoticias?f=1790881640N01M3WDTCGG27JJF7SYZRJBK7B5&tid=01M3WDTCGG46T772AXF1FC8G91",
-    "favicon": "https://static.wixstatic.com/media/37804f_6d90eaf023604a44b1d86bacb3e2b75a~mv2.png",
+    "name": "GOLD INSTRUMENTAL",
+    "url": "https://centova2.svdns.com.br:20038/stream",
+    "url_resolved": "https://centova2.svdns.com.br:20038/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/318/radio-gold-instrumental.0268b89d.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-    {
-    "stationuuid": "64ba7deb-c3e0-47f0-85ea-5b27ce3cdbeb",
-    "name": "Mix FM São Paulo",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/793/mix-fm-sao-paulo.73ddc0d4.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Easy Listening",
+    "votes": 1406
   }
 ]
