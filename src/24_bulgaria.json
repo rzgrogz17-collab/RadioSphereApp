@@ -164,30 +164,30 @@
     "name": "Katra FM",
     "url": "http://www.katrafm.com:8000/live",
     "url_resolved": "http://www.katrafm.com:8000/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/zq9vtmmnth7h.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/zq9vtmmnth7h.jpg",
     "country": "Bulgaria",
     "tags": "contemporary,hits",
-    "votes": 0
+    "votes": 1484
   },
   {
     "stationuuid": "8b700f14-99e7-4f77-84eb-3ff9d0ad69a0",
     "name": "The Voice",
     "url": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
     "url_resolved": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/anbjwfjgrbzx.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/349/the-voice.814d2ca4.png",
     "country": "Bulgaria",
     "tags": "pop",
-    "votes": 0
+    "votes": 1483
   },
   {
     "stationuuid": "dacd257b-5478-4ed6-a588-c18f1bd7c27c",
     "name": "Radio Vitosha",
     "url": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
     "url_resolved": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/NCLZNxN6Xg.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/NCLZNxN6Xg.jpg",
     "country": "Bulgaria",
-    "tags": "pop",
-    "votes": 815
+    "tags": "Съвременна",
+    "votes": 1482
   },
   {
     "stationuuid": "9f5946d9-301f-4cf7-a1e8-7bdf7280d924",
@@ -197,7 +197,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cityrab.png",
     "country": "Bulgaria",
     "tags": "hiphop r&b",
-    "votes": 788
+    "votes": 1481
   },
   {
     "stationuuid": "e6bc7ab4-f8da-405f-9b61-c8dbddfe9961",
@@ -207,17 +207,17 @@
     "favicon": "https://www.radioveselina.bg/resources/assets/images/favicon/apple-touch-icon.png",
     "country": "Bulgaria",
     "tags": "folk,narodna",
-    "votes": 612
+    "votes": 1480
   },
   {
     "stationuuid": "d50058fc-fb71-4ba3-acd9-3a873c6bac26",
     "name": "Radio Dance With Me",
     "url": "http://g5.turbohost.eu:8002/stream128.m3u",
     "url_resolved": "http://g5.turbohost.eu:8002/stream128",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/uluvue86dn8a.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/uluvue86dn8a.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 602
+    "tags": "Област София град",
+    "votes": 1479
   },
   {
     "stationuuid": "7b432a9d-8421-4cef-bf63-d24b11b6830b",
@@ -227,17 +227,17 @@
     "favicon": "https://www.radioplay.bg/assets/logos/radioveronika.png",
     "country": "Bulgaria",
     "tags": "etno,pop-folk,етно,поп-фолк",
-    "votes": 575
+    "votes": 1478
   },
   {
     "stationuuid": "b3a8e73b-f079-4f5f-adc3-3f75d219a3a5",
     "name": "Metro DANCE Radio",
     "url": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
     "url_resolved": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/399/metro-dance-radio.79e44ddc.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/399/metro-dance-radio.79e44ddc.png",
     "country": "Bulgaria",
     "tags": "club,dance,in the morning,news,talk show",
-    "votes": 508
+    "votes": 1477
   },
   {
     "stationuuid": "d583dee6-92ce-4bbd-9ef5-5d020ce892d8",
@@ -247,7 +247,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cafe.png",
     "country": "Bulgaria",
     "tags": "cafe",
-    "votes": 429
+    "votes": 1476
   },
   {
     "stationuuid": "cdc70bdd-0050-4595-8be2-bf3ff7da6110",
@@ -257,7 +257,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RHRFM.jpg",
     "country": "Bulgaria",
     "tags": "folk",
-    "votes": 418
+    "votes": 1475
   },
   {
     "stationuuid": "3d836275-00e5-4df2-84ce-dea9957ea387",
@@ -266,138 +266,138 @@
     "url_resolved": "http://193.108.24.21:8000/fmplus",
     "favicon": "https://radiofmplus.bg/i/favicon.png",
     "country": "Bulgaria",
-    "tags": "pop",
-    "votes": 359
+    "tags": "Съвременна",
+    "votes": 1474
   },
   {
     "stationuuid": "5b360510-c4fd-4c57-9875-36fcaabeca1e",
     "name": "Hot Hits FM",
     "url": "https://live.hothitsfm.com/stream",
     "url_resolved": "https://live.hothitsfm.com/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ELrQet7VTQ.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ELrQet7VTQ.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 282
+    "tags": "Поп / Топ 40,Танцова / EDM,1990-99",
+    "votes": 1473
   },
   {
     "stationuuid": "94f5fb25-b584-4ea9-be0a-6898d80128ed",
     "name": "Radio Melody",
     "url": "http://193.108.24.6:8000/melody?file=.mp3",
     "url_resolved": "http://193.108.24.6:8000/melody?file=.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/vkb7z4sucpy3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/vkb7z4sucpy3.png",
     "country": "Bulgaria",
-    "tags": "pop",
-    "votes": 240
+    "tags": "Класически хитове,Стари",
+    "votes": 1472
   },
   {
     "stationuuid": "1c84a19e-99c4-47c9-8be4-6ce688881311",
     "name": "Power FM 91.1",
     "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
     "url_resolved": "http://a1.virtualradio.eu:8000/powerfm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/387/power-fm-911.8201f314.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/387/power-fm-911.8201f314.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 237
+    "tags": "Област Бургас - 91.1 FM",
+    "votes": 1471
   },
   {
     "stationuuid": "4c8949a8-529c-4edd-9725-f3173935b55a",
     "name": "Z-Rock radio",
     "url": "http://193.108.24.6:8000/zrock",
     "url_resolved": "http://193.108.24.6:8000/zrock",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/313/z-rock.53967aa5.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/313/z-rock.53967aa5.png",
     "country": "Bulgaria",
     "tags": "rock",
-    "votes": 153
+    "votes": 1470
   },
   {
     "stationuuid": "d834a724-89c4-4ae6-8378-28ea8a75a82f",
     "name": "Jazz FM",
     "url": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
     "url_resolved": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/972/jazz-fm-bulgaria.4fc08b51.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/972/jazz-fm-bulgaria.4fc08b51.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 141
+    "tags": "Джаз",
+    "votes": 1469
   },
   {
     "stationuuid": "8fc1369b-c2fa-4cba-8563-548110540b12",
     "name": "folk mix",
     "url": "https://listen.radiofolkmix.com/folkmixios",
     "url_resolved": "https://listen.radiofolkmix.com/folkmixios",
-    "favicon": "https://radiofolkmix.com/wp-content/uploads/2024/01/cropped-radiofolkmix-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/720/radio-folk-mix.8da7d663.jpg",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 136
+    "tags": "mix",
+    "votes": 1468
   },
   {
     "stationuuid": "685133a7-f3df-428c-aca7-e24ffd649049",
     "name": "Darik Radio",
     "url": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
     "url_resolved": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/112/darik-radio-darik-radio-bulgaria.a78f117e.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/813/darik-radio-darik-radio.92e7c3df.png",
     "country": "Bulgaria",
-    "tags": "news,politics,sport",
-    "votes": 93
+    "tags": "Спорт,Новини,Музика по света",
+    "votes": 1467
   },
   {
     "stationuuid": "3932d1ea-0aea-451f-9508-62a6d003f795",
     "name": "Radio Ultra Pernik",
     "url": "http://88.80.96.25:8020/;",
     "url_resolved": "http://88.80.96.25:8020/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/zbgjcbrktrke.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/zbgjcbrktrke.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 93
+    "tags": "Поп / Топ 40,Фолк",
+    "votes": 1466
   },
   {
     "stationuuid": "d14b51b2-f045-4a10-a46b-86536e747963",
     "name": "BadRock Golden Era",
     "url": "https://streams.badrockradio.net/golden-era",
     "url_resolved": "https://streams.badrockradio.net/golden-era",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/494/badrock-golden-era.8fa86d4e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/494/badrock-golden-era.8fa86d4e.jpg",
     "country": "Bulgaria",
-    "tags": "classic rock,rock",
-    "votes": 80
+    "tags": "1980-89,Стари",
+    "votes": 1465
   },
   {
     "stationuuid": "5f689c90-58fe-48ab-8f5e-c931c84a5b39",
     "name": "RADIO CITY",
     "url": "http://play.global.audio/city64",
     "url_resolved": "http://play.global.audio/city64",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nsHYXWwQUf.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nsHYXWwQUf.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 66
+    "tags": "Поп / Топ 40,Хип-хоп,Музика по света",
+    "votes": 1464
   },
   {
     "stationuuid": "e00ed8d4-5a16-4361-8142-0aad6b0326fd",
     "name": "XRaydio 3",
     "url": "https://xraydio.ddns.net/xraydio3",
     "url_resolved": "https://xraydio.ddns.net/xraydio3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/479/xraydio-3.11c30ad9.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/479/xraydio-3.11c30ad9.png",
     "country": "Bulgaria",
     "tags": "blues punk,garage rock,glam rock,outlaw country,power pop,psychobilly,pub rock,rock & roll,sludge,southern rock,space rock,stoner rock,surf,swamp rock",
-    "votes": 66
+    "votes": 1463
   },
   {
     "stationuuid": "f8b18196-6a49-40ab-b1bc-63ad45b3da50",
     "name": "Easy Radio",
     "url": "https://live.easyradio.bg/aac?type=.mp3",
     "url_resolved": "https://live.easyradio.bg/aac?type=.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/f9jsul5qqm3u.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/f9jsul5qqm3u.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 61
+    "tags": "Съвременна",
+    "votes": 1462
   },
   {
     "stationuuid": "f659afac-bcf5-4122-9773-0c1c6e151893",
     "name": "Classic FM",
     "url": "https://cdn.bweb.bg/radio/classic-fm.mp3",
     "url_resolved": "https://cdn.bweb.bg/radio/classic-fm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/GS9rvGzdUd.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/GS9rvGzdUd.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 51
+    "tags": "Класическа,Джаз",
+    "votes": 1461
   },
   {
     "stationuuid": "61f28b98-91ee-476b-9863-099b2aa58d10",
@@ -407,7 +407,17 @@
     "favicon": "https://balkanradio.com/img/Icon.png",
     "country": "Bulgaria",
     "tags": "america,balkan,balkansko,best,bulgarian,folk,gracko,greek,macedonian,narodna,north,pop folk,radio,zabavna",
-    "votes": 49
+    "votes": 1460
+  },
+  {
+    "stationuuid": "8035abbd-9c9a-4a00-a789-cd76449687c4",
+    "name": "Област София град - 101.7 FM - Radio Nova",
+    "url": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac",
+    "url_resolved": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/6SUmmG8Bkw.png",
+    "country": "Bulgaria",
+    "tags": "Поп / Топ 40",
+    "votes": 1459
   },
   {
     "stationuuid": "0d7f58db-2dd1-4842-a4e5-2e2aa7d3fded",
@@ -618,16 +628,6 @@
     "country": "Bulgaria",
     "tags": "radio",
     "votes": 33
-  },
-  {
-    "stationuuid": "8035abbd-9c9a-4a00-a789-cd76449687c4",
-    "name": "Radio Nova",
-    "url": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac",
-    "url_resolved": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac",
-    "favicon": "https://i.postimg.cc/x8sLgGC6/radio-default-banner.jpg",
-    "country": "Bulgaria",
-    "tags": "radio",
-    "votes": 9
   },
   {
     "stationuuid": "649b43ec-52b0-47dc-b974-c7077f07cf31",
