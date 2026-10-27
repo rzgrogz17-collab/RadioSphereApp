@@ -1,13 +1,23 @@
 [
   {
+    "stationuuid": "531fced7-b22b-11e8-afe1-52543be04c81",
+    "name": "Antena 1 FM 94.7 São Paulo",
+    "url": "http://antena1.newradio.it/stream",
+    "url_resolved": "http://antena1.newradio.it/stream",
+    "favicon": "https://www.antena1.com.br/apple-touch-icon.png",
+    "country": "Brazil",
+    "tags": "adult contemporary,lite",
+    "votes": 1500
+  },
+  {
     "stationuuid": "9d9e5b9a-92ad-4d35-9da4-496e1e845c06",
     "name": "Jovem Pan FM São Paulo",
     "url": "https://stream.zeno.fm/c45wbq2us3buv",
     "url_resolved": "https://stream.zeno.fm/c45wbq2us3buv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/601/jovem-pan-fm-sao-paulo.c88a6569.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/601/jovem-pan-fm-sao-paulo.c88a6569.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 1500
+    "tags": "Pop / Top 40,Esporte,Notícias",
+    "votes": 1499
   },
   {
     "stationuuid": "901c92bd-a757-449a-b8ce-652b079fd38a",
@@ -77,16 +87,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/548/alpha-fm-sp.4172fa06.jpg",
     "country": "Brazil",
     "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "531fced7-b22b-11e8-afe1-52543be04c81",
-    "name": "Antena 1 FM 94.7 São Paulo",
-    "url": "http://antena1.newradio.it/stream",
-    "url_resolved": "http://antena1.newradio.it/stream",
-    "favicon": "https://www.antena1.com.br/apple-touch-icon.png",
-    "country": "Brazil",
-    "tags": "adult contemporary,lite",
     "votes": 0
   },
   {
