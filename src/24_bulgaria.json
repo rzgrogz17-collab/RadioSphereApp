@@ -1,63 +1,83 @@
 [
   {
-    "stationuuid": "96165755-0601-11e8-ae97-52543be04c81",
-    "name": "Radio 1",
-    "url": "http://149.13.0.81/radio1.ogg",
-    "url_resolved": "http://149.13.0.81/radio1.ogg",
-    "favicon": "https://radio1.bg/theme_assets/radio1/images/logo.png",
-    "country": "Bulgaria",
-    "tags": "classic hits",
-    "votes": 14480
-  },
-  {
     "stationuuid": "963559d7-0601-11e8-ae97-52543be04c81",
     "name": "Energy NRJ Bulgaria",
     "url": "http://play.global.audio/nrj128",
     "url_resolved": "http://play.global.audio/nrj128",
-    "favicon": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/246/nrj-radio-norway.732709d7.jpg",
     "country": "Bulgaria",
     "tags": "pop,dance,retro",
-    "votes": 11686
+    "votes": 1500
+  },
+  {
+    "stationuuid": "96165755-0601-11e8-ae97-52543be04c81",
+    "name": "Радио 1 (Radio 1)",
+    "url": "http://149.13.0.81/radio1.ogg",
+    "url_resolved": "http://149.13.0.81/radio1.ogg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/eAzNBBzz2d.png",
+    "country": "Bulgaria",
+    "tags": "Класически хитове",
+    "votes": 1499
   },
   {
     "stationuuid": "9615b6c8-0601-11e8-ae97-52543be04c81",
-    "name": "BG Radio",
+    "name": "БГ Радио 91.9 ( BG Radio )",
     "url": "http://stream.radioreklama.bg/bgradio128",
     "url_resolved": "http://stream.radioreklama.bg/bgradio128",
-    "favicon": "https://bgradio.bg/theme_assets/bgradio/images/hb_bgradio_logo.png",
+    "favicon": "https://dabplus.live/static/favicons/9615b6c8-0601-11e8-ae97-52543be04c81.jpg",
     "country": "Bulgaria",
-    "tags": "local music",
-    "votes": 8262
+    "tags": "Рок,Поп / Топ 40",
+    "votes": 1498
+  },
+  {
+    "stationuuid": "ca6ac624-77cd-4f39-9871-883cb7857337",
+    "name": "Радио Вероника 96.7 (Radio Veronika)",
+    "url": "https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac",
+    "url_resolved": "https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/VRNb2rSzED.png",
+    "country": "Bulgaria",
+    "tags": "Фолк,Съвременна",
+    "votes": 1497
   },
   {
     "stationuuid": "96093243-0601-11e8-ae97-52543be04c81",
     "name": "Radio 1 Rock",
     "url": "http://stream.metacast.eu/radio1rock.ogg",
     "url_resolved": "http://stream.metacast.eu/radio1rock.ogg",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/4gz3JFFrDK.jpg",
+    "favicon": "https://cdn.aptoide.com/imgs/9/e/5/9e518dcdff143c4b7128b3070ac1b4ae_icon.png",
     "country": "Bulgaria",
-    "tags": "rock",
-    "votes": 7203
+    "tags": "Рок",
+    "votes": 1496
   },
   {
     "stationuuid": "96163d8b-0601-11e8-ae97-52543be04c81",
     "name": "BG Estrada",
     "url": "https://play.global.audio/bgestrada",
     "url_resolved": "https://play.global.audio/bgestrada",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/500/bg-estrada.c8329fbf.jpg",
+    "favicon": "https://www.radioplay.bg/assets/logos/bgradio.png",
     "country": "Bulgaria",
-    "tags": "pop",
-    "votes": 6699
+    "tags": "Област София град",
+    "votes": 1495
+  },
+  {
+    "stationuuid": "7ecdb771-42cf-4c84-9bad-6854367149ad",
+    "name": "Радио Веселина 99.1 FM",
+    "url": "https://bss1.neterra.tv/veselina/stream_0.m3u8",
+    "url_resolved": "https://bss1.neterra.tv/veselina/stream_0.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/mcngxVKwgV.jpg",
+    "country": "Bulgaria",
+    "tags": "Поп / Топ 40,Местна",
+    "votes": 1494
   },
   {
     "stationuuid": "96285ac8-0601-11e8-ae97-52543be04c81",
     "name": "Nova News",
     "url": "http://stream.radioreklama.bg/novanews.aac",
     "url_resolved": "http://stream.radioreklama.bg/novanews.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/zajmfcbktmh8.png",
+    "favicon": "https://images.seeklogo.com/logo-png/49/1/radio-nova-news-logo-png_seeklogo-493700.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 5710
+    "tags": "Новини,Музика по света",
+    "votes": 1493
   },
   {
     "stationuuid": "961658c6-0601-11e8-ae97-52543be04c81",
@@ -66,8 +86,8 @@
     "url_resolved": "http://193.108.24.21:8000/fresh",
     "favicon": "https://radiofresh.bg/i/favicon.png",
     "country": "Bulgaria",
-    "tags": "hits",
-    "votes": 4854
+    "tags": "Поп / Топ 40",
+    "votes": 1492
   },
   {
     "stationuuid": "84c03be7-1197-4a6a-9705-9abbbdba1b28",
@@ -76,38 +96,48 @@
     "url_resolved": "http://play.global.audio/avtoradio.opus",
     "favicon": "http://avtoradio.bg/icon.83aa3da3.png",
     "country": "Bulgaria",
-    "tags": "dance,hits,opus,pop",
-    "votes": 3930
+    "tags": "Поп / Топ 40,Танцова / EDM",
+    "votes": 1491
   },
   {
     "stationuuid": "96409a24-0601-11e8-ae97-52543be04c81",
     "name": "Maya Varna",
     "url": "http://rnmediagroup.com:10000/;",
     "url_resolved": "http://rnmediagroup.com:10000/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/frgucwuc7usx.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/frgucwuc7usx.png",
     "country": "Bulgaria",
     "tags": "contemporary hits,dance,hits,hot adult contemporary",
-    "votes": 3304
+    "votes": 1490
+  },
+  {
+    "stationuuid": "5fbd494e-5350-4c9f-b6c9-4fbfc18dfc2d",
+    "name": "N-Joy",
+    "url": "https://cdn.bweb.bg/radio/njoy.mp3",
+    "url_resolved": "https://cdn.bweb.bg/radio/njoy.mp3",
+    "favicon": "https://radio-onliner.ru/assets/images/radio/radio-n-joy.png",
+    "country": "Bulgaria",
+    "tags": "pop",
+    "votes": 1489
   },
   {
     "stationuuid": "9618ac6b-0601-11e8-ae97-52543be04c81",
     "name": "Tangra Mega Rock",
     "url": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
     "url_resolved": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/xm5vlsccaprq.png",
+    "favicon": "https://www.radioexpert.net/radio-logo/bulgaria/tangra-mega-rock-123-%D1%81%D0%BE%D1%84%D0%B8%D1%8F-bulgaria-320.jpg",
     "country": "Bulgaria",
     "tags": "hard rock heavy metal",
-    "votes": 2099
+    "votes": 1488
   },
   {
     "stationuuid": "2091bc8a-ced6-43cd-8f38-5b05d62ce3c5",
     "name": "BadRock Hard & Heavy",
     "url": "https://play-radio0.jump.bg:7049/live",
     "url_resolved": "https://play-radio0.jump.bg:7049/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/988/badrock-hard-heavy.0f08b443.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/988/badrock-hard-heavy.0f08b443.png",
     "country": "Bulgaria",
-    "tags": "hard rock,hardcore,heavy metal,heavy power metal,heavy rock,metal,power metal,rock",
-    "votes": 1708
+    "tags": "Метъл",
+    "votes": 1487
   },
   {
     "stationuuid": "3f107ac4-949c-4c65-8bea-d1cba3a7e728",
@@ -117,17 +147,17 @@
     "favicon": "https://www.radioplay.bg/assets/logos/vanilla.png",
     "country": "Bulgaria",
     "tags": "chill out",
-    "votes": 1415
+    "votes": 1486
   },
   {
     "stationuuid": "5ecd2cab-8138-4023-ba47-c8c2d8308d5f",
     "name": "MAGIC FM",
     "url": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
     "url_resolved": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/MFM.png",
+    "favicon": "https://shemillawairimu.co.ke/radio4/world/images/bulgaria/2444_radio.png",
     "country": "Bulgaria",
-    "tags": "",
-    "votes": 1289
+    "tags": "Лесна за слушане",
+    "votes": 1485
   },
   {
     "stationuuid": "96163e36-0601-11e8-ae97-52543be04c81",
@@ -137,7 +167,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/zq9vtmmnth7h.jpg",
     "country": "Bulgaria",
     "tags": "contemporary,hits",
-    "votes": 1225
+    "votes": 0
   },
   {
     "stationuuid": "8b700f14-99e7-4f77-84eb-3ff9d0ad69a0",
@@ -147,7 +177,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/anbjwfjgrbzx.png",
     "country": "Bulgaria",
     "tags": "pop",
-    "votes": 1034
+    "votes": 0
   },
   {
     "stationuuid": "dacd257b-5478-4ed6-a588-c18f1bd7c27c",
@@ -298,16 +328,6 @@
     "country": "Bulgaria",
     "tags": "",
     "votes": 136
-  },
-  {
-    "stationuuid": "5fbd494e-5350-4c9f-b6c9-4fbfc18dfc2d",
-    "name": "N-Joy",
-    "url": "https://cdn.bweb.bg/radio/njoy.mp3",
-    "url_resolved": "https://cdn.bweb.bg/radio/njoy.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/r4aacedehfyw.png",
-    "country": "Bulgaria",
-    "tags": "pop",
-    "votes": 102
   },
   {
     "stationuuid": "685133a7-f3df-428c-aca7-e24ffd649049",
@@ -510,26 +530,6 @@
     "votes": 310
   },
   {
-    "stationuuid": "7ecdb771-42cf-4c84-9bad-6854367149ad",
-    "name": "Радио Веселина Русе 93.1 FM",
-    "url": "https://bss1.neterra.tv/veselina/stream_0.m3u8",
-    "url_resolved": "https://bss1.neterra.tv/veselina/stream_0.m3u8",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/radio-Veselina.png",
-    "country": "Bulgaria",
-    "tags": "local radio,music,news",
-    "votes": 9
-  },
-  {
-    "stationuuid": "ca6ac624-77cd-4f39-9871-883cb7857337",
-    "name": "Радио Вероника Русе 99.0 FM",
-    "url": "https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac",
-    "url_resolved": "https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/veronika.png",
-    "country": "Bulgaria",
-    "tags": "etno,folk music,pop",
-    "votes": 9
-  },
-  {
     "stationuuid": "08ba3abd-6c26-4273-86ee-f65d05f432a7",
     "name": "Радио БНР програма Христо Ботев Русе 95.7 FM",
     "url": "https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/chunklist.m3u8",
@@ -684,7 +684,7 @@
     "name": "Радио N-JOY Русе 101.6 FM",
     "url": "https://cdn.btv.bg/radio/njoy.mp3",
     "url_resolved": "https://cdn.btv.bg/radio/njoy.mp3",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/njoy.png",
+    "favicon": "https://images.seeklogo.com/logo-png/51/1/n-joy-logo-png_seeklogo-510054.png",
     "country": "Bulgaria",
     "tags": "pop",
     "votes": 2
@@ -914,9 +914,9 @@
     "name": "radio Maia",
     "url": "https://radio.rn-tv.com:8000/stream/1/",
     "url_resolved": "https://radio.rn-tv.com:8000/stream/1/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/22dfhr5xttya.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/22dfhr5xttya.png",
     "country": "Bulgaria",
     "tags": "radio",
-    "votes": 417
+    "votes": 0
   }
 ]
