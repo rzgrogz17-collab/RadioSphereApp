@@ -320,154 +320,254 @@
     "votes": 1469
   },
   {
+    "stationuuid": "bae11a44-8257-4896-9a0f-7077ff899d23",
+    "name": "Alvorada FM 94,9 Mhz ZYC708 (Belo Horizonte - MG)",
+    "url": "https://27423.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
+    "url_resolved": "https://27423.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
+    "favicon": "https://tudoradio.com/img/uploads/radios/68121d5804572.png",
+    "country": "Brazil",
+    "tags": "internacional,nacional,notícias,música brasileira",
+    "votes": 1468
+  },
+  {
+    "stationuuid": "b44d8ae0-3af9-4206-a22d-06c953ed7d21",
+    "name": "A7 Sertanejo FM",
+    "url": "https://s03.svrdedicado.org:8046/stream",
+    "url_resolved": "https://s03.svrdedicado.org:8046/stream",
+    "favicon": "https://player.svrdedicado.org/app-multi-plataforma/logo-7916.png",
+    "country": "Brazil",
+    "tags": "radio",
+    "votes": 1467
+  },
+  {
+    "stationuuid": "4a17b7fa-42a0-4c32-bdc6-dc1c59066c96",
+    "name": "BandNews FM - 96.9 SP",
+    "url": "https://24363.live.streamtheworld.com/BANDNEWSFM_SPAAC_SC",
+    "url_resolved": "https://24363.live.streamtheworld.com/BANDNEWSFM_SPAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/389/bandnews-fm-969-sp.3e4219f3.png",
+    "country": "Brazil",
+    "tags": "Esporte,Notícias",
+    "votes": 1466
+  },
+  {
+    "stationuuid": "ad4a65c4-06bf-4701-b697-dc6b64b115f2",
+    "name": "Band News FM - 90.3 RJ",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_RJAAC.m3u8",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_RJAAC.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/246/band-news-fm-903-rj.95a3ffc1.jpg",
+    "country": "Brazil",
+    "tags": "Esporte,Notícias,Local",
+    "votes": 1465
+  },
+  {
     "stationuuid": "d7b33eb9-6692-402e-8abb-85105b57030e",
     "name": "Jovem Pan Florianópolis",
     "url": "http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2047482307.m3u8",
     "url_resolved": "http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2047482307.m3u8",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/TV_Jovem_Pan_News_2022.svg/500px-TV_Jovem_Pan_News_2022.svg.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/197/jovem-pan-fm-florianopolis.04b4a7a0.png",
     "country": "Brazil",
     "tags": "hits,international,local music,music,world music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e2a6cf75-672a-4b3d-92d4-5c41119db0c8",
-    "name": "JP Classic Pan",
-    "url": "https://stream.zeno.fm/rtk4pzcome3vv",
-    "url_resolved": "https://stream.zeno.fm/rtk4pzcome3vv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/337/jp-classic-pan.cf47ddce.jpg",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1eaf6810-41de-4a43-827b-dcf8070748e5",
-    "name": "Rádio Globo 98.1 FM",
-    "url": "https://26453.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
-    "url_resolved": "https://26453.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
-    "favicon": "https://img.radios.com.br/radio/lg/radio8817_1676300226.png",
-    "country": "Brazil",
-    "tags": "discussions,interviews,popular,sports",
-    "votes": 0
+    "votes": 1464
   },
   {
     "stationuuid": "4d53e278-8fe9-4588-8dcd-f211c37460dc",
     "name": "Rádio Globo RJ",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/262/radio-globo-rj.416d7d2e.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/262/radio-globo-rj.416d7d2e.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Esporte,Notícias,Talk",
+    "votes": 1463
   },
   {
-    "stationuuid": "45b2f3d4-b188-42ae-bb8c-d57e95d652ce",
-    "name": "Massa FM 101,1 (Ponta Grossa - PR)",
-    "url": "https://stm01.virtualcast.com.br:8160/massapontagrossa",
-    "url_resolved": "https://stm01.virtualcast.com.br:8160/massapontagrossa",
-    "favicon": "https://tudoradio.com/img/uploads/radios/radio_massafmpontagrossa.png",
+    "stationuuid": "ad039169-2969-4a7a-be83-86f079f4a55e",
+    "name": "Nova Brasil 89.5 RJ",
+    "url": "https://24503.live.streamtheworld.com/NOVABRASIL_RIOAAC_SC",
+    "url_resolved": "https://24503.live.streamtheworld.com/NOVABRASIL_RIOAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/733/nova-brasil-895-rj.391d6062.jpg",
     "country": "Brazil",
-    "tags": "pop music,pop rock,sertanejo,sertanejo raiz",
-    "votes": 0
+    "tags": "Música Brasileira",
+    "votes": 1462
   },
   {
-    "stationuuid": "bae11a44-8257-4896-9a0f-7077ff899d23",
-    "name": "Alvorada FM 94,9 Mhz ZYC708 (Belo Horizonte - MG)",
-    "url": "https://27423.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
-    "url_resolved": "https://27423.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
-    "favicon": "https://i.postimg.cc/Bnyrs1H3/04008017950.png",
+    "stationuuid": "52994d67-31ea-448f-b6bc-7eaeb6a3504b",
+    "name": "CBN São Paulo",
+    "url": "https://24423.live.streamtheworld.com:443/CBN_SPAAC.aac",
+    "url_resolved": "https://24423.live.streamtheworld.com:443/CBN_SPAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/407/cbn-sao-paulo.c4cc5162.png",
     "country": "Brazil",
-    "tags": "internacional,nacional,notícias",
-    "votes": 0
+    "tags": "news,sports,esporte,notícias",
+    "votes": 1461
   },
   {
-    "stationuuid": "36450ceb-eead-415e-b063-6905e8f4ff99",
-    "name": "Alvorada FM 94.9",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/946/alvorada-fm-949.fe17c106.jpg",
+    "stationuuid": "b6cb7a5f-c7d2-4dc0-9488-b01d282e685e",
+    "name": "Super Rádio Tupi",
+    "url": "https://8923.brasilstream.com.br/stream",
+    "url_resolved": "https://8923.brasilstream.com.br/stream",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b5c3dafa-079d-44fa-84db-f1352f458a67",
-    "name": "FM93 Fortaleza",
-    "url": "http://zoeweb.net:8176/stream",
-    "url_resolved": "http://zoeweb.net:8176/stream",
-    "favicon": "https://adoptprodstorage.blob.core.windows.net/adopt-prod/organization/70053ab5-8b25-4592-b9da-7b5a985886e1/disclaimer/8e31de85-38a2-4eca-8842-f1ddfc838820/domain/89790bdf-6c3b-4fb3-ba57-9cc5c9964fb4/controllerIcon/01H2YM2NP3CY56GQEKC8QP486B.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "dbd826bf-b0b5-4fa6-9571-7deee7f963ab",
-    "name": "GFM Salvador",
-    "url": "https://ice.fabricahost.com.br/radiogfm",
-    "url_resolved": "https://ice.fabricahost.com.br/radiogfm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/269/gfm-salvador.676b5a99.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f519f161-9633-4e6f-8de6-f34af2c22b7f",
-    "name": "Rádio Liberdade FM 92.9",
-    "url": "https://8335.brasilstream.com.br/stream",
-    "url_resolved": "https://8335.brasilstream.com.br/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/273/radio-liberdade-fm-929.e200eb5a.jpg",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f623648c-518f-414f-a482-2f27384cc077",
-    "name": "Rádio Mania",
-    "url": "https://stream.zeno.fm/cic1u0lbdo2uv",
-    "url_resolved": "https://stream.zeno.fm/cic1u0lbdo2uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/354/radio-mania.d24af904.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "5aaf8a93-3c7a-4545-876c-cf2e9ffaadbf",
-    "name": "Jangadeiro FM 88.9",
-    "url": "https://stream.zeno.fm/xuh02vfzurhvv",
-    "url_resolved": "https://stream.zeno.fm/xuh02vfzurhvv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/606/jangadeiro-fm-889.bd812828.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "c68e4003-3ce7-4040-bd6e-2c18a3007b20",
-    "name": "TMC São Paulo",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SP.mp3",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SP.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/526/transamerica-pop-sp.15dd3e62.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variedade,Esporte,Notícias",
+    "votes": 1460
   },
   {
     "stationuuid": "aec59d15-7f99-47c2-a56a-d09c6aaaf92f",
     "name": "Hunter.FM - Sertanejo",
     "url": "https://live.hunter.fm/sertanejo_low",
     "url_resolved": "https://live.hunter.fm/sertanejo_low",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/374/hunterfm-sertanejo.6fa96050.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/374/hunterfm-sertanejo.6fa96050.jpg",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Música Brasileira,Country",
+    "votes": 1459
+  },
+  {
+    "stationuuid": "e2a6cf75-672a-4b3d-92d4-5c41119db0c8",
+    "name": "JP Classic Pan",
+    "url": "https://stream.zeno.fm/rtk4pzcome3vv",
+    "url_resolved": "https://stream.zeno.fm/rtk4pzcome3vv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/337/jp-classic-pan.cf47ddce.jpg",
+    "country": "Brazil",
+    "tags": "Hits Clássicos",
+    "votes": 1458
+  },
+  {
+    "stationuuid": "1eaf6810-41de-4a43-827b-dcf8070748e5",
+    "name": "Rádio Globo 98.1 FM",
+    "url": "https://26453.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
+    "url_resolved": "https://26453.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
+    "favicon": "https://img.radios.com.br/radio/xl/radio8817_1676300226.png",
+    "country": "Brazil",
+    "tags": "discussions,interviews,popular,sports",
+    "votes": 1457
+  },
+  {
+    "stationuuid": "45b2f3d4-b188-42ae-bb8c-d57e95d652ce",
+    "name": "Massa FM 101,1 (Ponta Grossa - PR)",
+    "url": "https://stm01.virtualcast.com.br:8160/massapontagrossa",
+    "url_resolved": "https://stm01.virtualcast.com.br:8160/massapontagrossa",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/305/radio-massa-fm-ponta-grossa.be790310.jpg",
+    "country": "Brazil",
+    "tags": "pop music,pop rock,sertanejo,sertanejo raiz",
+    "votes": 1456
+  },
+  {
+    "stationuuid": "b5c3dafa-079d-44fa-84db-f1352f458a67",
+    "name": "FM93 Fortaleza",
+    "url": "http://zoeweb.net:8176/stream",
+    "url_resolved": "http://zoeweb.net:8176/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/831/radio-fm-939.1ae681d3.png",
+    "country": "Brazil",
+    "tags": "Música Brasileira",
+    "votes": 1455
+  },
+  {
+    "stationuuid": "c3b92320-adb5-497a-98a3-c23127dd41b4",
+    "name": "Rádio Bandeirantes",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBANDEIRANTESAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBANDEIRANTESAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/561/radio-bandeirantes.13a71c93.jpg",
+    "country": "Brazil",
+    "tags": "Esporte,Notícias",
+    "votes": 1454
+  },
+  {
+    "stationuuid": "f1f8c139-64b8-4dba-976e-d3cbc6866ac9",
+    "name": "Rádio Gaúcha ZH",
+    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "url_resolved": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/LnQzp2wQMU.jpg",
+    "country": "Brazil",
+    "tags": "Esporte,Notícias,Talk",
+    "votes": 1453
+  },
+  {
+    "stationuuid": "19e42398-904c-42bf-a775-5ffce69eabea",
+    "name": "Rádio 80 FM - Anos 80",
+    "url": "http://104.247.221.130:9020/stream1",
+    "url_resolved": "http://104.247.221.130:9020/stream1",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/764/radio-80-fm.53736ad6.jpg",
+    "country": "Brazil",
+    "tags": "Adulto-Contemporânea,Hits Clássicos,80s",
+    "votes": 1452
+  },
+  {
+    "stationuuid": "870f14dd-16e6-4e51-9834-17dc03ef4a85",
+    "name": "Jovem Pan AM",
+    "url": "https://stream-176.zeno.fm/vlcraijc6yiuv",
+    "url_resolved": "https://stream-176.zeno.fm/vlcraijc6yiuv",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/File-Jovem_Pan_red_logo.png",
+    "country": "Brazil",
+    "tags": "Variedade,Notícias,Talk",
+    "votes": 1451
   },
   {
     "stationuuid": "7aac674a-9ad4-499c-a510-5eabdc9d436d",
     "name": "Hunter.FM - Pagode",
     "url": "https://live.hunter.fm/pagode_low",
     "url_resolved": "https://live.hunter.fm/pagode_low",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/568/hunterfm-pagode.0339b319.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/568/hunterfm-pagode.0339b319.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Música Brasileira",
+    "votes": 1450
+  },
+  {
+    "stationuuid": "dbd826bf-b0b5-4fa6-9571-7deee7f963ab",
+    "name": "GFM Salvador",
+    "url": "https://ice.fabricahost.com.br/radiogfm",
+    "url_resolved": "https://ice.fabricahost.com.br/radiogfm",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/269/gfm-salvador.676b5a99.png",
+    "country": "Brazil",
+    "tags": "Adulto-Contemporânea,Hits Clássicos,Música Brasileira",
+    "votes": 1449
+  },
+   {
+    "stationuuid": "b0b51549-41b7-4998-b8a3-67bb187693da",
+    "name": "Rádio Deus é Amor",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_STUDIOC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_STUDIOC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/923/radio-deus-e-amor.7d3c7bbc.jpg",
+    "country": "Brazil",
+    "tags": "Talk,Gospel",
+    "votes": 1448
+  }
+  {
+    "stationuuid": "f519f161-9633-4e6f-8de6-f34af2c22b7f",
+    "name": "Rádio Liberdade FM 92.9",
+    "url": "https://8335.brasilstream.com.br/stream",
+    "url_resolved": "https://8335.brasilstream.com.br/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/273/radio-liberdade-fm-929.e200eb5a.jpg",
+    "country": "Brazil",
+    "tags": "Música Brasileira",
+    "votes": 1447
+  },
+  {
+    "stationuuid": "f623648c-518f-414f-a482-2f27384cc077",
+    "name": "Rádio Mania",
+    "url": "https://stream.zeno.fm/cic1u0lbdo2uv",
+    "url_resolved": "https://stream.zeno.fm/cic1u0lbdo2uv",
+    "favicon": "https://www.radio.fr/300/radiomaniabr.jpeg",
+    "country": "Brazil",
+    "tags": "Música Brasileira",
+    "votes": 1446
+  },
+  {
+    "stationuuid": "5aaf8a93-3c7a-4545-876c-cf2e9ffaadbf",
+    "name": "Jangadeiro FM 88.9",
+    "url": "https://stream.zeno.fm/xuh02vfzurhvv",
+    "url_resolved": "https://stream.zeno.fm/xuh02vfzurhvv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/606/jangadeiro-fm-889.bd812828.png",
+    "country": "Brazil",
+    "tags": "Adulto-Contemporânea",
+    "votes": 1445
+  },
+  {
+    "stationuuid": "c68e4003-3ce7-4040-bd6e-2c18a3007b20",
+    "name": "TMC São Paulo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SP.mp3",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SP.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/526/transamerica-pop-sp.15dd3e62.png",
+    "country": "Brazil",
+    "tags": "Esporte,Notícias",
+    "votes": 1444
   },
   {
     "stationuuid": "00bc4f1d-050c-49ae-bc42-a8aaa5d0ff5b",
@@ -510,16 +610,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "b44d8ae0-3af9-4206-a22d-06c953ed7d21",
-    "name": "A7 Sertanejo FM",
-    "url": "https://s03.svrdedicado.org:8046/stream",
-    "url_resolved": "https://s03.svrdedicado.org:8046/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/293/sertanejo-fm.90b714c3.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "4c51a2e0-b7b5-45bd-ba54-6ec2ec9743f4",
     "name": "VIOLA VIVA CAIPIRA",
     "url": "https://centova.euroti.com.br:20055/stream",
@@ -547,16 +637,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/626/eldorado-fm.a7c0a071.png",
     "country": "Brazil",
     "tags": "pagode,samba",
-    "votes": 0
-  },
-  {
-    "stationuuid": "19e42398-904c-42bf-a775-5ffce69eabea",
-    "name": "Rádio 80 FM - Anos 80",
-    "url": "http://104.247.221.130:9020/stream1",
-    "url_resolved": "http://104.247.221.130:9020/stream1",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/764/radio-80-fm.53736ad6.jpg",
-    "country": "Brazil",
-    "tags": "radio",
     "votes": 0
   },
   {
@@ -820,46 +900,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "f1f8c139-64b8-4dba-976e-d3cbc6866ac9",
-    "name": "Rádio Gaúcha ZH",
-    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "url_resolved": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/LnQzp2wQMU.jpg",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ad039169-2969-4a7a-be83-86f079f4a55e",
-    "name": "Rádio Bandeirantes - São Paulo",
-    "url": "https://23243.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8",
-    "url_resolved": "https://23243.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/LOGO_BANDEIRANTES_2026.png/500px-LOGO_BANDEIRANTES_2026.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Brazil",
-    "tags": "local news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "c3b92320-adb5-497a-98a3-c23127dd41b4",
-    "name": "Rádio Bandeirantes",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBANDEIRANTESAAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBANDEIRANTESAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/561/radio-bandeirantes.13a71c93.jpg",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "52994d67-31ea-448f-b6bc-7eaeb6a3504b",
-    "name": "CBN São Paulo",
-    "url": "https://24423.live.streamtheworld.com:443/CBN_SPAAC.aac",
-    "url_resolved": "https://24423.live.streamtheworld.com:443/CBN_SPAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/407/cbn-sao-paulo.c4cc5162.png",
-    "country": "Brazil",
-    "tags": "news,sports",
-    "votes": 0
-  },
-  {
     "stationuuid": "ae29d970-be50-4cb0-ad16-ca643f8d111c",
     "name": "CBN Rio de Janeiro",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC_SC",
@@ -877,46 +917,6 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/a/a9/CBN_Macei%C3%B3_logo.png",
     "country": "Brazil",
     "tags": "cbn maceió",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4a17b7fa-42a0-4c32-bdc6-dc1c59066c96",
-    "name": "bandnews fm sp",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8",
-    "favicon": "https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg",
-    "country": "Brazil",
-    "tags": "news,news talk",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ad4a65c4-06bf-4701-b697-dc6b64b115f2",
-    "name": "Band News FM - 90.3 RJ",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_RJAAC.m3u8",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_RJAAC.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/246/band-news-fm-903-rj.95a3ffc1.jpg",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "870f14dd-16e6-4e51-9834-17dc03ef4a85",
-    "name": "Jovem Pan AM",
-    "url": "https://stream-176.zeno.fm/vlcraijc6yiuv",
-    "url_resolved": "https://stream-176.zeno.fm/vlcraijc6yiuv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/843/radio-jovem-pan-am.83ed8a9c.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b6cb7a5f-c7d2-4dc0-9488-b01d282e685e",
-    "name": "Super Rádio Tupi",
-    "url": "https://8923.brasilstream.com.br/stream",
-    "url_resolved": "https://8923.brasilstream.com.br/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/625/super-radio-tupi.b7c7416f.jpg",
-    "country": "Brazil",
-    "tags": "radio",
     "votes": 0
   },
   {
@@ -945,16 +945,6 @@
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC_SC",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/793/mix-fm-sao-paulo.73ddc0d4.png",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b0b51549-41b7-4998-b8a3-67bb187693da",
-    "name": "Rádio Deus é Amor",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_STUDIOC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_STUDIOC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/923/radio-deus-e-amor.7d3c7bbc.jpg",
     "country": "Brazil",
     "tags": "radio",
     "votes": 0
