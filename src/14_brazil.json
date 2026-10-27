@@ -714,10 +714,10 @@
     "name": "Estilo FM Litoral 93.3 Mhz (Cubatão - SP) (ZYU943)",
     "url": "https://cloud1.cdnseguro.com:20492/stream",
     "url_resolved": "https://cloud1.cdnseguro.com:20492/stream",
-    "favicon": "https://estilo.fm.br/wp-content/uploads/2023/12/ESTILO-FM-SP-300x300.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/386/estilo-fm.73d95ebf.png",
     "country": "Brazil",
     "tags": "light classics",
-    "votes": 0
+    "votes": 1429
   },
   {
     "stationuuid": "0619404c-66db-4ebe-9bc0-b547a833fd61",
@@ -726,18 +726,18 @@
     "url_resolved": "https://radio.webfrequencia.com.br:8110/tempofm",
     "favicon": "https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/727714090/Avatar_Logo_Tempo_FM_2025.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Easy Listening,Adulto-Contemporânea,Hits Clássicos",
+    "votes": 1428
   },
   {
     "stationuuid": "90d4675e-67c8-11ea-be63-52543be04c81",
-    "name": "WEBGIO",
-    "url": "http://servidor34.brlogic.com:8080/live?1583625685800",
-    "url_resolved": "http://servidor34.brlogic.com:8080/live?1583625685800",
-    "favicon": "https://public-rf-upload.minhawebradio.net/2098/mobileicon/f9f8e72d2a71bf699a29336f5a191932x192.png",
+    "name": "Dumont FM",
+    "url": "https://8402.brasilstream.com.br/stream",
+    "url_resolved": "https://8402.brasilstream.com.br/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/549/dumont-fm.d43aba96.png",
     "country": "Brazil",
-    "tags": "flashback,nostalgia",
-    "votes": 0
+    "tags": "Rock,Pop / Top 40",
+    "votes": 1427
   },
   {
     "stationuuid": "806d6ae2-a7c8-496f-a2de-81a2a840089e",
@@ -747,47 +747,47 @@
     "favicon": "https://www.radiominasfm.com.br/img/logo-vinil.png",
     "country": "Brazil",
     "tags": "brazilian music,misc,sertanejo",
-    "votes": 0
+    "votes": 1426
   },
   {
     "stationuuid": "13af9d39-0f7d-4bbb-a0d6-9b50766e59d2",
     "name": "Melody 94.1",
     "url": "https://sc4s.cdn.upx.com:8080/stream",
     "url_resolved": "https://sc4s.cdn.upx.com:8080/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/211/melody-941-fm.2bd4878f.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/211/melody-941-fm.2bd4878f.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40",
+    "votes": 1425
   },
   {
     "stationuuid": "4ae9d73f-c0ad-459d-bceb-8d9f931c246d",
-    "name": "Darkradio Brasil",
-    "url": "https://servidor32-3.brlogic.com:8130/live",
-    "url_resolved": "https://servidor32-3.brlogic.com:8130/live",
-    "favicon": "https://public-rf-upload.minhawebradio.net/777/mobileicon/f494e15c3f5ac7d03f0db6a0274e50a5.png",
+    "name": "Rádio 93 FM",
+    "url": "https://24233.live.streamtheworld.com/FM93AAC_SC",
+    "url_resolved": "https://24233.live.streamtheworld.com/FM93AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/509/radio-93-fm.28f4958f.jpg",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Gospel",
+    "votes": 1424
   },
   {
     "stationuuid": "db8f5d94-d128-4eb6-9dec-797cabee805e",
     "name": "Radio Germanica",
     "url": "https://s18.maxcast.com.br:8983/live",
     "url_resolved": "https://s18.maxcast.com.br:8983/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/926/radio-germanica.021fe2e5.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/926/radio-germanica.021fe2e5.png",
     "country": "Brazil",
     "tags": "german,multi,tirol",
-    "votes": 0
+    "votes": 1423
   },
   {
     "stationuuid": "ba051cb9-29f3-47db-b66e-6dfc263232c4",
-    "name": "Manchester FM 93.3",
-    "url": "https://ssl1.transmissaodigital.com:20440/stream",
-    "url_resolved": "https://ssl1.transmissaodigital.com:20440/stream",
-    "favicon": "https://www.radiomanchester.com.br/fm/wp-content/uploads/2019/10/cropped-logo_radiomanchester-180x180.png",
+    "name": "Rádio Ouro Verde FM Easy 105.5",
+    "url": "https://8522.brasilstream.com.br/stream",
+    "url_resolved": "https://8522.brasilstream.com.br/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/183/ouro-verde-fm-easy.e2d91ab7.jpg",
     "country": "Brazil",
-    "tags": "sertanejo,sertanejo raiz",
-    "votes": 0
+    "tags": "Adulto-Contemporânea,Hits Clássicos,Notícias",
+    "votes": 1422
   },
   {
     "stationuuid": "86e9afc9-e7bd-4864-87ab-58166e97662d",
@@ -796,28 +796,28 @@
     "url_resolved": "https://cidadedosolaac.jmvstream.com/stream",
     "favicon": "https://94fmnatal.com.br/radio/logo.jpg",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adulto-Contemporânea,Música Brasileira",
+    "votes": 1421
   },
   {
     "stationuuid": "24378572-cb36-4bb2-bcd7-15c097b2f1b9",
     "name": "Radio Paiquerê",
-    "url": "https://f108.fabricahost.com.br/paiquere917?f=1791214935N01M46BNQX1SS8HBNE0H8NNYC00&tid=01M46BNP6ZK1CX53BVQYY2SNB9",
-    "url_resolved": "https://f108.fabricahost.com.br/paiquere917?f=1791214935N01M46BNQX1SS8HBNE0H8NNYC00&tid=01M46BNP6ZK1CX53BVQYY2SNB9",
-    "favicon": "https://www.paiquere.com.br/wp-content/uploads/2024/02/fav.jpeg#170",
+    "url": "https://stm04.virtualcast.com.br:8002/paiquerelondrina",
+    "url_resolved": "https://stm04.virtualcast.com.br:8002/paiquerelondrina",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/981/radio-paiquere-fm-989.66b0d4c6.png",
     "country": "Brazil",
-    "tags": "news,pop",
-    "votes": 0
+    "tags": "Pop / Top 40,Notícias,Música Brasileira",
+    "votes": 1420
   },
   {
     "stationuuid": "d003d1f3-380e-451d-ad8f-2810ec731c60",
     "name": "Radio Soft Tribuna FM",
-    "url": "https://f108.fabricahost.com.br/tribunafm?f=1791214936N01M46BNR3R9J6XJCHNMD9CNDH1&tid=01M46BNP6ZK1CX53BVQYY2SNB9",
-    "url_resolved": "https://f108.fabricahost.com.br/tribunafm?f=1791214936N01M46BNR3R9J6XJCHNMD9CNDH1&tid=01M46BNP6ZK1CX53BVQYY2SNB9",
-    "favicon": "https://framerusercontent.com/images/pcPyZM67mrS4QeJa70mvnSJOawM.png",
+    "url": "https://servidor35.brlogic.com:7032/live",
+    "url_resolved": "https://servidor35.brlogic.com:7032/live",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/029/tribuna-fm-991.cd75ce47.jpg",
     "country": "Brazil",
     "tags": "flashback",
-    "votes": 0
+    "votes": 1419
   },
   {
     "stationuuid": "fd015926-6c3d-4b8c-b007-fee8a7cfd94a",
