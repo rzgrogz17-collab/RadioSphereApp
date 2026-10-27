@@ -570,14 +570,34 @@
     "votes": 1444
   },
   {
-    "stationuuid": "00bc4f1d-050c-49ae-bc42-a8aaa5d0ff5b",
-    "name": "Sertaneja 106.7",
-    "url": "https://sc4s.cdn.upx.com:8067/stream",
-    "url_resolved": "https://sc4s.cdn.upx.com:8067/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/385/sertaneja-1067-fm.02bc4b6d.png",
+    "stationuuid": "4c96b703-440a-46a3-87d0-c62e4a681ace",
+    "name": "Rádio Buteco Sertanejo",
+    "url": "https://stream.zeno.fm/vgjk1f5rgu8uv",
+    "url_resolved": "https://stream.zeno.fm/vgjk1f5rgu8uv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/841/radio-buteco-sertanejo.ec1c837a.jpg",
     "country": "Brazil",
-    "tags": "country,sertanejo",
-    "votes": 0
+    "tags": "80s,Country,Anos 90",
+    "votes": 1443
+  },
+  {
+    "stationuuid": "173ab68f-b081-4cd6-a819-f3725930c088",
+    "name": "Radio Motel",
+    "url": "http://192.99.170.8/proxy/radiomotel/stream3",
+    "url_resolved": "http://192.99.170.8/proxy/radiomotel/stream3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/523/radio-motel.b2099abc.jpg",
+    "country": "Brazil",
+    "tags": "Adulto-Contemporânea,Hits Clássicos,Romântica",
+    "votes": 1442
+  },
+  {
+    "stationuuid": "00bc4f1d-050c-49ae-bc42-a8aaa5d0ff5b",
+    "name": "Rádio Cidade FM",
+    "url": "https://26583.live.streamtheworld.com/RADIOCIDADEAAC_SC",
+    "url_resolved": "https://26583.live.streamtheworld.com/RADIOCIDADEAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/792/radio-cidade-1029-fm.f6aceaaa.jpg",
+    "country": "Brazil",
+    "tags": "Rock",
+    "votes": 1441
   },
   {
     "stationuuid": "ee7de2e3-67c5-4f3b-81f2-a36d0c0b37d5",
@@ -587,27 +607,17 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/193/radio-sertaneja-raiz.8d44b246.jpg",
     "country": "Brazil",
     "tags": "sertaneja,sertanejo,sertanejo raiz",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4c96b703-440a-46a3-87d0-c62e4a681ace",
-    "name": "Rádio Buteco Sertanejo",
-    "url": "https://stream.zeno.fm/vgjk1f5rgu8uv",
-    "url_resolved": "https://stream.zeno.fm/vgjk1f5rgu8uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/841/radio-buteco-sertanejo.ec1c837a.jpg",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "votes": 1440
   },
   {
     "stationuuid": "34232099-d736-424c-8b0d-5e8f31d031bd",
-    "name": "Rádio Modão",
-    "url": "https://centova5.transmissaodigital.com:20024/stream",
-    "url_resolved": "https://centova5.transmissaodigital.com:20024/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/082/radio-modao.0eae9ba7.jpg",
+    "name": "Piatã FM 94.3",
+    "url": "https://streaming.livespanel.com:9430/stream",
+    "url_resolved": "https://streaming.livespanel.com:9430/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/SqdYjzyk3W.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Música Brasileira",
+    "votes": 1439
   },
   {
     "stationuuid": "4c51a2e0-b7b5-45bd-ba54-6ec2ec9743f4",
@@ -617,37 +627,37 @@
     "favicon": "https://violaviva.com.br/wp-content/uploads/2024/12/4.png",
     "country": "Brazil",
     "tags": "caipira",
-    "votes": 0
+    "votes": 1438
   },
   {
     "stationuuid": "b4e9c5b1-33af-42be-bbd5-2e8fa871a2af",
     "name": "Rádio Viola Caipira",
-    "url": "https://hts03.brascast.com:8544/live",
-    "url_resolved": "https://hts03.brascast.com:8544/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/754/radio-viola-caipira.51108ff3.png",
+    "url": "https://ice4.fabricahost.com.br/metrosppop",
+    "url_resolved": "https://ice4.fabricahost.com.br/metrosppop",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/532/metropolitana-pop.ffd940d4.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Variedade,Notícias",
+    "votes": 1437
   },
   {
     "stationuuid": "add6cef5-d892-4248-b542-f981f2d97665",
     "name": "Eldorado FM",
     "url": "https://cast4.audiostream.com.br:2652/mp3",
     "url_resolved": "https://cast4.audiostream.com.br:2652/mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/626/eldorado-fm.a7c0a071.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/626/eldorado-fm.a7c0a071.png",
     "country": "Brazil",
     "tags": "pagode,samba",
-    "votes": 0
+    "votes": 1436
   },
   {
     "stationuuid": "5f5e48ca-5f40-468e-bb93-d294284aaa3a",
-    "name": "Rádio Anos 80s",
-    "url": "https://stm3.srvvox.com.br:7326/;",
-    "url_resolved": "https://stm3.srvvox.com.br:7326/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/159/radio-e-novelas.53f945e9.png",
+    "name": "Nova Paradiso Rio",
+    "url": "https://27413.live.streamtheworld.com/NOVABRASIL_RIO_SC",
+    "url_resolved": "https://27413.live.streamtheworld.com/NOVABRASIL_RIO_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/201/paradiso-rio.4609f187.png",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variedade",
+    "votes": 1435
   },
   {
     "stationuuid": "d16fe7b9-98f1-478c-bb7b-1b7dc3acfc2d",
@@ -657,47 +667,47 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/286/radio-flash-back.ee4cf9c6.jpg",
     "country": "Brazil",
     "tags": "radio",
-    "votes": 0
+    "votes": 1434
   },
   {
     "stationuuid": "e9f438e7-5483-4cf5-9d43-0c14e8dc97e3",
     "name": "Bateu Saudade  Rádio Flashback",
     "url": "https://kauankubaski.stream.laut.fm/kauankubaski",
     "url_resolved": "https://kauankubaski.stream.laut.fm/kauankubaski",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/954/radio-bateu-saudade-fm.3906160b.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/954/radio-bateu-saudade-fm.3906160b.jpg",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,Anos 90,Romântica",
+    "votes": 1433
   },
   {
     "stationuuid": "fb1097c0-370b-45de-9d32-7f1f46c13d4e",
-    "name": "RST Radio Rock",
-    "url": "https://servidor37-1.brlogic.com:8100/live",
-    "url_resolved": "https://servidor37-1.brlogic.com:8100/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/522/rst-radio-rock.a366d818.jpg",
+    "name": "Antena 1 Rio",
+    "url": "https://a1rj.streams.com.br/stream",
+    "url_resolved": "https://a1rj.streams.com.br/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/033/antena-1-rio.8f47183c.jpg",
     "country": "Brazil",
-    "tags": "hard rock,progressive rock",
-    "votes": 0
+    "tags": "Pop / Top 40,Música Brasileira",
+    "votes": 1432
   },
   {
     "stationuuid": "03beadd2-ce1d-4949-bab4-0dcce1894412",
-    "name": "Punk FM Brasil",
-    "url": "https://radio.punkfm.com.br/listen/punkfmbrasil/punkfmbrasil.mp3",
-    "url_resolved": "https://radio.punkfm.com.br/listen/punkfmbrasil/punkfmbrasil.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/482/punk-fm-brasil.8f288ebb.png",
+    "name": "Rádio Guaíba",
+    "url": "https://radio.saopaulo01.com.br:10827/stream",
+    "url_resolved": "https://radio.saopaulo01.com.br:10827/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/120/radio-guaiba.aa3d7c27.jpg",
     "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Esporte,Notícias,Talk",
+    "votes": 1431
   },
   {
     "stationuuid": "ef07dbb2-1176-4b09-bb87-9e841300c3cf",
     "name": "Smooth Jazz Lounge",
     "url": "https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge",
     "url_resolved": "https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/621/smooth-jazz2.df24c01c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/621/smooth-jazz2.df24c01c.png",
     "country": "Brazil",
     "tags": "jazz,smooth jazz,smooth lounge",
-    "votes": 0
+    "votes": 1430
   },
   {
     "stationuuid": "a8e3ff95-272d-47d4-b5db-a2f2723abb5f",
@@ -835,16 +845,6 @@
     "url": "https://stm01.virtualcast.com.br:8276/cidadecamposgerais",
     "url_resolved": "https://stm01.virtualcast.com.br:8276/cidadecamposgerais",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/986/cidade-879-fm.81fabc5e.jpg",
-    "country": "Brazil",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "173ab68f-b081-4cd6-a819-f3725930c088",
-    "name": "Radio Motel",
-    "url": "http://192.99.170.8/proxy/radiomotel/stream3",
-    "url_resolved": "http://192.99.170.8/proxy/radiomotel/stream3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/523/radio-motel.b2099abc.jpg",
     "country": "Brazil",
     "tags": "radio",
     "votes": 0
