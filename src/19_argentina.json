@@ -92,7 +92,7 @@
   {
     "stationuuid": "7b03996e-6ea0-4db5-8168-ddd1463faec2",
     "name": "La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina",
-    "url": https://01.solumedia.com.ar:8712/stream",
+    "url": "https://01.solumedia.com.ar:8712/stream",
     "url_resolved": "https://01.solumedia.com.ar:8712/stream",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/692/la-100-nogoya.9e632559.jpg",
     "country": "Argentina",
