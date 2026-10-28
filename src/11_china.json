@@ -1,5 +1,125 @@
 [
   {
+    "stationuuid": "0e495b97-0a3d-49cf-9476-8814450b4cd0",
+    "name": "RTHK Radio 1",
+    "url": "http://stm1.rthk.hk/radio1",
+    "url_resolved": "http://stm1.rthk.hk/radio1",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/914/xiang-gang-dian-tai-di-tai-rthk-radio-1.9b669eee.png",
+    "country": "China",
+    "tags": "educational,entertainment,news",
+    "votes": 1000
+  },
+  {
+    "stationuuid": "3a5b3c97-1204-4a47-bf97-6bc08eba38b9",
+    "name": "RTHK Radio 8 央廣粵港澳大灣區之聲",
+    "url": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
+    "url_resolved": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
+    "favicon": "http://ytdem.radio.cn/oldres/cnvod/audio2017/ondemand/media/1100/20201230/1609294853242.jpg",
+    "country": "China",
+    "tags": "102.8,102.8 fm,public radio",
+    "votes": 999
+  },
+  {
+    "stationuuid": "53e9eab3-eee4-472f-af2a-c5fa5282b4ac",
+    "name": "香港電台第六台",
+    "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8",
+    "url_resolved": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8",
+    "favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/1E202306121836.jpg",
+    "country": "China",
+    "tags": "full service",
+    "votes": 998
+  },
+  {
+    "stationuuid": "a7b77a3d-409c-4597-b309-c8c04e239e94",
+    "name": "洛阳音乐广播",
+    "url": "http://lhttp.qingting.fm/live/1226/64k.mp3",
+    "url_resolved": "http://lhttp.qingting.fm/live/1226/64k.mp3",
+    "favicon": "http://pic.qingting.fm/2022/0217/20220217121421.jpeg",
+    "country": "China",
+    "tags": "music",
+    "votes": 997
+  },
+  {
+    "stationuuid": "ffd28ae3-a6aa-4b8d-a37d-aa79b3301e93",
+    "name": "大连都市之声",
+    "url": "http://live.ximalaya.com/radio-first-page-app/live/2819/64.m3u8",
+    "url_resolved": "http://live.ximalaya.com/radio-first-page-app/live/2819/64.m3u8",
+    "favicon": "https://pic.qtfm.cn/2024/1211/20241211043454.png",
+    "country": "China",
+    "tags": "culture,entertainment,lifestyle",
+    "votes": 996
+  },
+   {
+    "stationuuid": "ceffc6a0-19ec-4710-ad18-80a725e9f780",
+    "name": "澄海电台FM100.5",
+    "url": "https://lhttp-hw.qtfm.cn/live/5022439/64k.mp3",
+    "url_resolved": "https://lhttp-hw.qtfm.cn/live/5022439/64k.mp3",
+    "favicon": "https://pic.qtfm.cn/2015/0430/20150430050915573.jpg",
+    "country": "China",
+    "tags": "full service,music",
+    "votes": 995
+  },
+  {
+    "stationuuid": "be731842-5dc7-4ff1-ac7e-9a2f25b759bf",
+    "name": "无锡新闻综合广播FM93.7",
+    "url": "https://lhttp.qtfm.cn/live/2777/64k.mp3",
+    "url_resolved": "https://lhttp.qtfm.cn/live/2777/64k.mp3",
+    "favicon": "http://pic.qingting.fm/2017/0920/20170920101106.png",
+    "country": "China",
+    "tags": "93.7,93.7 fm,information,news,public radio",
+    "votes": 994
+  },
+  {
+    "stationuuid": "32acbfa2-a21a-4758-af44-6f4fdbb19e9b",
+    "name": "巴音郭楞汉语综合广播",
+    "url": "https://lhttp-hw.qtfm.cn/live/5022108/64k.mp3",
+    "url_resolved": "https://lhttp-hw.qtfm.cn/live/5022108/64k.mp3",
+    "favicon": "https://pic.qtfm.cn/2020/0423/20200423113447.jpeg",
+    "country": "China",
+    "tags": "news",
+    "votes": 993
+  },
+  {
+    "stationuuid": "bb0dcca9-0248-480d-92b6-34374f2af47e",
+    "name": "枣庄交通·文艺广播",
+    "url": "https://lhttp.qtfm.cn/live/1688/64k.mp3",
+    "url_resolved": "https://lhttp.qtfm.cn/live/1688/64k.mp3",
+    "favicon": "http://pic.qingting.fm/2015/0810/20150810185329986.jpg",
+    "country": "China",
+    "tags": "music,traffic radio broadcast",
+    "votes": 992
+  },
+  {
+    "stationuuid": "b19967d1-f03b-4857-aa07-9a269d240e0c",
+    "name": "牡丹江综合广播",
+    "url": "https://lhttp.qtfm.cn/live/5022434/64k.mp3",
+    "url_resolved": "https://lhttp.qtfm.cn/live/5022434/64k.mp3",
+    "favicon": "https://pic.qtfm.cn/2023/0407/20230407033639.png",
+    "country": "China",
+    "tags": "full service",
+    "votes": 991
+  },
+  {
+    "stationuuid": "3b356db3-3416-4aa3-ac95-71c783ca58e9",
+    "name": "河南经济广播",
+    "url": "https://stream.hndt.com/live/jingji/playlist.m3u8",
+    "url_resolved": "https://stream.hndt.com/live/jingji/playlist.m3u8",
+    "favicon": "https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188242717818.png",
+    "country": "China",
+    "tags": "music,talk",
+    "votes": 990
+  },
+  {
+    "stationuuid": "edef3662-45b0-4d0c-ab31-74c13cd823c7",
+    "name": "吉林经济广播 老年频率",
+    "url": "https://live-jlr.jlntv.cn/live/fm953.m3u8",
+    "url_resolved": "https://live-jlr.jlntv.cn/live/fm953.m3u8",
+    "favicon": "http://pic.qingting.fm/2015/0630/2015063010030464.jpg",
+    "country": "China",
+    "tags": "old age",
+    "votes": 989
+  },
+  {
     "stationuuid": "57eb7a99-643c-4a6e-8750-d3ff1771eed0",
     "name": "哈尔滨音乐广播",
     "url": "https://stream.hrbtv.net/yypl/playlist.m3u8",
@@ -14,39 +134,9 @@
     "name": "内江交通广播",
     "url": "https://www.scnj.tv/hls_njtv/live/jtgb.m3u8",
     "url_resolved": "https://www.scnj.tv/hls_njtv/live/jtgb.m3u8",
-    "favicon": "https://www.scnj.tv/favicon.ico",
+    "favicon": "",
     "country": "China",
     "tags": "traffic radio broadcast",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a7b77a3d-409c-4597-b309-c8c04e239e94",
-    "name": "洛阳音乐广播",
-    "url": "http://lhttp.qingting.fm/live/1226/64k.mp3",
-    "url_resolved": "http://lhttp.qingting.fm/live/1226/64k.mp3",
-    "favicon": "http://pic.qingting.fm/2022/0217/20220217121421.jpeg",
-    "country": "China",
-    "tags": "music",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ffd28ae3-a6aa-4b8d-a37d-aa79b3301e93",
-    "name": "大连都市之声",
-    "url": "http://live.ximalaya.com/radio-first-page-app/live/2819/64.m3u8",
-    "url_resolved": "http://live.ximalaya.com/radio-first-page-app/live/2819/64.m3u8",
-    "favicon": "https://pic.qtfm.cn/2024/1211/20241211043454.png",
-    "country": "China",
-    "tags": "culture,entertainment,lifestyle",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ceffc6a0-19ec-4710-ad18-80a725e9f780",
-    "name": "澄海电台FM100.5",
-    "url": "https://lhttp-hw.qtfm.cn/live/5022439/64k.mp3",
-    "url_resolved": "https://lhttp-hw.qtfm.cn/live/5022439/64k.mp3",
-    "favicon": "https://pic.qtfm.cn/2015/0430/20150430050915573.jpg",
-    "country": "China",
-    "tags": "full service,music",
     "votes": 0
   },
   {
@@ -90,21 +180,11 @@
     "votes": 0
   },
   {
-    "stationuuid": "be731842-5dc7-4ff1-ac7e-9a2f25b759bf",
-    "name": "无锡新闻综合广播FM93.7",
-    "url": "https://lhttp.qtfm.cn/live/2777/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/2777/64k.mp3",
-    "favicon": "http://pic.qingting.fm/2017/0920/20170920101106.png",
-    "country": "China",
-    "tags": "93.7,93.7 fm,information,news,public radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "725490fc-afb7-4d62-933c-6ae0f465cb2a",
     "name": "宁海新闻综合广播 FM98.9",
     "url": "https://lhttp-hw.qtfm.cn/live/5022406/64k.mp3",
     "url_resolved": "https://lhttp-hw.qtfm.cn/live/5022406/64k.mp3",
-    "favicon": "https://pic.qtfm.cn/2015/0416/20150416105211738.png",
+    "favicon": ",
     "country": "China",
     "tags": "entertainment,full service,game,games,information,music",
     "votes": 0
@@ -134,59 +214,9 @@
     "name": "江西旅游广播",
     "url": "http://live.ximalaya.com/radio-first-page-app/live/1303/64.m3u8",
     "url_resolved": "http://live.ximalaya.com/radio-first-page-app/live/1303/64.m3u8",
-    "favicon": "https://ww2.sinaimg.cn/mw2000/706456f4gw1dsy7ag6oglj.jpg",
+    "favicon": "",
     "country": "China",
     "tags": "music,oldies",
-    "votes": 0
-  },
-  {
-    "stationuuid": "32acbfa2-a21a-4758-af44-6f4fdbb19e9b",
-    "name": "巴音郭楞汉语综合广播",
-    "url": "https://lhttp-hw.qtfm.cn/live/5022108/64k.mp3",
-    "url_resolved": "https://lhttp-hw.qtfm.cn/live/5022108/64k.mp3",
-    "favicon": "https://pic.qtfm.cn/2020/0423/20200423113447.jpeg",
-    "country": "China",
-    "tags": "news",
-    "votes": 0
-  },
-  {
-    "stationuuid": "bb0dcca9-0248-480d-92b6-34374f2af47e",
-    "name": "枣庄交通·文艺广播",
-    "url": "https://lhttp.qtfm.cn/live/1688/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/1688/64k.mp3",
-    "favicon": "http://pic.qingting.fm/2015/0810/20150810185329986.jpg",
-    "country": "China",
-    "tags": "music,traffic radio broadcast",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b19967d1-f03b-4857-aa07-9a269d240e0c",
-    "name": "牡丹江综合广播",
-    "url": "https://lhttp.qtfm.cn/live/5022434/64k.mp3",
-    "url_resolved": "https://lhttp.qtfm.cn/live/5022434/64k.mp3",
-    "favicon": "https://pic.qtfm.cn/2023/0407/20230407033639.png",
-    "country": "China",
-    "tags": "full service",
-    "votes": 0
-  },
-  {
-    "stationuuid": "3b356db3-3416-4aa3-ac95-71c783ca58e9",
-    "name": "河南经济广播",
-    "url": "https://stream.hndt.com/live/jingji/playlist.m3u8",
-    "url_resolved": "https://stream.hndt.com/live/jingji/playlist.m3u8",
-    "favicon": "https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188242717818.png",
-    "country": "China",
-    "tags": "music,talk",
-    "votes": 0
-  },
-  {
-    "stationuuid": "edef3662-45b0-4d0c-ab31-74c13cd823c7",
-    "name": "吉林经济广播 老年频率",
-    "url": "https://live-jlr.jlntv.cn/live/fm953.m3u8",
-    "url_resolved": "https://live-jlr.jlntv.cn/live/fm953.m3u8",
-    "favicon": "http://pic.qingting.fm/2015/0630/2015063010030464.jpg",
-    "country": "China",
-    "tags": "old age",
     "votes": 0
   },
   {
@@ -600,16 +630,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "0e495b97-0a3d-49cf-9476-8814450b4cd0",
-    "name": "RTHK Radio 1",
-    "url": "http://stm1.rthk.hk/radio1",
-    "url_resolved": "http://stm1.rthk.hk/radio1",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/914/xiang-gang-dian-tai-di-tai-rthk-radio-1.9b669eee.png",
-    "country": "China",
-    "tags": "educational,entertainment,news",
-    "votes": 7236
-  },
-  {
     "stationuuid": "0e5b6b8c-8e85-4a3b-8664-64cd6d6ae4ca",
     "name": "香港電台第七台 普通话台",
     "url": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8",
@@ -617,17 +637,7 @@
     "favicon": "https://sao.fm/wp-content/uploads/20220923022632737.jpg",
     "country": "China",
     "tags": "full service",
-    "votes": 64
-  },
-  {
-    "stationuuid": "53e9eab3-eee4-472f-af2a-c5fa5282b4ac",
-    "name": "香港電台第六台",
-    "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8",
-    "url_resolved": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8",
-    "favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/1E202306121836.jpg",
-    "country": "China",
-    "tags": "full service",
-    "votes": 32
+    "votes": 0
   },
   {
     "stationuuid": "d1ef34d7-4d8c-471a-868a-2a563393a3b0",
@@ -637,7 +647,7 @@
     "favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/zmco8RqfK6wcZu7BZCv2023061218737.jpg",
     "country": "China",
     "tags": "full service",
-    "votes": 32
+    "votes": 0
   },
   {
     "stationuuid": "c174f4fc-6bca-4389-a8f0-a97badd2374a",
@@ -647,7 +657,7 @@
     "favicon": "https://sao.fm/wp-content/uploads/20220401142443934-150x150.jpeg",
     "country": "China",
     "tags": "culture,economics",
-    "votes": 328
+    "votes": 0
   },
   {
     "stationuuid": "4e7155e6-3639-4ce4-a2f6-547dce3cc826",
@@ -657,17 +667,7 @@
     "favicon": "http://radio.nettvpro.xyz/uploads/26/1-260224022026125.jpg",
     "country": "China",
     "tags": "radio",
-    "votes": 52
-  },
-  {
-    "stationuuid": "3a5b3c97-1204-4a47-bf97-6bc08eba38b9",
-    "name": "RTHK Radio 8 央廣粵港澳大灣區之聲",
-    "url": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
-    "url_resolved": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
-    "favicon": "http://ytdem.radio.cn/oldres/cnvod/audio2017/ondemand/media/1100/20201230/1609294853242.jpg",
-    "country": "China",
-    "tags": "102.8,102.8 fm,public radio",
-    "votes": 364
+    "votes": 0
   },
   {
     "stationuuid": "ce998ec3-59e1-49d7-8476-f32d4d3b5d41",
