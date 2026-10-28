@@ -162,9 +162,9 @@
   {
     "stationuuid": "47d1e0f9-ce15-4557-a73c-a703b3762d06",
     "name": "La Popu",
-    "url": "https://liveradio.mediainbox.net/popular.mp3",
-    "url_resolved": "https://liveradio.mediainbox.net/popular.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/388/la-popu.c98b4d6b.jpg",
+    "url": "https://26673.live.streamtheworld.com/LAPOPU_SC",
+    "url_resolved": "https://26673.live.streamtheworld.com/LAPOPU_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/776/radio-popular.46869649.png",
     "country": "Argentina",
     "tags": "cuarteto,local news,music",
     "votes": 1484
@@ -181,113 +181,113 @@
   },
   {
     "stationuuid": "961a458f-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Nacional Folklorica 98.7",
-    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38",
-    "url_resolved": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/252/radio-nacional-folklorica-987-fm.c5a3065f.png",
+    "name": "La Nacion 104.9",
+    "url": "https://stream.radio.co/s2ed3bec0a/listen",
+    "url_resolved": "https://stream.radio.co/s2ed3bec0a/listen",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/265/top-fm-1049.56d4e2c4.png",
     "country": "Argentina",
-    "tags": "buenos aires,folk,public radio",
-    "votes": 0
+    "tags": "Contemporánea para adultos,Años 80,Años 90",
+    "votes": 1481
   },
   {
     "stationuuid": "4ff249e9-131b-4fae-88f0-d93c744240ee",
     "name": "Metro 95.1",
     "url": "https://24233.live.streamtheworld.com:443/METRO.mp3",
     "url_resolved": "https://24233.live.streamtheworld.com:443/METRO.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/284/metro-951.14def48c.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/284/metro-951.14def48c.jpg",
     "country": "Argentina",
     "tags": "95.1,95.1 fm,argentina,buenos aires,ciudad de buenos aires,dance",
-    "votes": 1100
+    "votes": 1480
   },
   {
     "stationuuid": "5feb97a1-5324-4478-8094-f55f81d80090",
-    "name": "Radio AM 750",
-    "url": "https://26573.live.streamtheworld.com:443/AM750AAC.aac",
-    "url_resolved": "https://26573.live.streamtheworld.com:443/AM750AAC.aac",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/AM_750_logo.svg/500px-AM_750_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "name": "D SPORTS",
+    "url": "https://24403.live.streamtheworld.com/DSPORTSRADIOAAC_SC",
+    "url_resolved": "https://24403.live.streamtheworld.com/DSPORTSRADIOAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/329/d-sports.4f470dc8.png",
     "country": "Argentina",
-    "tags": "radio",
-    "votes": 37
+    "tags": "Deportes",
+    "votes": 1479
   },
   {
     "stationuuid": "a7675c0e-e477-473a-a6c5-d1447dac982e",
     "name": "Vorterix",
     "url": "https://ice2.edge-apps.net/radio1_high-20057.audio",
     "url_resolved": "https://ice2.edge-apps.net/radio1_high-20057.audio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/328/vorterix.9a069cd6.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/328/vorterix.9a069cd6.jpg",
     "country": "Argentina",
     "tags": "radio",
-    "votes": 24
+    "votes": 1478
   },
   {
     "stationuuid": "9cc01fff-5c3a-401e-8609-cbf795516514",
     "name": "Classique: Una radio de clásicos",
     "url": "https://01.solumedia.com.ar:8562/stream",
     "url_resolved": "https://01.solumedia.com.ar:8562/stream",
-    "favicon": "https://i.ibb.co/k2mrvXX/radio-classique.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/342/classique-1065-fm.cd2eb3ed.png",
     "country": "Argentina",
     "tags": "classic rock",
-    "votes": 137
+    "votes": 1477
   },
   {
     "stationuuid": "e6500945-1763-11ea-a620-52543be04c81",
-    "name": "Nuevos Aires FM 99.7",
-    "url": "https://streaming.brol.tech/rtfmlounge",
-    "url_resolved": "https://streaming.brol.tech/rtfmlounge",
-    "favicon": "https://nuevosairesfm.com.ar/wp-content/uploads/2023/07/cropped-logo22-1-180x180.png",
+    "name": "Horizonte 101.9 FM",
+    "url": "https://26313.live.streamtheworld.com/SAM06AAC243_SC",
+    "url_resolved": "https://26313.live.streamtheworld.com/SAM06AAC243_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/948/horizonte-943-fm.86cdf312.png",
     "country": "Argentina",
-    "tags": "deportes,futbol,political talk,pop,rock",
-    "votes": 113
+    "tags": "Pop / Top 40,Contemporánea para adultos,Años 80",
+    "votes": 1476
   },
   {
     "stationuuid": "4a02b93f-5020-11e9-a4d7-52543be04c81",
-    "name": "Radio Monk",
-    "url": "http://streaming01.shockmedia.com.ar:9858/;",
-    "url_resolved": "http://streaming01.shockmedia.com.ar:9858/;",
-    "favicon": "https://www.radiomonk.com.ar/img/logo.png",
+    "name": "Planeta Cuarteto",
+    "url": "https://streaming.radiosenlinea.com.ar:10763/live",
+    "url_resolved": "https://streaming.radiosenlinea.com.ar:10763/live",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/331/planeta-cuarteto.725d774d.png",
     "country": "Argentina",
-    "tags": "radio monk",
-    "votes": 65
+    "tags": "Variado",
+    "votes": 1475
   },
   {
     "stationuuid": "9cfbad0e-eb3f-4b4d-9f34-effe0c8c27a2",
     "name": "96.1 Shopping Classics",
     "url": "https://stream4.suenas.net/shoppingclassics",
     "url_resolved": "https://stream4.suenas.net/shoppingclassics",
-    "favicon": "https://static.wixstatic.com/media/ec27f9_ea87259ccf5b5bb366eb07444d11ad6a.png/v1/fill/w_224,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ec27f9_ea87259ccf5b5bb366eb07444d11ad6a.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/913/shopping-classics-961-fm.7befa9b5.jpg",
     "country": "Argentina",
-    "tags": "radio",
-    "votes": 41
+    "tags": "Éxitos clásicos",
+    "votes": 1474
   },
   {
     "stationuuid": "092418a9-c01d-472d-ad62-344d83f79afb",
-    "name": "Soy un Clasico",
-    "url": "https://streaming1.locucionar.com/proxy/soyunclasico?mp=/stream",
-    "url_resolved": "https://streaming1.locucionar.com/proxy/soyunclasico?mp=/stream",
-    "favicon": "https://streaminglocucionar.com/portal/images/logos/soyunclasico.png",
+    "name": "Splendid AM 990",
+    "url": "https://27693.live.streamtheworld.com/AM990AAC_SC",
+    "url_resolved": "https://27693.live.streamtheworld.com/AM990AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/671/la-990.00ab0ac1.jpg",
     "country": "Argentina",
-    "tags": "80s soft rock,soft music,soft pop",
-    "votes": 34
+    "tags": "Radio hablada",
+    "votes": 1473
   },
   {
     "stationuuid": "c606eb70-801c-420a-aa4e-ccaccd2505a1",
     "name": "rock and pop 89.7 FM",
     "url": "https://streamlky.alsolnet.com/rockandpop_128k",
     "url_resolved": "https://streamlky.alsolnet.com/rockandpop_128k",
-    "favicon": "https://www.rockandpopmdp.com.ar/img/rock-and-pop-mdp-logo-web.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/257/rockpop.c54d3615.png",
     "country": "Argentina",
     "tags": "2000s,80s,90s,entretenimiento,music,pop",
-    "votes": 33
+    "votes": 1472
   },
   {
     "stationuuid": "62ea1c7c-9462-4e69-bccb-b8a5abbd5184",
     "name": "Quality X - 89.7 FM",
     "url": "https://stream.qualityradio.com.ar/qualityx",
     "url_resolved": "https://stream.qualityradio.com.ar/qualityx",
-    "favicon": "https://cdn-profiles.tunein.com/s141326/images/logog.jpg?t=164425",
+    "favicon": "https://ievolt.s3.us-east-1.amazonaws.com/avatars/emradios/logos/quality-x-89-7-fm-ar.jpg",
     "country": "Argentina",
     "tags": "radio",
-    "votes": 30
+    "votes": 1471
   },
   {
     "stationuuid": "689cd1ba-deb6-455e-866f-1948992519ed",
