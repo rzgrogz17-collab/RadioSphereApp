@@ -234,50 +234,50 @@
     "name": "Realitatea FM",
     "url": "https://shout.realitatea.net:8001/rfmweb",
     "url_resolved": "https://shout.realitatea.net:8001/rfmweb",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/s38nthzq2nsj.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/s38nthzq2nsj.png",
     "country": "Romania",
     "tags": "news,talk",
-    "votes": 0
+    "votes": 1527
   },
   {
     "stationuuid": "96194ab6-0601-11e8-ae97-52543be04c81",
     "name": "Radio România Iași",
     "url": "http://89.238.227.6:8202/listen.pls",
     "url_resolved": "http://89.238.227.6:8202/",
-    "favicon": "https://www.radioiasi.ro/wp-content/themes/radioiasi/images/favicons/favicon-180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/puAf7egyYx.png",
     "country": "Romania",
     "tags": "local programming,news talk music",
-    "votes": 0
+    "votes": 1426
   },
   {
     "stationuuid": "f90ef2e5-4681-493a-bfa0-15627e3fb248",
     "name": "Radio Cafe Romania",
     "url": "http://live.radiocafe.ro:8048/live.aac",
     "url_resolved": "http://live.radiocafe.ro:8048/live.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/79J5LPeMdL.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/79J5LPeMdL.png",
     "country": "Romania",
-    "tags": "muzica de poveste",
-    "votes": 0
+    "tags": "Ușor de ascultat,Hituri clasice",
+    "votes": 1425
   },
   {
     "stationuuid": "960e6f4f-0601-11e8-ae97-52543be04c81",
-    "name": "DeeaRadio",
+    "name": "Radio DEEA",
     "url": "http://live.radiodeea.ro:8090/listen.pls",
     "url_resolved": "http://radiocdn.nxthost.com/radio-deea",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/gb54XXcpwJ.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/gb54XXcpwJ.jpeg",
     "country": "Romania",
-    "tags": "electro",
-    "votes": 0
+    "tags": "Dance / EDM,House",
+    "votes": 1424
   },
   {
     "stationuuid": "ecc988d8-94ff-11e8-a767-52543be04c81",
     "name": "Dark Edge Radio",
     "url": "http://stream.darkedge.ro:8000/",
     "url_resolved": "http://stream.darkedge.ro:8000/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/7abdxht8r4kj.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/7abdxht8r4kj.jpg",
     "country": "Romania",
-    "tags": "",
-    "votes": 0
+    "tags": "Alternativă / Indie",
+    "votes": 1423
   },
   {
     "stationuuid": "52fec34e-b4fa-4a5a-96cf-e17ffa9bd76d",
@@ -287,97 +287,97 @@
     "favicon": "https://www.playradio.ro/wp-content/uploads/2023/02/Logo-PNG.png",
     "country": "Romania",
     "tags": "80s,90s,adult contemporary,dance,hot ac,news,pop,talks",
-    "votes": 0
+    "votes": 1422
   },
   {
     "stationuuid": "3c98d6c2-f370-4171-920a-883d938cb3f3",
     "name": "Radio Oldies Romania",
     "url": "http://listen.radiooldies.ro:9200/;",
     "url_resolved": "http://listen.radiooldies.ro:9200/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/590/radio-oldies-romania.8bd1997f.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/590/radio-oldies-romania.8bd1997f.png",
     "country": "Romania",
     "tags": "80's,80s,90's,90s,oldies",
-    "votes": 0
+    "votes": 1421
   },
   {
     "stationuuid": "00d1815f-8752-472b-8e1f-805431e96952",
     "name": "Radio Impuls",
     "url": "https://live.radio-impuls.ro/stream",
     "url_resolved": "https://live.radio-impuls.ro/stream",
-    "favicon": "https://cdn.knd.ro/media/521/2942/static/favicons/apple-icon-180x180.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/IMPULSRADIO.jpg",
     "country": "Romania",
     "tags": "top40",
-    "votes": 0
+    "votes": 1420
   },
   {
     "stationuuid": "140c9452-873f-4449-8d30-69ccd5a06943",
     "name": "Rádió KoKo",
     "url": "https://az10.yesstreaming.net:8210/radiokoko.mp3",
     "url_resolved": "https://az10.yesstreaming.net:8210/radiokoko.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/949/radio-koko.905bd78c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/949/radio-koko.905bd78c.png",
     "country": "Romania",
     "tags": "adult contemporary,classic hits,contemporary hits radio,pop music,pop rock",
-    "votes": 0
+    "votes": 1419
   },
   {
     "stationuuid": "c49c0d0c-f611-41d6-b66d-6b5c9fdd7cc4",
     "name": "Național FM",
     "url": "http://live2.nationalfm.ro:8001/;",
     "url_resolved": "http://live2.nationalfm.ro:8001/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/G4APPASP2q.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/G4APPASP2q.jpeg",
     "country": "Romania",
     "tags": "romanian,romanian folk,romanian pop,talk",
-    "votes": 0
+    "votes": 1418
   },
   {
     "stationuuid": "ceddaaf9-e322-4ceb-a3e9-d2025f9f9747",
     "name": "itsy bitsy",
     "url": "http://live.itsybitsy.ro:8000/itsybitsy",
     "url_resolved": "http://live.itsybitsy.ro:8000/itsybitsy",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ZypK2q9qmB.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ZypK2q9qmB.png",
     "country": "Romania",
     "tags": "kids",
-    "votes": 0
+    "votes": 1417
   },
   {
     "stationuuid": "db61d84c-620c-4e56-b262-cbbe0909c828",
-    "name": "EBS | Movie Soundtracks",
-    "url": "https://azura.ebsmedia.ro/listen/movies/movies128.mp3",
-    "url_resolved": "https://azura.ebsmedia.ro/listen/movies/movies128.mp3",
-    "favicon": "https://ebsradio.ro/stream/img/stream-movies-soundtrack.png",
+    "name": "Disco Mix",
+    "url": "https://play.discomix.ro/8002/stream",
+    "url_resolved": "https://play.discomix.ro/8002/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/683/disco-mix.288987f7.png",
     "country": "Romania",
-    "tags": "movie scores,movie soundtracks,soundtracks",
-    "votes": 0
+    "tags": "Dance / EDM,Anii 80,Anii 90",
+    "votes": 1416
   },
   {
     "stationuuid": "961d665b-0601-11e8-ae97-52543be04c81",
-    "name": "Radio România Cluj",
-    "url": "http://89.238.227.6:8384/",
-    "url_resolved": "http://89.238.227.6:8384/",
-    "favicon": "https://www.radiocluj.ro/wp-content/themes/radiocluj/images/favicons/favicon-96x96.png",
+    "name": "Manele Premium",
+    "url": "https://stream.adradio.ro/mp128",
+    "url_resolved": "https://stream.adradio.ro/mp128",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/rdpgtrg5uexr.jpg",
     "country": "Romania",
-    "tags": "romania",
-    "votes": 0
+    "tags": "Muzică din toată lumea",
+    "votes": 1415
   },
   {
     "stationuuid": "28130233-a8e1-4195-8c6e-a22ab41f576a",
     "name": "Radio România Brașov",
     "url": "http://stream2.srr.ro:8210/;",
     "url_resolved": "http://stream2.srr.ro:8210/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/zsd5mhkhxh2b.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/zsd5mhkhxh2b.png",
     "country": "Romania",
-    "tags": "local news,music,talk",
-    "votes": 0
+    "tags": "Servicii publice,Posturi locale",
+    "votes": 1414
   },
   {
     "stationuuid": "df0eedb3-6a8a-4077-93a0-b775aa72a7a8",
     "name": "Radio Deep",
     "url": "http://live.radiodeep.ro:7500/;",
     "url_resolved": "http://live.radiodeep.ro:7500/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/85mzbshe7wwq.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/85mzbshe7wwq.png",
     "country": "Romania",
     "tags": "deep,deep house,house",
-    "votes": 0
+    "votes": 1413
   },
   {
     "stationuuid": "3e7745c9-ab52-4737-bce3-4f44198174bf",
@@ -387,27 +387,27 @@
     "favicon": "https://app.radio.com.ro/images/59768_radio.webp",
     "country": "Romania",
     "tags": "dance,dj,edm,electronic,house",
-    "votes": 0
+    "votes": 1412
   },
   {
     "stationuuid": "24139e55-a9d3-4c97-9516-1589a73ab29a",
     "name": "radio SOMEȘ",
     "url": "http://radio.mediacp.eu/stream/radiosomes",
     "url_resolved": "http://radio.mediacp.eu/stream/radiosomes",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/726/radio-somes.e88963ab.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/726/radio-somes.e88963ab.png",
     "country": "Romania",
     "tags": "populară",
-    "votes": 0
+    "votes": 1411
   },
   {
     "stationuuid": "340f1262-9415-4147-927b-4c15d599d88b",
     "name": "Radio Hot Style",
     "url": "http://mp3.radiohot.ro:8000/stream",
     "url_resolved": "http://mp3.radiohot.ro:8000/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/398/radio-hot-style.649ad7d9.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/398/radio-hot-style.649ad7d9.png",
     "country": "Romania",
     "tags": "dance,dance pop,pop,pop music,romanian pop",
-    "votes": 0
+    "votes": 1410
   },
   {
     "stationuuid": "fab8979f-a08c-11e9-a787-52543be04c81",
@@ -416,48 +416,48 @@
     "url_resolved": "http://asculta.radionebunya.ro:7575/",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RNFM.jpg",
     "country": "Romania",
-    "tags": "",
-    "votes": 0
+    "tags": "Manele, pop, latino, dance",
+    "votes": 1409
   },
   {
     "stationuuid": "a84c4b0c-f039-4f2a-a381-018522632c96",
-    "name": "Radio Party București ",
-    "url": "http://asculta.radiopartybucuresti.ro:8050/;",
-    "url_resolved": "http://asculta.radiopartybucuresti.ro:8050/;",
-    "favicon": "http://radiopartybucuresti.ro/wp-content/uploads/2019/04/logoborder.png",
+    "name": "Radio Popular Petrecere",
+    "url": "https://livessl.radiopopular.ro:7777/live",
+    "url_resolved": "https://livessl.radiopopular.ro:7777/live",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/APdrRA9nBZ.png",
     "country": "Romania",
-    "tags": "manele,manele si petrecere,manele și petrecere,petrecere și manele",
-    "votes": 0
+    "tags": "Folk",
+    "votes": 1408
   },
   {
     "stationuuid": "205bee2a-b678-43e2-9c55-a47e78c9be48",
-    "name": "Play Urban",
-    "url": "http://live.playradio.org:9090/UrbanHD",
-    "url_resolved": "http://live.playradio.org:9090/UrbanHD",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/TbuHfzCGg5.png",
+    "name": "Radio România Cultural",
+    "url": "http://stream2.srr.ro:8012/;",
+    "url_resolved": "http://stream2.srr.ro:8012/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/aRS3qSA2fr.png",
     "country": "Romania",
-    "tags": "explicit,hip hop,hip hop romanian,hip-hop,hiphop,rap,rap hiphop rnb,trap",
-    "votes": 0
+    "tags": "Servicii publice,Cultură & Educație,Posturi locale",
+    "votes": 1407
   },
   {
     "stationuuid": "960c3e01-0601-11e8-ae97-52543be04c81",
     "name": "Vox FM",
     "url": "http://stream.voxfm.ro:8000/listen.pls",
-    "url_resolved": "http://stream.voxfm.ro:8000/stream/1",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/zg3nxa98k7t3.jpg",
+    "url_resolved": "https://stream.voxfm.ro:8000/stream/1",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/255/radio-vox-fm-933.26c4e4f3.png",
     "country": "Romania",
     "tags": "pop",
-    "votes": 0
+    "votes": 1406
   },
   {
     "stationuuid": "830086b4-8d1a-44b9-8610-792225db7f36",
     "name": "Plusz FM",
     "url": "https://stream2.radiotransilvania.ro/Nagyvarad",
     "url_resolved": "https://stream2.radiotransilvania.ro/Nagyvarad",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/whsdnhghhupe.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/775/plusz-fm.9c1f7a39.jpg",
     "country": "Romania",
     "tags": "local news,top hits",
-    "votes": 0
+    "votes": 1405
   },
   {
     "stationuuid": "964c313e-0601-11e8-ae97-52543be04c81",
@@ -1051,12 +1051,12 @@
   },
   {
     "stationuuid": "dd1c37a0-9e58-46c4-9c9c-bdbd118c4e3a",
-    "name": "Sonic România",
-    "url": "https://ssl.omegahost.ro:10958/;",
-    "url_resolved": "https://ssl.omegahost.ro:10958/;",
-    "favicon": "https://radiosonic.ro/images/logo_lens_350_250.png",
+    "name": "Chill FM",
+    "url": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3",
+    "url_resolved": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ymusqjgtedr4.png",
     "country": "Romania",
-    "tags": "contemporary",
+    "tags": "Relaxare",
     "votes": 0
   },
   {
@@ -1064,7 +1064,7 @@
     "name": "Radio Lipova Popular",
     "url": "http://asculta.radiolipova.ro:1717/stream",
     "url_resolved": "http://asculta.radiolipova.ro:1717/stream",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s158269g.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/899/radio-lipova.4cb0bc15.jpg",
     "country": "Romania",
     "tags": "petrecere,populară",
     "votes": 0
