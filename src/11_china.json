@@ -1,5 +1,25 @@
 [
   {
+    "stationuuid": "9d80bd51-c05d-474c-9b0d-9077d37534e6",
+    "name": "香港電台普通話台 RTHK Radio",
+    "url": "http://stm.rthk.hk/radiopth",
+    "url_resolved": "http://stm.rthk.hk/radiopth",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/809/xiang-gang-dian-tai-pu-tong-hua-tai-rthk-radio.c44cd690.png",
+    "country": "China",
+    "tags": "流行 / 四十強,談話",
+    "votes": 1002
+  },
+  {
+    "stationuuid": "13848423-26ca-4a43-b4bf-a16e0a250d66",
+    "name": "香港電台第二台 RTHK Radio 2",
+    "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+    "url_resolved": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/952/xiang-gang-dian-tai-di-er-tai-rthk-radio-2.f3d20dbf.png",
+    "country": "China",
+    "tags": "radio",
+    "votes": 1001
+  },
+  {
     "stationuuid": "0e495b97-0a3d-49cf-9476-8814450b4cd0",
     "name": "RTHK Radio 1",
     "url": "http://stm1.rthk.hk/radio1",
@@ -49,7 +69,7 @@
     "tags": "culture,entertainment,lifestyle",
     "votes": 996
   },
-   {
+  {
     "stationuuid": "ceffc6a0-19ec-4710-ad18-80a725e9f780",
     "name": "澄海电台FM100.5",
     "url": "https://lhttp-hw.qtfm.cn/live/5022439/64k.mp3",
@@ -118,6 +138,56 @@
     "country": "China",
     "tags": "old age",
     "votes": 989
+  },
+  {
+    "stationuuid": "05dea91c-5a9a-4993-9234-10e033aec88f",
+    "name": "新城財經台 Metro Finance FM104",
+    "url": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
+    "url_resolved": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/092/xin-cheng-cai-jing-tai-metro-finance-fm104.68ee386d.jpg",
+    "country": "China",
+    "tags": "radio",
+    "votes": 988
+  },
+  {
+    "stationuuid": "6bb8499b-a4aa-4c89-8218-c346888bb0b2",
+    "name": "香港電台第五台 - RTHK Radio 5",
+    "url": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+    "url_resolved": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/955/xiang-gang-dian-tai-di-wu-tai-rthk-radio-5.10e72f12.png",
+    "country": "China",
+    "tags": "radio",
+    "votes": 987
+  },
+  {
+    "stationuuid": "dd29a38b-a19a-4c83-8578-40416b1baf23",
+    "name": "新城知訊台 MetroInfo FM99.7",
+    "url": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8",
+    "url_resolved": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/091/xin-cheng-zhi-xun-tai-metroinfo-fm997.91baf2b7.png",
+    "country": "China",
+    "tags": "流行 / 四十強,新聞",
+    "votes": 986
+  },
+  {
+    "stationuuid": "d4f6bda4-8ff5-44a3-8f49-99362c8c7300",
+    "name": "香港電台第三台 RTHK Radio 3",
+    "url": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
+    "url_resolved": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/953/xiang-gang-dian-tai-di-san-tai-rthk-radio-3.e5894d95.png",
+    "country": "China",
+    "tags": "本地,世界音樂",
+    "votes": 985
+  },
+  {
+    "stationuuid": "51744749-0462-44fe-b721-83215cf32362",
+    "name": "香港電台第四台 RTHK Radio 4",
+    "url": "http://stm1.rthk.hk/radio4",
+    "url_resolved": "http://stm1.rthk.hk/radio4",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/954/xiang-gang-dian-tai-di-si-tai-rthk-radio-4.71051015.png",
+    "country": "China",
+    "tags": "古典樂",
+    "votes": 984
   },
   {
     "stationuuid": "57eb7a99-643c-4a6e-8750-d3ff1771eed0",
@@ -677,56 +747,6 @@
     "favicon": "https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554792374.png",
     "country": "China",
     "tags": "information",
-    "votes": 274
-  },
-  {
-    "stationuuid": "13848423-26ca-4a43-b4bf-a16e0a250d66",
-    "name": "香港電台第二台 RTHK Radio 2",
-    "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
-    "url_resolved": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/952/xiang-gang-dian-tai-di-er-tai-rthk-radio-2.f3d20dbf.png",
-    "country": "China",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "05dea91c-5a9a-4993-9234-10e033aec88f",
-    "name": "新城財經台 Metro Finance FM104",
-    "url": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
-    "url_resolved": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/092/xin-cheng-cai-jing-tai-metro-finance-fm104.68ee386d.jpg",
-    "country": "China",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6bb8499b-a4aa-4c89-8218-c346888bb0b2",
-    "name": "香港電台第五台 - RTHK Radio 5",
-    "url": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
-    "url_resolved": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/955/xiang-gang-dian-tai-di-wu-tai-rthk-radio-5.10e72f12.png",
-    "country": "China",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "dd29a38b-a19a-4c83-8578-40416b1baf23",
-    "name": "新城知訊台 MetroInfo FM99.7",
-    "url": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8",
-    "url_resolved": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/091/xin-cheng-zhi-xun-tai-metroinfo-fm997.91baf2b7.png",
-    "country": "China",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "9d80bd51-c05d-474c-9b0d-9077d37534e6",
-    "name": "香港電台普通話台 RTHK Radio",
-    "url": "http://stm.rthk.hk/radiopth",
-    "url_resolved": "http://stm.rthk.hk/radiopth",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/809/xiang-gang-dian-tai-pu-tong-hua-tai-rthk-radio.c44cd690.png",
-    "country": "China",
-    "tags": "radio",
     "votes": 0
   },
   {
@@ -735,26 +755,6 @@
     "url": "http://ice.digitalradiohk.net:8000/drhk",
     "url_resolved": "http://ice.digitalradiohk.net:8000/drhk",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/490/digital-radio-hong-kong.35b38573.png",
-    "country": "China",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "51744749-0462-44fe-b721-83215cf32362",
-    "name": "香港電台第四台 RTHK Radio 4",
-    "url": "http://stm1.rthk.hk/radio4",
-    "url_resolved": "http://stm1.rthk.hk/radio4",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/954/xiang-gang-dian-tai-di-si-tai-rthk-radio-4.71051015.png",
-    "country": "China",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d4f6bda4-8ff5-44a3-8f49-99362c8c7300",
-    "name": "香港電台第三台 RTHK Radio 3",
-    "url": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
-    "url_resolved": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/953/xiang-gang-dian-tai-di-san-tai-rthk-radio-3.e5894d95.png",
     "country": "China",
     "tags": "radio",
     "votes": 0
