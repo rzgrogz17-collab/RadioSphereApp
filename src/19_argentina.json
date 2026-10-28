@@ -6,78 +6,48 @@
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ASPN102.jpg",
     "country": "Argentina",
-    "tags": "",
-    "votes": 59
-  },
-  {
-    "stationuuid": "7b03996e-6ea0-4db5-8168-ddd1463faec2",
-    "name": "La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3",
-    "favicon": "https://www.allradio.net/500/_HzkZfywAdJYVTOsps_mz.webp",
-    "country": "Argentina",
-    "tags": "99.9 fm,argentina,buenos aires,entretenimiento,español,estación,fm,grupo clarín,la 100,latinoamérica,magazines,moi merino,música,radio,suramérica",
-    "votes": 58
+    "tags": "Rock clásico,Éxitos clásicos",
+    "votes": 1500
   },
   {
     "stationuuid": "5440e89d-708d-4336-9b42-fa274ed093b1",
-    "name": "Radio La Red AM 910. Ciudad de Buenos Aires",
+    "name": "La Red AM 910. Ciudad de Buenos Aires",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
-    "favicon": "https://www.allradio.net/500/oH4jsqQymkSCdhxiAmZL5.webp",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg",
     "country": "Argentina",
-    "tags": "",
-    "votes": 32
+    "tags": "Variado,Deportes,Noticias",
+    "votes": 1499
   },
   {
-    "stationuuid": "f006d4dc-9771-4109-bf35-eb09291320da",
-    "name": "Mitre AM 790. AAC Alta. Ciudad de Buenos Aires",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/M790R.jpg",
+    "stationuuid": "ae7694a3-d499-11e9-a861-52543be04c81",
+    "name": "Radio Con Vos 89.9",
+    "url": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
+    "url_resolved": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg",
     "country": "Argentina",
-    "tags": "",
-    "votes": 30
-  },
-  {
-    "stationuuid": "cfeebcdf-7b9f-4561-86b4-abf24a185bcf",
-    "name": "AM 530 Somos radio",
-    "url": "https://ipanel.instream.audio:7000/stream",
-    "url_resolved": "https://ipanel.instream.audio:7000/stream",
-    "favicon": "https://static.wixstatic.com/media/bec174_ab44bc8dffdb479b8386959c7966916f%7Emv2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/bec174_ab44bc8dffdb479b8386959c7966916f%7Emv2.jpg",
-    "country": "Argentina",
-    "tags": "",
-    "votes": 29
+    "tags": "news,pop,rock,radio hablada",
+    "votes": 1498
   },
   {
     "stationuuid": "bcb3b03a-f0ec-4ceb-b22f-922138858800",
     "name": "Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
-    "favicon": "https://fmrockandpop.com/pwa/ios_192x192.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/744/fm-rock-pop.32c080fd.jpg",
     "country": "Argentina",
-    "tags": "",
-    "votes": 25
+    "tags": "Rock,Pop / Top 40",
+    "votes": 1497
   },
   {
-    "stationuuid": "4520c04e-0514-43f9-9fe6-89d2f6d746f5",
-    "name": "Blue 100.7 FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
-    "favicon": "https://www.radio.de/175/blue1007fm.png",
+    "stationuuid": "f80be5c6-55c1-4bdc-9e00-44cf32696b51",
+    "name": "LOS 40 SANTA FE 97.7",
+    "url": "https://radios.solumedia.com:6158/stream?icy=http",
+    "url_resolved": "https://radios.solumedia.com:6158/stream?icy=http",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/LOS40SANTEFE.png",
     "country": "Argentina",
-    "tags": "80s,90s,classic hits,entretenimiento",
-    "votes": 24
-  },
-  {
-    "stationuuid": "c0cf2d87-993c-4cb6-97ad-f508a3fc5495",
-    "name": "Radio Mitre",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC",
-    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC",
-    "favicon": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png",
-    "country": "Argentina",
-    "tags": "news",
-    "votes": 23
+    "tags": "entretenimiento,hits,latino,music,música en español e inglés,pop",
+    "votes": 1496
   },
   {
     "stationuuid": "3c6c111c-6bbc-44ae-8ad8-46b502b3002a",
@@ -86,28 +56,8 @@
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RRA630.png",
     "country": "Argentina",
-    "tags": "",
-    "votes": 22
-  },
-  {
-    "stationuuid": "c7ce8af3-777f-4a50-ae1e-e5904ad73ae9",
-    "name": "Radio AM 750 Objetivos, pero no imparciales",
-    "url": "https://27433.live.streamtheworld.com/AM750AAC.aac?dist=triton-widget&pname=tdwidgets",
-    "url_resolved": "https://27433.live.streamtheworld.com/AM750AAC.aac?dist=triton-widget&pname=tdwidgets",
-    "favicon": "",
-    "country": "Argentina",
-    "tags": "actualidad,am,cultural,norteamérica,política,radio argentina",
-    "votes": 18
-  },
-  {
-    "stationuuid": "d76b99ea-c4bf-47e5-8a42-e336ee48c031",
-    "name": "El Destape Radio",
-    "url": "https://ipanel.instream.audio/8004/stream",
-    "url_resolved": "https://ipanel.instream.audio/8004/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/850/el-destape-radio.97e098ae.png",
-    "country": "Argentina",
-    "tags": "actualidad,debate,economia,noticias,politica",
-    "votes": 17
+    "tags": "Noticias,Radio hablada,Músicas del mundo",
+    "votes": 1495
   },
   {
     "stationuuid": "ca61e243-0120-4da2-94fb-7386667f3c1e",
@@ -117,37 +67,117 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/R10710.png",
     "country": "Argentina",
     "tags": "news,noticias",
-    "votes": 17
+    "votes": 1494
+  },
+  {
+    "stationuuid": "c7ce8af3-777f-4a50-ae1e-e5904ad73ae9",
+    "name": "LA 750",
+    "url": "https://27423.live.streamtheworld.com/AM750AAC_SC",
+    "url_resolved": "https://27423.live.streamtheworld.com/AM750AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/828/radio-am-750.225049f5.png",
+    "country": "Argentina",
+    "tags": "actualidad,am,cultural,norteamérica,política,radio argentina",
+    "votes": 1493
+  },
+  {
+    "stationuuid": "4520c04e-0514-43f9-9fe6-89d2f6d746f5",
+    "name": "Blue 100.7 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/283/blue-fm.16451e69.jpg",
+    "country": "Argentina",
+    "tags": "80s,90s,classic hits,entretenimiento",
+    "votes": 1492
+  },
+  {
+    "stationuuid": "7b03996e-6ea0-4db5-8168-ddd1463faec2",
+    "name": "La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina",
+    "url": https://01.solumedia.com.ar:8712/stream",
+    "url_resolved": "https://01.solumedia.com.ar:8712/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/692/la-100-nogoya.9e632559.jpg",
+    "country": "Argentina",
+    "tags": "Años 80,Años 90",
+    "votes": 1491
+  },
+  {
+    "stationuuid": "f006d4dc-9771-4109-bf35-eb09291320da",
+    "name": "Urbana Play 104.3 FM",
+    "url": "https://live-ar1.cdnrad.com/hls/radio-285/live.m3u8",
+    "url_resolved": "https://live-ar1.cdnrad.com/hls/radio-285/live.m3u8",
+    "favicon": "https://imgsvr.radiocut.site/get/thumb/600/600/shows_logos/df/7b/df7be5eb-f1a8-42ea-ad51-0cb82c23fbdc.png",
+    "country": "Argentina",
+    "tags": "Radio hablada",
+    "votes": 1490
+  },
+  {
+    "stationuuid": "cfeebcdf-7b9f-4561-86b4-abf24a185bcf",
+    "name": "AM 530 Somos radio",
+    "url": "https://ipanel.instream.audio:7000/stream",
+    "url_resolved": "https://ipanel.instream.audio:7000/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/728/somos-radio.e0469b41.jpg",
+    "country": "Argentina",
+    "tags": "Rock clásico,Cultura & Educación",
+    "votes": 1489
+  },
+  {
+    "stationuuid": "c0cf2d87-993c-4cb6-97ad-f508a3fc5495",
+    "name": "Vale 97.5",
+    "url": "https://vale.stweb.tv/vale/live/playlist.m3u8",
+    "url_resolved": "https://vale.stweb.tv/vale/live/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/840/radio-vale-975-fm.b167bdb2.png",
+    "country": "Argentina",
+    "tags": "Romántica,Latino",
+    "votes": 1488
+  },
+  {
+    "stationuuid": "a6a965ab-d9ab-4e56-8aef-99b52829743f",
+    "name": "Radio Disney Latinoamérica",
+    "url": "https://26563.live.streamtheworld.com:443/DISNEY_ARG_BA.mp3",
+    "url_resolved": "https://26563.live.streamtheworld.com:443/DISNEY_ARG_BA.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/941/radio-disney-latinoamerica.732b64f4.png",
+    "country": "Argentina",
+    "tags": "Pop / Top 40,Latino",
+    "votes": 1487
+  },
+  {
+    "stationuuid": "df4fc0be-f064-41fc-9b3e-d729f0a8fa1c",
+    "name": "Cadena 3 Cordoba",
+    "url": "https://26653.live.streamtheworld.com/RADIO3_SC",
+    "url_resolved": "https://26653.live.streamtheworld.com/RADIO3_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/932/cadena-3.7b3804b9.png",
+    "country": "Argentina",
+    "tags": "folk popular am noticias musica,variado,noticias,radio hablada",
+    "votes": 1486
+  },
+  {
+    "stationuuid": "d76b99ea-c4bf-47e5-8a42-e336ee48c031",
+    "name": "El Destape Radio",
+    "url": "https://ipanel.instream.audio/8004/stream",
+    "url_resolved": "https://ipanel.instream.audio/8004/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/850/el-destape-radio.97e098ae.png",
+    "country": "Argentina",
+    "tags": "actualidad,debate,economia,noticias,politica",
+    "votes": 1485
   },
   {
     "stationuuid": "47d1e0f9-ce15-4557-a73c-a703b3762d06",
     "name": "La Popu",
     "url": "https://liveradio.mediainbox.net/popular.mp3",
     "url_resolved": "https://liveradio.mediainbox.net/popular.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/388/la-popu.c98b4d6b.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/388/la-popu.c98b4d6b.jpg",
     "country": "Argentina",
     "tags": "cuarteto,local news,music",
-    "votes": 14
+    "votes": 1484
   },
   {
     "stationuuid": "caf266c5-948a-4bfd-bc1d-8352703a6019",
-    "name": "La Radio 104.7 FM. Resistencia Chaco. Julio Wajcman",
-    "url": "https://server.laradio.online/proxy/laradio1047",
-    "url_resolved": "https://server.laradio.online/proxy/laradio1047",
-    "favicon": "",
+    "name": "POP Radio 101.5",
+    "url": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
+    "url_resolved": "https://popradio.stweb.tv/popradio/live/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png",
     "country": "Argentina",
-    "tags": "julio wajcman,la radio 104.7,resistencia chaco",
-    "votes": 13
-  },
-  {
-    "stationuuid": "ae7694a3-d499-11e9-a861-52543be04c81",
-    "name": "Radio Con Vos 89.9",
-    "url": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-    "url_resolved": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/473/radio-con-vos-899-fm.eac1ac49.jpg",
-    "country": "Argentina",
-    "tags": "news,pop,rock",
-    "votes": 3066
+    "tags": "Pop / Top 40",
+    "votes": 1482
   },
   {
     "stationuuid": "961a458f-0601-11e8-ae97-52543be04c81",
@@ -157,37 +187,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/252/radio-nacional-folklorica-987-fm.c5a3065f.png",
     "country": "Argentina",
     "tags": "buenos aires,folk,public radio",
-    "votes": 2591
-  },
-  {
-    "stationuuid": "f80be5c6-55c1-4bdc-9e00-44cf32696b51",
-    "name": "LOS 40 SANTA FE 97.7",
-    "url": "https://radios.solumedia.com:6158/stream?icy=http",
-    "url_resolved": "https://radios.solumedia.com:6158/stream?icy=http",
-    "favicon": "https://www.conexion40santafe.com.ar/wp-content/uploads/2024/04/LOGO-LOS-40-CUADRADO-BLANCO-.jpg",
-    "country": "Argentina",
-    "tags": "entretenimiento,hits,latino,music,música en español e inglés,pop",
-    "votes": 51
-  },
-  {
-    "stationuuid": "df4fc0be-f064-41fc-9b3e-d729f0a8fa1c",
-    "name": "Cadena 3 Cordoba",
-    "url": "https://liveradio.mediainbox.net/cadena3/radio3.mp3?sid=69f848a9-6d50-4fdb-968d-75cdd4781dab",
-    "url_resolved": "https://liveradio.mediainbox.net/cadena3/radio3.mp3?sid=69f848a9-6d50-4fdb-968d-75cdd4781dab",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cathedral_Main_Square.jpg/500px-Cathedral_Main_Square.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Argentina",
-    "tags": "folk popular am noticias musica",
-    "votes": 1770
-  },
-  {
-    "stationuuid": "a6a965ab-d9ab-4e56-8aef-99b52829743f",
-    "name": "Radio Disney Argentina 94.3. Ciudad de Buenos Aires",
-    "url": "https://26563.live.streamtheworld.com:443/DISNEY_ARG_BA.mp3",
-    "url_resolved": "https://26563.live.streamtheworld.com:443/DISNEY_ARG_BA.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_Radio_Disney_Latinoam%C3%A9rica_2023.png/500px-Logo_Radio_Disney_Latinoam%C3%A9rica_2023.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Argentina",
-    "tags": "radio",
-    "votes": 1497
+    "votes": 0
   },
   {
     "stationuuid": "4ff249e9-131b-4fae-88f0-d93c744240ee",
