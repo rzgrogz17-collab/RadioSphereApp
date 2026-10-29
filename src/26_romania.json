@@ -501,12 +501,12 @@
   },
   {
     "stationuuid": "8487f8a7-9322-11e8-a767-52543be04c81",
-    "name": "Radio Gold FM",
-    "url": "http://80.86.106.110:8002/;",
-    "url_resolved": "http://80.86.106.110:8002/;",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/GOLD-FM_tb730.jpg/500px-GOLD-FM_tb730.jpg?utm_source=ro.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "name": "Radio Pro-B",
+    "url": "http://live.radioprob.ro:8888/;",
+    "url_resolved": "http://live.radioprob.ro:8888/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/yFDf3XAUYP.png",
     "country": "Romania",
-    "tags": "Contemporană pentru adulți,Hituri clasice",
+    "tags": "Dance / EDM,House",
     "votes": 1400
   },
   {
@@ -524,80 +524,120 @@
     "name": "Lautaru Populara",
     "url": "http://live.radiolautaru.ro:9000/;stream.nsv",
     "url_resolved": "http://live.radiolautaru.ro:9000/;stream.nsv",
-    "favicon": "https://radiotaraf.ro/wp-content/uploads/2020/04/cropped-1-2-radio-png-file-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/KKPw8hsCH2.png",
     "country": "Romania",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Reggaeton",
+    "votes": 1398
   },
   {
     "stationuuid": "0ae51e4d-6c87-467f-b630-85548b428310",
     "name": "Magic Party Mix",
     "url": "https://live.magicfm.ro/magic.party.mix",
     "url_resolved": "https://live.magicfm.ro/magic.party.mix",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/533/magic-party-mix.6417b40e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/533/magic-party-mix.6417b40e.jpg",
     "country": "Romania",
     "tags": "80s,90s,dance,dj,gold,mix",
-    "votes": 0
+    "votes": 1397
   },
   {
     "stationuuid": "b1d47504-a08b-464b-b054-f404b1cb7d60",
     "name": "Magic Gold Hits",
     "url": "https://live.magicfm.ro/magic.gold.hits",
     "url_resolved": "https://live.magicfm.ro/magic.gold.hits",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/532/magic-gold-hits.3ecf1197.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/532/magic-gold-hits.3ecf1197.jpg",
     "country": "Romania",
     "tags": "classic hits,gold,goldies,greatest hits,oldies,soft music",
-    "votes": 0
+    "votes": 1396
   },
   {
     "stationuuid": "5b59f175-b633-4861-a17d-de155de0e8bf",
     "name": "Vibe FM Romania",
     "url": "https://live.radiovibefm.eu:8052/stream",
     "url_resolved": "https://live.radiovibefm.eu:8052/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/775/radio-vibe-fm-romania.0a4c4f45.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/775/radio-vibe-fm-romania.0a4c4f45.jpg",
     "country": "Romania",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM,House,Electronică",
+    "votes": 1395
   },
   {
     "stationuuid": "dbd3911f-f831-42f2-a17a-ef0602f53e08",
     "name": "Radio Folclor",
     "url": "https://ssl.omegahost.ro/8092/stream",
     "url_resolved": "https://ssl.omegahost.ro/8092/stream",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s152191g.png",
+    "favicon": "https://www.radiofolclor.ro/logo.png",
     "country": "Romania",
     "tags": "folclor,folk,muzică de petrecere,muzică populară,muzică românească,petrecere",
-    "votes": 0
+    "votes": 1394
   },
   {
     "stationuuid": "ba4d14a5-2b69-4991-ac52-ba9d393a6849",
     "name": "Radio Greu De Difuzat",
     "url": "https://greudedifuzat.ro/stream/",
     "url_resolved": "https://greudedifuzat.ro/stream/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/z4MvLWJHKE.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/z4MvLWJHKE.jpg",
     "country": "Romania",
     "tags": "hip hop,hip-hop,rap,romanian,romanian hip-hop,romanian rap",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f486e917-cee1-4171-904d-3ec044d723d6",
-    "name": "Magic Sunset",
-    "url": "https://live.magicfm.ro/magic.lite",
-    "url_resolved": "https://live.magicfm.ro/magic.lite",
-    "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1623402487/brand_manager/stations/wrguw4x7rpom6vkdyd5a.jpg",
-    "country": "Romania",
-    "tags": "ambient,chill,cover,oldies,relax,sunset",
-    "votes": 0
+    "votes": 1393
   },
   {
     "stationuuid": "5d682126-0312-4215-b137-d1d333854362",
     "name": "Clasic Radio_Opera -București",
     "url": "https://live.radioclasic.com/listen/radio_clasic_opera/live.mp3",
     "url_resolved": "https://live.radioclasic.com/listen/radio_clasic_opera/live.mp3",
-    "favicon": "https://www.clasicradio.ro/logo/opera.jpg",
+    "favicon": "https://www.phonostar.de/images/auto_created/radio_clasic_fm_opera184x184.png",
     "country": "Romania",
     "tags": "classical music,opera",
-    "votes": 0
+    "votes": 1392
+  },
+  {
+    "stationuuid": "701fcd20-6e49-4cc4-8623-a3d7be03b5d8",
+    "name": "Radio Romantic",
+    "url": "https://azuraromantic.space/listen/radio_romantic/radio.mp3",
+    "url_resolved": "https://azuraromantic.space/listen/radio_romantic/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/sk99Q347V7.jpg",
+    "country": "Romania",
+    "tags": "80's,dance,oldies,retro,retro music",
+    "votes": 1391
+  },
+  {
+    "stationuuid": "fdfcd532-ec4f-4193-aa24-78a1f0ae3de9",
+    "name": "Supravibe Radio",
+    "url": "https://supraviberadio-radiohosting.radioca.st/stream",
+    "url_resolved": "https://supraviberadio-radiohosting.radioca.st/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/985/supravibe-radio.de3fdad8.png",
+    "country": "Romania",
+    "tags": "dance,deep house,electronic,house",
+    "votes": 1390
+  },
+  {
+    "stationuuid": "6f96c929-0443-4402-b576-c5674b9e3b4a",
+    "name": "Chill FM",
+    "url": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3",
+    "url_resolved": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ymusqjgtedr4.png",
+    "country": "Romania",
+    "tags": "radio",
+    "votes": 1389
+  },
+  {
+    "stationuuid": "8571d3ac-77c7-4620-8300-cc47f6f56d3a",
+    "name": "Plusz FM - Margitta",
+    "url": "https://stream2.radiotransilvania.ro/Margitta",
+    "url_resolved": "https://stream2.radiotransilvania.ro/Margitta",
+    "favicon": "https://www.radioexpert.net/radio-logo/romania/plusz-fm-607-oradea-romania-320.jpg",
+    "country": "Romania",
+    "tags": "local news,top hits",
+    "votes": 1388
+  },
+  {
+    "stationuuid": "b5857153-18f6-4df8-8c8b-df0dd1a680b5",
+    "name": "Clasic Radio_Chopin -București",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_chopin/live.mp3",
+    "url_resolved": "https://live.radioclasic.com/listen/radio_clasic_chopin/live.mp3",
+    "favicon": "https://radio-ae.com/wp-content/uploads/2024/09/Classical-Radio-Chopin.jpg",
+    "country": "Romania",
+    "tags": "classical music",
+    "votes": 1387
   },
   {
     "stationuuid": "c027625d-2691-4f28-a277-d34e485aa8fe",
@@ -617,36 +657,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/gq6VLUDMuG.png",
     "country": "Romania",
     "tags": "alternative,indie,rock",
-    "votes": 0
-  },
-  {
-    "stationuuid": "fdfcd532-ec4f-4193-aa24-78a1f0ae3de9",
-    "name": "Supravibe Radio",
-    "url": "https://supraviberadio-radiohosting.radioca.st/stream",
-    "url_resolved": "https://supraviberadio-radiohosting.radioca.st/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/985/supravibe-radio.de3fdad8.png",
-    "country": "Romania",
-    "tags": "dance,deep house,electronic,house",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6f96c929-0443-4402-b576-c5674b9e3b4a",
-    "name": "Chill FM",
-    "url": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3",
-    "url_resolved": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ymusqjgtedr4.png",
-    "country": "Romania",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "701fcd20-6e49-4cc4-8623-a3d7be03b5d8",
-    "name": "Radio Romantic",
-    "url": "https://azuraromantic.space/listen/radio_romantic/radio.mp3",
-    "url_resolved": "https://azuraromantic.space/listen/radio_romantic/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/sk99Q347V7.jpg",
-    "country": "Romania",
-    "tags": "80's,dance,oldies,retro,retro music",
     "votes": 0
   },
   {
@@ -700,16 +710,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "8571d3ac-77c7-4620-8300-cc47f6f56d3a",
-    "name": "Plusz FM - Margitta",
-    "url": "https://stream2.radiotransilvania.ro/Margitta",
-    "url_resolved": "https://stream2.radiotransilvania.ro/Margitta",
-    "favicon": "https://www.phonostar.de/images/auto_created/plusz_fm184x184.png",
-    "country": "Romania",
-    "tags": "local news,top hits",
-    "votes": 0
-  },
-  {
     "stationuuid": "408e251e-d78f-4fed-9d67-ade5888e8a71",
     "name": "Cozy FM",
     "url": "https://live.cozyfm.ro:8010/live",
@@ -744,7 +744,7 @@
     "name": "Radio Campus Transilvania",
     "url": "https://rct.unitbv.ro/shoutcast/;?sid=1",
     "url_resolved": "https://rct.unitbv.ro/shoutcast/;?sid=1",
-    "favicon": "https://rct.unitbv.ro/assets/radio-logo-98940189.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/fF4d6k826d.jpg",
     "country": "Romania",
     "tags": "radio",
     "votes": 0
@@ -764,9 +764,19 @@
     "name": "Radio Domeldo Movie",
     "url": "https://radiodomeldo.ro/movie",
     "url_resolved": "https://radiodomeldo.ro/movie",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/kespprzqapp5.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/kespprzqapp5.jpg",
     "country": "Romania",
     "tags": "radio",
+    "votes": 0
+  },
+  {
+    "stationuuid": "f486e917-cee1-4171-904d-3ec044d723d6",
+    "name": "Magic Sunset",
+    "url": "https://live.magicfm.ro/magic.lite",
+    "url_resolved": "https://live.magicfm.ro/magic.lite",
+    "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1623402487/brand_manager/stations/wrguw4x7rpom6vkdyd5a.jpg",
+    "country": "Romania",
+    "tags": "ambient,chill,cover,oldies,relax,sunset",
     "votes": 0
   },
   {
@@ -777,16 +787,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/100/radio-boom-energy.fef454ee.jpg",
     "country": "Romania",
     "tags": "dance,pop",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b5857153-18f6-4df8-8c8b-df0dd1a680b5",
-    "name": "Clasic Radio_Chopin -București",
-    "url": "https://live.radioclasic.com/listen/radio_clasic_chopin/live.mp3",
-    "url_resolved": "https://live.radioclasic.com/listen/radio_clasic_chopin/live.mp3",
-    "favicon": "https://www.clasicradio.ro/logo/chopin.jpg",
-    "country": "Romania",
-    "tags": "classical music",
     "votes": 0
   },
   {
@@ -1061,12 +1061,12 @@
   },
   {
     "stationuuid": "99d3bb67-04ef-44c3-a2a3-998122746e45",
-    "name": "Radio Noise",
-    "url": "http://live.radionoise.ro:9100/;",
-    "url_resolved": "http://live.radionoise.ro:9100/;",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nfju74ywzucb.jpg",
+    "name": "Radio Club Mix",
+    "url": "http://live.radioclubmix.ro:9999/;",
+    "url_resolved": "http://live.radioclubmix.ro:9999/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/bxgzbyrak2us.jpeg",
     "country": "Romania",
-    "tags": "dance,dj",
-    "votes": 1401
+    "tags": "Dance / EDM,House,Trance",
+    "votes": 0
   }
 ]
