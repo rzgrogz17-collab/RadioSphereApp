@@ -644,10 +644,10 @@
     "name": "Radio Boom House Music",
     "url": "https://stream.radioboom.ro/listen/boom_house_music/radio.mp3",
     "url_resolved": "https://stream.radioboom.ro/listen/boom_house_music/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/102/radio-boom-house-music.0e7222f4.jpg",
+    "favicon": "https://planetradio.ro/image/logos/external/radio-boom-house-music.jpg",
     "country": "Romania",
     "tags": "club,dance,house,tech house",
-    "votes": 0
+    "votes": 1386
   },
   {
     "stationuuid": "61894f8f-86a3-440a-b0a3-97bf2fe5f143",
@@ -657,7 +657,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/gq6VLUDMuG.png",
     "country": "Romania",
     "tags": "alternative,indie,rock",
-    "votes": 0
+    "votes": 1385
   },
   {
     "stationuuid": "6389f8e4-0cbe-47cb-a2d2-25b38c387b70",
@@ -667,77 +667,77 @@
     "favicon": "https://img.onesignal.com/permanent/dfcd248a-b4ae-4048-9cef-e9f4b1e8e2f5",
     "country": "Romania",
     "tags": "dance,dance pop,hit music,hits,pop,pop music",
-    "votes": 0
+    "votes": 1384
   },
   {
     "stationuuid": "b74bb2f0-0c5f-49dc-b9e4-7843c40f6e8b",
     "name": "Radio Marketescu House&Minimal",
     "url": "https://s31.radiolize.com/radio/8020/radio.mp3",
     "url_resolved": "https://s31.radiolize.com/radio/8020/radio.mp3",
-    "favicon": "https://static.wixstatic.com/media/f12f63_070c1efff191450da48f160a69f27447~mv2.png/v1/fill/w_520,h_528,al_c,lg_1,q_85,enc_auto/Copie%20a%20Design%20f%C4%83r%C4%83%20titlu%20(1).png",
+    "favicon": "https://planetradio.ro/image/logos/external/radio-marketescu-house-minimal.png",
     "country": "Romania",
     "tags": "electronic,house,minimal,tech house",
-    "votes": 0
+    "votes": 1383
   },
   {
     "stationuuid": "be67303b-4ac1-41e9-af0f-5b18fd3a43cc",
     "name": "Radio Boom Gold",
     "url": "https://stream.radioboom.ro/listen/boom_gold/radio.mp3",
     "url_resolved": "https://stream.radioboom.ro/listen/boom_gold/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/101/radio-boom-gold.25a17eae.jpg",
+    "favicon": "https://planetradio.ro/image/logos/external/radio-boom-gold.jpg",
     "country": "Romania",
     "tags": "gold,hits,oldies,pop,retro",
-    "votes": 0
+    "votes": 1382
   },
   {
     "stationuuid": "5c6e31af-a4f7-4550-aee4-82a3966c27ad",
     "name": "Urban FM",
     "url": "https://urbanfm.ro:8777/live",
     "url_resolved": "https://urbanfm.ro:8777/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/011/urban-fm-romania.844ca10a.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/011/urban-fm-romania.844ca10a.png",
     "country": "Romania",
     "tags": "hip hop,hip-hop,r'n'b,rap,rnb,trap",
-    "votes": 0
+    "votes": 1381
   },
   {
     "stationuuid": "55d89203-76a9-4be9-b6c9-ce192b29ef74",
     "name": "Radio Boom Rock",
     "url": "https://stream.radioboom.ro/listen/boom_rock/radio.mp3",
     "url_resolved": "https://stream.radioboom.ro/listen/boom_rock/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/103/radio-boom-rock.4dcba9dc.jpg",
+    "favicon": "https://planetradio.ro/image/logos/external/radio-boom-rock.jpg",
     "country": "Romania",
     "tags": "classic rock,rock,rock hits",
-    "votes": 0
+    "votes": 1380
   },
   {
     "stationuuid": "408e251e-d78f-4fed-9d67-ade5888e8a71",
     "name": "Cozy FM",
     "url": "https://live.cozyfm.ro:8010/live",
     "url_resolved": "https://live.cozyfm.ro:8010/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/wzjfkung5kgf.jpg",
+    "favicon": "https://planetradio.ro/image/logos/external/cozy-fm.jpg",
     "country": "Romania",
     "tags": "chill,chillout,pop,relax,unwimd",
-    "votes": 0
+    "votes": 1379
   },
   {
     "stationuuid": "326cf387-67e4-4ad4-9323-b1ae279c780f",
     "name": "Radio Marketescu Reggae&Trip-Hop",
-    "url": "https://s37.radiolize.com/radio/8100/radio.mp3",
-    "url_resolved": "https://s37.radiolize.com/radio/8100/radio.mp3",
-    "favicon": "https://static.wixstatic.com/media/f12f63_0ab0258432624b98a8441eb577e4af55~mv2.png/v1/fill/w_504,h_512,al_c,lg_1,q_85,enc_auto/reggae%26trip-hop.png",
+    "url": "https://live.enjoyradio.ro/radio/8000/enjoylive.mp3",
+    "url_resolved": "https://live.enjoyradio.ro/radio/8000/enjoylive.mp3",
+    "favicon": "https://planetradio.ro/image/logos/external/radio-marketescu-reggae-trip-hop.png",
     "country": "Romania",
     "tags": "reggae,trip hop,trip-hop",
-    "votes": 0
+    "votes": 1378
   },
   {
     "stationuuid": "223e9062-c8a2-45ee-b6b9-c10f4be1fff0",
     "name": "Radio Energy Cugir - 87,9 FM",
     "url": "https://sonicssl.namehost.ro/8790/stream",
     "url_resolved": "https://sonicssl.namehost.ro/8790/stream",
-    "favicon": "https://radioenergycugir.ro/wp-content/uploads/2019/10/poza_cu_text-768x642.jpg",
+    "favicon": "https://ouvirradioonline.com.br/logos_processadas/logo_59331_processed.webp",
     "country": "Romania",
     "tags": "00s,70s,80s,90s,classic rock,dance",
-    "votes": 0
+    "votes": 1377
   },
   {
     "stationuuid": "946a016e-6a11-479c-a3d1-6a80d6b97d96",
@@ -747,67 +747,67 @@
     "favicon": "https://static2.mytuner.mobi/media/tvos_radios/fF4d6k826d.jpg",
     "country": "Romania",
     "tags": "radio",
-    "votes": 0
+    "votes": 1376
   },
   {
     "stationuuid": "85160a6a-7bd3-4a7b-b1c8-1f6fa57841db",
     "name": "Szépvíz FM",
     "url": "https://szepvizfm.ro:8000/stream",
     "url_resolved": "https://szepvizfm.ro:8000/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/jtpamu3qcr3d.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/jtpamu3qcr3d.jpg",
     "country": "Romania",
     "tags": "local news,top hits",
-    "votes": 0
+    "votes": 1375
   },
   {
     "stationuuid": "13970f13-48ea-483e-b281-d615d34479f4",
     "name": "Radio Domeldo Movie",
     "url": "https://radiodomeldo.ro/movie",
     "url_resolved": "https://radiodomeldo.ro/movie",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/kespprzqapp5.jpg",
+    "favicon": "https://planetradio.ro/image/logos/external/radio-domeldo-live.jpg",
     "country": "Romania",
     "tags": "radio",
-    "votes": 0
+    "votes": 1374
   },
   {
     "stationuuid": "f486e917-cee1-4171-904d-3ec044d723d6",
     "name": "Magic Sunset",
     "url": "https://live.magicfm.ro/magic.lite",
     "url_resolved": "https://live.magicfm.ro/magic.lite",
-    "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1623402487/brand_manager/stations/wrguw4x7rpom6vkdyd5a.jpg",
+    "favicon": "https://planetradio.ro/image/logos/external/magic-sunset.jpg",
     "country": "Romania",
     "tags": "ambient,chill,cover,oldies,relax,sunset",
-    "votes": 0
+    "votes": 1373
   },
   {
     "stationuuid": "a729b1ff-376c-4bd7-8b67-b951ea1609b4",
     "name": "Radio Boom Energy",
     "url": "https://stream.radioboom.ro/listen/boom_energy/radio.mp3",
     "url_resolved": "https://stream.radioboom.ro/listen/boom_energy/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/100/radio-boom-energy.fef454ee.jpg",
+    "favicon": "https://planetradio.ro/image/logos/external/radio-boom-energy.jpg",
     "country": "Romania",
     "tags": "dance,pop",
-    "votes": 0
+    "votes": 1372
   },
   {
     "stationuuid": "478f6148-b866-4aef-9ddf-25f3887fa0c8",
     "name": "Hangos Rádió",
     "url": "https://stream.zeno.fm/vaec7re31s8uv",
     "url_resolved": "https://stream.zeno.fm/vaec7re31s8uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/wrjfekcwubpt.png",
+    "favicon": "https://planetradio.ro/image/logos/external/hangos-r-di.jpg",
     "country": "Romania",
-    "tags": "pop rock,talk",
-    "votes": 0
+    "tags": "Contemporană pentru adulți,Muzică veche,Anii 90",
+    "votes": 1371
   },
   {
     "stationuuid": "237f28d3-cfc3-4fa2-9311-b8590308b3c6",
     "name": "Clasic Radio_Mozart -București",
     "url": "https://live.radioclasic.com/listen/radio_clasic_mozart/live.mp3",
     "url_resolved": "https://live.radioclasic.com/listen/radio_clasic_mozart/live.mp3",
-    "favicon": "https://www.clasicradio.ro/logo/mozart.jpg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/081/calmradiocom-mozart.fc38ec9c.jpg",
     "country": "Romania",
     "tags": "classical music",
-    "votes": 0
+    "votes": 1370
   },
   {
     "stationuuid": "cb170184-1976-40da-865f-142c7268ee7f",
