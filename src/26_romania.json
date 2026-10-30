@@ -291,12 +291,12 @@
   },
   {
     "stationuuid": "3c98d6c2-f370-4171-920a-883d938cb3f3",
-    "name": "Radio Oldies Romania",
-    "url": "http://listen.radiooldies.ro:9200/;",
-    "url_resolved": "http://listen.radiooldies.ro:9200/;",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/590/radio-oldies-romania.8bd1997f.png",
+    "name": "DJ Radio Romania",
+    "url": "https://stream.djradio.ro/radio/8000/stream.mp3",
+    "url_resolved": "https://stream.djradio.ro/radio/8000/stream.mp3",
+    "favicon": "https://planetradio.ro/image/logos/external2/dj-radio-logo2.png",
     "country": "Romania",
-    "tags": "80's,80s,90's,90s,oldies",
+    "tags": "Pop / Top 40,Hip Hop,Dance / EDM",
     "votes": 1421
   },
   {
@@ -764,7 +764,7 @@
     "name": "Radio Domeldo Movie",
     "url": "https://radiodomeldo.ro/movie",
     "url_resolved": "https://radiodomeldo.ro/movie",
-    "favicon": "https://planetradio.ro/image/logos/external/radio-domeldo-live.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/urdm2uhtmrpv.jpg",
     "country": "Romania",
     "tags": "radio",
     "votes": 1374
@@ -821,12 +821,12 @@
   },
   {
     "stationuuid": "dbd7581d-4855-4431-a0f8-8418cdae935d",
-    "name": "Radio Marketescu Rap&Trap",
-    "url": "https://s45.radiolize.com/radio/8060/radio.mp3",
-    "url_resolved": "https://s45.radiolize.com/radio/8060/radio.mp3",
-    "favicon": "https://planetradio.ro/image/logos/external/radio-marketescu-rap-trap.png",
+    "name": "Radio Vocea Speranţei (RVS)",
+    "url": "https://live.rvs.ro/play",
+    "url_resolved": "https://live.rvs.ro/play",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ymjXyx5ZdG.png",
     "country": "Romania",
-    "tags": "rap,trap",
+    "tags": "Creștină,Religios & Spiritualitate",
     "votes": 1368
   },
   {
@@ -924,7 +924,7 @@
     "name": "Sweet FM",
     "url": "https://live.gofm.ro:2000/stream/SWEET/stream.mp3",
     "url_resolved": "https://live.gofm.ro:2000/stream/SWEET/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/095/sweet-fm-romania.afec39ef.pngg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/095/sweet-fm-romania.afec39ef.png",
     "country": "Romania",
     "tags": "dance,electronic,house",
     "votes": 1358
@@ -961,12 +961,12 @@
   },
   {
     "stationuuid": "d34701c3-de63-41cb-8a7b-e12a819a0958",
-    "name": "Stil România -Radio Stil Popular",
-    "url": "https://popular.radiostill.ro/8176/stream",
-    "url_resolved": "https://popular.radiostill.ro/8176/stream",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/MANELESTILRO.jpg",
+    "name": "Radio Prahova",
+    "url": "https://r2.mediastreaming.ro/listen/rph/relay",
+    "url_resolved": "https://r2.mediastreaming.ro/listen/rph/relay",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/949/radio-prahova.400bb2d3.png",
     "country": "Romania",
-    "tags": "petrecere,populară",
+    "tags": "Pop / Top 40",
     "votes": 1354
   },
   {
