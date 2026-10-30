@@ -420,6 +420,26 @@
     "votes": 1459
   },
   {
+    "stationuuid": "f7f48681-9777-47e4-9cb4-9ee86fd09229",
+    "name": "bTV Радио (BTV Radio)",
+    "url": "https://cdn.bweb.bg/radio/btv-radio.mp3",
+    "url_resolved": "https://cdn.bweb.bg/radio/btv-radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/543/btv-radio-btv-radio.93febb0f.jpg",
+    "country": "Bulgaria",
+    "tags": "Новини,news",
+    "votes": 1458
+  },
+  {
+    "stationuuid": "375229cb-2a6b-4814-a679-ff67cd72c236",
+    "name": "Radio Pianica / Радио Пияника",
+    "url": "http://mpc1.mediacp.eu:8024/;",
+    "url_resolved": "http://mpc1.mediacp.eu:8024/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/CkueKtkjBh.jpg",
+    "country": "Bulgaria",
+    "tags": "Поп / Топ 40,Фолк 1990-99",
+    "votes": 1457
+  },
+  {
     "stationuuid": "0d7f58db-2dd1-4842-a4e5-2e2aa7d3fded",
     "name": "Radio Helikon",
     "url": "http://87.121.90.229:9000/live_128",
@@ -528,16 +548,6 @@
     "country": "Bulgaria",
     "tags": "local radio,music,news",
     "votes": 1
-  },
-  {
-    "stationuuid": "f7f48681-9777-47e4-9cb4-9ee86fd09229",
-    "name": "bTV Radio",
-    "url": "https://cdn.bweb.bg/radio/btv-radio.mp3",
-    "url_resolved": "https://cdn.bweb.bg/radio/btv-radio.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/BTV-2025-new.svg/500px-BTV-2025-new.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Bulgaria",
-    "tags": "news",
-    "votes": 310
   },
   {
     "stationuuid": "08ba3abd-6c26-4273-86ee-f65d05f432a7",
@@ -718,16 +728,6 @@
     "country": "Bulgaria",
     "tags": "ambient,chillout,lounge",
     "votes": 138
-  },
-  {
-    "stationuuid": "375229cb-2a6b-4814-a679-ff67cd72c236",
-    "name": "Radio Pianica",
-    "url": "http://mpc1.mediacp.eu:8024/listen.pls",
-    "url_resolved": "http://mpc1.mediacp.eu:8024/listen.pls",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/CkueKtkjBh.jpg",
-    "country": "Bulgaria",
-    "tags": "radio",
-    "votes": 83
   },
   {
     "stationuuid": "55bca38f-f222-405a-98f9-7f809c43539d",
