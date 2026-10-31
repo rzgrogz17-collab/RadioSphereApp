@@ -4,50 +4,90 @@
     "name": "Qmusic",
     "url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac",
     "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/673/qmusic-belgium.1e21387c.png",
+    "favicon": "https://www.radiozenders.fm/media/images/stations-large/qmusic.png",
     "country": "Belgium",
     "tags": "Dutch,Amsterdam,Hits",
-    "votes": 67
+    "votes": 1500
   },
   {
-    "stationuuid": "451491bd-624e-41e8-ab4c-71816f10611e",
-    "name": "Nostalgie Vlaanderen",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
-    "favicon": "https://nl.nostalgie.be/icons/icon-144x144.png?v=f2b073e495322d52deec159c8bdcaf20",
+    "stationuuid": "7753df1c-6cb1-4f25-aa17-8de123cfb8a2",
+    "name": "Joe",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.aac",
+    "url_resolved": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/332/joefm.e4dfa2ae.png",
     "country": "Belgium",
-    "tags": "70's,80's,90's,oldies",
-    "votes": 63
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 1499
+  },
+  {
+    "stationuuid": "8983df5c-8cb1-4f75-aa17-8de033cfb7a2",
+    "name": "Joe Easy",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/aac",
+    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/157/joe-easy.4a1b8918.png",
+    "country": "Belgium",
+    "tags": "Easy listening",
+    "votes": 1498
+  },
+  {
+    "stationuuid": "cdf1baaf-ed22-41c5-8c9e-90b4133fda8f",
+    "name": "Joe 80's & 90's",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/aac",
+    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/228/joe-80s.720904d8.png",
+    "country": "Belgium",
+    "tags": "80's,90's,hits",
+    "votes": 1497
   },
   {
     "stationuuid": "960ef35c-0601-11e8-ae97-52543be04c81",
     "name": "VRT Radio 1",
     "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/radio1-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/489/vrt-radio-1.17ec9be6.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/489/vrt-radio-1.17ec9be6.png",
     "country": "Belgium",
     "tags": "news,pop,vrt",
-    "votes": 61
+    "votes": 1496
+  },
+  {
+    "stationuuid": "a2c199e5-cff2-11e8-a54a-52543be04c81",
+    "name": "TOPradio Belgium",
+    "url": "http://str.topradio.be/topradio.mp3",
+    "url_resolved": "http://str.topradio.be/topradio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/695/top-radio.54bf9514.png",
+    "country": "Belgium",
+    "tags": "Dance / EDM",
+    "votes": 1495
   },
   {
     "stationuuid": "961957e7-0601-11e8-ae97-52543be04c81",
     "name": "MNM",
     "url": "http://icecast.vrtcdn.be/mnm-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/mnm-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/482/vrt-mnm.dadaf24b.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/482/vrt-mnm.dadaf24b.png",
     "country": "Belgium",
     "tags": "pop,vrt",
-    "votes": 53
+    "votes": 1495
+  },
+  {
+    "stationuuid": "451491bd-624e-41e8-ab4c-71816f10611e",
+    "name": "Nostalgie Vlaanderen",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/073/nostalgie2.017935c5.jpg",
+    "country": "Belgium",
+    "tags": "70's,80's,90's,oldies",
+    "votes": 1494
   },
   {
     "stationuuid": "550f4b47-a545-4b1d-8c08-3b520c4db329",
     "name": "Studio Brussel",
     "url": "http://icecast.vrtcdn.be/stubru-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/stubru-high.mp3",
-    "favicon": "https://www.radio.net/175/studiobrussel.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/492/vrt-studio-brussel.c5f651ad.png",
     "country": "Belgium",
     "tags": "alternative,pop,rock,vrt",
-    "votes": 50
+    "votes": 1493
   },
   {
     "stationuuid": "961d37d6-0601-11e8-ae97-52543be04c81",
@@ -57,37 +97,67 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/113/rtbf-la-premiere.c613f5df.png",
     "country": "Belgium",
     "tags": "news,rtbf,variety",
-    "votes": 44
+    "votes": 1492
+  },
+  {
+    "stationuuid": "89709308-700e-43c7-9ee7-19e54444c0a5",
+    "name": "JOE Gold",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
+    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/676/joe-gold.3c141cbc.png",
+    "country": "Belgium",
+    "tags": "radio",
+    "votes": 1491
+  },
+  {
+    "stationuuid": "e6032074-ec27-43a5-a991-f7a4bec7f161",
+    "name": "RTBF Classic 21",
+    "url": "https://redbeemedia.streamabc.net/redbm-classic21-aac-128-5744784",
+    "url_resolved": "https://redbeemedia.streamabc.net/redbm-classic21-aac-128-5744784",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/812/rtbf-classic-21.db77fa5d.png",
+    "country": "Belgium",
+    "tags": "Klassieke rock,Klassieke hits",
+    "votes": 1490
+  },
+  {
+    "stationuuid": "c62be54b-9dc8-4696-aa6a-03257e526950",
+    "name": "VRT Radio 2 Antwerpen",
+    "url": "http://icecast.vrtcdn.be/ra2ant.aac",
+    "url_resolved": "http://icecast.vrtcdn.be/ra2ant.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/484/vrt-radio-2-antwerpen.4351329d.png",
+    "country": "Belgium",
+    "tags": "Pop / Top 40,Adult Contemporary,Lokaal",
+    "votes": 1489
+  },
+  {
+    "stationuuid": "37b5f229-a3e3-4dac-aa5b-25c6a3c4cc22",
+    "name": "Nostalgie",
+    "url": "https://stream.rcs.revma.com/5gd04cwptg0uv",
+    "url_resolved": "https://stream.rcs.revma.com/5gd04cwptg0uv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/679/nostalgie.dff4e049.png",
+    "country": "Belgium",
+    "tags": "radio",
+    "votes": 1488
   },
   {
     "stationuuid": "7bfe222c-6b98-4aec-8550-93c491bb2d1f",
     "name": "Willy",
     "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
     "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/809/willy.fc7aaaed.png",
+    "favicon": "https://assets.radioplayer.org/056/0565067/600/600/l45bvtox.png",
     "country": "Belgium",
     "tags": "rock",
-    "votes": 43
-  },
-  {
-    "stationuuid": "a2c199e5-cff2-11e8-a54a-52543be04c81",
-    "name": "TOPradio Belgium",
-    "url": "http://str.topradio.be/topradio.mp3",
-    "url_resolved": "http://str.topradio.be/topradio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/695/top-radio.54bf9514.png",
-    "country": "Belgium",
-    "tags": "",
-    "votes": 37
+    "votes": 1497
   },
   {
     "stationuuid": "961bee6b-0601-11e8-ae97-52543be04c81",
     "name": "MNM Hits",
     "url": "http://icecast.vrtcdn.be/mnm_hits-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/mnm_hits-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/483/vrt-mnm-hits.00e9c569.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/483/vrt-mnm-hits.00e9c569.jpg",
     "country": "Belgium",
     "tags": "pop,vrt",
-    "votes": 36
+    "votes": 1496
   },
   {
     "stationuuid": "40386f09-7c9b-470e-b6df-03b4a1f30f70",
@@ -97,367 +167,307 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
     "country": "Belgium",
     "tags": "alternative indie rock,metal,vrt",
-    "votes": 34
+    "votes": 1495
   },
   {
     "stationuuid": "9e31c4e7-03b6-4a80-a4e2-5977b023d32c",
     "name": "Tomorrowland One World Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/511/one-world-radio.ba0008b5.jpg",
+    "favicon": "https://blog-admin.siriusxm.com/wp-content/uploads/2025/02/siriusxm-one-world-radio-1x1-1.jpg",
     "country": "Belgium",
-    "tags": "",
-    "votes": 27
-  },
-  {
-    "stationuuid": "cdf1baaf-ed22-41c5-8c9e-90b4133fda8f",
-    "name": "Joe 80's & 90's",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/aac",
-    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/228/joe-80s.720904d8.png",
-    "country": "Belgium",
-    "tags": "80's,90's,hits",
-    "votes": 27
-  },
-  {
-    "stationuuid": "37b5f229-a3e3-4dac-aa5b-25c6a3c4cc22",
-    "name": "Nostalgie",
-    "url": "https://stream.rcs.revma.com/5gd04cwptg0uv",
-    "url_resolved": "https://stream.rcs.revma.com/5gd04cwptg0uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/679/nostalgie.dff4e049.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM",
+    "votes": 1494
   },
   {
     "stationuuid": "e9b56ced-d9bf-43dc-bb73-cf1bca38aae8",
     "name": "VRT Studio Brussel",
     "url": "http://icecast.vrtcdn.be/stubru-mid.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/stubru-mid.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/492/vrt-studio-brussel.c5f651ad.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/492/vrt-studio-brussel.c5f651ad.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Pop / Top 40,Alternatief / Indie",
+    "votes": 1493
   },
   {
     "stationuuid": "2f9ce3a5-a5cd-4577-aac0-17bf4114a9b5",
     "name": "TOPradio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_RADIO.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_RADIO.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/695/top-radio.54bf9514.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/695/top-radio.54bf9514.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM",
+    "votes": 1492
   },
   {
     "stationuuid": "cd37486f-aabf-47f2-9007-e43c75968e0b",
     "name": "Bel RTL",
     "url": "https://audiostream.rtl.be/2/autres",
     "url_resolved": "https://audiostream.rtl.be/2/autres",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/156/bel-rtl.0d1ae32e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/156/bel-rtl.0d1ae32e.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "fb9ea925-b872-47bb-99df-10b85a31bedc",
-    "name": "Radio Contact",
-    "url": "https://audiostream.rtl.be/1/autres",
-    "url_resolved": "https://audiostream.rtl.be/1/autres",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/157/radio-contact.e810f51f.jpg",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "c62be54b-9dc8-4696-aa6a-03257e526950",
-    "name": "VRT Radio 2 Antwerpen",
-    "url": "http://icecast.vrtcdn.be/ra2ant.aac",
-    "url_resolved": "http://icecast.vrtcdn.be/ra2ant.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/484/vrt-radio-2-antwerpen.4351329d.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "89709308-700e-43c7-9ee7-19e54444c0a5",
-    "name": "JOE Gold",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
-    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/676/joe-gold.3c141cbc.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "e6032074-ec27-43a5-a991-f7a4bec7f161",
-    "name": "RTBF Classic 21",
-    "url": "https://redbeemedia.streamabc.net/redbm-classic21-aac-128-5744784",
-    "url_resolved": "https://redbeemedia.streamabc.net/redbm-classic21-aac-128-5744784",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/812/rtbf-classic-21.db77fa5d.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Nieuws,Cultuur & Educatie,Talkshows",
+    "votes": 1491
   },
   {
     "stationuuid": "17f12532-26eb-4deb-8f34-d97cac13da3d",
     "name": "VRT Radio 2 West-Vlaanderen",
     "url": "http://icecast.vrtcdn.be/ra2wvl.aac",
     "url_resolved": "http://icecast.vrtcdn.be/ra2wvl.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/488/vrt-radio-2-west-vlaanderen.3ecc0667.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/488/vrt-radio-2-west-vlaanderen.3ecc0667.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "8983df5c-8cb1-4f75-aa17-8de033cfb7a2",
-    "name": "Joe Easy",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/aac",
-    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/157/joe-easy.4a1b8918.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f3a61786-60b1-46e1-ac18-6af3cb246c8a",
-    "name": "RTBF Tipik FM",
-    "url": "https://radio.rtbf.be/tipik/mp3-160/mt",
-    "url_resolved": "https://radio.rtbf.be/tipik/mp3-160/mt",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/815/rtbf-tipik-fm.a66d6915.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "73cff396-596d-41fb-959e-a39906bd1294",
-    "name": "Q-Foute Radio",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/aac",
-    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/432/q-foute-radio.384aa7e1.jpg",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a0ffe40e-36ef-4693-8e8b-8b7456202e72",
-    "name": "VRT Studio Brussel - De Tijdloze",
-    "url": "http://icecast.vrtcdn.be/stubru_tijdloze-mid.mp3",
-    "url_resolved": "http://icecast.vrtcdn.be/stubru_tijdloze-mid.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/306/vrt-studio-brussel-de-tijdloze.27137319.jpg",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "debca036-342e-4ad2-bfac-d1b66bab2172",
-    "name": "Radio Minerva 98.0",
-    "url": "https://streaming.radiominerva.be/minerva",
-    "url_resolved": "https://streaming.radiominerva.be/minerva",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/235/radio-minerva-980.1a7f03c2.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "45064432-3e95-4d78-accb-9a4e52244aec",
-    "name": "TOPretroarena",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/430/retro-arena.e971771b.jpg",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "95b22b4a-30db-46fd-80f9-4d383f49cd93",
-    "name": "NRJ Belgique",
-    "url": "https://stream.rcs.revma.com/xh00fwuptg0uv",
-    "url_resolved": "https://stream.rcs.revma.com/xh00fwuptg0uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/583/nrj-belgique.27da3e17.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6f3e5dc5-294a-44df-9000-e9edff5c2314",
-    "name": "Nostalgie Plus",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/280/nostalgia-plus.1c79ba0b.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1d2c8e87-ab12-40d0-824f-700366db639b",
-    "name": "RTBF VivaCité Bruxelles",
-    "url": "https://radio.rtbf.be/viva-bxl/mp3-160/mt",
-    "url_resolved": "https://radio.rtbf.be/viva-bxl/mp3-160/mt",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/114/rtbf-vivacite.1b287226.png",
-    "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary,Lokaal",
+    "votes": 1490
   },
   {
     "stationuuid": "46d128e0-deec-482e-9015-97a496e219d4",
     "name": "VRT Radio 2 Oost-Vlaanderen",
     "url": "http://icecast.vrtcdn.be/ra2ovl-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/ra2ovl-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/654/vrt-radio-2-oost-vlaanderen.9c1d3254.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/654/vrt-radio-2-oost-vlaanderen.9c1d3254.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary,Lokaal",
+    "votes": 1489
+  },
+  {
+    "stationuuid": "f3a61786-60b1-46e1-ac18-6af3cb246c8a",
+    "name": "RTBF Tipik FM",
+    "url": "https://radio.rtbf.be/tipik/mp3-160/mt",
+    "url_resolved": "https://radio.rtbf.be/tipik/mp3-160/mt",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/815/rtbf-tipik-fm.a66d6915.png",
+    "country": "Belgium",
+    "tags": "Pop / Top 40,Alternatief / Indie",
+    "votes": 1488
+  },
+  {
+    "stationuuid": "1d2c8e87-ab12-40d0-824f-700366db639b",
+    "name": "RTBF VivaCité Bruxelles",
+    "url": "https://radio.rtbf.be/viva-bxl/mp3-160/mt",
+    "url_resolved": "https://radio.rtbf.be/viva-bxl/mp3-160/mt",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/114/rtbf-vivacite.1b287226.png",
+    "country": "Belgium",
+    "tags": "Adult Contemporary,Nieuws,Lokaal",
+    "votes": 1487
+  },
+  {
+    "stationuuid": "debca036-342e-4ad2-bfac-d1b66bab2172",
+    "name": "Radio Minerva 98.0",
+    "url": "https://streaming.radiominerva.be/minerva",
+    "url_resolved": "https://streaming.radiominerva.be/minerva",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/235/radio-minerva-980.1a7f03c2.png",
+    "country": "Belgium",
+    "tags": "Oldies",
+    "votes": 1486
+  },
+  {
+    "stationuuid": "73cff396-596d-41fb-959e-a39906bd1294",
+    "name": "Q-Foute Radio",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/aac",
+    "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/432/q-foute-radio.384aa7e1.jpg",
+    "country": "Belgium",
+    "tags": "Vlaams Gewest",
+    "votes": 1485
   },
   {
     "stationuuid": "df1a4960-91f7-4c22-a3ae-fbe1242a8d05",
     "name": "Fun Radio BELGIQUE",
     "url": "https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac",
     "url_resolved": "https://funradiobe.ice.infomaniak.ch/funradiobe-low.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/406/fun-radio-belgique.771cd312.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/406/fun-radio-belgique.771cd312.png",
     "country": "Belgium",
     "tags": "radio",
-    "votes": 0
+    "votes": 1484
+  },
+  {
+    "stationuuid": "95b22b4a-30db-46fd-80f9-4d383f49cd93",
+    "name": "NRJ Belgique",
+    "url": "https://stream.rcs.revma.com/xh00fwuptg0uv",
+    "url_resolved": "https://stream.rcs.revma.com/xh00fwuptg0uv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/583/nrj-belgique.27da3e17.png",
+    "country": "Belgium",
+    "tags": "radio",
+    "votes": 1483
+  },
+  {
+    "stationuuid": "6f3e5dc5-294a-44df-9000-e9edff5c2314",
+    "name": "Nostalgie Plus",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/nostalgia-plus.1c79ba0b.png",
+    "country": "Belgium",
+    "tags": "80's,Oldies",
+    "votes": 1482
+  },
+  {
+    "stationuuid": "fb9ea925-b872-47bb-99df-10b85a31bedc",
+    "name": "Radio Contact",
+    "url": "https://audiostream.rtl.be/1/autres",
+    "url_resolved": "https://audiostream.rtl.be/1/autres",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/157/radio-contact.e810f51f.jpg",
+    "country": "Belgium",
+    "tags": "Pop / Top 40",
+    "votes": 1481
+  },
+  {
+    "stationuuid": "a0ffe40e-36ef-4693-8e8b-8b7456202e72",
+    "name": "VRT Studio Brussel - De Tijdloze",
+    "url": "http://icecast.vrtcdn.be/stubru_tijdloze-mid.mp3",
+    "url_resolved": "http://icecast.vrtcdn.be/stubru_tijdloze-mid.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/306/vrt-studio-brussel-de-tijdloze.27137319.jpg",
+    "country": "Belgium",
+    "tags": "radio",
+    "votes": 1480
+  },
+  {
+    "stationuuid": "45064432-3e95-4d78-accb-9a4e52244aec",
+    "name": "TOPretroarena",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/430/retro-arena.e971771b.jpg",
+    "country": "Belgium",
+    "tags": "Dance / EDM,R&B / Soul",
+    "votes": 1479
   },
   {
     "stationuuid": "045e83c5-f93a-4e70-9301-06dbeb311b72",
     "name": "Willy Class X",
     "url": "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
     "url_resolved": "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/273/willy-class-x.6e08c506.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/273/willy-class-x.6e08c506.png",
     "country": "Belgium",
     "tags": "radio",
-    "votes": 0
+    "votes": 1478
   },
   {
     "stationuuid": "b203c2a8-ea54-4955-b312-67c68b1f5286",
     "name": "VRT Radio 2 Bene Bene",
     "url": "http://icecast.vrtcdn.be/radiobene.aac",
     "url_resolved": "http://icecast.vrtcdn.be/radiobene.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/532/vrt-radio-2-bene-bene.cc086e44.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/532/vrt-radio-2-bene-bene.cc086e44.jpg",
     "country": "Belgium",
     "tags": "radio",
-    "votes": 0
+    "votes": 1477
   },
   {
     "stationuuid": "79637c06-a08d-459f-be6f-82ee41f85f36",
     "name": "Nostalgie 80",
     "url": "https://stream.rcs.revma.com/e4xgg233ehuvv",
     "url_resolved": "https://stream.rcs.revma.com/e4xgg233ehuvv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/674/nostalgie-80.f296e145.png",
+    "favicon": "https://assets.radioplayer.org/056/05632/1400/1400/kymqq56o.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80's",
+    "votes": 1476
   },
   {
     "stationuuid": "23596f71-ed99-475a-86b4-de997776bca2",
     "name": "RTBF VivaCité Liège",
     "url": "https://radio.rtbf.be/viva-lg/mp3-160/mt",
     "url_resolved": "https://radio.rtbf.be/viva-lg/mp3-160/mt",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/930/rtbf-vivacite-liege.0e9279d5.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/930/rtbf-vivacite-liege.0e9279d5.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary,Nieuws,Lokaal",
+    "votes": 1475
   },
   {
     "stationuuid": "ffedf0cf-a586-4f49-a6e8-cc8fce8dbee8",
     "name": "VRT Radio 2 Limburg",
     "url": "http://icecast.vrtcdn.be/ra2lim.aac",
     "url_resolved": "http://icecast.vrtcdn.be/ra2lim.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/485/vrt-radio-2-limburg.ddd2307f.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/485/vrt-radio-2-limburg.ddd2307f.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary,Lokaal",
+    "votes": 1474
   },
   {
     "stationuuid": "c92c6956-1b97-4941-9fbc-61060dcd3057",
     "name": "TOPbam",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/872/topbam.201fef76.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/872/topbam.201fef76.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Dance / EDM",
+    "votes": 1473
   },
   {
     "stationuuid": "cdfd17d8-6473-4eb4-88e1-f2744d950ab5",
     "name": "VRT Klara Continuo",
     "url": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/480/vrt-klara-continuo.345c894c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/480/vrt-klara-continuo.345c894c.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Klassiek",
+    "votes": 1472
   },
   {
     "stationuuid": "12efd40f-e22f-4854-8473-5c772637d39a",
     "name": "One World Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/511/one-world-radio.ba0008b5.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/511/one-world-radio.ba0008b5.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "dance",
+    "votes": 1471
   },
   {
     "stationuuid": "7a4485c8-a546-4e65-8818-f4b09b3ee5ab",
     "name": "Joe Top 2000",
     "url": "https://streams.radio.dpgmedia.cloud/redirect/top2000/aac",
     "url_resolved": "https://streams.radio.dpgmedia.cloud/redirect/top2000/aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/231/joe-top-2000.91e2e7bc.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/231/joe-top-2000.91e2e7bc.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,00s",
+    "votes": 1470
   },
   {
     "stationuuid": "3ef80cb3-de33-41ad-b739-42350806ebaa",
     "name": "VRT Klara",
     "url": "http://icecast.vrtcdn.be/klara-high.mp3",
     "url_resolved": "http://icecast.vrtcdn.be/klara-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/481/vrt-klara.aabda754.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/481/vrt-klara.aabda754.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Klassiek",
+    "votes": 1469
   },
   {
     "stationuuid": "dbb63e30-d119-4533-9095-4ee5977d559f",
     "name": "C-Dance",
     "url": "http://198.100.145.187:18304/;",
     "url_resolved": "http://198.100.145.187:18304/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/234/c-dance.a8e3c267.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/234/c-dance.a8e3c267.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM",
+    "votes": 1468
   },
   {
     "stationuuid": "88aa5ba8-900d-49df-b029-220cbf8a24a7",
     "name": "De Goeie Ouwe Tijd",
     "url": "https://s5.myradiostream.com/44962/listen.mp3",
     "url_resolved": "https://s5.myradiostream.com/44962/listen.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/015/de-goeie-ouwe-tijd.17135a0c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/015/de-goeie-ouwe-tijd.17135a0c.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies",
+    "votes": 1467
   },
   {
     "stationuuid": "c9c0c48d-a12a-439a-92b8-0aa11e5731a3",
     "name": "TOPschaamteloos",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSCHAAMTELOZE.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSCHAAMTELOZE.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/955/topschaamteloos.8037234c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/955/topschaamteloos.8037234c.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM,90's",
+    "votes": 1466
   },
   {
     "stationuuid": "7674efbb-ed92-408c-bb47-ebe2797c83fc",
     "name": "Nostalgie 70",
     "url": "https://stream.rcs.revma.com/w79ekz33ehuvv",
     "url_resolved": "https://stream.rcs.revma.com/w79ekz33ehuvv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/673/nostalgie-70.2fbaaae4.png",
+    "favicon": "https://assets.radioplayer.org/056/05631/1400/1400/kz4es0ux.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies",
+    "votes": 1465
   },
   {
     "stationuuid": "067b6445-f280-4c90-8675-282d2578fefd",
@@ -994,9 +1004,9 @@
     "name": "Best Oldies Radio 2 THC",
     "url": "https://custom-azura1.asurahosting.com/listen/best_oldies_radio_2/radio.mp3",
     "url_resolved": "https://custom-azura1.asurahosting.com/listen/best_oldies_radio_2/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/029/best-oldies-radio-2-thc.a848304a.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/029/best-oldies-radio-2-thc.a848304a.jpg",
     "country": "Belgium",
-    "tags": "radio",
+    "tags": "Oldies",
     "votes": 0
   }
 ]
