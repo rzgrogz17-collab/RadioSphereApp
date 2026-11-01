@@ -654,150 +654,150 @@
     "name": "48FM",
     "url": "https://stream.48fm.com:8000/48fm-64",
     "url_resolved": "https://stream.48fm.com:8000/48fm-64",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/037/48fm.b03299b3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/037/48fm.b03299b3.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Alternatief / Indie",
+    "votes": 1446
   },
   {
     "stationuuid": "39797576-fd43-4932-b94f-171f9ea54296",
     "name": "Radio 5FM",
     "url": "https://stream.5fm.nu/5fm.mp3",
     "url_resolved": "https://stream.5fm.nu/5fm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/381/5fm-1054.4c03f224.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/381/5fm-1054.4c03f224.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Klassieke hits",
+    "votes": 1445
   },
   {
     "stationuuid": "b723da6f-acf4-4bc9-ac17-156d11201a34",
     "name": "FG Xtra",
     "url": "https://stream.rcs.revma.com/w33p2cfap98uv",
     "url_resolved": "https://stream.rcs.revma.com/w33p2cfap98uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/221/fg-xtra.3af591ce.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/221/fg-xtra.3af591ce.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM,House",
+    "votes": 1444
   },
   {
     "stationuuid": "f11cd3f0-f854-40f2-93fe-24f9a1033b27",
     "name": "AFN 360 Benelux",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/241/afn-360-benelux.da948a1c.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/241/afn-360-benelux.da948a1c.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Lokaal",
+    "votes": 1443
   },
   {
     "stationuuid": "0a8d9fd1-72fc-4fc0-845c-a1f7f655c435",
     "name": "Afrikana Radio – Afrohouse Club Session",
     "url": "https://radio.afrikanabestsounds.com/listen/live_night/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_night/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/457/afrikana-radio-afrohouse-club-session.7de27923.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Internationaal,House,Elektronisch",
+    "votes": 1442
   },
   {
     "stationuuid": "f4b8a591-439d-4bbc-91b3-4cb2608374dd",
     "name": "Afrikana Radio – Chill, Relax & Soul",
     "url": "https://radio.afrikanabestsounds.com/listen/live_meditation/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_meditation/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/462/afrikana-radio-relax-soul.7de27923.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Internationaal,Wereldmuziek,Chillen",
+    "votes": 1441
   },
   {
     "stationuuid": "dabc5335-b84d-4cec-b93d-5d58adf9ffd9",
     "name": "Afrikana Radio – Culture Raï",
     "url": "https://radio.afrikanabestsounds.com/listen/live_rai/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_rai/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/458/afrikana-radio-culture-rai.7de27923.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Internationaal,Wereldmuziek,Arabische muziek",
+    "votes": 1440
   },
   {
     "stationuuid": "42492bbc-ce58-4092-b407-44557bc1ef95",
     "name": "Afrikana Radio – Dance, Party & Club",
     "url": "https://radio.afrikanabestsounds.com/listen/live_party/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_party/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/461/afrikana-radio-party-club.7de27923.png",
+    "favicon": https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM,Wereldmuziek,Elektronisch",
+    "votes": 1439
   },
   {
     "stationuuid": "b9ec3225-8dd7-4730-8a8d-e18f26b1e6d4",
     "name": "Afrikana Radio – Focus & Work",
     "url": "https://radio.afrikanabestsounds.com/listen/live_focus/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_focus/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/459/afrikana-radio-focus-work.7de27923.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Easy listening,Wereldmuziek,Chillen",
+    "votes": 1438
   },
   {
     "stationuuid": "0b742d52-350c-46ef-89b0-a88e4c771216",
     "name": "Afrikana Radio – Live African",
     "url": "https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/311/afrikana-radio-live-african.7de27923.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Internationaal,Wereldmuziek",
+    "votes": 1437
   },
   {
     "stationuuid": "15486a13-0db6-49cd-8cc1-0d1172a5f30e",
     "name": "Afrikana Radio – Love & Romance",
     "url": "https://radio.afrikanabestsounds.com/listen/live_love/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_love/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/460/afrikana-radio-love-chill.7de27923.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Easy listening,Wereldmuziek,Romantisch",
+    "votes": 1436
   },
   {
     "stationuuid": "c6f352fe-2723-44f4-b67a-ea0b64c46b30",
     "name": "Afrikana Radio – Sport & Motivation",
     "url": "https://radio.afrikanabestsounds.com/listen/live_sport/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_sport/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/463/afrikana-radio-sport-motivation.7de27923.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Sport,Internationaal,Wereldmuziek",
+    "votes": 1435
   },
   {
     "stationuuid": "3284073c-6f42-4e41-af87-b77fcaa936d8",
     "name": "Afrikana Radio – Street & Energy",
     "url": "https://radio.afrikanabestsounds.com/listen/live_street/radio.mp3",
     "url_resolved": "https://radio.afrikanabestsounds.com/listen/live_street/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/464/afrikana-radio-street-energy.7de27923.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/457/afrikana-radio-afrohouse-club-session.7de27923.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Hiphop,Wereldmuziek",
+    "votes": 1434
   },
   {
     "stationuuid": "42c4be44-ab76-47e8-97fa-886fe31b0ffd",
     "name": "Ajoin Music",
     "url": "https://play.ajoinmusic.be/ajoinmusic.mp3",
     "url_resolved": "https://play.ajoinmusic.be/ajoinmusic.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/164/ajoin-music.72ba5180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/164/ajoin-music.72ba5180.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary,Lokaal",
+    "votes": 1433
   },
   {
     "stationuuid": "cb0f5c54-2fec-47d3-8757-7baf7df66251",
     "name": "Aktief! Gold",
     "url": "http://www.clubfmserver.be:8000/aktief.mp3",
     "url_resolved": "http://www.clubfmserver.be:8000/aktief.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/901/aktief-gold.32db2180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/901/aktief-gold.32db2180.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,80's,Oldies",
+    "votes": 1432
   },
   {
     "stationuuid": "b7942961-0e8b-44ac-9f86-8cc5406ba83b",
@@ -991,12 +991,12 @@
   },
   {
     "stationuuid": "9893e660-f282-494f-907b-4cb827aead3a",
-    "name": "BEM Heaven",
+    "name": "Goldies Radio",
     "url": "https://stream.bem-heaven.be/",
     "url_resolved": "https://stream.bem-heaven.be/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/385/bem-heaven.f6b48b03.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/703/goldies-radio.7fe9b99d.png",
     "country": "Belgium",
-    "tags": "radio",
+    "tags": "Oldies",
     "votes": 0
   },
   {
