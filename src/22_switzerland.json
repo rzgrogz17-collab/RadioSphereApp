@@ -1,5 +1,65 @@
 [
   {
+    "stationuuid": "961f1da4-0601-11e8-ae97-52543be04c81",
+    "name": "SRF 3",
+    "url": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
+    "url_resolved": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/253/srf-3.2cb29ccb.png",
+    "country": "Switzerland",
+    "tags": "pop,public radio,srg ssr",
+    "votes": 1550
+  },
+  {
+    "stationuuid": "6e8e16c7-fa1a-49ba-8dd2-82589a52f714",
+    "name": "NRJ Energy Bern",
+    "url": "https://energybern.mp3.energy.ch/energybern-high.mp3",
+    "url_resolved": "https://energybern.mp3.energy.ch/energybern-high.mp3",
+    "favicon": "https://www.phonostar.de/images/auto_created/NRJ_Bern3184x184.png",
+    "country": "Switzerland",
+    "tags": "Pop / Top 40",
+    "votes": 1549
+  },
+  {
+    "stationuuid": "bbf5cdd0-7e6d-43ea-bb77-5c6cedc18583",
+    "name": "NRJ Energy Basel",
+    "url": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
+    "url_resolved": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/pjLqFMXQk6.png",
+    "country": "Switzerland",
+    "tags": "Rock",
+    "votes": 1448
+  },
+  {
+    "stationuuid": "962af9b5-0601-11e8-ae97-52543be04c81",
+    "name": "Vintage Radio",
+    "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+    "url_resolved": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/kt4frztakrpn.jpg",
+    "country": "Switzerland",
+    "tags": "Pop / Top 40,Oldies",
+    "votes": 1447
+  },
+  {
+    "stationuuid": "cf430e7d-6fce-4931-8a53-5115acde3eb5",
+    "name": "Radio Swiss Pop",
+    "url": "https://stream.srg-ssr.ch/rsp/aacp_96.m3u",
+    "url_resolved": "http://stream.srg-ssr.ch/srgssr/rsp/aac/96",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/EDNzjdxLpE.png",
+    "country": "Switzerland",
+    "tags": "aac+,pop,srg ssr",
+    "votes": 1446
+  },
+  {
+    "stationuuid": "961ac56b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Swiss Jazz",
+    "url": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+    "url_resolved": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/747/radio-swiss-jazz.385f94db.png",
+    "country": "Switzerland",
+    "tags": "jazz,public radio,srg ssr",
+    "votes": 1445
+  },
+  {
     "stationuuid": "38909aea-a9a4-45aa-b149-51c3fffdeba1",
     "name": "Electroradio.fm",
     "url": "http://stream.electroradio.fm/listen.aac",
@@ -7,47 +67,17 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ELECTRODIOFM.png",
     "country": "Switzerland",
     "tags": "electronic,dance,house,trance,club",
-    "votes": 0
-  },
-  {
-    "stationuuid": "961f1da4-0601-11e8-ae97-52543be04c81",
-    "name": "SRF 3",
-    "url": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/253/srf-3.2cb29ccb.png",
-    "country": "Switzerland",
-    "tags": "pop,public radio,srg ssr",
-    "votes": 85
+    "votes": 1444
   },
   {
     "stationuuid": "961fb4b2-0601-11e8-ae97-52543be04c81",
     "name": "1.FM - Chillout Lounge Radio",
     "url": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
     "url_resolved": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/135/1fm-chillout-lounge.59db38b2.jpg",
+    "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_93575.png",
     "country": "Switzerland",
     "tags": "chillout,lounge",
-    "votes": 61
-  },
-  {
-    "stationuuid": "cf430e7d-6fce-4931-8a53-5115acde3eb5",
-    "name": "Radio Swiss Pop",
-    "url": "https://stream.srg-ssr.ch/rsp/aacp_96.m3u",
-    "url_resolved": "http://stream.srg-ssr.ch/srgssr/rsp/aac/96",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/EDNzjdxLpE.png",
-    "country": "Switzerland",
-    "tags": "aac+,pop,srg ssr",
-    "votes": 54
-  },
-  {
-    "stationuuid": "961ac56b-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Swiss Jazz",
-    "url": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/AFTHp5jWeh.png",
-    "country": "Switzerland",
-    "tags": "jazz,public radio,srg ssr",
-    "votes": 54
+    "votes": 1443
   },
   {
     "stationuuid": "6d4127ba-cd83-45c2-90ad-57dfd90b1457",
@@ -68,16 +98,6 @@
     "country": "Switzerland",
     "tags": "deep house,techno",
     "votes": 45
-  },
-  {
-    "stationuuid": "962af9b5-0601-11e8-ae97-52543be04c81",
-    "name": "Vintage Radio",
-    "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
-    "url_resolved": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/kt4frztakrpn.jpg",
-    "country": "Switzerland",
-    "tags": "music",
-    "votes": 41
   },
   {
     "stationuuid": "960ed987-0601-11e8-ae97-52543be04c81",
@@ -530,16 +550,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "6e8e16c7-fa1a-49ba-8dd2-82589a52f714",
-    "name": "NRJ Energy Bern",
-    "url": "https://energybern.mp3.energy.ch/energybern-high.mp3",
-    "url_resolved": "https://energybern.mp3.energy.ch/energybern-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/zSE3Gfz7zQ.png",
-    "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "e71a7b54-73f0-42fc-bc93-3b878f7f275c",
     "name": "Radio 1",
     "url": "https://stream.radio1.ch/128k",
@@ -725,16 +735,6 @@
     "url": "http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128",
     "url_resolved": "http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/3dEg2QhxNP.png",
-    "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "bbf5cdd0-7e6d-43ea-bb77-5c6cedc18583",
-    "name": "NRJ Energy Basel",
-    "url": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
-    "url_resolved": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/pjLqFMXQk6.png",
     "country": "Switzerland",
     "tags": "radio",
     "votes": 0
