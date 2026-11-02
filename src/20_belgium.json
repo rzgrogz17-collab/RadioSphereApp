@@ -822,8 +822,8 @@
   {
     "stationuuid": "c285f2d6-0969-4b5f-98ff-ab6287b76dd0",
     "name": "Amazonian",
-    "url": "https://a10.asurahosting.com/hls/amazonian/live.m3u8",
-    "url_resolved": "https://a10.asurahosting.com/hls/amazonian/live.m3u8",
+    "url": "https://a10.asurahosting.com:7620/radio.mp3",
+    "url_resolved": "https://a10.asurahosting.com:7620/radio.mp3",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/159/amazonian.afec79d0.png",
     "country": "Belgium",
     "tags": "Lokaal,Braziliaanse muziek",
