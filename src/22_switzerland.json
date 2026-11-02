@@ -744,259 +744,259 @@
     "name": "Country Radio Switzerland",
     "url": "https://listen.countryradio.ch/",
     "url_resolved": "https://listen.countryradio.ch/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/e5qy5hrgqmtb.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/e5qy5hrgqmtb.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies,Blues,Country",
+    "votes": 1376
   },
   {
     "stationuuid": "0785e9f9-0776-412a-a461-bbb3d767e1d9",
     "name": "1000 Weihnachten",
     "url": "https://stream.laut.fm/1000weihnachten",
     "url_resolved": "https://stream.laut.fm/1000weihnachten",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ajuzlrfzwqzb.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ajuzlrfzwqzb.jpeg",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Weihnachten",
+    "votes": 1375
   },
   {
     "stationuuid": "c2c9e458-168d-4c71-90cf-57556133120c",
     "name": "1000 Hiphop",
     "url": "https://stream.laut.fm/1000hiphop",
     "url_resolved": "https://stream.laut.fm/1000hiphop",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/79shabhalbct.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/79shabhalbct.jpg",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Hip-Hop",
+    "votes": 1374
   },
   {
     "stationuuid": "be6f722c-1503-40bd-95a2-a6d174096795",
     "name": "80ies",
     "url": "https://stream.radiojar.com/6cbvkaa1mrruv",
     "url_resolved": "https://stream.radiojar.com/6cbvkaa1mrruv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ntarqmg6xfjt.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ntarqmg6xfjt.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Classic Hits,Dance / EDM,80er",
+    "votes": 1373
   },
   {
     "stationuuid": "89d7d099-db2f-4e28-9e06-033c11340b81",
     "name": "80s Forever Radio",
     "url": "http://premium.shoutcastsolutions.com:8050/256.mp3",
     "url_resolved": "http://premium.shoutcastsolutions.com:8050/256.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/sudumdqbcsgm.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/sudumdqbcsgm.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80er",
+    "votes": 1372
   },
   {
     "stationuuid": "86e157da-7bf2-48c0-a078-6a86ba4e18a7",
     "name": "A fine Jazz Gumbo Radio",
     "url": "https://streaming.smartradio.ch:9502/stream",
     "url_resolved": "https://streaming.smartradio.ch:9502/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/277/a-fine-jazz-gumbo-radio.69c348b3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/277/a-fine-jazz-gumbo-radio.69c348b3.png",
     "country": "Switzerland",
     "tags": "radio",
-    "votes": 0
+    "votes": 1371
   },
   {
     "stationuuid": "e8d53ada-c816-47c2-9b99-52fd011d64d9",
     "name": "Across Radio",
     "url": "https://s4.radio.co/s6bee4b166/listen",
     "url_resolved": "https://s4.radio.co/s6bee4b166/listen",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/516/across-radio.f171cacc.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/516/across-radio.f171cacc.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Alternative / Indie",
+    "votes": 1370
   },
   {
     "stationuuid": "4441a55e-ee2f-4c32-969c-df9d56d13efb",
     "name": "Adonia-KidsRadio",
     "url": "https://puma.streemlion.com:1935/stream",
     "url_resolved": "https://puma.streemlion.com:1935/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/rxTmNFxrNv.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/rxTmNFxrNv.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Christliche Musik,Kindermusik",
+    "votes": 1369
   },
   {
     "stationuuid": "23d22d7f-4b0e-4e77-81a2-d50e675e72ad",
     "name": "Agaune Radio",
     "url": "https://listen.radioking.com/radio/439586/stream/493727",
     "url_resolved": "https://listen.radioking.com/radio/439586/stream/493727",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/877/agaune-info.690d151d.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/877/agaune-info.690d151d.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary,Kultur & Bildung,Talkradio",
+    "votes": 1368
   },
   {
     "stationuuid": "49a49841-8392-4436-93d8-3b7abdfefd05",
     "name": "Aktiv Radio",
     "url": "https://s4.radio.co/s7a78bf9d2/listen",
     "url_resolved": "https://s4.radio.co/s7a78bf9d2/listen",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/yxqSWaV7eG.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/yxqSWaV7eG.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies,Weltmusik",
+    "votes": 1367
   },
   {
     "stationuuid": "cd713e6b-be13-41b7-b774-0f4aeb09636b",
     "name": "Albradio",
     "url": "https://ec6.yesstreaming.net:1800/stream",
     "url_resolved": "https://ec6.yesstreaming.net:1800/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/329estcjakhj.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/329estcjakhj.jpg",
     "country": "Switzerland",
     "tags": "radio",
-    "votes": 0
+    "votes": 1366
   },
   {
     "stationuuid": "de1da868-f861-4cc1-9d5a-ba0c55d46b61",
     "name": "Albradio Muzikë Popullore",
     "url": "https://ec6.yesstreaming.net:2180/stream",
     "url_resolved": "https://ec6.yesstreaming.net:2180/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/652lfyjyzcny.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/652lfyjyzcny.jpg",
     "country": "Switzerland",
     "tags": "radio",
-    "votes": 0
+    "votes": 1365
   },
   {
     "stationuuid": "1e7fc7de-2780-4433-8e05-96c4759d34cf",
     "name": "Avulete",
     "url": "https://listen.radioking.com/radio/108718/stream/147721",
     "url_resolved": "https://listen.radioking.com/radio/108718/stream/147721",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/660/avulete.e97e3ca6.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/660/avulete.e97e3ca6.jpg",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Blues",
+    "votes": 1364
   },
   {
     "stationuuid": "4dfe6eec-879f-4f9f-b194-8f41ec9ced25",
-    "name": "Babylon To Zion",
-    "url": "https://babylontozion.ice.infomaniak.ch/babylontozion.mp3",
-    "url_resolved": "https://babylontozion.ice.infomaniak.ch/babylontozion.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/794/babylon-to-zion.15a00ba6.png",
+    "name": "Klassik Radio Schweiz",
+    "url": "https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205",
+    "url_resolved": "https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/671/klassik-radio-schweiz.d3f58dbb.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Klassisch",
+    "votes": 1363
   },
   {
     "stationuuid": "911be590-48d5-4e69-94ca-fa3cdfe56a09",
-    "name": "Bachata Nation Radio",
-    "url": "https://stream.zeno.fm/vwcq5n2rruhvv",
-    "url_resolved": "https://stream.zeno.fm/vwcq5n2rruhvv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/f8SNvD2a77.png",
+    "name": "1.FM - Blues",
+    "url": "https://strm112.1.fm/blues_mobile_mp3",
+    "url_resolved": "https://strm112.1.fm/blues_mobile_mp3",
+    "favicon": "https://d371i8ihhgym7w.cloudfront.net/37234328.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Blues",
+    "votes": 1362
   },
   {
     "stationuuid": "5ba29376-61d1-4a45-95b1-dca9d746ead7",
-    "name": "Baraza Radio TV",
-    "url": "https://i6.streams.ovh/sc/barazar1/stream",
-    "url_resolved": "https://i6.streams.ovh/sc/barazar1/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/v2jwfvt4py2v.png",
+    "name": "Radio Bern RaBe",
+    "url": "https://stream.rabe.ch/livestream/rabe-hd.mp3",
+    "url_resolved": "https://stream.rabe.ch/livestream/rabe-hd.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/036/radio-bern-rabe.eb0ef028.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Nachrichten,Alternative / Indie",
+    "votes": 1361
   },
   {
     "stationuuid": "7b67280f-f81b-4432-86c9-14616533d99f",
-    "name": "Barix",
-    "url": "http://205.234.212.49/barix_hi",
-    "url_resolved": "http://205.234.212.49/barix_hi",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/sjbzvk2nahxt.png",
+    "name": "Klassik Radio Bach",
+    "url": "https://stream.klassikradio.de/purebach/aac-128",
+    "url_resolved": "https://stream.klassikradio.de/purebach/aac-128",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/166/klassik-radio-pure-bach.0801c48d.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Klassisch",
+    "votes": 1360
   },
   {
     "stationuuid": "3cf17ed0-688a-4575-9d8d-5482b71e98ba",
-    "name": "Bear Metal Radio",
-    "url": "https://cast5.asurahosting.com/proxy/bear?mp=/stream",
-    "url_resolved": "https://cast5.asurahosting.com/proxy/bear?mp=/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/623/bear-metal-radio.de97d0c3.png",
+    "name": "1.FM - Funky Express",
+    "url": "https://strm112.1.fm/funkyexpress_mobile_mp3",
+    "url_resolved": "https://strm112.1.fm/funkyexpress_mobile_mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/5KsypcuWWT.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies,R&B / Soul",
+    "votes": 1359
   },
   {
     "stationuuid": "c376300c-d230-4c4b-b689-c0ac158d96f0",
     "name": "beni.fm - Beni FM",
     "url": "http://s9.citrus3.com:8476/stream",
     "url_resolved": "http://s9.citrus3.com:8476/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/PjDqnnhRkW.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/PjDqnnhRkW.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Jazz,Folk",
+    "votes": 1358
   },
   {
     "stationuuid": "2ca8d8c1-86f2-49f4-8bc0-99ee8be63ccd",
     "name": "biboo radio",
     "url": "https://stream.rcvfm.fr:8000/biboo-128k.mp3",
     "url_resolved": "https://stream.rcvfm.fr:8000/biboo-128k.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/513/biboo-radio.7daf9fff.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/513/biboo-radio.7daf9fff.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary,Classic Hits,90er",
+    "votes": 1337
   },
   {
     "stationuuid": "69fd0961-ca86-4e1c-9520-c346e0f46dc6",
     "name": "Bonbon Radio",
     "url": "https://c34.radioboss.fm:9015/stream",
     "url_resolved": "https://c34.radioboss.fm:9015/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/428/bonbon-radio.c02a77f0.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/428/bonbon-radio.c02a77f0.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Techno,House,Elektro",
+    "votes": 1336
   },
   {
     "stationuuid": "e6afc96b-650d-4523-8811-d37424625278",
     "name": "Break Radio",
     "url": "http://breakradio.ice.infomaniak.ch/breakradio-128.aac",
     "url_resolved": "http://breakradio.ice.infomaniak.ch/breakradio-128.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/TbCn9gsHZD.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/TbCn9gsHZD.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Hip-Hop,Alternative / Indie,R&B / Soul",
+    "votes": 1335
   },
   {
     "stationuuid": "45b7cc7b-42c7-4196-953b-0f274ff07650",
     "name": "BreathFM",
     "url": "https://stream.breathfm.de/listen/mainstream/high.mp3",
     "url_resolved": "https://stream.breathfm.de/listen/mainstream/high.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/CCwgGnKMPx.png",
+    "favicon": "https://cdn.radioreg.net/organization/454ec16f73d141c5753623ec5a48245f.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Classic Rock,Alternative / Indie,J-Pop",
+    "votes": 1334
   },
   {
     "stationuuid": "e45a6d8b-c3f5-49a7-87e8-7225fcc45352",
-    "name": "Bulabawu",
-    "url": "https://listen.radioking.com/radio/21719/stream/54443",
-    "url_resolved": "https://listen.radioking.com/radio/21719/stream/54443",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/584/bulabawu.fb83e5f0.png",
+    "name": "Fréquence Broadway",
+    "url": "https://frequencebroadway.ice.infomaniak.ch/frequencebroadway-128.mp3",
+    "url_resolved": "https://frequencebroadway.ice.infomaniak.ch/frequencebroadway-128.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/341/frequence-broadway.bb17fa2b.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Jazz,Blues,R&B / Soul",
+    "votes": 1333
   },
   {
     "stationuuid": "e8686dd3-443b-4a9f-b23f-ed8388bb6b77",
     "name": "WRS \"Swiss Radio in English\"",
-    "url": "https://uksouth.streaming.broadcast.radio:10290/wrs?_=443217",
-    "url_resolved": "https://uksouth.streaming.broadcast.radio:10290/wrs?_=443217",
-    "favicon": "https://mmo.aiircdn.com/29/61eaca66a914b.png",
+    "url": "https://streamingr.broadcastradio.com:10295/wrs",
+    "url_resolved": "https://streamingr.broadcastradio.com:10295/wrs",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ng7dnjmkwevm.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 98
+    "tags": "Adult Contemporary",
+    "votes": 1312
   },
   {
     "stationuuid": "e53d0d89-4234-4590-b86e-52cbc538ac03",
     "name": "Celestial Hugs - Radio Bollwerk Moods",
     "url": "https://radio.radio-bollwerk.ch/listen/celestial_hugs/radio.mp3",
     "url_resolved": "https://radio.radio-bollwerk.ch/listen/celestial_hugs/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/935/celestial-hugs-radio-bollwerk-moods.ef718ad1.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/935/celestial-hugs-radio-bollwerk-moods.ef718ad1.png",
     "country": "Switzerland",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Chillout",
+    "votes": 1311
   }
 ]
