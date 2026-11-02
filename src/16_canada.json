@@ -4,10 +4,30 @@
     "name": "BPM Sports 91.9 FM",
     "url": "https://18103.live.streamtheworld.com/CKLXFMAAC_SC",
     "url_resolved": "https://18103.live.streamtheworld.com/CKLXFMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/953/bpm-montreal.3dd1ca5e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/953/bpm-montreal.3dd1ca5e.jpg",
     "country": "Canada",
     "tags": "Sports",
-    "votes": 104
+    "votes": 1650
+  },
+  {
+    "stationuuid": "b6aa8287-0e8c-4780-b882-d7a7e4b1226d",
+    "name": "ICI Musique - Montreal, QC",
+    "url": "http://26443.live.streamtheworld.com:80/CBFXFM_SRC.mp3",
+    "url_resolved": "http://26443.live.streamtheworld.com:80/CBFXFM_SRC.mp3",
+    "favicon": "https://www.phonostar.de/images/auto_created/Ici_Musique_3184x184.png",
+    "country": "Canada",
+    "tags": "blues,classical,jazz,montreal,pop,rock",
+    "votes": 1649
+  },
+  {
+    "stationuuid": "95c2beb2-7c97-435c-b2e8-0cafcbae1d37",
+    "name": "CBC Radio One Montréal",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/119/cbme-fm-cbc-radio-one-montreal.47a9e02e.png",
+    "country": "Canada",
+    "tags": "local news,public radio,talk",
+    "votes": 1648
   },
   {
     "stationuuid": "7afae7e3-7d06-42f1-b60e-a42d6e99e41e",
@@ -17,67 +37,77 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/103/epic-piano-romantic-piano.6068997b.jpg",
     "country": "Canada",
     "tags": "Classical,World Music,Romantic",
-    "votes": 105
+    "votes": 1647
   },
   {
     "stationuuid": "3afae3e8-2d46-43f5-b44e-a71d6e55e73e",
     "name": "RFI Monde",
     "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
     "url_resolved": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/420/rfi-monde.5f56b1a1.png",
+    "favicon": "https://hausaradio.com/img/stations/rfi-hausa.png",
     "country": "Canada",
     "tags": "News,Talk,World Music",
-    "votes": 106
+    "votes": 1646
   },
   {
     "stationuuid": "9afae3e0-6d09-34f5-b77e-a01d6e90e16e",
     "name": "Global News Radio 730 CKNW",
     "url": "https://live.leanstream.co/CKNWAM-MP3",
     "url_resolved": "https://live.leanstream.co/CKNWAM-MP3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/726/global-news-radio-730-cknw.0da9ff99.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/726/global-news-radio-730-cknw.0da9ff99.png",
     "country": "Canada",
     "tags": "news,talk",
-    "votes": 107
+    "votes": 1645
   },
   {
     "stationuuid": "8afae8e4-9d06-43f5-b60e-a51d6e09e61e",
     "name": "VOCM",
     "url": "https://newcap.leanstream.co/VOCMAM",
     "url_resolved": "https://newcap.leanstream.co/VOCMAM",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/cb3kqe5xAa.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/cb3kqe5xAa.png",
     "country": "Canada",
-    "tags": "",
-    "votes": 103
+    "tags": "Adult Contemporary,News,Talk",
+    "votes": 1644
   },
   {
     "stationuuid": "7afae7e3-8d06-42f5-b59e-a52d6e09e60e",
-    "name": "# RdMix Classic Rock 70s 80s 90s",
-    "url": "https://cast1.torontocast.com:4610/stream",
-    "url_resolved": "https://cast1.torontocast.com:4610/stream",
-    "favicon": "https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg",
+    "name": "CHUC Classic Rock 107.9 FM",
+    "url": "https://mybroadcasting.streamb.live/SB00337",
+    "url_resolved": "https://mybroadcasting.streamb.live/SB00337",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/106/chuc-fm-classic-rock-1079.a34e8fc3.png",
     "country": "Canada",
-    "tags": "60s,60s and 70s.,70's,70er,70s,80's,80er,80s,90's,90er,90s,blues,blues rock,classic blues,classic hits,classic hits 60s 70a 80s,classic rock,classic rock  50's 60's 70's 80's 90's,classic rock music,classic rock oldies,classic rock oldies soul,classic rock; alternative rock indie,country,entretenimiento,fm,hard rock,high quality audio,hits,local radio,melodic hard rock,music,music 70s 80s 90s,musica,oldies,pop rock,public radio,radio,real classic rock,rhythm and blues,rock,soft rock",
-    "votes": 113
+    "tags": "Classic Rock",
+    "votes": 1643
   },
   {
     "stationuuid": "64d74c72-025e-4cea-8a32-906812691731",
-    "name": "#100 BEST IBIZA DEEP HOUSE",
+    "name": "100 BEST IBIZA DEEP HOUSE",
     "url": "https://stream.zeno.fm/lwv6zqgtv1dtv",
     "url_resolved": "https://stream.zeno.fm/lwv6zqgtv1dtv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/586/100-best-ibiza-deep-house.87944a11.jpg",
+    "favicon": "https://www.getmeradio.com/stations/100bestibizadeephouse-3387/logos/512x512.png",
     "country": "Canada",
     "tags": "chill,chill house,chillout,chillout+lounge,club dance,club house,community radio,dance,deep,deep house,electronic,fm,high quality audio,hits,house,music,news,public radio,radio,soulful house",
-    "votes": 51
+    "votes": 1642
   },
   {
     "stationuuid": "02569932-0b3c-4938-9d3e-b00b2158d40b",
-    "name": "AIRPORT LOUNGE RADIO",
-    "url": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
-    "url_resolved": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/CTdkgWbVEs.png",
+    "name": "CHOI Radio X 98.1 FM",
+    "url": "https://lb0-stream.radiox981.ca/choi.mp3",
+    "url_resolved": "https://lb0-stream.radiox981.ca/choi.mp3",
+    "favicon": "https://boutique.radiox.com/cdn/shop/files/Logo-Radio-X-RGB-_-pour-fond-pale.png",
     "country": "Canada",
-    "tags": "aereoporto,airport,ambient,chill,chillout,easy listening,house,lounge,smooth,smooth jazz",
-    "votes": 45
+    "tags": "Talk",
+    "votes": 1641
+  },
+  {
+    "stationuuid": "147a830e-fbc3-4260-9504-6dcc62530923",
+    "name": "CBC Radio 1 Toronto",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+    "favicon": "https://cdn.radoxo.com/images/canada/cbc-radio-one.webp",
+    "country": "Canada",
+    "tags": "public radio",
+    "votes": 1640
   },
   {
     "stationuuid": "6cb69b95-72d9-4ea6-859f-52546a85c1fe",
@@ -107,16 +137,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/475/100-greatest-heavy-metal.743b3af8.jpg",
     "country": "Canada",
     "tags": "60's,60s,70's,70er,70s,80's,80er,80s,90's,90er,90s,black metal,classic hits,classic metal,classic rock,entretenimiento,fm,hard rock,heavy metal,local radio,metal,music,musica,oldies,public radio,radio,rock",
-    "votes": 32
-  },
-  {
-    "stationuuid": "147a830e-fbc3-4260-9504-6dcc62530923",
-    "name": "CBC Radio 1 Toronto",
-    "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
-    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
-    "favicon": "https://ie.radio.net/175/cbctoronto.png",
-    "country": "Canada",
-    "tags": "public radio",
     "votes": 32
   },
   {
@@ -167,27 +187,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/512/cfrb-newstalk-1010.fc6cd746.jpg",
     "country": "Canada",
     "tags": "commercial,local news,news,news talk",
-    "votes": 5424
-  },
-  {
-    "stationuuid": "95c2beb2-7c97-435c-b2e8-0cafcbae1d37",
-    "name": "CBC Radio One Montréal",
-    "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
-    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/CBC_Radio_Logo.svg/500px-CBC_Radio_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Canada",
-    "tags": "local news,public radio,talk",
-    "votes": 442
-  },
-  {
-    "stationuuid": "b6aa8287-0e8c-4780-b882-d7a7e4b1226d",
-    "name": "ICI Musique - Montreal, QC",
-    "url": "http://26443.live.streamtheworld.com:80/CBFXFM_SRC.mp3",
-    "url_resolved": "http://26443.live.streamtheworld.com:80/CBFXFM_SRC.mp3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Montreal%2C_Quebec_skyline.jpg/500px-Montreal%2C_Quebec_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "country": "Canada",
-    "tags": "blues,classical,jazz,montreal,pop,rock",
-    "votes": 229
+    "votes": 0
   },
   {
     "stationuuid": "b4bbf2be-d132-43d8-a094-d6fabf82a966",
@@ -217,7 +217,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/357/crucial-velocity-radio.b82015f0.jpg",
     "country": "Canada",
     "tags": "classic metal,hard rock,hardcore,heavy metal,metal,thrash",
-    "votes": 2350
+    "votes": 0
   },
   {
     "stationuuid": "281573ae-410a-480c-9963-b9e0e25efc6b",
@@ -677,7 +677,7 @@
     "favicon": "https://i0.wp.com/decayfm.com/wp-content/uploads/2018/12/cropped-512-1.jpg?fit=180%2C180&#038;ssl=1",
     "country": "Canada",
     "tags": "radio",
-    "votes": 1166
+    "votes": 0
   },
   {
     "stationuuid": "5a056387-0cf9-11e8-ae97-52543be04c81",
@@ -687,7 +687,7 @@
     "favicon": "https://calmradio.com/images/logo/Calm-LOGO%202015.png",
     "country": "Canada",
     "tags": "baroque,classical",
-    "votes": 814
+    "votes": 0
   },
   {
     "stationuuid": "403b6475-cb7b-4a94-97df-1b10c141aef9",
@@ -707,7 +707,7 @@
     "favicon": "https://dams.cdn.unippm.com/AlbumImages/370x370/4a0a42ec365e45eab376d200883e7094.jpg",
     "country": "Canada",
     "tags": "radio",
-    "votes": 705
+    "votes": 0
   },
   {
     "stationuuid": "e4d9cbf4-29c8-49f1-a642-e2be978a7e83",
@@ -717,7 +717,7 @@
     "favicon": "https://www.radio-addictive-50s.eu/images/logo175.jpg",
     "country": "Canada",
     "tags": "50's,50s,oldies",
-    "votes": 596
+    "votes": 0
   },
   {
     "stationuuid": "9623da57-0601-11e8-ae97-52543be04c81",
@@ -727,7 +727,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/XattXZ3sKM.jpeg",
     "country": "Canada",
     "tags": "news,news talk,sport,talk",
-    "votes": 449
+    "votes": 0
   },
   {
     "stationuuid": "aa7c6fe8-a287-11e9-a787-52543be04c81",
