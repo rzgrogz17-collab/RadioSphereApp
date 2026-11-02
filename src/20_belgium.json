@@ -804,190 +804,190 @@
     "name": "Allô La Radio",
     "url": "https://stream.zeno.fm/qexnpq0fm98uv",
     "url_resolved": "https://stream.zeno.fm/qexnpq0fm98uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/196/allo-la-radio.2d070aca.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/196/allo-la-radio.2d070aca.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Hiphop,Dance / EDM",
+    "votes": 1431
   },
   {
     "stationuuid": "61fe34d1-2030-47f0-bedd-01cf75f5a844",
     "name": "Allround24",
     "url": "https://listen.radioking.com/radio/825686/stream/894831",
     "url_resolved": "https://listen.radioking.com/radio/825686/stream/894831",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/914/allround24.eba1210a.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/914/allround24.eba1210a.png",
     "country": "Belgium",
     "tags": "radio",
-    "votes": 0
+    "votes": 1430
   },
   {
     "stationuuid": "c285f2d6-0969-4b5f-98ff-ab6287b76dd0",
     "name": "Amazonian",
     "url": "https://a10.asurahosting.com/hls/amazonian/live.m3u8",
     "url_resolved": "https://a10.asurahosting.com/hls/amazonian/live.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/159/amazonian.afec79d0.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/159/amazonian.afec79d0.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Lokaal,Braziliaanse muziek",
+    "votes": 1429
   },
   {
     "stationuuid": "c24dcab0-e0ee-4e43-8196-eae3b632315b",
     "name": "Antipode",
     "url": "https://antipodev2.dev.itsquared.be/antipodestream.mp3",
     "url_resolved": "https://antipodev2.dev.itsquared.be/antipodestream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/967/antipode.695447ea.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/967/antipode.695447ea.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Adult Contemporary",
+    "votes": 1428
   },
   {
     "stationuuid": "994db953-10ce-4903-8df1-c5e9a5647913",
     "name": "Anytime Radio",
     "url": "https://live.anytimeradio.be:8000/radio.mp3",
     "url_resolved": "https://live.anytimeradio.be:8000/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/337/anytime-radio.8493927e.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/337/anytime-radio.8493927e.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM,Elektronisch",
+    "votes": 1427
   },
   {
     "stationuuid": "b0ac2688-f2e5-44fa-88dd-2bc500e79593",
     "name": "Arabel FM",
     "url": "https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3",
     "url_resolved": "https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/911/arabel-fm.d9881ac2.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/911/arabel-fm.d9881ac2.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Wereldmuziek",
+    "votes": 1426
   },
   {
     "stationuuid": "f4029ba1-9835-404b-8cb2-9d7303ae768f",
     "name": "B+ la web radio de Beauvechain",
     "url": "https://listen.radioking.com/radio/604702/stream/666112",
     "url_resolved": "https://listen.radioking.com/radio/604702/stream/666112",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/578/b-la-web-radio-de-beauvechain.0fcfe88b.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/578/b-la-web-radio-de-beauvechain.0fcfe88b.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Divers,Nieuws,Cultuur & Educatie",
+    "votes": 1425
   },
   {
     "stationuuid": "5ee5a2d5-d27d-45ab-b6e2-4020a2a8fc7d",
     "name": "BE ONE 60' & 70'",
     "url": "http://live.radiostudio.be/beone70",
     "url_resolved": "http://live.radiostudio.be/beone70",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/219/be-one-70s.f12e3194.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/219/be-one-70s.f12e3194.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies",
+    "votes": 1424
   },
   {
     "stationuuid": "eae8257a-e077-43bb-a9ca-2843804f9a47",
     "name": "BE ONE 80s & 90s",
     "url": "https://live.radiostudio.be/beone8090",
     "url_resolved": "https://live.radiostudio.be/beone8090",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/780/be-one-80s.430daba0.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/780/be-one-80s.430daba0.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies",
+    "votes": 1423
   },
   {
     "stationuuid": "eb9d6014-77ac-4f28-9346-bbe73626e01c",
     "name": "BE ONE CLASSIC ROCK",
     "url": "https://live.radiostudio.be/beoneclrock",
     "url_resolved": "https://live.radiostudio.be/beoneclrock",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/138/be-one-classic-rock.a774e2a6.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/138/be-one-classic-rock.a774e2a6.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Klassieke rock,Alternatief / Indie",
+    "votes": 1422
   },
   {
     "stationuuid": "f766ff2c-7d90-415d-96b6-f193dbde53ba",
     "name": "BE ONE FRANCE",
     "url": "https://live.radiostudio.be/beonefrance",
     "url_resolved": "https://live.radiostudio.be/beonefrance",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/036/be-one-la-douce-france.cd77f73d.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/036/be-one-la-douce-france.cd77f73d.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Chanson, Franse popmuziek, Klassieke hits, Franse jazz, Variété",
+    "votes": 1421
   },
   {
     "stationuuid": "7d5920e2-6def-45d0-a6ad-62f2e7aa6adc",
     "name": "BE ONE Sunrise",
     "url": "https://live.radiostudio.be/beonemuse",
     "url_resolved": "https://live.radiostudio.be/beonemuse",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/217/be-one-muse.f4455436.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/217/be-one-muse.f4455436.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80's,Oldies,90's",
+    "votes": 1420
   },
   {
     "stationuuid": "b4d8e230-17f3-4016-ad11-902c46d41b23",
     "name": "BE ONE KOOL",
     "url": "https://live.radiostudio.be/beonekool",
     "url_resolved": "https://live.radiostudio.be/beonekool",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/256/be-one-nws-belgium.1d386f54.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/256/be-one-nws-belgium.1d386f54.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Nieuws",
+    "votes": 1419
   },
   {
     "stationuuid": "32d6d076-36cf-4f11-bb19-98b255ce0257",
     "name": "BE ONE XMAS",
     "url": "http://live.radiostudio.be/beonexmas",
     "url_resolved": "http://live.radiostudio.be/beonexmas",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/889/be-one-xmass.5d5d5ddd.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/889/be-one-xmass.5d5d5ddd.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Kerstmis",
+    "votes": 1418
   },
   {
     "stationuuid": "d3587fa7-7f80-4a5f-abf2-ee8e39bbf6e6",
     "name": "Beiaard Radio",
     "url": "http://54.36.89.71:8066/stream",
     "url_resolved": "http://54.36.89.71:8066/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/650/beiaard-radio.43414eec.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/650/beiaard-radio.43414eec.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies,90's",
+    "votes": 1417
   },
   {
     "stationuuid": "d9e8c6bd-035c-4b29-9eea-ad922ef5837f",
     "name": "Bel RTL Chanson Française",
     "url": "https://belrtlclassicrock.ice.infomaniak.ch/belrtlclassicrock-192.mp3",
     "url_resolved": "https://belrtlclassicrock.ice.infomaniak.ch/belrtlclassicrock-192.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/580/bel-rtl-chanson-francaise.5b40475b.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/580/bel-rtl-chanson-francaise.5b40475b.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Chanson, Variété française, Pop populaire",
+    "votes": 1416
   },
   {
     "stationuuid": "c528e36d-3526-4d6a-8442-85f803a6b476",
     "name": "bel RTL Comédie",
     "url": "https://belrtlcomedie.ice.infomaniak.ch/belrtlcomedie-192.mp3",
     "url_resolved": "https://belrtlcomedie.ice.infomaniak.ch/belrtlcomedie-192.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/579/bel-rtl-comedie.f132d8c2.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/579/bel-rtl-comedie.f132d8c2.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Musique pop, talk-shows, humour, actualités, divertissement",
+    "votes": 1415
   },
   {
     "stationuuid": "b25ad5f9-1a96-4094-810d-a38b4010ad57",
     "name": "Belgian Dance Radio",
     "url": "https://s4.radio.co/sf5a880a25/listen",
     "url_resolved": "https://s4.radio.co/sf5a880a25/listen",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/621/belgian-dance-radio.ff5f8341.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/621/belgian-dance-radio.ff5f8341.png",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM,Trance",
+    "votes": 1414
   },
   {
     "stationuuid": "31fe4507-b6c5-4f8a-ab06-ffe3fb7d580e",
-    "name": "Belgian Oldies Radio",
-    "url": "https://streaming.radionomy.com/Belgian-Oldies-Radio",
-    "url_resolved": "https://streaming.radionomy.com/Belgian-Oldies-Radio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/812/belgian-oldies-radio.1a00976f.jpg",
+    "name": "Zen FM",
+    "url": "https://25583.live.streamtheworld.com/TOPZEN_SC",
+    "url_resolved": "https://25583.live.streamtheworld.com/TOPZEN_SC",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/ZENFM.jpg",
     "country": "Belgium",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Chillen",
+    "votes": 1413
   },
   {
     "stationuuid": "9893e660-f282-494f-907b-4cb827aead3a",
@@ -997,7 +997,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/703/goldies-radio.7fe9b99d.png",
     "country": "Belgium",
     "tags": "Oldies",
-    "votes": 0
+    "votes": 1412
   },
   {
     "stationuuid": "e0fdc57e-7f64-48b9-a9aa-62160e4874a7",
