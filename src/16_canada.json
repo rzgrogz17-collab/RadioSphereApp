@@ -611,10 +611,10 @@
   },
   {
     "stationuuid": "086126e6-76a1-445c-b710-ce65e8ffdcea",
-    "name": "CHHI-FM \"Rewind 95.9\" Miramichi, NB",
+    "name": "CHHI Rewind 95.9 FM",
     "url": "http://newcap.leanstream.co/CHHIFM",
     "url_resolved": "http://newcap.leanstream.co/CHHIFM",
-    "favicon": "CHHI-FM \"Rewind 95.9\" Miramichi, NB",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/zefCfVHMzB.png",
     "country": "Canada",
     "tags": "classic hits,re-branding new format,stingray network",
     "votes": 1589
