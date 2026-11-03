@@ -374,20 +374,20 @@
     "name": "CKGL \"City News 570\" Kitchener, ON",
     "url": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8",
     "url_resolved": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/500px-CityNews_570_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "favicon": "https://www.draytonentertainment.com/de/cache/shows/181/logo_citynews.png",
     "country": "Canada",
     "tags": "news talk",
-    "votes": 51
+    "votes": 1613
   },
   {
     "stationuuid": "ae30b2bb-1b3f-4478-82b4-0cb1f33a7d5f",
-    "name": "CKHZ-FM \"Hot Country 103.5\" Halifax, NS",
+    "name": "CKHZ Hot Country 103.5",
     "url": "https://ais-sa1.streamon.fm/7738_128k.aac/playlist.m3u8",
     "url_resolved": "https://ais-sa1.streamon.fm/7738_128k.aac/playlist.m3u8",
-    "favicon": "https://media.socastsrm.com/uploads/station/1842/hero_logo-5fad3641133eb.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nL95fqVtFp.png",
     "country": "Canada",
     "tags": "country",
-    "votes": 50
+    "votes": 1312
   },
   {
     "stationuuid": "953bd0d5-0485-43fa-8f3d-0468bcb940cd",
@@ -396,28 +396,28 @@
     "url_resolved": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01",
     "favicon": "https://radioadminassets.rogersdigitalmedia.com/uploads/ciww-600x600.png",
     "country": "Canada",
-    "tags": "radio",
-    "votes": 49
+    "tags": "Sports,News,Talk",
+    "votes": 1611
   },
   {
     "stationuuid": "104ad650-6795-4c73-a30a-7f84bcd0e6b5",
     "name": "CFGO \"TSN 1200\" Ottawa, ON",
     "url": "http://14133.live.streamtheworld.com/CFGOAMAAC_SC",
     "url_resolved": "http://14133.live.streamtheworld.com/CFGOAMAAC_SC",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/TSN_1200_Ottawa.svg/500px-TSN_1200_Ottawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/248/cfgo-tsn-1200-ottawa.23a63f48.png",
     "country": "Canada",
     "tags": "bell media,sports news,tsn",
-    "votes": 47
+    "votes": 1610
   },
   {
     "stationuuid": "43827580-c292-4245-ac8d-2ae1c97c29c3",
     "name": "Magic FM Montreal",
     "url": "https://s7.yesstreaming.net/stream/8024",
     "url_resolved": "https://s7.yesstreaming.net/stream/8024",
-    "favicon": "https://img1.wsimg.com/isteam/ip/2db48ff4-62cf-4bff-a49b-9dacca2b70a1/MAGICFM.jpg/:/rs=w:200,h:200,cg:true,m/cr=w:200,h:200/qt=q:95",
+    "favicon": "https://img1.wsimg.com/isteam/ip/2db48ff4-62cf-4bff-a49b-9dacca2b70a1/MAGICFM.jpg",
     "country": "Canada",
-    "tags": "radio",
-    "votes": 47
+    "tags": "Classic Rock,80s,Oldies",
+    "votes": 1609
   },
   {
     "stationuuid": "dc48087d-69af-4a2f-88ea-dde3d34b04f0",
@@ -427,17 +427,17 @@
     "favicon": "https://mm.aiircdn.com/471/5b88fe0b4fc9f.png",
     "country": "Canada",
     "tags": "music 70s 80s 90s",
-    "votes": 46
+    "votes": 1608
   },
   {
     "stationuuid": "1bb4abb2-f9ab-47a7-996d-8109884b4ee4",
     "name": "Greatest Hits Of All Time",
     "url": "http://160.153.184.146:8018/mp3",
     "url_resolved": "http://160.153.184.146:8018/mp3",
-    "favicon": "https://thekiputerstore.ca/FINAL-TheGhoat-logo-blue-side-yrs-TB-icon-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/wuk9v2vjmb34.png",
     "country": "Canada",
     "tags": "radio",
-    "votes": 44
+    "votes": 1607
   },
   {
     "stationuuid": "ba9353b1-eed5-4eb0-8034-dbbbe18c72c1",
@@ -447,17 +447,17 @@
     "favicon": "https://storage.radiowaterloo.ca/cropped-ckmsLogoSquare-1-e1550119984139.png",
     "country": "Canada",
     "tags": "community alternative",
-    "votes": 34
+    "votes": 1606
   },
   {
     "stationuuid": "56d2e7c0-fca6-472e-974c-07b2ad3e2928",
     "name": "92.5FM The X - CFBX, Kamloops, B.C. Canada",
     "url": "http://198.162.21.84:8002/;?type=http&nocache=10%2Fstream.mp3&_=1",
     "url_resolved": "http://198.162.21.84:8002/;?type=http&nocache=10%2Fstream.mp3&_=1",
-    "favicon": "https://thex.ca/wp-content/uploads/2017/07/cropped-screen-shot-2017-07-27-at-10-12-33-pm.png?w=723&h=849",
+    "favicon": "https://thex.ca/wp-content/uploads/2017/07/cropped-screen-shot-2017-07-27-at-10-12-33-pm.png",
     "country": "Canada",
-    "tags": "radio",
-    "votes": 29
+    "tags": "College",
+    "votes": 1605
   },
   {
     "stationuuid": "39d6e63e-9f1a-4bdf-8eb1-ab3c73087e00",
@@ -467,17 +467,17 @@
     "favicon": "https://mmo.aiircdn.com/302/6080aa5a3aec2.png",
     "country": "Canada",
     "tags": "country",
-    "votes": 26
+    "votes": 1604
   },
   {
     "stationuuid": "217ca605-f7fb-4f77-a30a-843f750d0d16",
     "name": "CJNB 1050 \"Saskatchewan Country\" North Battleford, SK",
     "url": "https://stream.jpbgdigital.com/CJNB.m3u8?device_id=cookie:a4e9fb98-c0d3-11f1-83a5-9a1a4b115a3f",
     "url_resolved": "https://stream.jpbgdigital.com/CJNB.m3u8?device_id=cookie:a4e9fb98-c0d3-11f1-83a5-9a1a4b115a3f",
-    "favicon": "https://media.socastsrm.com/uploads/station/718/site_header_logo-5b6f4a6d6156f.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/uDd75D8PFJ.png",
     "country": "Canada",
     "tags": "country",
-    "votes": 25
+    "votes": 1603
   },
   {
     "stationuuid": "a1dacd30-2ce2-4c61-86dd-91e4978b9673",
@@ -487,127 +487,127 @@
     "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1460/files/2017/11/nc969hero_logo_v003.png",
     "country": "Canada",
     "tags": "country,rebranding,stingray network",
-    "votes": 24
+    "votes": 1602
   },
   {
     "stationuuid": "db4c4317-9acc-4712-9f0a-552c757beea2",
     "name": "CKJR \"Sports 1440\" Wetaskiwin, AB (MP3 Stream)",
     "url": "https://newcap.leanstream.co/CKJRAM-MP3",
     "url_resolved": "https://newcap.leanstream.co/CKJRAM-MP3",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Sports1440-splash-logo.png/500px-Sports1440-splash-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/642/ckjr-sports-1440.53a4f7c9.jpg",
     "country": "Canada",
     "tags": "new format rebranding,sports news,sports talk",
-    "votes": 23
+    "votes": 1601
   },
   {
     "stationuuid": "5ed9b39c-3118-47ab-b857-646c7a7655c4",
     "name": "CKLZ-FM 104.7 \"The Lizard\" Kelowna, BC",
     "url": "https://stream.jpbgdigital.com/CKLZ.m3u8",
     "url_resolved": "https://stream.jpbgdigital.com/CKLZ.m3u8",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2921/files/2021/07/thelizard104-logofiles-rgb-primary-colour-whitetext-1.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/479/cklz-fm-power-104.327603df.jpg",
     "country": "Canada",
     "tags": "mainstream rock",
-    "votes": 21
+    "votes": 1600
   },
   {
     "stationuuid": "0a70fdca-a57c-4fe3-b750-7f6449c67db9",
     "name": "CJNY-FM 106.3 \"The Journey\" Vancouver, BC",
     "url": "https://torres-media.streamb.live/SB00168",
     "url_resolved": "https://torres-media.streamb.live/SB00168",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2299/files/2023/03/website-hero-journeyfm-b-03.jpg",
+    "favicon": "https://cdn.radoxo.com/images/canada/the-journey-cjny-fm.webp",
     "country": "Canada",
     "tags": "classic hits,community radio,indigenous,urban indigenous",
-    "votes": 20
+    "votes": 1599
   },
   {
     "stationuuid": "3e81a753-0331-4e91-a8a9-d2e70e8124ed",
     "name": "CFQX-FM 104.1 \"QX104 Country\" Winnipeg, MB",
     "url": "https://stream.jpbgdigital.com/CFQX.m3u8",
     "url_resolved": "https://stream.jpbgdigital.com/CFQX.m3u8",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/671/files/2019/11/QX_Logo_Colour_Tag_2020-FANCY_temp_sm.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/eVUWfXvqXD.png",
     "country": "Canada",
     "tags": "country",
-    "votes": 20
+    "votes": 1598
   },
   {
     "stationuuid": "7dc3b69f-ffa2-4390-8fa4-f6d9a1ed2d9d",
     "name": "CKFX-FM \"101.9 Rock\" North Bay, ON",
     "url": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8",
     "url_resolved": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/77/1019Rock.jpg",
+    "favicon": "https://radioadminassets.rogersdigitalmedia.com/uploads/logo_101.9_Rock.png",
     "country": "Canada",
     "tags": "classic rock,mainstream rock,rogers media",
-    "votes": 19
+    "votes": 1597
   },
   {
     "stationuuid": "13f18035-dc5b-4348-a6fe-6a312525290e",
     "name": "CISM 89.3",
     "url": "http://stream03.ustream.ca:8000/cism128.mp3",
     "url_resolved": "http://stream03.ustream.ca:8000/cism128.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/401/cism-893-fm.9dc46280.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/401/cism-893-fm.9dc46280.jpg",
     "country": "Canada",
     "tags": "commercial,montréal,pop,québec",
-    "votes": 18
+    "votes": 1596
   },
   {
     "stationuuid": "9340d938-3dc6-4e4f-be8e-475af0c642c3",
     "name": "Country 102",
     "url": "https://bayshore-ais.leanstream.co/CJMUFM-MP3",
     "url_resolved": "https://bayshore-ais.leanstream.co/CJMUFM-MP3",
-    "favicon": "https://media.socastsrm.com/uploads/station/2129/hero_logo-5e1e2f9955847.png",
+    "favicon": "https://brucetelecom.com/wp-content/uploads/2019/12/Country-93.png",
     "country": "Canada",
-    "tags": "radio",
-    "votes": 17
+    "tags": "Country",
+    "votes": 1595
   },
   {
     "stationuuid": "b4a3105d-85d3-4315-b59e-f94bc37e9ba8",
     "name": "CHCQ-FM 100.1 \"Cool 100\" Belleville, ON",
     "url": "https://torres-media.streamb.live/SB00159",
     "url_resolved": "https://torres-media.streamb.live/SB00159",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2011/files/2018/09/728x300-CoolLOGO.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/027/chcq-cool-1001-fm.1921a3f8.jpg",
     "country": "Canada",
     "tags": "new country",
-    "votes": 17
+    "votes": 1594
   },
   {
     "stationuuid": "2e92fb60-679a-4d32-b965-aab28e9fa6c8",
     "name": "CJXX-FM \"Big Country 93.1\" Grand Prairie, AB",
     "url": "https://stream.jpbgdigital.com/CJXX.m3u8",
     "url_resolved": "https://stream.jpbgdigital.com/CJXX.m3u8",
-    "favicon": "https://media.socastsrm.com/uploads/station/726/hero_logo-5f4ff9e20c9fb.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/605/cjxx-fm-big-country-931.19d7adf9.jpg",
     "country": "Canada",
     "tags": "country",
-    "votes": 17
+    "votes": 1593
   },
   {
     "stationuuid": "74b330e8-b085-4bc2-8dbb-2e826d36dc8c",
     "name": "CHAT-FM 94.5 Medicine Hat, AB",
     "url": "https://stream.jpbgdigital.com/CHAT.m3u8",
     "url_resolved": "https://stream.jpbgdigital.com/CHAT.m3u8",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/3072/files/2022/09/webpage-header.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/623/wild-fm-945.f3f5e017.jpg",
     "country": "Canada",
     "tags": "country",
-    "votes": 16
+    "votes": 1592
   },
   {
     "stationuuid": "a7a8cb08-bedb-449c-96b9-7e0672e6d3c2",
     "name": "95.5 Hits FM",
     "url": "https://starboard.streamb.live/SB00160",
     "url_resolved": "https://starboard.streamb.live/SB00160",
-    "favicon": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2013/files/2019/09/LOGO-955-728x300.png",
+    "favicon": "https://radiobarfi.com/wp-content/uploads/2025/02/CJOJ-95.5-Hits-FM-live.jpg",
     "country": "Canada",
-    "tags": "radio",
-    "votes": 16
+    "tags": "Pop / Top 40,80s,90s",
+    "votes": 1591
   },
   {
     "stationuuid": "c442c5d5-344d-4fd0-a7e2-80b01e905372",
     "name": "CIBW-FM \"Big West Country 92.9\" Drayton Valley, AB",
     "url": "https://stream.jpbgdigital.com/CIBW.m3u8",
     "url_resolved": "https://stream.jpbgdigital.com/CIBW.m3u8",
-    "favicon": "https://media.socastsrm.com/uploads/station/587/hero_logo-5884738348110.png",
+    "favicon": "https://assets.radioplayer.org/124/124111/1400/1400/kyer1lbk.png",
     "country": "Canada",
     "tags": "country",
-    "votes": 15
+    "votes": 1590
   },
   {
     "stationuuid": "086126e6-76a1-445c-b710-ce65e8ffdcea",
