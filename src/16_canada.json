@@ -320,6 +320,16 @@
     "votes": 1619
   },
   {
+    "stationuuid": "403b6475-cb7b-4a94-97df-1b10c141aef9",
+    "name": "Eurodance Classic ... Pure - Classic - Addictive",
+    "url": "http://quincy.torontocast.com:2380/stream",
+    "url_resolved": "http://quincy.torontocast.com:2380/stream",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/eurodancekanada.png",
+    "country": "Canada",
+    "tags": "90's,90s,eurodance",
+    "votes": 1618
+  },
+  {
     "stationuuid": "20c2d803-b952-46ef-aab8-05313b1e286a",
     "name": "CBFM.ca Gaelic College - St. Ann's, NS",
     "url": "https://s4.radio.co/s6f58ddb4f/listen",
@@ -688,16 +698,6 @@
     "country": "Canada",
     "tags": "baroque,classical",
     "votes": 0
-  },
-  {
-    "stationuuid": "403b6475-cb7b-4a94-97df-1b10c141aef9",
-    "name": "Eurodance Classic ... Pure - Classic - Addictive",
-    "url": "http://quincy.torontocast.com:2380/stream",
-    "url_resolved": "http://quincy.torontocast.com:2380/stream",
-    "favicon": "https://www.radio-eurodance-classic.eu/images/logo_rec_kdj_300.jpg",
-    "country": "Canada",
-    "tags": "90's,90s,eurodance",
-    "votes": 793
   },
   {
     "stationuuid": "a2fa1a45-616d-48cd-8fe2-a866b205c4f8",
