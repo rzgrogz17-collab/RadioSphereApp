@@ -629,14 +629,14 @@
     "tags": "alternative,classic rock,rock,turkish rock",
     "votes": 1438
   },
-  {
-    "stationuuid": "c5cd0f2d-a8ee-42c6-82b6-df54f04460b8",
-    "name": "POPLAND",
-    "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
-    "url_resolved": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/popland.png",
+{
+    "stationuuid": "c7cd3f2d-a1ee-54c6-77b6-df54f115570b9",
+    "name": "Greatest Hits of All Time - Karnaval",
+    "url": "https://28553.live.streamtheworld.com/GHOAT_ENAAC.aac",
+    "url_resolved": "https://28553.live.streamtheworld.com/GHOAT_ENAAC.aac",
+    "favicon": "https://mediacdns.karnaval.com/media/station_media/108/logos/meta_image.png",
     "country": "Turkey",
-    "tags": "pop",
+    "tags": "yabancı,nostalji",
     "votes": 1437
   },
   {
@@ -710,6 +710,16 @@
     "votes": 1430
   },
   {
+    "stationuuid": "c5cd0f2d-a8ee-42c6-82b6-df54f04460b8",
+    "name": "POPLAND",
+    "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+    "url_resolved": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/popland.png",
+    "country": "Turkey",
+    "tags": "pop",
+    "votes": 1429
+  },
+  {
     "stationuuid": "2072d084-1863-4c73-ad67-2b5a0ab5fe70",
     "name": "Semerkand Radyo",
     "url": "https://semerkandshoutcast.mediatriple.net/semerkandradyolive/semerkandshoutcast.stream/Playlist.m3u8",
@@ -717,6 +727,6 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SEMERKANDRADYO.jpg",
     "country": "Turkey",
     "tags": "Dini",
-    "votes": 1429
+    "votes": 1428
   }
 ]
