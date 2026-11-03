@@ -331,13 +331,13 @@
   },
   {
     "stationuuid": "20c2d803-b952-46ef-aab8-05313b1e286a",
-    "name": "CBFM.ca Gaelic College - St. Ann's, NS",
-    "url": "https://s4.radio.co/s6f58ddb4f/listen",
-    "url_resolved": "https://s4.radio.co/s6f58ddb4f/listen",
-    "favicon": "https://static.wixstatic.com/media/6580fb_efe28fd1b5774572912bdf764664b9d6~mv2.png/v1/crop/x_46,y_18,w_1420,h_493/fill/w_1314,h_461,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/240897452_143291668001987_3110387522172709500_n.png",
+    "name": "Rythme 100.1 FM",
+    "url": "https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.mp3",
+    "url_resolved": "https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/936/cjeb-fm-1001-rythme-fm.3c6a8175.jpg",
     "country": "Canada",
-    "tags": "community radio,folk music",
-    "votes": 57
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 1617
   },
   {
     "stationuuid": "7893b26d-11d0-4b72-959e-633f72c473c5",
@@ -347,27 +347,27 @@
     "favicon": "https://radioadminassets.rogersdigitalmedia.com/uploads/CityNews_957_Vertical_Secondary_RGB.png",
     "country": "Canada",
     "tags": "radio",
-    "votes": 57
+    "votes": 1616
   },
   {
     "stationuuid": "c9c4cf3b-7ac6-458f-b0bb-3936b69886ca",
     "name": "CHOO-FM \"Boom 99.5\" Drumheller, AB",
     "url": "https://newcap.leanstream.co/CHOOFM",
     "url_resolved": "https://newcap.leanstream.co/CHOOFM",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2379/files/2019/08/boom995herologo.png",
+    "favicon": "https://assets.radioplayer.org/124/124568/1400/1400/kyer6wkt.png",
     "country": "Canada",
     "tags": "classic hits,stingray network",
-    "votes": 55
+    "votes": 1615
   },
   {
     "stationuuid": "f664f63c-6713-11e9-af37-52543be04c81",
     "name": "CHFX \"FX 101.9\" Halifax, NS",
     "url": "http://mbsradio.leanstream.co/CHFXFM-MP3",
     "url_resolved": "http://mbsradio.leanstream.co/CHFXFM-MP3",
-    "favicon": "https://fx1019.ca/wp-content/uploads/sites/3/2019/12/cropped-fx-1-192x192.png",
+    "favicon": "https://www.phonostar.de/images/auto_created/FX_1019184x184.png",
     "country": "Canada",
     "tags": "country,halifax",
-    "votes": 55
+    "votes": 1614
   },
   {
     "stationuuid": "89444c43-7d79-4211-9c4f-11c029739101",
