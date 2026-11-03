@@ -614,70 +614,70 @@
     "name": "CHHI-FM \"Rewind 95.9\" Miramichi, NB",
     "url": "http://newcap.leanstream.co/CHHIFM",
     "url_resolved": "http://newcap.leanstream.co/CHHIFM",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2302/files/2021/02/rewind-959-herologo.png",
+    "favicon": "CHHI-FM \"Rewind 95.9\" Miramichi, NB",
     "country": "Canada",
     "tags": "classic hits,re-branding new format,stingray network",
-    "votes": 14
+    "votes": 1589
   },
   {
     "stationuuid": "74f92612-750f-47c0-85dc-398e6234683c",
     "name": "CJHD \"93.3 Beach Radio\" North Battleford, SK",
     "url": "https://stream.jpbgdigital.com/CJHD.m3u8",
     "url_resolved": "https://stream.jpbgdigital.com/CJHD.m3u8",
-    "favicon": "https://media.socastsrm.com/uploads/station/2829/hero_logo-644025d6af6e7.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/BeachRadio93.jpg",
     "country": "Canada",
     "tags": "classic hits",
-    "votes": 14
+    "votes": 1588
   },
   {
     "stationuuid": "42b62c7d-006f-4586-bc5c-c899885ea737",
     "name": "CKTG-FM 105.3 \"Country 105\" Thunder Bay, ON",
     "url": "https://ais-sa1.streamon.fm/7238_128k.aac/playlist.m3u8",
     "url_resolved": "https://ais-sa1.streamon.fm/7238_128k.aac/playlist.m3u8",
-    "favicon": "https://media.socastsrm.com/uploads/station/1642/hero_logo-635a7bdb599f1.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/256/cktg-fm-country-105.2f313e72.png",
     "country": "Canada",
     "tags": "country",
-    "votes": 14
+    "votes": 1587
   },
   {
     "stationuuid": "1139346a-c2d9-4927-8482-933333ab086e",
     "name": "CKHY-FM 105.1 \"Surge 105\" Dartmouth, NS",
     "url": "https://ais-sa1.streamon.fm/7737_128k.aac/playlist.m3u8",
     "url_resolved": "https://ais-sa1.streamon.fm/7737_128k.aac/playlist.m3u8",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2908/files/2021/07/surge-1051-colour5.png",
+    "favicon": "https://pbs.twimg.com/profile_images/1576733515126902790/GB5dX6jl_400x400.jpg",
     "country": "Canada",
     "tags": "active rock",
-    "votes": 14
+    "votes": 1586
   },
   {
     "stationuuid": "d1460f05-6e73-44e8-9691-e18997eb075a",
     "name": "CHQX-FM \"Beach Radio 101.5\" Prince Albert, SK",
     "url": "https://stream.jpbgdigital.com/CHQX/HEAAC/48k/playlist.m3u8",
     "url_resolved": "https://stream.jpbgdigital.com/CHQX/HEAAC/48k/playlist.m3u8",
-    "favicon": "https://media.socastsrm.com/uploads/station/631/hero_logo-5f52505ea508d.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/pjvJQbHy2e.png",
     "country": "Canada",
     "tags": "classic hits",
-    "votes": 13
+    "votes": 1585
   },
   {
     "stationuuid": "d0be75e3-cfc9-4249-8937-62ed1069f125",
     "name": "CIJK-FM \"Rewind 89.3\" - New Minas, NS",
     "url": "http://newcap.leanstream.co/CIJKFM",
     "url_resolved": "http://newcap.leanstream.co/CIJKFM",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2306/files/2021/02/rewind-893-herologo.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/epuq8yAP8X.png",
     "country": "Canada",
     "tags": "classic hits,new format rebranding,stingray network",
-    "votes": 13
+    "votes": 1584
   },
   {
     "stationuuid": "54c53b2e-2dff-43d1-b4bb-25727419aebf",
     "name": "Radio BluesFlac",
     "url": "http://audio-edge-qse4n.yyz.g.radiomast.io/radioblues-flac",
     "url_resolved": "http://audio-edge-qse4n.yyz.g.radiomast.io/radioblues-flac",
-    "favicon": "https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/3ht3jhputwus.jpg",
     "country": "Canada",
     "tags": "jazz",
-    "votes": 0
+    "votes": 1583
   },
   {
     "stationuuid": "7c84ac30-1a0f-42f7-8b0d-40b5c6548abf",
