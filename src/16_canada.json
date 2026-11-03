@@ -684,10 +684,10 @@
     "name": "DKFM Shoegaze Radio",
     "url": "https://kathy.torontocast.com:2005/stream",
     "url_resolved": "https://kathy.torontocast.com:2005/stream",
-    "favicon": "https://i0.wp.com/decayfm.com/wp-content/uploads/2018/12/cropped-512-1.jpg?fit=180%2C180&#038;ssl=1",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/811/dkfm-shoegaze-radio.1d2216d6.jpg",
     "country": "Canada",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Alternative / Indie",
+    "votes": 1582
   },
   {
     "stationuuid": "5a056387-0cf9-11e8-ae97-52543be04c81",
@@ -697,7 +697,7 @@
     "favicon": "https://calmradio.com/images/logo/Calm-LOGO%202015.png",
     "country": "Canada",
     "tags": "baroque,classical",
-    "votes": 0
+    "votes": 1581
   },
   {
     "stationuuid": "a2fa1a45-616d-48cd-8fe2-a866b205c4f8",
@@ -707,76 +707,76 @@
     "favicon": "https://dams.cdn.unippm.com/AlbumImages/370x370/4a0a42ec365e45eab376d200883e7094.jpg",
     "country": "Canada",
     "tags": "radio",
-    "votes": 0
+    "votes": 1580
   },
   {
     "stationuuid": "e4d9cbf4-29c8-49f1-a642-e2be978a7e83",
     "name": "Addictive-50s - Golden oldies",
     "url": "http://quincy.torontocast.com:2920/stream",
     "url_resolved": "http://quincy.torontocast.com:2920/stream",
-    "favicon": "https://www.radio-addictive-50s.eu/images/logo175.jpg",
+    "favicon": "https://www.liveradio.ie/media/images/radio_addictive_50s.max-1200x1200.jpg",
     "country": "Canada",
     "tags": "50's,50s,oldies",
-    "votes": 0
+    "votes": 1579
   },
   {
     "stationuuid": "9623da57-0601-11e8-ae97-52543be04c81",
     "name": "CKOM News/Talk 650 (Saskatoon, SK)",
     "url": "http://rawlco.leanstream.co/CKOMAM",
     "url_resolved": "http://rawlco.leanstream.co/CKOMAM",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/XattXZ3sKM.jpeg",
+    "favicon": "https://trustyourplate.com/wp-content/uploads/2025/07/650-CKOM.png",
     "country": "Canada",
     "tags": "news,news talk,sport,talk",
-    "votes": 0
+    "votes": 1578
   },
   {
     "stationuuid": "aa7c6fe8-a287-11e9-a787-52543be04c81",
     "name": "Cladrite Radio at Live365",
     "url": "http://das-edge93-live365-dal05.cdnstream.com/a43564",
     "url_resolved": "http://das-edge93-live365-dal05.cdnstream.com/a43564",
-    "favicon": "https://cladriteradio.com/wp-content/uploads/2018/07/cr_radio_thumb.jpg",
+    "favicon": "https://www.getmeradio.com/stations/cladriteradio-4663/logos/512x512.png",
     "country": "Canada",
     "tags": "20's,30's,40's",
-    "votes": 257
+    "votes": 1577
   },
   {
     "stationuuid": "35fa9c1c-4f62-4cdc-93fc-b895f6f91b73",
     "name": "加拿大中文电台FM94.7",
     "url": "https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8",
     "url_resolved": "https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8",
-    "favicon": "https://zuiai.tv/zb_users/upload/2025/3/2025032078290297.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/188/chkf-fm-fairchild-radio-947.8727f078.jpg",
     "country": "Canada",
     "tags": "full service",
-    "votes": 221
+    "votes": 1576
   },
   {
     "stationuuid": "402018c3-5a5f-4c63-a40d-197aba67d322",
     "name": "Labgate Radio Clasic Rock",
     "url": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
     "url_resolved": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
-    "favicon": "http://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342-246x300.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/617/labgate-radio-progressive-rock.740bab36.png",
     "country": "Canada",
-    "tags": "radio",
-    "votes": 172
+    "tags": "Rock",
+    "votes": 1575
   },
   {
     "stationuuid": "628e41f5-abea-4ead-ba84-72c6d9bdd391",
     "name": "CHKG-FM 96.1 \"Fairchild Radio\" Vancouver, BC",
     "url": "https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8",
     "url_resolved": "https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/500px-Fairchild_Radio_FM96.1_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/839/chkg-fm-fairchild-radio-961-fm.d095a1c8.png",
     "country": "Canada",
-    "tags": "multicultural,multilingual,world music",
-    "votes": 152
+    "tags": "talk,multicultural,multilingual,world music",
+    "votes": 1574
   },
   {
     "stationuuid": "ff0d0aa7-6738-41e5-a968-ea5435c665b4",
     "name": "CJMO-FM 103.1 \"Q103\" - Moncton, NB",
     "url": "http://newcap.leanstream.co/CJMOFM",
     "url_resolved": "http://newcap.leanstream.co/CJMOFM",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/907/files/2021/01/q-103-herologo-609x300-1.png",
+    "favicon": "https://assets.radioplayer.org/124/124631/1024/768/kyequ6ox.png",
     "country": "Canada",
     "tags": "active rock,classic rock,new format rebranding,stingray network",
-    "votes": 139
+    "votes": 1573
   }
 ]
