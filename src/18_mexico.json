@@ -1,125 +1,5 @@
 [
   {
-    "stationuuid": "a5b56fc7-32ea-11e9-8f31-52543be04c81",
-    "name": "Convoy en vivo",
-    "url": "https://live.convoynetwork.com/stream",
-    "url_resolved": "https://live.convoynetwork.com/stream",
-    "favicon": "https://i1.sndcdn.com/avatars-000199680373-henxih-t1080x1080.jpg",
-    "country": "Mexico",
-    "tags": "classic rock,latin music,rock",
-    "votes": 103
-  },
-  {
-    "stationuuid": "427e7eda-148e-4da0-b63b-eb4bb9be92ab",
-    "name": "La Ke Buena Ciudad de México - 92.9 FM",
-    "url": "https://18323.live.streamtheworld.com/KEBUENAAAC_SC",
-    "url_resolved": "https://18323.live.streamtheworld.com/KEBUENAAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/B2eyugprMp.png",
-    "country": "Mexico",
-    "tags": "92.9,92.9 fm,banda,cdmx,ciudad de méxico,estación,fm,grupera",
-    "votes": 48
-  },
-  {
-    "stationuuid": "5355a4fe-be93-4f87-a172-0aa89638dcaa",
-    "name": "La Z Ciudad de México - 107.3 FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/335/la-z-1073.071021f6.png",
-    "country": "Mexico",
-    "tags": "107.3,107.3 fm,banda,cdmx,ciudad de mexico",
-    "votes": 41
-  },
-  {
-    "stationuuid": "a0b40c3f-aede-46e9-b67f-38cd8b262936",
-    "name": "88.9 Noticias - 88.9 FM - XHM-FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/466/889-noticias.62cade58.png",
-    "country": "Mexico",
-    "tags": "88.9,88.9 fm,acir,balada en español,baladas en español,cdmx,ciudad de méxico,espacio deportivo",
-    "votes": 40
-  },
-  {
-    "stationuuid": "177cc601-a536-41cc-bd67-7d10b1a5dee1",
-    "name": "Radio Felicidad - 1180 AM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/3mcjUGcbrc.jpg",
-    "country": "Mexico",
-    "tags": "1180 am,60s,70s,80s,acir,am,balada,balada en español,balada pop,balada romántica,baladas",
-    "votes": 40
-  },
-  {
-    "stationuuid": "11ee3ad5-ead9-47de-ab04-7e0d06789a15",
-    "name": "Amor Ciudad de México - 95.3 FM",
-    "url": "https://14613.live.streamtheworld.com/XHSHFMAAC_SC",
-    "url_resolved": "https://14613.live.streamtheworld.com/XHSHFMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg",
-    "country": "Mexico",
-    "tags": "95.3,95.3 fm,acir,amor,amor sólo música romántica,balada,balada en español,baladas,baladas en español,cdmx,ciudad de méxico,estación,fm,grupo acir,iheart,iheart radio,la hora de luis miguel,luna de amor,mex,mx,méxico,música,radio,sólo música romántica",
-    "votes": 35
-  },
-  {
-    "stationuuid": "12a970e2-443a-4640-8775-5c6b0f238c4a",
-    "name": "SABROSITA Ciudad de México - 590 AM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac",
-    "favicon": "https://yt3.ggpht.com/ytc/AAUvwnjGCqHNgRIXL-qgnm4HKlYyXS_1Yy-ctciPKLMI=s900-c-k-c0x00ffffff-no-rj",
-    "country": "Mexico",
-    "tags": "590,590 am,am,ciudad de mexico,ciudad de méxico,ciudad mexico,estación,latin  salsa kumbia  merenge  reggaeton,mex,mexico,mexico city,music,musica tropical,mx,méxico,música,nrm comunicaciones,radio,sabrosita,salsa,salsas,tropical,tropical music,valle de méxico",
-    "votes": 30
-  },
-  {
-    "stationuuid": "46b51010-c2c5-45b6-a71c-84d168a705a3",
-    "name": "La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL",
-    "url": "http://streamingcwsradio20.com:9410/stream",
-    "url_resolved": "http://streamingcwsradio20.com:9410/stream",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/506/la-ranchera-de-monterrey.4199c2c2.png",
-    "country": "Mexico",
-    "tags": "1050,1050 am,am,estación,grupera,grupero,mex,mexican music,mexico,monterrey,musica mexicana,musica regional,musica regional mexicana,musica tradicional mexicana,mx,méxico,música popular mexicana,música regional,nuevo leon,nuevo león,núcleo radio monterrey,radio,ranchera,rancheras,regional,regional mexican,regional mexicana,regional radio,traditional mexican music",
-    "votes": 25
-  },
-  {
-    "stationuuid": "15a269a7-9f65-4deb-874a-4b4e6c65c358",
-    "name": "MIX Ciudad de México - 106.5 FM",
-    "url": "https://18443.live.streamtheworld.com/XHDFMFMAAC_SC",
-    "url_resolved": "https://18443.live.streamtheworld.com/XHDFMFMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/QcAZwkB4r5.png",
-    "country": "Mexico",
-    "tags": "2000s,2010s,80s,90s,90s y más,acir,cdmx,ciudad de méxico,estación,grupo acir,iheart,iheart radio,mex,mix,mix fm,mx,méxico,pop,radio",
-    "votes": 25
-  },
-  {
-    "stationuuid": "04d0c498-c6c9-4365-8212-9ad29e6e09c1",
-    "name": "MIX: 80's, 90's y Más",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
-    "url_resolved": "https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/638/mix-1023-acapulco.982c283b.png",
-    "country": "Mexico",
-    "tags": "106.5 fm,2000s,2010s,70s,80s,80s 90s y más,90s,90s y más,acir,acir online,américa,cdmx,ciudad de méxico,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo acir,iheart,iheart radio,latinoamérica,mexico city,mix,mix fm,music,méxico,música,música del recuerdo,música en inglés,música pop,norteamérica,oldies,pop,pop en inglés,pop music,radio,retro hits,retro music,valle de méxico,éxitos",
-    "votes": 23
-  },
-  {
-    "stationuuid": "961844bb-0601-11e8-ae97-52543be04c81",
-    "name": "W Radio Ciudad de México",
-    "url": "https://18503.live.streamtheworld.com/W_RADIO_SC",
-    "url_resolved": "https://18503.live.streamtheworld.com/W_RADIO_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/296/w-radio-mexico.06306eb0.jpg",
-    "country": "Mexico",
-    "tags": "adult contemporary,live sports,local news,mexico city,news,news talk,sports news,talk radio",
-    "votes": 23
-  },
-  {
-    "stationuuid": "73e94c4e-a02a-4b34-be03-44c8496cd9ba",
-    "name": "Oldies Internet Radio",
-    "url": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
-    "url_resolved": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/311/oldies-internet-radio.5ed303e5.jpg",
-    "country": "Mexico",
-    "tags": "70s,80s,adult contemporary,adult hits,américa,charts,classic hits,classic rock,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo digital retroland,internet,internet radio,latinoamérica,love songs,moi merino,monterrey,méxico,música del recuerdo,música en inglés,norteamérica,nuevo león,oldies,online,online only,only music,pop en inglés,radio,radio online,retro,soft rock,top charts",
-    "votes": 22
-  },
-  {
     "stationuuid": "86fb3b9a-2b61-11e8-91bf-52543be04c81",
     "name": "Los 40 Principales México",
     "url": "https://27573.live.streamtheworld.com/LOS40_CHILE_SC",
@@ -127,307 +7,7 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/290/los-40-principales-chile.b3eabffc.jpg",
     "country": "Mexico",
     "tags": "hits,latin pop,top 40",
-    "votes": 14930
-  },
-  {
-    "stationuuid": "3e50c7de-ce7c-45e3-9e6f-288d3fca0699",
-    "name": "Radio Fórmula - 104.1 FM",
-    "url": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
-    "url_resolved": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/394/radio-formula-1041.6735a384.png",
-    "country": "Mexico",
-    "tags": "104.1,104.1 fm,acustic,cdmx,ciudad de mexico,ciudad de méxico",
-    "votes": 3707
-  },
-  {
-    "stationuuid": "fa01778a-cf8f-4151-835e-5f251ad333fb",
-    "name": "Radio UNAM 96.1 FM",
-    "url": "https://tv.radiohosting.online:9484/stream",
-    "url_resolved": "https://tv.radiohosting.online:9484/stream",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/783/radio-unam-961-fm.e71c66a7.png",
-    "country": "Mexico",
-    "tags": "96.1,96.1 fm,ciudad de méxico,college,college radio,cultura",
-    "votes": 357
-  },
-  {
-    "stationuuid": "37445f60-835b-4790-bf1f-1ed932ce6789",
-    "name": "CULTURA 96.5",
-    "url": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream",
-    "url_resolved": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/443/tremenda-durango-965-fm.6bec9bc8.jpg",
-    "country": "Mexico",
-    "tags": "96.5 fm,américa,ciudad de méxico,concesión pública,cultura,cultura 96.5",
-    "votes": 6
-  },
-  {
-    "stationuuid": "f8fb7eac-cc70-4e71-b56d-47ff892f9e85",
-    "name": "La Octava 88.1 FM",
-    "url": "https://18863.live.streamtheworld.com/XHRED_FMAAC_SC",
-    "url_resolved": "https://18863.live.streamtheworld.com/XHRED_FMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/333/la-octava-881-fm.ab01c4ec.jpg",
-    "country": "Mexico",
-    "tags": "Radio hablada,Noticias",
-    "votes": 4183
-  },
-  {
-    "stationuuid": "431b426b-e654-4b7d-8f42-230a6fa65fc9",
-    "name": "UNIVERSAL STEREO ONLINE (CDMX)",
-    "url": "https://27063.live.streamtheworld.com:443/XERC_FMAAC.aac",
-    "url_resolved": "https://27063.live.streamtheworld.com:443/XERC_FMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/514/universal-stereo-colombia.e408f144.jpg",
-    "country": "Mexico",
-    "tags": "1970s,1980's,1980s,70 80 hits,70's,70s",
-    "votes": 113
-  },
-  {
-    "stationuuid": "960c154f-0601-11e8-ae97-52543be04c81",
-    "name": "Exa FM 100.5",
-    "url": "https://18503.live.streamtheworld.com/XHFRE.mp3",
-    "url_resolved": "https://18503.live.streamtheworld.com/XHFRE.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/215/exa-fm-fresnillo.d11329fd.png",
-    "country": "Mexico",
-    "tags": "Pop / Top 40",
-    "votes": 7064
-  },
-  {
-    "stationuuid": "04d8949c-1d24-4e74-9550-92e645764e5b",
-    "name": "90s Dance by Mix - Ciudad de México",
-    "url": "https://19273.live.streamtheworld.com:443/ACIR11_S01AAC.aac",
-    "url_resolved": "https://19273.live.streamtheworld.com:443/ACIR11_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/90sDancebyMix.png",
-    "country": "Mexico",
-    "tags": "acir,acir online,cdmx,ciudad de méxico,club dance,clásicos",
-    "votes": 3324
-  },
-  {
-    "stationuuid": "7a163be5-9e29-11e9-a787-52543be04c81",
-    "name": "Rock 101",
-    "url": "https://s3.radio.co/s2c1cebae5/listen",
-    "url_resolved": "https://s3.radio.co/s2c1cebae5/listen",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/569/rock-101.fc2826c0.jpg",
-    "country": "Mexico",
-    "tags": "radio",
-    "votes": 1205
-  },
-  {
-    "stationuuid": "082080f5-09e1-4727-b973-584a84e5560a",
-    "name": "SIEMPRE GRUPEROS de LA COMADRE",
-    "url": "https://23263.live.streamtheworld.com:443/ACIR07_S01AAC.aac",
-    "url_resolved": "https://23263.live.streamtheworld.com:443/ACIR07_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SIEMPREGRUPEROS.png",
-    "country": "Mexico",
-    "tags": "acir,acir online,américa,cdmx,ciudad de méxico,entretenimiento",
-    "votes": 943
-  },
-  {
-    "stationuuid": "8247894d-8dd6-49fd-a5f6-407b0a9446a8",
-    "name": "Tu Estación (Aguascalientes) - 92.7 FM",
-    "url": "https://streamingcwsradio30.com:7008/;",
-    "url_resolved": "https://streamingcwsradio30.com:7008/;",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/TuEstaci%C3%B3n927FM.jpg",
-    "country": "Mexico",
-    "tags": "92.7 fm,aguascalientes,aguascalientes city,estación,fm,latinoamérica",
-    "votes": 850
-  },
-  {
-    "stationuuid": "77f3af0c-eb5b-4644-9188-c67cf1881838",
-    "name": "El Patrón (Xalapa) - 104.9 FM",
-    "url": "http://ssc.cnwks.ws:8365/;",
-    "url_resolved": "http://ssc.cnwks.ws:8365/;",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/230/el-patron-1049-fm.21698617.jpg",
-    "country": "Mexico",
-    "tags": "104.9 fm,banda,el patrón,entretenimiento,español,estación",
-    "votes": 755
-  },
-  {
-    "stationuuid": "aff0c386-9338-4467-826e-37e121861a68",
-    "name": "Llegó el Mariachi",
-    "url": "https://17633.live.streamtheworld.com:443/ACIR34_S01AAC.aac",
-    "url_resolved": "https://17633.live.streamtheworld.com:443/ACIR34_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/Lleg%C3%B3elMariachi.png",
-    "country": "Mexico",
-    "tags": "acir,acir online,cdmx,ciudad de méxico,entretenimiento,español",
-    "votes": 668
-  },
-  {
-    "stationuuid": "d1956bb5-d76f-4027-ba61-dc57f991b195",
-    "name": "La Mejor Guadalajara - 95.5 FM",
-    "url": "https://17573.live.streamtheworld.com:443/XHRO_SC",
-    "url_resolved": "https://17573.live.streamtheworld.com:443/XHRO_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/143/la-mejor-guadalajara.df40a6df.png",
-    "country": "Mexico",
-    "tags": "95.5,95.5 fm,aquí nomás,banda,banda norteña,banda tradicional",
-    "votes": 491
-  },
-  {
-    "stationuuid": "020eb4cb-f51a-47e8-be84-5e636e55f541",
-    "name": "La Ke Buena Guadalajara - 97.1 FM",
-    "url": "https://15723.live.streamtheworld.com:443/KEBUENA_GDL_SC",
-    "url_resolved": "https://15723.live.streamtheworld.com:443/KEBUENA_GDL_SC",
-    "favicon": "https://i.ibb.co/2nMXX5T/gdl.png",
-    "country": "Mexico",
-    "tags": "97.1,97.1 fm,banda,estación,fm,gdl",
-    "votes": 385
-  },
-  {
-    "stationuuid": "0a607b94-b95b-4b4a-b2ef-6c2613793535",
-    "name": "La Mejor León - 99.9 FM",
-    "url": "https://14223.live.streamtheworld.com:443/XHSOFM_SC",
-    "url_resolved": "https://14223.live.streamtheworld.com:443/XHSOFM_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/158/la-mejor-puerto-vallarta.7853cec3.jpg",
-    "country": "Mexico",
-    "tags": "99.9,99.9 fm,aquí nomás,banda,banda norteña,banda tradicional",
-    "votes": 349
-  },
-  {
-    "stationuuid": "d7e4cbb9-2f57-4f0b-a359-148d25b80108",
-    "name": "La Mejor Cuernavaca - 97.3 FM",
-    "url": "https://18303.live.streamtheworld.com:443/XHVZ_SC",
-    "url_resolved": "https://18303.live.streamtheworld.com:443/XHVZ_SC",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/139/la-mejor-cuernavaca.e49c13b4.png",
-    "country": "Mexico",
-    "tags": "97.3,97.3 fm,aquí nomás,banda,banda norteña,banda tradicional",
-    "votes": 304
-  },
-  {
-    "stationuuid": "a2e3a2a1-1eab-4a51-b9a5-2316ef9ca2c0",
-    "name": "La Mega FM",
-    "url": "https://stream.zeno.fm/pue2w5z54v8uv",
-    "url_resolved": "https://stream.zeno.fm/pue2w5z54v8uv",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/411/la-mega-fm-mexico.326596c8.jpg",
-    "country": "Mexico",
-    "tags": "#90s,102.9,102.9 fm,1980's,1980s,1990s",
-    "votes": 262
-  },
-  {
-    "stationuuid": "b6809aff-5118-408f-bb65-8405837b9382",
-    "name": "JOYA 93.7 (CDMX)",
-    "url": "https://26223.live.streamtheworld.com:443/XEJP_FMAAC.aac",
-    "url_resolved": "https://26223.live.streamtheworld.com:443/XEJP_FMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/332/stereo-joya.f116b7a0.jpg",
-    "country": "Mexico",
-    "tags": "93.7 fm,américa,balada en español,balada pop,balada romántica,cdmx",
-    "votes": 241
-  },
-  {
-    "stationuuid": "ce16e40f-1756-489c-aadc-bca24eecc008",
-    "name": "Romántica (Culiacán) - 89.5 FM",
-    "url": "https://stream-159.zeno.fm/3195h8s3ekhvv",
-    "url_resolved": "https://stream-159.zeno.fm/3195h8s3ekhvv",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/592/romantica-895-fm.e10ba3a6.png",
-    "country": "Mexico",
-    "tags": "89.5 fm,balada,balada pop,baladas,baladas en español,culiacán",
-    "votes": 226
-  },
-  {
-    "stationuuid": "2fe9872c-608f-4c66-a6a5-a502dec53445",
-    "name": "Sounds Of Yesterday",
-    "url": "https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac",
-    "url_resolved": "https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SoundsOfYesterday.jpg",
-    "country": "Mexico",
-    "tags": "acir,acir online,américa,cdmx,ciudad de mexico,ciudad de méxico",
-    "votes": 201
-  },
-  {
-    "stationuuid": "d31be487-8d63-4adf-9b9e-365f4d654818",
-    "name": "Fusión Veracruz - 90.1 FM",
-    "url": "https://sg.centrocibernetico.com/fusion",
-    "url_resolved": "https://sgaudio.centrocibernetico.com/fusion",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/141/fusion-901-fm.80961fea.jpg",
-    "country": "Mexico",
-    "tags": "90.1,90.1 fm,boca del río,fm,grupo pazos,mex",
-    "votes": 196
-  },
-  {
-    "stationuuid": "5d120dd6-a8ce-44ca-af19-486c393f3a71",
-    "name": "DK 1250 (GDL)",
-    "url": "https://sp2.servidorrprivado.com:10947/;",
-    "url_resolved": "https://sp2.servidorrprivado.com:10947/;",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/261/dk-1250-am.b47eb957.jpg",
-    "country": "Mexico",
-    "tags": "1250 am,am,américa,dk,entretenimiento,español",
-    "votes": 183
-  },
-  {
-    "stationuuid": "6eef21a3-51bd-4047-b8d4-e3f80daae4c7",
-    "name": "Retro 107.5 (GDL)",
-    "url": "https://ss1.audiorama.com.mx:6574/vibefm",
-    "url_resolved": "https://ss1.audiorama.com.mx:6574/vibefm",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RETRO107MEX.jpg",
-    "country": "Mexico",
-    "tags": "107.5 fm,américa,clásicos,clásicos en español,entretenimiento,español",
-    "votes": 181
-  },
-  {
-    "stationuuid": "c5875b34-2648-41df-b679-b6e2a8be6964",
-    "name": "RADAR 107.5 (Querétaro)",
-    "url": "https://radios.radiohd.com.mx/8268/stream",
-    "url_resolved": "https://radios.radiohd.com.mx/8268/stream",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/912/radar-fm.8115903d.png",
-    "country": "Mexico",
-    "tags": "107.5 fm,contemporary hits radio,entretenimiento,español,estación,fm",
-    "votes": 175
-  },
-  {
-    "stationuuid": "e9c2ca34-4c1f-403a-9145-8c5cc0207684",
-    "name": "AMOR 93.1 (Guadalajara)",
-    "url": "https://15313.live.streamtheworld.com:443/XHPIFMAAC.aac",
-    "url_resolved": "https://15313.live.streamtheworld.com:443/XHPIFMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/020/amor-931-fm.25ddd855.png",
-    "country": "Mexico",
-    "tags": "93.1 fm,acir,amor,amor sólo música romántica,balada,balada en español",
-    "votes": 153
-  },
-  {
-    "stationuuid": "f3f99261-7b53-4c2b-86a9-b71eba41202a",
-    "name": "LUPE 93.3",
-    "url": "https://cast.zuperdns.net/8010/stream/",
-    "url_resolved": "https://cast.zuperdns.net/8010/stream/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/511/lupe-933-fm.280cac62.png",
-    "country": "Mexico",
-    "tags": "93.3 fm,américa,banda,banda norteña,banda tradicional,entretenimiento",
-    "votes": 145
-  },
-  {
-    "stationuuid": "c18ca205-f8fe-4dac-b765-5858a3db1623",
-    "name": "EL FONÓGRAFO, Música las 24 horas",
-    "url": "https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac",
-    "url_resolved": "https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/343/el-fonografo.93859ddd.png",
-    "country": "Mexico",
-    "tags": "américa,balada pop,cdmx,ciudad de méxico,clásicos,clásicos en español",
-    "votes": 127
-  },
-  {
-    "stationuuid": "232ca184-6303-4289-97c9-73d46cb87830",
-    "name": "XEU 98.1",
-    "url": "http://sgaudio.centrocibernetico.com/xeu",
-    "url_resolved": "http://sgaudio.centrocibernetico.com/xeu",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/675/xeu-981-fm.170de65a.png",
-    "country": "Mexico",
-    "tags": "98.1 fm,boca del río,deporte,deportes,entretenimiento,estación",
-    "votes": 122
-  },
-  {
-    "stationuuid": "0a6649bc-239a-4cc5-94f3-e4b73d0128f0",
-    "name": "LA RANCHERITA DEL AIRE 580 (Piedras Negras)",
-    "url": "https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3",
-    "url_resolved": "https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/953/la-rancherita-del-aire.7c4b0369.jpg",
-    "country": "Mexico",
-    "tags": "103.7 fm,580 am,am,américa,coahuila,combo",
-    "votes": 113
-  },
-  {
-    "stationuuid": "35259251-5efa-4cb2-8dad-dcde7223e9b7",
-    "name": "Radio UDEM (Monterrey) - 90.5 FM",
-    "url": "http://c3.radioboss.fm:8161/stream",
-    "url_resolved": "http://c3.radioboss.fm:8161/stream",
-    "favicon": "https://i1.sndcdn.com/avatars-000335369146-vl9g0n-t500x500.jpg",
-    "country": "Mexico",
-    "tags": "90.5,90.5 fm,college,college radio,estación,fm",
-    "votes": 105
+    "votes": 2000
   },
   {
     "stationuuid": "5cf785ae-1a67-4b74-bc37-61f6596fe4fd",
@@ -437,7 +17,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/LOS40CiudaddeM1017FM.jpg",
     "country": "Mexico",
     "tags": "101.7,101.7 fm,cdmx,ciudad de méxico,entretenimiento,estación",
-    "votes": 1828
+    "votes": 1999
   },
   {
     "stationuuid": "83255f04-4467-4120-b951-65dc3bc942d7",
@@ -447,27 +27,27 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/846/los-40-principales-mexico.b3eabffc.jpg",
     "country": "Mexico",
     "tags": "101.7,101.7 fm,cdmx,ciudad de mexico,ciudad de méxico,ciudad mexico",
-    "votes": 292
+    "votes": 1998
   },
   {
-    "stationuuid": "26dbebd8-35f6-479d-92ba-170bab29eacd",
-    "name": "LOS40 San Luis Potosí - 103.9 FM",
-    "url": "https://playradio.mx/proxy/los40?mp=/stream",
-    "url_resolved": "https://playradio.mx/proxy/los40?mp=/stream",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/075/los-40-san-luis-potosi.62505800.jpg",
+    "stationuuid": "427e7eda-148e-4da0-b63b-eb4bb9be92ab",
+    "name": "La Ke Buena Ciudad de México - 92.9 FM",
+    "url": "https://18323.live.streamtheworld.com/KEBUENAAAC_SC",
+    "url_resolved": "https://18323.live.streamtheworld.com/KEBUENAAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/B2eyugprMp.png",
     "country": "Mexico",
-    "tags": "103.9,103.9 fm,entretenimiento,estación,fm,globalmedia",
-    "votes": 136
+    "tags": "92.9,92.9 fm,banda,cdmx,ciudad de méxico,estación,fm,grupera",
+    "votes": 1997
   },
   {
-    "stationuuid": "384009b7-b4e9-4c27-bf6d-51e90ba3da4c",
-    "name": "LOS40 Mexicali - 90.7 FM",
-    "url": "https://26143.live.streamtheworld.com:443/LOS40_MEXICO2AAC.aac",
-    "url_resolved": "https://26143.live.streamtheworld.com:443/LOS40_MEXICO2AAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/063/los-40-principales-mexicali.4ffb761b.jpg",
+    "stationuuid": "960c154f-0601-11e8-ae97-52543be04c81",
+    "name": "Exa FM 100.5",
+    "url": "https://18503.live.streamtheworld.com/XHFRE.mp3",
+    "url_resolved": "https://18503.live.streamtheworld.com/XHFRE.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/215/exa-fm-fresnillo.d11329fd.png",
     "country": "Mexico",
-    "tags": "90.7,90.7 fm,baja california,entretenimiento,estación,fm",
-    "votes": 128
+    "tags": "Pop / Top 40",
+    "votes": 1996
   },
   {
     "stationuuid": "5766fc5b-ce3e-4f46-a5b3-c274ea46d8e6",
@@ -477,7 +57,127 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/329/alfa-913.163928d9.png",
     "country": "Mexico",
     "tags": "91.3,91.3 fm,alfa,cdmx,ciudad de mexico,ciudad de méxico",
-    "votes": 6738
+    "votes": 1995
+  },
+  {
+    "stationuuid": "961844bb-0601-11e8-ae97-52543be04c81",
+    "name": "W Radio Ciudad de México",
+    "url": "https://18503.live.streamtheworld.com/W_RADIO_SC",
+    "url_resolved": "https://18503.live.streamtheworld.com/W_RADIO_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/296/w-radio-mexico.06306eb0.jpg",
+    "country": "Mexico",
+    "tags": "adult contemporary,live sports,local news,mexico city,news,news talk,sports news,talk radio",
+    "votes": 1994
+  },
+  {
+    "stationuuid": "3e50c7de-ce7c-45e3-9e6f-288d3fca0699",
+    "name": "Radio Fórmula - 104.1 FM",
+    "url": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
+    "url_resolved": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/394/radio-formula-1041.6735a384.png",
+    "country": "Mexico",
+    "tags": "104.1,104.1 fm,acustic,cdmx,ciudad de mexico,ciudad de méxico",
+    "votes": 1993
+  },
+  {
+    "stationuuid": "5355a4fe-be93-4f87-a172-0aa89638dcaa",
+    "name": "La Z Ciudad de México - 107.3 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/335/la-z-1073.071021f6.png",
+    "country": "Mexico",
+    "tags": "107.3,107.3 fm,banda,cdmx,ciudad de mexico",
+    "votes": 1992
+  },
+  {
+    "stationuuid": "15a269a7-9f65-4deb-874a-4b4e6c65c358",
+    "name": "MIX Ciudad de México - 106.5 FM",
+    "url": "https://18443.live.streamtheworld.com/XHDFMFMAAC_SC",
+    "url_resolved": "https://18443.live.streamtheworld.com/XHDFMFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/QcAZwkB4r5.png",
+    "country": "Mexico",
+    "tags": "2000s,2010s,80s,90s,90s y más,acir,cdmx,ciudad de méxico,estación,grupo acir,iheart,iheart radio,mex,mix,mix fm,mx,méxico,pop,radio",
+    "votes": 1991
+  },
+  {
+    "stationuuid": "11ee3ad5-ead9-47de-ab04-7e0d06789a15",
+    "name": "Amor Ciudad de México - 95.3 FM",
+    "url": "https://14613.live.streamtheworld.com/XHSHFMAAC_SC",
+    "url_resolved": "https://14613.live.streamtheworld.com/XHSHFMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg",
+    "country": "Mexico",
+    "tags": "95.3,95.3 fm,acir,amor,amor sólo música romántica,balada,balada en español,baladas,baladas en español,cdmx,ciudad de méxico,estación,fm,grupo acir,iheart,iheart radio,la hora de luis miguel,luna de amor,mex,mx,méxico,música,radio,sólo música romántica",
+    "votes": 1990
+  },
+  {
+    "stationuuid": "fa01778a-cf8f-4151-835e-5f251ad333fb",
+    "name": "Radio UNAM 96.1 FM",
+    "url": "https://tv.radiohosting.online:9484/stream",
+    "url_resolved": "https://tv.radiohosting.online:9484/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/783/radio-unam-961-fm.e71c66a7.png",
+    "country": "Mexico",
+    "tags": "96.1,96.1 fm,ciudad de méxico,college,college radio,cultura",
+    "votes": 1989
+  },
+  {
+    "stationuuid": "a0b40c3f-aede-46e9-b67f-38cd8b262936",
+    "name": "88.9 Noticias - 88.9 FM - XHM-FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/466/889-noticias.62cade58.png",
+    "country": "Mexico",
+    "tags": "88.9,88.9 fm,acir,balada en español,baladas en español,cdmx,ciudad de méxico,espacio deportivo",
+    "votes": 1988
+  },
+  {
+    "stationuuid": "b6809aff-5118-408f-bb65-8405837b9382",
+    "name": "JOYA 93.7 (CDMX)",
+    "url": "https://26223.live.streamtheworld.com:443/XEJP_FMAAC.aac",
+    "url_resolved": "https://26223.live.streamtheworld.com:443/XEJP_FMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/332/stereo-joya.f116b7a0.jpg",
+    "country": "Mexico",
+    "tags": "93.7 fm,américa,balada en español,balada pop,balada romántica,cdmx",
+    "votes": 1987
+  },
+  {
+    "stationuuid": "f8fb7eac-cc70-4e71-b56d-47ff892f9e85",
+    "name": "La Octava 88.1 FM",
+    "url": "https://18863.live.streamtheworld.com/XHRED_FMAAC_SC",
+    "url_resolved": "https://18863.live.streamtheworld.com/XHRED_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/333/la-octava-881-fm.ab01c4ec.jpg",
+    "country": "Mexico",
+    "tags": "Radio hablada,Noticias",
+    "votes": 1986
+  },
+  {
+    "stationuuid": "177cc601-a536-41cc-bd67-7d10b1a5dee1",
+    "name": "Radio Felicidad - 1180 AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/3mcjUGcbrc.jpg",
+    "country": "Mexico",
+    "tags": "1180 am,60s,70s,80s,acir,am,balada,balada en español,balada pop,balada romántica,baladas",
+    "votes": 1985
+  },
+  {
+    "stationuuid": "d1956bb5-d76f-4027-ba61-dc57f991b195",
+    "name": "La Mejor Guadalajara - 95.5 FM",
+    "url": "https://17573.live.streamtheworld.com:443/XHRO_SC",
+    "url_resolved": "https://17573.live.streamtheworld.com:443/XHRO_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/143/la-mejor-guadalajara.df40a6df.png",
+    "country": "Mexico",
+    "tags": "95.5,95.5 fm,aquí nomás,banda,banda norteña,banda tradicional",
+    "votes": 1984
+  },
+  {
+    "stationuuid": "020eb4cb-f51a-47e8-be84-5e636e55f541",
+    "name": "La Ke Buena Guadalajara - 97.1 FM",
+    "url": "https://15723.live.streamtheworld.com:443/KEBUENA_GDL_SC",
+    "url_resolved": "https://15723.live.streamtheworld.com:443/KEBUENA_GDL_SC",
+    "favicon": "https://i.ibb.co/2nMXX5T/gdl.png",
+    "country": "Mexico",
+    "tags": "97.1,97.1 fm,banda,estación,fm,gdl",
+    "votes": 1983
   },
   {
     "stationuuid": "f1c094b9-319d-4b58-a00f-20a4e5304098",
@@ -487,7 +187,167 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/ASPOPFM.png",
     "country": "Mexico",
     "tags": "acir,acir online,amor,amor sólo música romántica,balada,balada en español",
-    "votes": 2651
+    "votes": 1982
+  },
+  {
+    "stationuuid": "04d0c498-c6c9-4365-8212-9ad29e6e09c1",
+    "name": "MIX: 80's, 90's y Más",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
+    "url_resolved": "https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/638/mix-1023-acapulco.982c283b.png",
+    "country": "Mexico",
+    "tags": "106.5 fm,2000s,2010s,70s,80s,80s 90s y más,90s,90s y más,acir,acir online,américa,cdmx,ciudad de méxico,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo acir,iheart,iheart radio,latinoamérica,mexico city,mix,mix fm,music,méxico,música,música del recuerdo,música en inglés,música pop,norteamérica,oldies,pop,pop en inglés,pop music,radio,retro hits,retro music,valle de méxico,éxitos",
+    "votes": 1981
+  },
+  {
+    "stationuuid": "04d8949c-1d24-4e74-9550-92e645764e5b",
+    "name": "90s Dance by Mix - Ciudad de México",
+    "url": "https://19273.live.streamtheworld.com:443/ACIR11_S01AAC.aac",
+    "url_resolved": "https://19273.live.streamtheworld.com:443/ACIR11_S01AAC.aac",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/90sDancebyMix.png",
+    "country": "Mexico",
+    "tags": "acir,acir online,cdmx,ciudad de méxico,club dance,clásicos",
+    "votes": 1980
+  },
+  {
+    "stationuuid": "a2e3a2a1-1eab-4a51-b9a5-2316ef9ca2c0",
+    "name": "La Mega FM",
+    "url": "https://stream.zeno.fm/pue2w5z54v8uv",
+    "url_resolved": "https://stream.zeno.fm/pue2w5z54v8uv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/411/la-mega-fm-mexico.326596c8.jpg",
+    "country": "Mexico",
+    "tags": "#90s,102.9,102.9 fm,1980's,1980s,1990s",
+    "votes": 1979
+  },
+  {
+    "stationuuid": "12a970e2-443a-4640-8775-5c6b0f238c4a",
+    "name": "SABROSITA Ciudad de México - 590 AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac",
+    "favicon": "https://yt3.ggpht.com/ytc/AAUvwnjGCqHNgRIXL-qgnm4HKlYyXS_1Yy-ctciPKLMI=s900-c-k-c0x00ffffff-no-rj",
+    "country": "Mexico",
+    "tags": "590,590 am,am,ciudad de mexico,ciudad de méxico,ciudad mexico,estación,latin  salsa kumbia  merenge  reggaeton,mex,mexico,mexico city,music,musica tropical,mx,méxico,música,nrm comunicaciones,radio,sabrosita,salsa,salsas,tropical,tropical music,valle de méxico",
+    "votes": 1978
+  },
+  {
+    "stationuuid": "7a163be5-9e29-11e9-a787-52543be04c81",
+    "name": "Rock 101",
+    "url": "https://s3.radio.co/s2c1cebae5/listen",
+    "url_resolved": "https://s3.radio.co/s2c1cebae5/listen",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/569/rock-101.fc2826c0.jpg",
+    "country": "Mexico",
+    "tags": "radio",
+    "votes": 1977
+  },
+  {
+    "stationuuid": "431b426b-e654-4b7d-8f42-230a6fa65fc9",
+    "name": "UNIVERSAL STEREO ONLINE (CDMX)",
+    "url": "https://27063.live.streamtheworld.com:443/XERC_FMAAC.aac",
+    "url_resolved": "https://27063.live.streamtheworld.com:443/XERC_FMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/514/universal-stereo-colombia.e408f144.jpg",
+    "country": "Mexico",
+    "tags": "1970s,1980's,1980s,70 80 hits,70's,70s",
+    "votes": 1976
+  },
+  {
+    "stationuuid": "a5b56fc7-32ea-11e9-8f31-52543be04c81",
+    "name": "Convoy en vivo",
+    "url": "https://live.convoynetwork.com/stream",
+    "url_resolved": "https://live.convoynetwork.com/stream",
+    "favicon": "https://i1.sndcdn.com/avatars-000199680373-henxih-t1080x1080.jpg",
+    "country": "Mexico",
+    "tags": "classic rock,latin music,rock",
+    "votes": 1975
+  },
+  {
+    "stationuuid": "46b51010-c2c5-45b6-a71c-84d168a705a3",
+    "name": "La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL",
+    "url": "http://streamingcwsradio20.com:9410/stream",
+    "url_resolved": "http://streamingcwsradio20.com:9410/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/506/la-ranchera-de-monterrey.4199c2c2.png",
+    "country": "Mexico",
+    "tags": "1050,1050 am,am,estación,grupera,grupero,mex,mexican music,mexico,monterrey,musica mexicana,musica regional,musica regional mexicana,musica tradicional mexicana,mx,méxico,música popular mexicana,música regional,nuevo leon,nuevo león,núcleo radio monterrey,radio,ranchera,rancheras,regional,regional mexican,regional mexicana,regional radio,traditional mexican music",
+    "votes": 1974
+  },
+  {
+    "stationuuid": "082080f5-09e1-4727-b973-584a84e5560a",
+    "name": "SIEMPRE GRUPEROS de LA COMADRE",
+    "url": "https://23263.live.streamtheworld.com:443/ACIR07_S01AAC.aac",
+    "url_resolved": "https://23263.live.streamtheworld.com:443/ACIR07_S01AAC.aac",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SIEMPREGRUPEROS.png",
+    "country": "Mexico",
+    "tags": "acir,acir online,américa,cdmx,ciudad de méxico,entretenimiento",
+    "votes": 1973
+  },
+  {
+    "stationuuid": "aff0c386-9338-4467-826e-37e121861a68",
+    "name": "Llegó el Mariachi",
+    "url": "https://17633.live.streamtheworld.com:443/ACIR34_S01AAC.aac",
+    "url_resolved": "https://17633.live.streamtheworld.com:443/ACIR34_S01AAC.aac",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/Lleg%C3%B3elMariachi.png",
+    "country": "Mexico",
+    "tags": "acir,acir online,cdmx,ciudad de méxico,entretenimiento,español",
+    "votes": 1972
+  },
+  {
+    "stationuuid": "e9c2ca34-4c1f-403a-9145-8c5cc0207684",
+    "name": "AMOR 93.1 (Guadalajara)",
+    "url": "https://15313.live.streamtheworld.com:443/XHPIFMAAC.aac",
+    "url_resolved": "https://15313.live.streamtheworld.com:443/XHPIFMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/020/amor-931-fm.25ddd855.png",
+    "country": "Mexico",
+    "tags": "93.1 fm,acir,amor,amor sólo música romántica,balada,balada en español",
+    "votes": 1971
+  },
+  {
+    "stationuuid": "0a607b94-b95b-4b4a-b2ef-6c2613793535",
+    "name": "La Mejor León - 99.9 FM",
+    "url": "https://14223.live.streamtheworld.com:443/XHSOFM_SC",
+    "url_resolved": "https://14223.live.streamtheworld.com:443/XHSOFM_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/158/la-mejor-puerto-vallarta.7853cec3.jpg",
+    "country": "Mexico",
+    "tags": "99.9,99.9 fm,aquí nomás,banda,banda norteña,banda tradicional",
+    "votes": 1970
+  },
+  {
+    "stationuuid": "d7e4cbb9-2f57-4f0b-a359-148d25b80108",
+    "name": "La Mejor Cuernavaca - 97.3 FM",
+    "url": "https://18303.live.streamtheworld.com:443/XHVZ_SC",
+    "url_resolved": "https://18303.live.streamtheworld.com:443/XHVZ_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/139/la-mejor-cuernavaca.e49c13b4.png",
+    "country": "Mexico",
+    "tags": "97.3,97.3 fm,aquí nomás,banda,banda norteña,banda tradicional",
+    "votes": 1969
+  },
+  {
+    "stationuuid": "26dbebd8-35f6-479d-92ba-170bab29eacd",
+    "name": "LOS40 San Luis Potosí - 103.9 FM",
+    "url": "https://playradio.mx/proxy/los40?mp=/stream",
+    "url_resolved": "https://playradio.mx/proxy/los40?mp=/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/075/los-40-san-luis-potosi.62505800.jpg",
+    "country": "Mexico",
+    "tags": "103.9,103.9 fm,entretenimiento,estación,fm,globalmedia",
+    "votes": 1968
+  },
+  {
+    "stationuuid": "384009b7-b4e9-4c27-bf6d-51e90ba3da4c",
+    "name": "LOS40 Mexicali - 90.7 FM",
+    "url": "https://26143.live.streamtheworld.com:443/LOS40_MEXICO2AAC.aac",
+    "url_resolved": "https://26143.live.streamtheworld.com:443/LOS40_MEXICO2AAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/063/los-40-principales-mexicali.4ffb761b.jpg",
+    "country": "Mexico",
+    "tags": "90.7,90.7 fm,baja california,entretenimiento,estación,fm",
+    "votes": 1967
+  },
+  {
+    "stationuuid": "c18ca205-f8fe-4dac-b765-5858a3db1623",
+    "name": "EL FONÓGRAFO, Música las 24 horas",
+    "url": "https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac",
+    "url_resolved": "https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/343/el-fonografo.93859ddd.png",
+    "country": "Mexico",
+    "tags": "américa,balada pop,cdmx,ciudad de méxico,clásicos,clásicos en español",
+    "votes": 1966
   },
   {
     "stationuuid": "76d877f9-f259-4bd3-b9c1-eb14e2359fdc",
@@ -497,6 +357,146 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/R1340FM.jpg",
     "country": "Mexico",
     "tags": "1340 am,am,américa,clásicos,clásicos en inglés,deporte",
-    "votes": 1882
+    "votes": 1965
+  },
+  {
+    "stationuuid": "73e94c4e-a02a-4b34-be03-44c8496cd9ba",
+    "name": "Oldies Internet Radio",
+    "url": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
+    "url_resolved": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/311/oldies-internet-radio.5ed303e5.jpg",
+    "country": "Mexico",
+    "tags": "70s,80s,adult contemporary,adult hits,américa,charts,classic hits,classic rock,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo digital retroland,internet,internet radio,latinoamérica,love songs,moi merino,monterrey,méxico,música del recuerdo,música en inglés,norteamérica,nuevo león,oldies,online,online only,only music,pop en inglés,radio,radio online,retro,soft rock,top charts",
+    "votes": 1964
+  },
+  {
+    "stationuuid": "2fe9872c-608f-4c66-a6a5-a502dec53445",
+    "name": "Sounds Of Yesterday",
+    "url": "https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac",
+    "url_resolved": "https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/SoundsOfYesterday.jpg",
+    "country": "Mexico",
+    "tags": "acir,acir online,américa,cdmx,ciudad de mexico,ciudad de méxico",
+    "votes": 1963
+  },
+  {
+    "stationuuid": "77f3af0c-eb5b-4644-9188-c67cf1881838",
+    "name": "El Patrón (Xalapa) - 104.9 FM",
+    "url": "http://ssc.cnwks.ws:8365/;",
+    "url_resolved": "http://ssc.cnwks.ws:8365/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/230/el-patron-1049-fm.21698617.jpg",
+    "country": "Mexico",
+    "tags": "104.9 fm,banda,el patrón,entretenimiento,español,estación",
+    "votes": 1962
+  },
+  {
+    "stationuuid": "6eef21a3-51bd-4047-b8d4-e3f80daae4c7",
+    "name": "Retro 107.5 (GDL)",
+    "url": "https://ss1.audiorama.com.mx:6574/vibefm",
+    "url_resolved": "https://ss1.audiorama.com.mx:6574/vibefm",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/RETRO107MEX.jpg",
+    "country": "Mexico",
+    "tags": "107.5 fm,américa,clásicos,clásicos en español,entretenimiento,español",
+    "votes": 1961
+  },
+  {
+    "stationuuid": "ce16e40f-1756-489c-aadc-bca24eecc008",
+    "name": "Romántica (Culiacán) - 89.5 FM",
+    "url": "https://stream-159.zeno.fm/3195h8s3ekhvv",
+    "url_resolved": "https://stream-159.zeno.fm/3195h8s3ekhvv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/592/romantica-895-fm.e10ba3a6.png",
+    "country": "Mexico",
+    "tags": "89.5 fm,balada,balada pop,baladas,baladas en español,culiacán",
+    "votes": 1960
+  },
+  {
+    "stationuuid": "232ca184-6303-4289-97c9-73d46cb87830",
+    "name": "XEU 98.1",
+    "url": "http://sgaudio.centrocibernetico.com/xeu",
+    "url_resolved": "http://sgaudio.centrocibernetico.com/xeu",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/675/xeu-981-fm.170de65a.png",
+    "country": "Mexico",
+    "tags": "98.1 fm,boca del río,deporte,deportes,entretenimiento,estación",
+    "votes": 1959
+  },
+  {
+    "stationuuid": "f3f99261-7b53-4c2b-86a9-b71eba41202a",
+    "name": "LUPE 93.3",
+    "url": "https://cast.zuperdns.net/8010/stream/",
+    "url_resolved": "https://cast.zuperdns.net/8010/stream/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/511/lupe-933-fm.280cac62.png",
+    "country": "Mexico",
+    "tags": "93.3 fm,américa,banda,banda norteña,banda tradicional,entretenimiento",
+    "votes": 1958
+  },
+  {
+    "stationuuid": "5d120dd6-a8ce-44ca-af19-486c393f3a71",
+    "name": "DK 1250 (GDL)",
+    "url": "https://sp2.servidorrprivado.com:10947/;",
+    "url_resolved": "https://sp2.servidorrprivado.com:10947/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/261/dk-1250-am.b47eb957.jpg",
+    "country": "Mexico",
+    "tags": "1250 am,am,américa,dk,entretenimiento,español",
+    "votes": 1957
+  },
+  {
+    "stationuuid": "c5875b34-2648-41df-b679-b6e2a8be6964",
+    "name": "RADAR 107.5 (Querétaro)",
+    "url": "https://radios.radiohd.com.mx/8268/stream",
+    "url_resolved": "https://radios.radiohd.com.mx/8268/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/912/radar-fm.8115903d.png",
+    "country": "Mexico",
+    "tags": "107.5 fm,contemporary hits radio,entretenimiento,español,estación,fm",
+    "votes": 1956
+  },
+  {
+    "stationuuid": "d31be487-8d63-4adf-9b9e-365f4d654818",
+    "name": "Fusión Veracruz - 90.1 FM",
+    "url": "https://sg.centrocibernetico.com/fusion",
+    "url_resolved": "https://sgaudio.centrocibernetico.com/fusion",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/141/fusion-901-fm.80961fea.jpg",
+    "country": "Mexico",
+    "tags": "90.1,90.1 fm,boca del río,fm,grupo pazos,mex",
+    "votes": 1955
+  },
+  {
+    "stationuuid": "8247894d-8dd6-49fd-a5f6-407b0a9446a8",
+    "name": "Tu Estación (Aguascalientes) - 92.7 FM",
+    "url": "https://streamingcwsradio30.com:7008/;",
+    "url_resolved": "https://streamingcwsradio30.com:7008/;",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/TuEstaci%C3%B3n927FM.jpg",
+    "country": "Mexico",
+    "tags": "92.7 fm,aguascalientes,aguascalientes city,estación,fm,latinoamérica",
+    "votes": 1954
+  },
+  {
+    "stationuuid": "0a6649bc-239a-4cc5-94f3-e4b73d0128f0",
+    "name": "LA RANCHERITA DEL AIRE 580 (Piedras Negras)",
+    "url": "https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3",
+    "url_resolved": "https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/953/la-rancherita-del-aire.7c4b0369.jpg",
+    "country": "Mexico",
+    "tags": "103.7 fm,580 am,am,américa,coahuila,combo",
+    "votes": 1953
+  },
+  {
+    "stationuuid": "35259251-5efa-4cb2-8dad-dcde7223e9b7",
+    "name": "Radio UDEM (Monterrey) - 90.5 FM",
+    "url": "http://c3.radioboss.fm:8161/stream",
+    "url_resolved": "http://c3.radioboss.fm:8161/stream",
+    "favicon": "https://i1.sndcdn.com/avatars-000335369146-vl9g0n-t500x500.jpg",
+    "country": "Mexico",
+    "tags": "90.5,90.5 fm,college,college radio,estación,fm",
+    "votes": 1952
+  },
+  {
+    "stationuuid": "37445f60-835b-4790-bf1f-1ed932ce6789",
+    "name": "CULTURA 96.5",
+    "url": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream",
+    "url_resolved": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/443/tremenda-durango-965-fm.6bec9bc8.jpg",
+    "country": "Mexico",
+    "tags": "96.5 fm,américa,ciudad de méxico,concesión pública,cultura,cultura 96.5",
+    "votes": 1951
   }
 ]
