@@ -134,10 +134,10 @@
     "name": "REPLAY NEWS - 한국어 5분마다 뉴스 라디오",
     "url": "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3",
     "url_resolved": "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3",
-    "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-KO.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/078/replay-news-korean.030eea73.png",
     "country": "South Korea",
     "tags": "news",
-    "votes": 0
+    "votes": 397
   },
   {
     "stationuuid": "6d4a1b58-b7c6-11e9-acb2-52543be04c81",
@@ -147,17 +147,17 @@
     "favicon": "https://res.static.kbs.co.kr/favicon.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 0
+    "votes": 396
   },
   {
     "stationuuid": "6ad5927a-7ef7-456c-ad54-059873ff9f28",
     "name": "TBS FM 95.1",
     "url": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8",
     "url_resolved": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8",
-    "favicon": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/uSW5P2YwpY.png",
     "country": "South Korea",
     "tags": "full service",
-    "votes": 0
+    "votes": 395
   },
   {
     "stationuuid": "9b3576ec-7f67-11e9-aa30-52543be04c81",
@@ -167,57 +167,57 @@
     "favicon": "https://res.static.kbs.co.kr/favicon.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 0
+    "votes": 394
   },
   {
     "stationuuid": "af1ebf69-91a9-4333-b967-e59762cc8ba3",
     "name": "YTN 라디오 (YTN FM) - 24 Hours News Channel",
     "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
     "url_resolved": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/S44zUmRGAb.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/S44zUmRGAb.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "뉴스",
+    "votes": 393
   },
   {
     "stationuuid": "7d095b7a-3826-4a1d-a195-541196a0c380",
     "name": "FM 95.1 TBS fm",
     "url": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/playlist.m3u8",
     "url_resolved": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/uSW5P2YwpY.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/uSW5P2YwpY.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "R&B / 소울",
+    "votes": 392
   },
   {
     "stationuuid": "77a8f0ad-36ec-4f6b-8e9b-e03c18d6c431",
     "name": "EBS 외국어 라디오 (i-radio)",
     "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8",
     "url_resolved": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/aBeeJuVcq8.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/aBeeJuVcq8.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "문화 및 교육",
+    "votes": 391
   },
   {
     "stationuuid": "f2039127-3e50-4a67-a3f7-19d1e2dbfaba",
     "name": "CBS Joy4U-CBS 라디오",
     "url": "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8",
     "url_resolved": "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/888/cbs-joy4u-cbs-radio.851e9d2a.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/888/cbs-joy4u-cbs-radio.851e9d2a.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "크리스찬",
+    "votes": 390
   },
   {
     "stationuuid": "ebe024c0-e750-4428-b09f-4bc3dcd11db0",
     "name": "kbc 광주방송 MyFM",
     "url": "https://vod.ikbc.co.kr/KBCFM/kbcra_aac/playlist.m3u8",
     "url_resolved": "https://vod.ikbc.co.kr/KBCFM/kbcra_aac/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/837/kbc-gwangjubangsong-myfm.4c0a0d66.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/837/kbc-gwangjubangsong-myfm.4c0a0d66.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "현지",
+    "votes": 389
   },
   {
     "stationuuid": "7776dda4-24c8-47ba-a58b-85e48be5ebbe",
@@ -226,68 +226,68 @@
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_OSN_SC",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/s9c2jxuywnh9.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "팝 / 톱 40",
+    "votes": 388
   },
   {
     "stationuuid": "eb038da1-9e4c-49ae-9949-276217ead3ec",
     "name": "TBS eFM-교통방송 영어전문 라디오",
     "url": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8",
     "url_resolved": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/PbCwQdBqhB.jpg",
+    "favicon": "https://www.radio.net/300/tbsefmbusan.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "문화 및 교육,토크쇼,K팝",
+    "votes": 387
   },
   {
     "stationuuid": "426acdd9-5d9a-48c0-8a1d-388c1258f76e",
     "name": "TBN 부산교통방송",
     "url": "http://radio2.tbn.or.kr:1935/busan/myStream/playlist.m3u8",
     "url_resolved": "http://radio2.tbn.or.kr:1935/busan/myStream/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nl4cedj3gp2q.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/tbn.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "뉴스",
+    "votes": 386
   },
   {
     "stationuuid": "c19942b9-6532-414f-8273-7bfd1126c118",
     "name": "CJB 청주방송 Joy FM",
     "url": "http://1.222.207.80:1935/live/cjbradio/playlist.m3u8",
     "url_resolved": "http://1.222.207.80:1935/live/cjbradio/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/8Nx5cfW9uU.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/8Nx5cfW9uU.jpg",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 0
+    "votes": 385
   },
   {
     "stationuuid": "aec571af-1859-4d20-952e-321587c7310a",
     "name": "WBS 서울 원음방송 89.7 FM",
     "url": "https://wbsradio.kr/wbs-seoul",
     "url_resolved": "https://wbsradio.kr/wbs-seoul",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/gtESTQhJKn.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/gtESTQhJKn.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "종교 & 영성",
+    "votes": 384
   },
   {
     "stationuuid": "fa1c1267-b212-4e4b-8023-8b7363b2e3dc",
     "name": "Busan e-FM 부산영어라디오",
     "url": "http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8",
     "url_resolved": "http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/bM4rX67Pmq.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/bM4rX67Pmq.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "팝 / 톱 40",
+    "votes": 383
   },
   {
     "stationuuid": "0ff3654b-d242-49f7-911c-252bb87b9adf",
     "name": "광주CBS (CBS Gwangju)",
     "url": "https://m-aac.cbs.co.kr/gwangju/_definst_/gwangju.stream/playlist.m3u8",
     "url_resolved": "https://m-aac.cbs.co.kr/gwangju/_definst_/gwangju.stream/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/935/gwangjucbs-cbs-gwangju.b3e2a776.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/935/gwangjucbs-cbs-gwangju.b3e2a776.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "크리스찬,종교 & 영성",
+    "votes": 382
   },
   {
     "stationuuid": "1e53121a-7424-4870-8eea-cac9f1a5bf60",
@@ -296,28 +296,28 @@
     "url_resolved": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/nctANuqYqB.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "팝 / 톱 40,K팝",
+    "votes": 381
   },
   {
     "stationuuid": "dab3e8f5-4c5b-45f1-9b35-2bf45ef76bf3",
     "name": "BTN라디오 울림 (울림채널)",
     "url": "https://btn.nowcdn.co.kr/btn_ch4st/live.stream/playlist.m3u8",
     "url_resolved": "https://btn.nowcdn.co.kr/btn_ch4st/live.stream/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/dhg2nezpj2rg.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/dhg2nezpj2rg.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 0
+    "votes": 380
   },
   {
     "stationuuid": "b64e8825-023e-4be4-8c92-04bad3f06492",
     "name": "국악방송 (Gugak FM)",
     "url": "http://mgugaklive.nowcdn.co.kr:1935/gugakradio/gugakradio.stream/playlist.m3u8",
     "url_resolved": "http://mgugaklive.nowcdn.co.kr:1935/gugakradio/gugakradio.stream/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/jcBPTgEScz.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/jcBPTgEScz.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "월드 뮤직",
+    "votes": 379
   },
   {
     "stationuuid": "8dbfa132-0f95-4b41-b715-30f2688a1908",
@@ -327,37 +327,37 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/tmeccagqsxug.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 0
+    "votes": 378
   },
   {
     "stationuuid": "0e0863a9-c2d9-43a4-a8de-003e2e3d3e99",
     "name": "KFN-FM 국방홍보원",
     "url": "http://mediaworks.dema.mil.kr:1935/live_edge/audio.sdp/playlist.m3u8",
     "url_resolved": "http://mediaworks.dema.mil.kr:1935/live_edge/audio.sdp/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/bExab5TdVw.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/bExab5TdVw.jpeg",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "공중파,토크쇼",
+    "votes": 377
   },
   {
     "stationuuid": "2e9d2675-363c-4ce3-abf2-93e4d249021a",
     "name": "와우씨씨엠 (WOWCCM)",
     "url": "http://121.160.83.6:8000/;",
     "url_resolved": "http://121.160.83.6:8000/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/2K5cX7sm4r.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/2K5cX7sm4r.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "크리스찬,종교 & 영성",
+    "votes": 376
   },
   {
     "stationuuid": "9fd88333-7d17-4c88-9f7f-8bb039d77404",
     "name": "WBS 부산원음방송 104.9",
     "url": "https://wbsradio2.kr/wbs-b",
     "url_resolved": "https://wbsradio2.kr/wbs-b",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/D4vYBxY4Yc.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/D4vYBxY4Yc.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "종교 & 영성",
+    "votes": 375
   },
   {
     "stationuuid": "299e3d81-c528-49d2-bd83-762c8b63e092",
@@ -366,58 +366,58 @@
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_KSN_SC",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/nz8mdwhcnq9l.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "팝 / 톱 40",
+    "votes": 374
   },
   {
     "stationuuid": "00a5cdaf-3e1b-4c2c-8a5a-3cd0cd9f411d",
     "name": "WBS 대구원음방송 98.3 FM",
     "url": "https://wbsradio2.kr/wbs-d",
     "url_resolved": "https://wbsradio2.kr/wbs-d",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/srmvKgjrzn.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/srmvKgjrzn.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "종교 & 영성",
+    "votes": 373
   },
   {
     "stationuuid": "b71e8c20-18e8-4d99-b7d3-732843520596",
     "name": "공동체라디오 전주FM 93.5MHz",
     "url": "http://radiostream.communityradio.kr/jcfm1",
     "url_resolved": "http://radiostream.communityradio.kr/jcfm1",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/694/gongdongceradio-jeonjufm-935mhz.70bc301e.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/694/gongdongceradio-jeonjufm-935mhz.70bc301e.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 0
+    "votes": 372
   },
   {
     "stationuuid": "51ec6cd0-7cc6-440d-bfb8-1f11fed9cb41",
     "name": "ARA FM",
     "url": "http://141.164.38.238/listen/ara_fm/radio.mp3",
     "url_resolved": "http://141.164.38.238/listen/ara_fm/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/840/ara-fm.90734f45.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/840/ara-fm.90734f45.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "이지 리스닝,댄스 / EDM,K팝",
+    "votes": 371
   },
   {
     "stationuuid": "2e1de120-7386-4ef6-9be3-ef9a324602a9",
     "name": "WBS 전북원음방송 97.9 FM",
     "url": "https://wbsradio2.kr/wbs-j",
     "url_resolved": "https://wbsradio2.kr/wbs-j",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/BX98g8s6HX.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/BX98g8s6HX.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "종교 & 영성",
+    "votes": 370
   },
   {
     "stationuuid": "372e0746-b07e-4948-9a83-5742ddcaeae8",
     "name": "K-POP 1",
     "url": "https://s96.radiolize.com:8030/radio.mp3",
     "url_resolved": "https://s96.radiolize.com:8030/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/098/k-pop-1.fab2649d.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/098/k-pop-1.fab2649d.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
+    "tags": "팝 / 톱 40,K팝",
+    "votes": 369
   },
   {
     "stationuuid": "c332c718-910a-4a45-83d8-b4a9edabad7e",
