@@ -1,5 +1,125 @@
 [
   {
+    "stationuuid": "8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6",
+    "name": "Mediacorp LOVE 972",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/860/mediacorp-love-972-fm.d4d71f03.jpg",
+    "country": "Singapore",
+    "tags": "melisten",
+    "votes": 550
+  },
+  {
+    "stationuuid": "bcbd7270-65f2-43cc-96c7-5058b5b3e9e9",
+    "name": "UFM 100.3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/T6JacQ4RDk.png",
+    "country": "Singapore",
+    "tags": "Pop / Top 40,Talk",
+    "votes": 549
+  },
+  {
+    "stationuuid": "eef37dac-e2b2-4f37-bb86-81ac3fe65135",
+    "name": "CAPITAL 958",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/EFUtj72GTd.jpg",
+    "country": "Singapore",
+    "tags": "melisten,talk",
+    "votes": 548
+  },
+  {
+    "stationuuid": "f793df9a-e6ce-4744-bf11-4b24f72b0a0e",
+    "name": "Mediacorp CLASS 95",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/jKhx2VFARK.jpg",
+    "country": "Singapore",
+    "tags": "Adult Contemporary",
+    "votes": 547
+  },
+  {
+    "stationuuid": "f6893d30-ca34-4772-b0f4-9705849fa381",
+    "name": "96.3好FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/8bcjgtwwmbxg.png",
+    "country": "Singapore",
+    "tags": "80s,90s",
+    "votes": 546
+  },
+  {
+    "stationuuid": "b2b9224b-aff4-44d3-8815-9fca52e1c076",
+    "name": "Mediacorp GOLD 905",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/AWjWGLbzkc.jpg",
+    "country": "Singapore",
+    "tags": "Classic Hits",
+    "votes": 545
+  },
+  {
+    "stationuuid": "74de27fd-ad36-4150-a6fd-6866803ecec6",
+    "name": "Mediacorp Warna 942",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/HXVXmdq7mT.png",
+    "country": "Singapore",
+    "tags": "Adult Contemporary",
+    "votes": 544
+  },
+  {
+    "stationuuid": "31710261-0b76-11e9-a80b-52543be04c81",
+    "name": "YES 933 Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/raXk2Xqq8W.jpg",
+    "country": "Singapore",
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 543
+  },
+  {
+    "stationuuid": "4a13d6c7-219b-4ba1-8b02-37ccfc9d2b33",
+    "name": "Kiss92",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/KyhScvcWJM.jpg",
+    "country": "Singapore",
+    "tags": "News",
+    "votes": 542
+  },
+  {
+    "stationuuid": "57f8c838-9731-43ec-b63d-3210e9b79f23",
+    "name": "88.3JIA",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/mhnwhu6TLd.png",
+    "country": "Singapore",
+    "tags": "Talk,Romantic",
+    "votes": 541
+  },
+  {
+    "stationuuid": "7c4653df-6d49-466f-896f-db2de5a19608",
+    "name": "CNA938",
+    "url": "https://28333.live.streamtheworld.com:443/938NOW_PREM.aac",
+    "url_resolved": "https://28333.live.streamtheworld.com:443/938NOW_PREM.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/NAHdyhwt2C.png",
+    "country": "Singapore",
+    "tags": "News",
+    "votes": 540
+  },
+  {
+    "stationuuid": "793fd042-f706-4748-8180-4d45589b5aee",
+    "name": "ONE FM 91.3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/Vezzt6Ykgm.jpg",
+    "country": "Singapore",
+    "tags": "Pop / Top 40",
+    "votes": 539
+  },
+  {
     "stationuuid": "82102b0e-68e9-411e-87b8-7cae36046096",
     "name": "987FM",
     "url": "https://22883.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/e20a79aa-92a0-4b8b-bbe8-965944550f9f/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113",
@@ -7,17 +127,7 @@
     "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/987FM.svg/500px-987FM.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "country": "Singapore",
     "tags": "music,news",
-    "votes": 801
-  },
-  {
-    "stationuuid": "7c4653df-6d49-466f-896f-db2de5a19608",
-    "name": "CNA938",
-    "url": "https://28333.live.streamtheworld.com:443/938NOW_PREM.aac",
-    "url_resolved": "https://28333.live.streamtheworld.com:443/938NOW_PREM.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/NAHdyhwt2C.png",
-    "country": "Singapore",
-    "tags": "melisten",
-    "votes": 80
+    "votes": 0
   },
   {
     "stationuuid": "19fb2bc2-0b7f-11e9-a80b-52543be04c81",
@@ -25,116 +135,6 @@
     "url": "http://28313.live.streamtheworld.com:80/OLI968FMAAC.aac",
     "url_resolved": "http://28313.live.streamtheworld.com:80/OLI968FMAAC.aac",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/6mTjKZgGMz.jpg",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 818
-  },
-  {
-    "stationuuid": "31710261-0b76-11e9-a80b-52543be04c81",
-    "name": "YES 933 Radio",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/raXk2Xqq8W.jpg",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 3885
-  },
-  {
-    "stationuuid": "8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6",
-    "name": "LOVE 972",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/860/mediacorp-love-972-fm.d4d71f03.jpg",
-    "country": "Singapore",
-    "tags": "melisten",
-    "votes": 495
-  },
-  {
-    "stationuuid": "eef37dac-e2b2-4f37-bb86-81ac3fe65135",
-    "name": "CAPITAL 958",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/EFUtj72GTd.jpg",
-    "country": "Singapore",
-    "tags": "melisten",
-    "votes": 457
-  },
-  {
-    "stationuuid": "bcbd7270-65f2-43cc-96c7-5058b5b3e9e9",
-    "name": "UFM 100.3",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/T6JacQ4RDk.png",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f793df9a-e6ce-4744-bf11-4b24f72b0a0e",
-    "name": "Mediacorp CLASS 95",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/jKhx2VFARK.jpg",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f6893d30-ca34-4772-b0f4-9705849fa381",
-    "name": "96.3好FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/8bcjgtwwmbxg.png",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "b2b9224b-aff4-44d3-8815-9fca52e1c076",
-    "name": "Mediacorp GOLD 905",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/AWjWGLbzkc.jpg",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "74de27fd-ad36-4150-a6fd-6866803ecec6",
-    "name": "Mediacorp Warna 942",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/HXVXmdq7mT.png",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4a13d6c7-219b-4ba1-8b02-37ccfc9d2b33",
-    "name": "Kiss92",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/KyhScvcWJM.jpg",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "57f8c838-9731-43ec-b63d-3210e9b79f23",
-    "name": "88.3JIA",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/mhnwhu6TLd.png",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "793fd042-f706-4748-8180-4d45589b5aee",
-    "name": "ONE FM 91.3",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/Vezzt6Ykgm.jpg",
     "country": "Singapore",
     "tags": "radio",
     "votes": 0
