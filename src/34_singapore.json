@@ -121,13 +121,23 @@
   },
   {
     "stationuuid": "82102b0e-68e9-411e-87b8-7cae36046096",
+    "name": "Beam FM - Adult Hits",
+    "url": "https://beamadult.streeemer.com/listen/beamadult/radio.aac",
+    "url_resolved": "https://beamadult.streeemer.com/listen/beamadult/radio.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/918/beam-fm-adult-hits.f507af17.jpg",
+    "country": "Singapore",
+    "tags": "Adult Contemporary",
+    "votes": 538
+  },
+  {
+    "stationuuid": "82203b0e-69e9-422e-88b8-7cae47056097",
     "name": "987FM",
-    "url": "https://22883.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/e20a79aa-92a0-4b8b-bbe8-965944550f9f/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113",
-    "url_resolved": "https://22883.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/e20a79aa-92a0-4b8b-bbe8-965944550f9f/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/987FM.svg/500px-987FM.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://28443.live.streamtheworld.com/987FM_PREM_SC",
+    "url_resolved": "https://28443.live.streamtheworld.com/987FM_PREM_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/JJEnxdCbGC.jpg",
     "country": "Singapore",
     "tags": "music,news",
-    "votes": 0
+    "votes": 537
   },
   {
     "stationuuid": "19fb2bc2-0b7f-11e9-a80b-52543be04c81",
