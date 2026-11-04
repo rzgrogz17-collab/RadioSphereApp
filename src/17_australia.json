@@ -384,40 +384,40 @@
     "name": "ABC Radio Sydney",
     "url": "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8",
     "url_resolved": "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/vtxgpryew8cb.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/pYjCc3vHGN.png",
     "country": "Australia",
     "tags": "news,talk",
-    "votes": 0
+    "votes": 1517
   },
   {
     "stationuuid": "96099dca-0601-11e8-ae97-52543be04c81",
     "name": "ABC Classic FM (MP3)",
     "url": "http://abc.streamguys1.com/live/classicfmnsw/icecast.audio",
     "url_resolved": "http://abc.streamguys1.com/live/classicfmnsw/icecast.audio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nZMWqFYHb8.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nZMWqFYHb8.png",
     "country": "Australia",
     "tags": "abc,classical,public radio",
-    "votes": 0
+    "votes": 1516
   },
   {
     "stationuuid": "eda6fadd-9045-4d61-a637-68fcbe5c2724",
     "name": "3AW Melbourne",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC_O_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC_O_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/341/3aw-693-melbourne.3b95c7bd.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/341/3aw-693-melbourne.3b95c7bd.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Talk",
+    "votes": 1515
   },
   {
     "stationuuid": "09e3698e-1777-4784-adf7-8fded065e9c0",
     "name": "Triple M",
     "url": "https://sa47.scastream.com.au/live/3mmm_128.stream/playlist.m3u8",
     "url_resolved": "https://sa47.scastream.com.au/live/3mmm_128.stream/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/426/triple-m.135e5ed6.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/426/triple-m.135e5ed6.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Classic Rock",
+    "votes": 1514
   },
   {
     "stationuuid": "316fd2f8-abdf-445f-9a3e-7b975061f08b",
@@ -426,458 +426,458 @@
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM_SC",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/026/1017-gold.78b1bc0e.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Classic Hits",
+    "votes": 1513
   },
   {
     "stationuuid": "76195007-6c4b-4995-9237-2de3f8a9068e",
     "name": "ABC Sport",
     "url": "https://mediaserviceslive.akamaized.net/hls/live/2038320/grandstand/masterhq.m3u8",
     "url_resolved": "https://mediaserviceslive.akamaized.net/hls/live/2038320/grandstand/masterhq.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ymRrFyvBwL.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ymRrFyvBwL.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Sports",
+    "votes": 1512
   },
   {
     "stationuuid": "f42fee43-80cd-405b-a150-7de5ac4edaff",
     "name": "6PR 882 AM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/6PRAAC_O.m3u8",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/6PRAAC_O.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/751/6pr-882-am.810e0460.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/751/6pr-882-am.810e0460.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Talk",
+    "votes": 1511
   },
   {
     "stationuuid": "fe4cb2d3-3a84-426f-b2a0-322ca095a8ac",
     "name": "Nova 96.9",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/046/nova-969-fm.a6df11d3.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/046/nova-969-fm.a6df11d3.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Pop / Top 40",
+    "votes": 1510
   },
   {
     "stationuuid": "dd90a772-363b-4677-a071-eec2a2fd7ea4",
     "name": "Totally Radio Rock",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/sUuQ6umSkB.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/sUuQ6umSkB.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Classic Rock,Alternative / Indie",
+    "votes": 1509
   },
   {
     "stationuuid": "0bd61580-5e54-4312-a1b9-011570ddb271",
     "name": "Cruise 1323 Adelaide",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nLQf5yJYzx.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nLQf5yJYzx.jpg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Easy Listening",
+    "votes": 1508
   },
   {
     "stationuuid": "4713ac6a-ef78-4dc7-874b-00b6e8b91d75",
     "name": "KIIS 97.3 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FMAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/gL6n6qF7fP.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/gL6n6qF7fP.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary",
+    "votes": 1507
   },
   {
     "stationuuid": "c441e413-9544-4bcc-a611-4fa8171d9feb",
     "name": "612 ABC Brisbane",
     "url": "http://abc.streamguys1.com/live/localbrisbane/icecast.audio",
     "url_resolved": "http://abc.streamguys1.com/live/localbrisbane/icecast.audio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/771/612-abc-brisbane.267b7876.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/771/612-abc-brisbane.267b7876.jpg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Local",
+    "votes": 1506
   },
   {
     "stationuuid": "75e8a822-cb96-4cfd-aaf4-7225a42c9122",
     "name": "Nova 106.9",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/104/nova-1069-fm.c7ea9f8d.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/104/nova-1069-fm.c7ea9f8d.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Pop / Top 40",
+    "votes": 1505
   },
   {
     "stationuuid": "5ca57928-0a0f-43bd-96f2-c3c23efb5ed1",
     "name": "ABC Perth 102.5 FM",
     "url": "http://abc.streamguys1.com/live/localperth/icecast.audio",
     "url_resolved": "http://abc.streamguys1.com/live/localperth/icecast.audio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/885/abc-perth-1025-fm.47f105f0.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/885/abc-perth-1025-fm.47f105f0.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Local",
+    "votes": 1504
   },
   {
     "stationuuid": "40a46d91-f1bf-42d5-9d20-dcdd70cad962",
     "name": "6IX 105.7 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/pvT3bZnLGj.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/pvT3bZnLGj.jpg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies",
+    "votes": 1503
   },
   {
     "stationuuid": "a14a3348-2126-4725-8519-4e8803fabb29",
     "name": "Curtin FM",
     "url": "https://usa7.fastcast4u.com/proxy/curtinfm?mp=/1",
     "url_resolved": "https://usa7.fastcast4u.com/proxy/curtinfm?mp=/1",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/TdaXXG5Pa6.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/TdaXXG5Pa6.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variety,Oldies",
+    "votes": 1502
   },
   {
     "stationuuid": "aeeebe55-cb4c-4a66-bc2d-952bd57e247b",
     "name": "Totally Radio Country",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_COUNTRY_S01_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_COUNTRY_S01_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/5C7LM8bfHE.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/5C7LM8bfHE.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Country",
+    "votes": 1501
   },
   {
     "stationuuid": "ba0c65bc-5545-44f9-bfad-945c459608ae",
     "name": "Rebel FM",
     "url": "https://s8.yesstreaming.net:17099/RblCNQ",
     "url_resolved": "https://s8.yesstreaming.net:17099/RblCNQ",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/tnw8h59awc3h.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/tnw8h59awc3h.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock",
+    "votes": 1500
   },
   {
     "stationuuid": "bb0e3a43-60d7-4b81-9211-5190a72f6f70",
     "name": "River 94.9 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nR7x2hhbaB.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nR7x2hhbaB.jpeg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary",
+    "votes": 1499
   },
   {
     "stationuuid": "3d670bb9-1573-4f68-a33c-6a434b27a25d",
     "name": "Totally Radio Easy",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_EASY_S01AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_EASY_S01AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/newvdesfmmp5.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/newvdesfmmp5.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Easy Listening,Adult Contemporary,Oldies",
+    "votes": 1498
   },
   {
     "stationuuid": "74069522-1862-4967-bf3b-316b4b0d48f4",
     "name": "Coles Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/231/coles-radio-new-south-wales.2bffbd80.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/231/coles-radio-new-south-wales.2bffbd80.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 1487
   },
   {
     "stationuuid": "21429d94-e4ab-46e9-b9a1-dc6caa9696d6",
     "name": "Totally Radio 00s",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/297/totally-radio-00s.9508c94f.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/297/totally-radio-00s.9508c94f.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary,00s",
+    "votes": 1486
   },
   {
     "stationuuid": "910f8f62-dadb-4a2d-be64-812e70277c93",
     "name": "Mix 102.3 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/sXnNnhDqxn.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/sXnNnhDqxn.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 1485
   },
   {
     "stationuuid": "4081f1bc-796b-43c3-9ae1-4acd08a8252d",
     "name": "Sunshine 104.9 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFMAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/tykezahpkgse.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/tykezahpkgse.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variety",
+    "votes": 1484
   },
   {
     "stationuuid": "03697260-a15a-4b4c-9ad1-8345252535ff",
     "name": "2NUR FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/4whfxfmhwv4v.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/4whfxfmhwv4v.jpg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Easy Listening",
+    "votes": 1483
   },
   {
     "stationuuid": "1ecda349-4d72-4c2b-a4c4-6ec2dc88ca3b",
     "name": "Smooth Vintage",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/739/smooth-vintage.e8e2c668.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/739/smooth-vintage.e8e2c668.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Easy Listening",
+    "votes": 1482
   },
   {
     "stationuuid": "c0d09586-4437-4c56-9432-253c4803768c",
     "name": "1116 4BH",
     "url": "https://sa46.scastream.com.au/live/4bh_128.stream/playlist.m3u8",
     "url_resolved": "https://sa46.scastream.com.au/live/4bh_128.stream/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/293/4bh-882.27185b05.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/293/4bh-882.27185b05.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Classical",
+    "votes": 1481
   },
   {
     "stationuuid": "af7f0fd7-92d6-4e1a-bb74-c1a02cf76129",
     "name": "i98 FM",
     "url": "https://ice10.securenetsystems.net/I98FM",
     "url_resolved": "https://ice10.securenetsystems.net/I98FM",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/WJ35RU3LKp.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/WJ35RU3LKp.jpg",
     "country": "Australia",
     "tags": "radio",
-    "votes": 0
+    "votes": 1480
   },
   {
     "stationuuid": "cb4ee80f-ce07-4f04-9fe1-cea9f61df71f",
     "name": "Outback Radio 2WEB",
     "url": "https://s1.viastreaming.net:7230/stream",
     "url_resolved": "https://s1.viastreaming.net:7230/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/089/2web-outback-radio-585-am.a6958cc5.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/089/2web-outback-radio-585-am.a6958cc5.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variety,News",
+    "votes": 1479
   },
   {
     "stationuuid": "7409082d-57b7-46bd-98ed-9ab061afe9d3",
     "name": "It's 80s",
     "url": "http://194.195.124.142/listen/80s/low.aac",
     "url_resolved": "http://194.195.124.142/listen/80s/low.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/7nEfHJkZgr.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/7nEfHJkZgr.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary,Classic Hits,80s",
+    "votes": 1478
   },
   {
     "stationuuid": "5eb7f796-5f59-4834-b02b-725206a32330",
     "name": "100.9 ZZZ FM",
     "url": "https://usa3.fastcast4u.com/proxy/radiozzzfm/stream",
     "url_resolved": "https://usa3.fastcast4u.com/proxy/radiozzzfm/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/941/1009-zzz-fm.49c534ac.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/941/1009-zzz-fm.49c534ac.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,90s,00s",
+    "votes": 1477
   },
   {
     "stationuuid": "aed49c0c-9384-4421-83bc-2e48cb94c3e7",
     "name": "101.3 Oak FM",
     "url": "https://stream.clanhost.com.au:7001/;",
     "url_resolved": "https://stream.clanhost.com.au:7001/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/271/1013-oak-fm.94a41c02.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/271/1013-oak-fm.94a41c02.jpg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary",
+    "votes": 1476
   },
   {
     "stationuuid": "82c3e5c6-0a48-495a-b08d-0eb679b4a274",
     "name": "102.7 Toowoomba FM",
     "url": "https://s7.voscast.com:10185/4DDBFM",
     "url_resolved": "https://s7.voscast.com:10185/4DDBFM",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/346/1027-toowoomba-fm.66e7852f.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/346/1027-toowoomba-fm.66e7852f.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Local",
+    "votes": 1475
   },
   {
     "stationuuid": "1b4a618c-30d9-4234-b448-25c0c702f3ae",
     "name": "102.9 FM Hot Tomato",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/Zg6Uz3wwkr.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/Zg6Uz3wwkr.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Adult Contemporary",
+    "votes": 1474
   },
   {
     "stationuuid": "64213ad7-6e7a-45d5-a021-bc61874ce49c",
     "name": "105.1 Life FM",
     "url": "https://stream2.cnmns.net/life1051-mp3",
     "url_resolved": "https://stream2.cnmns.net/life1051-mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/381/1051-life-fm.fc97793d.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/381/1051-life-fm.fc97793d.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Victoria - 105.1 FM",
+    "votes": 1473
   },
   {
     "stationuuid": "1c8cb549-0386-4866-a62b-8d6e6f330f84",
     "name": "105.5 RoxFM",
     "url": "https://stream-172.zeno.fm/0psw13g10a0uv",
     "url_resolved": "https://stream-172.zeno.fm/0psw13g10a0uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/299/1055-rox-fm.6f106880.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/299/1055-rox-fm.6f106880.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Local",
+    "votes": 1472
   },
   {
     "stationuuid": "830e1d6c-6c14-47e2-95bf-9dfd03c06032",
     "name": "ABC Newcastle",
     "url": "https://abc.streamguys1.com/live/localnewcastle/icecast.audio",
     "url_resolved": "https://abc.streamguys1.com/live/localnewcastle/icecast.audio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/DHCjQcjWXX.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/DHCjQcjWXX.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Local",
+    "votes": 1471
   },
   {
     "stationuuid": "4b0e2008-bb21-4be7-a6e2-b92f8d05e187",
     "name": "1629 SEN SA",
     "url": "https://d3h5ldpdlisqo8.cloudfront.net/playlist.m3u8",
     "url_resolved": "https://d3h5ldpdlisqo8.cloudfront.net/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/qm9ubdsc9dmg.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/qm9ubdsc9dmg.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "South Australia - 1629 AM",
+    "votes": 1470
   },
   {
     "stationuuid": "213819a6-5e43-4bec-ab96-9e5f946276d4",
     "name": "1WAY FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/1WAY_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/1WAY_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/969/1way-fm.c3d6b147.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/969/1way-fm.c3d6b147.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Australian Capital Territory",
+    "votes": 1469
   },
   {
     "stationuuid": "a5229cc7-bb29-4f83-aff7-496953c8a200",
     "name": "2 XX 98.3 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/510/2-xx-983-fm.bf82c30c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/510/2-xx-983-fm.bf82c30c.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Local",
+    "votes": 1468
   },
   {
     "stationuuid": "ba7ddc29-9104-4c95-b598-c514fff27ddf",
     "name": "88.9 FM Tamworth",
     "url": "https://stream.889fmtamworth.com.au:8443/stream",
     "url_resolved": "https://stream.889fmtamworth.com.au:8443/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/6BvjYbaYz6.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/6BvjYbaYz6.jpg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Classic Hits",
+    "votes": 1467
   },
   {
     "stationuuid": "6cc6463a-8891-46bb-a925-75e95066610e",
     "name": "2AC Australian Chinese Radio - Mandarin",
     "url": "https://s1.voscast.com:10557/stream",
     "url_resolved": "https://s1.voscast.com:10557/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/afbxlszpjccs.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/afbxlszpjccs.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Talk",
+    "votes": 1466
   },
   {
     "stationuuid": "e68ee199-5c27-4ca4-b1ad-3ad553a80fdf",
     "name": "2AC Australian Chinese Radio - Cantonese",
     "url": "https://s1.voscast.com:10443/stream",
     "url_resolved": "https://s1.voscast.com:10443/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nth83rqp3jry.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nth83rqp3jry.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Talk",
+    "votes": 1465
   },
   {
     "stationuuid": "f1ca277f-cd2a-4c5c-bd1c-1360938c3f53",
     "name": "2AIR FM",
     "url": "http://s10.myradiostream.com:10122/;&type=mp3",
     "url_resolved": "http://s10.myradiostream.com:10122/;&type=mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/SGN3Ax7TQN.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/SGN3Ax7TQN.jpg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Local",
+    "votes": 1464
   },
   {
     "stationuuid": "b946fafa-6694-4023-955d-21da019e0eb4",
     "name": "2ARM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC109_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC109_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/101/2arm.20ac1363.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/101/2arm.20ac1363.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Local",
+    "votes": 1463
   },
   {
     "stationuuid": "90fa7684-eaf4-497f-97b2-f043fbb7eb08",
     "name": "2 Triple B FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBBAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBBAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/727/2bbb-bellingen-community-radio-933-fm.98ec30d3.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/727/2bbb-bellingen-community-radio-933-fm.98ec30d3.jpg",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Local",
+    "votes": 1462
   },
   {
     "stationuuid": "b080367c-da28-4314-8b1a-d2ee4b76ff73",
     "name": "2BOB FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BOB_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BOB_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/857/2bob-fm.22aefa76.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/857/2bob-fm.22aefa76.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Local",
+    "votes": 1461
   },
   {
     "stationuuid": "6ac6b433-398a-4be7-961c-5f27c2838a76",
     "name": "2CA Forever Classic 1053 AM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CAAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CAAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/t75h9xCLMw.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/t75h9xCLMw.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies",
+    "votes": 1460
   },
   {
     "stationuuid": "2e5508ad-2ba0-4195-94e9-2041759aeee7",
     "name": "2CC Talking Canberra",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/PpmWr93KS9.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/PpmWr93KS9.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Talk",
+    "votes": 1459
   },
   {
     "stationuuid": "c30bfc2d-a9af-448d-b83a-94d288621cd1",
     "name": "2CHR - Central Hunter Community Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CHR_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CHR_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/h2cEpLapYf.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/h2cEpLapYf.png",
     "country": "Australia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Local",
+    "votes": 1458
   },
   {
     "stationuuid": "68ae2a14-a5d7-4d23-aac9-258af9f1d8f8",
