@@ -140,203 +140,203 @@
     "votes": 537
   },
   {
-    "stationuuid": "19fb2bc2-0b7f-11e9-a80b-52543be04c81",
-    "name": "Oli 968 Radio",
-    "url": "http://28313.live.streamtheworld.com:80/OLI968FMAAC.aac",
-    "url_resolved": "http://28313.live.streamtheworld.com:80/OLI968FMAAC.aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/6mTjKZgGMz.jpg",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "15520497-b763-4acf-b31c-7c1fec307f0f",
     "name": "POWER 98 LOVE SONGS",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/6gJnmJA7Bn.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/6gJnmJA7Bn.jpg",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40",
+    "votes": 536
+  },
+  {
+    "stationuuid": "19fb2bc2-0b7f-11e9-a80b-52543be04c81",
+    "name": "Oli 968 Radio",
+    "url": "http://28313.live.streamtheworld.com:80/OLI968FMAAC.aac",
+    "url_resolved": "http://28313.live.streamtheworld.com:80/OLI968FMAAC.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/6mTjKZgGMz.jpg",
+    "country": "Singapore",
+    "tags": "Indian Music",
+    "votes": 535
   },
   {
     "stationuuid": "b1090608-52d4-4fa9-9d8d-6870609b4820",
     "name": "88.3JIA CANTO POP",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HARRYS_S02_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/HARRYS_S02_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/617/883jia-canto-pop.f56e55cc.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/617/883jia-canto-pop.f56e55cc.png",
     "country": "Singapore",
     "tags": "radio",
-    "votes": 0
+    "votes": 534
   },
   {
     "stationuuid": "d0814b66-c39b-42e5-9702-655256d9e9cb",
     "name": "Mediacorp Symphony 924",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/XPcYpkaw3f.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/XPcYpkaw3f.jpg",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "44302ad7-64d5-4457-8f90-b69a7ed0f612",
-    "name": "988 FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/001/you-sheng-you-se.d9fb06a6.png",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Classical",
+    "votes": 533
   },
   {
     "stationuuid": "a0d19cba-1982-41e6-bf3e-346a0593ab1b",
     "name": "Mediacorp Ria 897",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/863/mediacorp-ria-897-fm.b563e97f.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/863/mediacorp-ria-897-fm.b563e97f.jpg",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "7df7b46e-1bb2-4121-b7b0-9e50469896ab",
-    "name": "MONEY FM 89.3",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/jpbr2eb9kvh3.png",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "6902fbfd-0d69-481b-abb8-8b38a7ffca6c",
-    "name": "BIG BIG MIX SG",
-    "url": "https://hi.bigbigmix.com/audio/stream",
-    "url_resolved": "https://hi.bigbigmix.com/audio/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/122/gojoy-singapore.b8ffdb32.png",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40",
+    "votes": 532
   },
   {
     "stationuuid": "3f12d2b7-c84b-4024-9dc5-d7c15d74ffae",
     "name": "SMOOTH JAZZ",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHJAZZ_S01_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHJAZZ_S01_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/621/smooth-jazz2.df24c01c.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/621/smooth-jazz2.df24c01c.png",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Jazz",
+    "votes": 531
   },
   {
-    "stationuuid": "1e22f126-ae2b-4612-97d9-da399fe650a1",
-    "name": "Radio Masti",
-    "url": "https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8",
-    "url_resolved": "https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/755/radio-masti.f91e5ac2.jpg",
+    "stationuuid": "44302ad7-64d5-4457-8f90-b69a7ed0f612",
+    "name": "988 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC_SC",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/988_Logo_-_Transparent.png/3840px-988_Logo_-_Transparent.png",
     "country": "Singapore",
     "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "68885255-3954-4d22-879a-f7626533567d",
-    "name": "Nakshatra Radio",
-    "url": "https://samcloud.spacial.com/api/listen?sid=68875",
-    "url_resolved": "https://samcloud.spacial.com/api/listen?sid=68875",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/pkrzevjp59b7.jpg",
-    "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "votes": 530
   },
   {
     "stationuuid": "4b829fe2-6271-4c83-8067-9930c751af4f",
     "name": "AXR Singapore",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPORE_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPORE_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/423/axr-asia-expat-radio-singapore.5650e0ef.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/423/axr-asia-expat-radio-singapore.5650e0ef.png",
+    "country": "Singapore",
+    "tags": "Adult Contemporary,Sports,News",
+    "votes": 529
+  },
+  {
+    "stationuuid": "7df7b46e-1bb2-4121-b7b0-9e50469896ab",
+    "name": "MONEY FM 89.3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/jpbr2eb9kvh3.png",
+    "country": "Singapore",
+    "tags": "Talk",
+    "votes": 528
+  },
+  {
+    "stationuuid": "6902fbfd-0d69-481b-abb8-8b38a7ffca6c",
+    "name": "BIG BIG MIX SG",
+    "url": "https://hi.bigbigmix.com/audio/stream",
+    "url_resolved": "https://hi.bigbigmix.com/audio/stream",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/122/gojoy-singapore.b8ffdb32.png",
     "country": "Singapore",
     "tags": "radio",
-    "votes": 0
+    "votes": 527
+  },
+  {
+    "stationuuid": "1e22f126-ae2b-4612-97d9-da399fe650a1",
+    "name": "Radio Masti",
+    "url": "https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8",
+    "url_resolved": "https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/755/radio-masti.f91e5ac2.jpg",
+    "country": "Singapore",
+    "tags": "Bollywood",
+    "votes": 526
+  },
+  {
+    "stationuuid": "68885255-3954-4d22-879a-f7626533567d",
+    "name": "Nakshatra Radio",
+    "url": "https://samcloud.spacial.com/api/listen?sid=68875",
+    "url_resolved": "https://samcloud.spacial.com/api/listen?sid=68875",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/pkrzevjp59b7.jpg",
+    "country": "Singapore",
+    "tags": "Bollywood",
+    "votes": 525
   },
   {
     "stationuuid": "1d3158bd-45c3-4ba4-aa10-6ba0abe18b5d",
-    "name": "EMMS Radio",
-    "url": "http://eu10.fastcast4u.com:16880/;",
-    "url_resolved": "http://eu10.fastcast4u.com:16880/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/266/emms-radio-singapore.4a3fedfc.png",
+    "name": "Z 99.9 FM",
+    "url": "https://svara-stream.radioddns.net/jakarta_z999fm_aac",
+    "url_resolved": "https://svara-stream.radioddns.net/jakarta_z999fm_aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/864/z-jakarta.5830f19e.png",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 524
   },
   {
     "stationuuid": "95aa7ba6-6205-4ad2-9b8c-760bf6a3812b",
-    "name": "XRadio",
-    "url": "http://xradio.zone:9420/;",
-    "url_resolved": "http://xradio.zone:9420/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nvlmlhq9wydy.png",
+    "name": "Radio Suara Surabaya",
+    "url": "https://c5.siar.us/proxy/ssfm/stream",
+    "url_resolved": "https://c5.siar.us/proxy/ssfm/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/3QY2U4Unpt.jpg",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "100.0 FM",
+    "votes": 523
   },
   {
     "stationuuid": "5313fc8c-11aa-45b7-bf1c-ebf2fdf2cf63",
     "name": "Mixx Music Radio",
     "url": "https://sonic.mediacp.eu/8020/stream",
     "url_resolved": "https://sonic.mediacp.eu/8020/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/tskfptnrf8en.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/tskfptnrf8en.png",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "music",
+    "votes": 522
   },
   {
     "stationuuid": "e880910a-af8b-449e-82e4-bcc17c2481bc",
     "name": "Indiego",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/284/indiego.accac605.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/284/indiego.accac605.jpg",
     "country": "Singapore",
     "tags": "radio",
-    "votes": 0
+    "votes": 521
   },
   {
     "stationuuid": "66f978ea-0768-4714-bb9a-8287799d1f7c",
-    "name": "Radio Chutney",
-    "url": "http://streamer.radio.co/sf30c61bda/listen",
-    "url_resolved": "http://streamer.radio.co/sf30c61bda/listen",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/639/radio-chutney.c5f6b4ca.jpg",
+    "name": "Radio Rodja",
+    "url": "https://radioislamindonesia.com/rodja-low.mp3",
+    "url_resolved": "https://radioislamindonesia.com/rodja-low.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/574/radio-rodja.d571b709.png",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Religious & Spirituality,Islam",
+    "votes": 520
   },
   {
     "stationuuid": "f7ee76c4-6900-4723-970d-2d12ac59b98e",
     "name": "Champion FM Radio",
     "url": "https://championfmradio.out.airtime.pro/championfmradio_a",
     "url_resolved": "https://championfmradio.out.airtime.pro/championfmradio_a",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/axueczsvv5cb.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/axueczsvv5cb.jpeg",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Christian,Religious & Spirituality",
+    "votes": 519
   },
   {
     "stationuuid": "65737cbd-a4f5-45f3-8aa3-ef3f8e3f244d",
     "name": "973FM Blasts That Last",
     "url": "https://c16.radioboss.fm:18115/stream",
     "url_resolved": "https://c16.radioboss.fm:18115/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ytVfFk28vg.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ytVfFk28vg.png",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40",
+    "votes": 518
   },
   {
     "stationuuid": "67ad6c9f-edaf-4f07-bf8f-b969d4efd2b5",
-    "name": "Life Literary Association Vazhviyal Ilakkiya Pozhil",
-    "url": "https://stream-42.zeno.fm/k8uw9ya44d0uv",
-    "url_resolved": "https://stream-42.zeno.fm/k8uw9ya44d0uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/kkmem6ceyfqn.jpeg",
+    "name": "Qur'an Radio",
+    "url": "https://a2.asurahosting.com:7240/radio.mp3",
+    "url_resolved": "https://a2.asurahosting.com:7240/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/515/quran-radio-singapore.67d2398f.png",
     "country": "Singapore",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Islam",
+    "votes": 517
   }
 ]
