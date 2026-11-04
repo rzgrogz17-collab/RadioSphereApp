@@ -1,5 +1,15 @@
 [
   {
+    "stationuuid": "2c41ea79-2ed8-46d4-934f-12f580758f38",
+    "name": "음악FM CBS 라디오 (Music FM)",
+    "url": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
+    "url_resolved": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/593/eumagfm-cbs-radio-music-fm.0f29a25a.png",
+    "country": "South Korea",
+    "tags": "radio",
+    "votes": 500
+  },
+  {
     "stationuuid": "c038a859-7be1-11e9-aa30-52543be04c81",
     "name": "KBS Classic FM",
     "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
@@ -7,67 +17,67 @@
     "favicon": "https://www.kbs.co.kr/resources/images/favorite/favorite.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 2160
+    "votes": 499
   },
   {
     "stationuuid": "5cfee8db-7be2-11e9-aa30-52543be04c81",
     "name": "KBS Cool FM",
     "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
     "url_resolved": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/KBS_2FM_studio-Seoul.jpg/500px-KBS_2FM_studio-Seoul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/KBSFM.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 684
+    "votes": 498
   },
   {
     "stationuuid": "e6bc48f7-7be2-11e9-aa30-52543be04c81",
     "name": "SBS Love FM",
     "url": "http://serpent0.duckdns.org:8088/sbs2fm.pls",
     "url_resolved": "http://serpent0.duckdns.org:8088/sbs2fm.pls",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%EB%AA%A9%EB%8F%99_SBS_%EB%B0%A9%EC%86%A1%EC%84%BC%ED%84%B0.png/500px-%EB%AA%A9%EB%8F%99_SBS_%EB%B0%A9%EC%86%A1%EC%84%BC%ED%84%B0.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/uCLZMDDnbs.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 556
+    "votes": 497
   },
   {
     "stationuuid": "3043d560-4358-4583-9e29-9fce6777a09c",
     "name": "CBS 음악 FM",
     "url": "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
     "url_resolved": "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Christian_Broadcasting_System_logo.svg/500px-Christian_Broadcasting_System_logo.svg.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/CBSKORE.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 542
+    "votes": 496
   },
   {
     "stationuuid": "e89958f1-bc76-44fe-b681-841b5ec4ceae",
     "name": "TBS eFM 101.3",
     "url": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8",
     "url_resolved": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8",
-    "favicon": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+    "favicon": "https://kuasark.com/files/stations-logos/tbs-fm.png",
     "country": "South Korea",
     "tags": "full service",
-    "votes": 28
+    "votes": 495
   },
   {
     "stationuuid": "8f6a0b47-7be2-11e9-aa30-52543be04c81",
-    "name": "MBC FM4U",
-    "url": "http://serpent0.duckdns.org:8088/mbcfm.pls",
-    "url_resolved": "http://serpent0.duckdns.org:8088/mbcfm.pls",
-    "favicon": "http://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png",
+    "name": "Beam FM - 취향저격 감각 팝송",
+    "url": "https://beamadult.streeemer.com/listen/beamadult/radio.aac",
+    "url_resolved": "https://beamadult.streeemer.com/listen/beamadult/radio.aac",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/927/beam-fm-cwihyangjeogyeog-gamgag-pabsong.8c5237e7.jpg",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 1567
+    "tags": "어덜트 컨템포러리",
+    "votes": 494
   },
   {
     "stationuuid": "dad75d66-3246-434f-b16c-83854fe573a0",
     "name": "Arirang Radio",
     "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
     "url_resolved": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/XjsGxwjyqW.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/XjsGxwjyqW.png",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 311
+    "tags": "팝 / 톱 40,토크쇼",
+    "votes": 493
   },
   {
     "stationuuid": "c60ab0ce-723c-43a9-85a4-ff544710f27f",
@@ -77,7 +87,7 @@
     "favicon": "https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 117
+    "votes": 492
   },
   {
     "stationuuid": "1a512cf7-f77c-49c0-b42d-4e3db0656b6a",
@@ -87,37 +97,37 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/694/gongdongceradio-jeonjufm-935mhz.70bc301e.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 49
+    "votes": 491
   },
   {
     "stationuuid": "4edaf384-7c48-4852-a390-c879e2fc41aa",
     "name": "SCN - Seongseo Community FM",
     "url": "http://115.85.182.39/scnfm",
     "url_resolved": "http://115.85.182.39/scnfm",
-    "favicon": "https://cdn-images-3.listennotes.com/podcasts/scn-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-891mhz-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-NrySpdFHVJk-a9nswMfkelH.1400x1400.jpg",
+    "favicon": "https://cradio.kr/images/logo_scnfm.jpg",
     "country": "South Korea",
-    "tags": "radio",
-    "votes": 41
+    "tags": "현지",
+    "votes": 490
   },
   {
     "stationuuid": "7702bb1f-26bf-4df6-9209-5f10fb847058",
     "name": "SoneFM (SuwonFM)",
     "url": "http://115.85.182.39/sonefm",
     "url_resolved": "http://115.85.182.39/sonefm",
-    "favicon": "https://static-media.streema.com/media/cache/04/91/049137633fcae422618f5e45e770d603.jpg",
+    "favicon": "https://cradio.kr/images/logo_sonefm.jpg",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 36
+    "votes": 399
   },
   {
     "stationuuid": "656c6a0b-f0a8-4c8f-a0ef-97c72d130eef",
     "name": "하늘호수24",
     "url": "https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8",
     "url_resolved": "https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8",
-    "favicon": "https://sky24.inlive.co.kr/images/9.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/893/24sky-eumag-gamseongjeogin-ilsang-myujig.c2734545.png",
     "country": "South Korea",
     "tags": "entertainment",
-    "votes": 35
+    "votes": 398
   },
   {
     "stationuuid": "6f6ea925-4bc3-4dbc-8990-7f48c6f24cb9",
@@ -127,7 +137,7 @@
     "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-KO.png",
     "country": "South Korea",
     "tags": "news",
-    "votes": 23
+    "votes": 0
   },
   {
     "stationuuid": "6d4a1b58-b7c6-11e9-acb2-52543be04c81",
@@ -137,7 +147,7 @@
     "favicon": "https://res.static.kbs.co.kr/favicon.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 1039
+    "votes": 0
   },
   {
     "stationuuid": "6ad5927a-7ef7-456c-ad54-059873ff9f28",
@@ -147,7 +157,7 @@
     "favicon": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
     "country": "South Korea",
     "tags": "full service",
-    "votes": 33
+    "votes": 0
   },
   {
     "stationuuid": "9b3576ec-7f67-11e9-aa30-52543be04c81",
@@ -157,7 +167,7 @@
     "favicon": "https://res.static.kbs.co.kr/favicon.png",
     "country": "South Korea",
     "tags": "radio",
-    "votes": 578
+    "votes": 0
   },
   {
     "stationuuid": "af1ebf69-91a9-4333-b967-e59762cc8ba3",
@@ -165,16 +175,6 @@
     "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
     "url_resolved": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/S44zUmRGAb.png",
-    "country": "South Korea",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "2c41ea79-2ed8-46d4-934f-12f580758f38",
-    "name": "음악FM CBS 라디오 (Music FM)",
-    "url": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
-    "url_resolved": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/593/eumagfm-cbs-radio-music-fm.0f29a25a.png",
     "country": "South Korea",
     "tags": "radio",
     "votes": 0
