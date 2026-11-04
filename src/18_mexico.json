@@ -10,16 +10,6 @@
     "votes": 2000
   },
   {
-    "stationuuid": "5cf785ae-1a67-4b74-bc37-61f6596fe4fd",
-    "name": "LOS40 Ciudad de México - 101.7 FM",
-    "url": "https://18163.live.streamtheworld.com/LOS40_MEXICOAAC.aac",
-    "url_resolved": "https://18163.live.streamtheworld.com/LOS40_MEXICOAAC.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/LOS40CiudaddeM1017FM.jpg",
-    "country": "Mexico",
-    "tags": "101.7,101.7 fm,cdmx,ciudad de méxico,entretenimiento,estación",
-    "votes": 1999
-  },
-  {
     "stationuuid": "83255f04-4467-4120-b951-65dc3bc942d7",
     "name": "LOS40",
     "url": "https://15723.live.streamtheworld.com:443/LOS40_MEXICO_SC",
@@ -27,6 +17,16 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/846/los-40-principales-mexico.b3eabffc.jpg",
     "country": "Mexico",
     "tags": "101.7,101.7 fm,cdmx,ciudad de mexico,ciudad de méxico,ciudad mexico",
+    "votes": 1999
+  },
+  {
+    "stationuuid": "5cf785ae-1a67-4b74-bc37-61f6596fe4fd",
+    "name": "Stereo Joya FM",
+    "url": "https://26423.live.streamtheworld.com/XEJP_FMAAC_SC",
+    "url_resolved": "https://26423.live.streamtheworld.com/XEJP_FMAAC_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/332/stereo-joya.f116b7a0.jpg",
+    "country": "Mexico",
+    "tags": "Contemporánea para adultos,Radio hablada",
     "votes": 1998
   },
   {
