@@ -4,10 +4,70 @@
     "name": "I-Radio Jakarta",
     "url": "http://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABoQzNwlIAoB2wZuWmMHFMnQ",
     "url_resolved": "http://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABoQzNwlIAoB2wZuWmMHFMnQ",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg/500px-Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/938/iswara-jakarta.3c482bf1.jpg",
     "country": "Indonesia",
     "tags": "indonesia,pop",
-    "votes": 16347
+    "votes": 1000
+  },
+  {
+    "stationuuid": "83d48ce0-1633-4b09-a1a5-32b7008c2919",
+    "name": "101 Jak FM",
+    "url": "https://wz.mari.co.id:1936/noice_jakfm/jakfm/playlist.m3u8",
+    "url_resolved": "https://wz.mari.co.id:1936/noice_jakfm/jakfm/playlist.m3u8",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/276/101-jak-fm.a5d28eac.png",
+    "country": "Indonesia",
+    "tags": "Rock,Kontemporer untuk Dewasa",
+    "votes": 999
+  },
+  {
+    "stationuuid": "a86af800-14bf-491f-a915-b0d98b67d300",
+    "name": "Prambors FM 102.2 Jakarta",
+    "url": "https://n11-eu.rcs.revma.com/h77wwp48kxcwv",
+    "url_resolved": "https://n11-eu.rcs.revma.com/h77wwp48kxcwv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/277/prambors-fm-1022-jakarta.9a362952.jpg",
+    "country": "Indonesia",
+    "tags": "Pop / Top 40",
+    "votes": 998
+  },
+  {
+    "stationuuid": "3c71fe54-9bd4-43dc-85d2-cff2d2269a5e",
+    "name": "Delta FM",
+    "url": "https://n04-eu.rcs.revma.com/k02rmq48kxcwv",
+    "url_resolved": "https://n04-eu.rcs.revma.com/k02rmq48kxcwv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/854/delta-fm.57e81899.png",
+    "country": "Indonesia",
+    "tags": "hits,Kontemporer untuk Dewasa",
+    "votes": 997
+  },
+  {
+    "stationuuid": "db0abba7-c66a-46f9-8e9a-3f1a45c1259e",
+    "name": "Hard Rock FM 87.6 - Jakarta",
+    "url": "https://n08.radiojar.com/7csmg90fuqruv.mp3",
+    "url_resolved": "https://n08.radiojar.com/7csmg90fuqruv.mp3",
+    "favicon": "https://www.getmeradio.com/stations/876hardrockfmjakarta-4499/logos/512x512.png",
+    "country": "Indonesia",
+    "tags": "Rock,Alternatif / Indie",
+    "votes": 986
+  },
+  {
+    "stationuuid": "81e8ecd9-5f0d-4344-89eb-e9277751122c",
+    "name": "Radio Suara Surabaya",
+    "url": "https://c5.siar.us/proxy/ssfm/stream",
+    "url_resolved": "https://c5.siar.us/proxy/ssfm/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/3QY2U4Unpt.jpg",
+    "country": "Indonesia",
+    "tags": "Jawa Timur - 100.0 FM",
+    "votes": 985
+  },
+  {
+    "stationuuid": "bec8bc1d-385d-4bca-a8e2-cbd4966fa71f",
+    "name": "Gen FM 98.7",
+    "url": "https://wz.mari.co.id:1936/noice_genfm/genfm/playlist.m3u8",
+    "url_resolved": "https://wz.mari.co.id:1936/noice_genfm/genfm/playlist.m3u8",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/595/1031-gen-fm-surabaya.7068d519.png",
+    "country": "Indonesia",
+    "tags": "Kontemporer untuk Dewasa",
+    "votes": 984
   },
   {
     "stationuuid": "b2357cbe-d080-4099-8cae-770539945230",
@@ -17,7 +77,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/115/elshinta-jakarta.1152cdaa.jpg",
     "country": "Indonesia",
     "tags": "news",
-    "votes": 10393
+    "votes": 0
   },
   {
     "stationuuid": "cfe1148b-37d1-49be-814c-4a023f08beeb",
@@ -27,7 +87,7 @@
     "favicon": "https://thumb.wikimedia.org/wikipedia/id/thumb/7/72/Logo_Mustang88FM_%282019%29.svg/500px-Logo_Mustang88FM_%282019%29.svg.png?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "country": "Indonesia",
     "tags": "musik and news",
-    "votes": 2874
+    "votes": 0
   },
   {
     "stationuuid": "77e8af14-cb58-4bb2-95f2-d4bdcaf6af4b",
@@ -37,17 +97,7 @@
     "favicon": "https://images.noiceid.cc/catalog/content-1614529857498.jpg",
     "country": "Indonesia",
     "tags": "hits,pop",
-    "votes": 218
-  },
-  {
-    "stationuuid": "3c71fe54-9bd4-43dc-85d2-cff2d2269a5e",
-    "name": "Delta FM",
-    "url": "https://n04-eu.rcs.revma.com/k02rmq48kxcwv",
-    "url_resolved": "https://n04-eu.rcs.revma.com/k02rmq48kxcwv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/854/delta-fm.57e81899.png",
-    "country": "Indonesia",
-    "tags": "hits",
-    "votes": 215
+    "votes": 0
   },
   {
     "stationuuid": "183223f7-bd0e-4789-aa92-8945b6921e87",
@@ -57,17 +107,17 @@
     "favicon": "https://prambors.live/logo.png",
     "country": "Indonesia",
     "tags": "pop",
-    "votes": 84
+    "votes": 0
   },
   {
     "stationuuid": "5ed99da2-c11f-42b3-bd92-1adb65452237",
     "name": "Hang 106 FM",
     "url": "http://185.47.62.52:8000/listen.mp3/stats?sid=1&json=1&callback=jQuery1124046759743595637016_1677813104799&_=1677813104800",
     "url_resolved": "http://185.47.62.52:8000/listen.mp3/stats?sid=1&json=1&callback=jQuery1124046759743595637016_1677813104799&_=1677813104800",
-    "favicon": "https://cdn-profiles.tunein.com/s100288/images/logog.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/sl3b9ssppf9c.png",
     "country": "Indonesia",
     "tags": "radio",
-    "votes": 388
+    "votes": 0
   },
   {
     "stationuuid": "e45d3451-d020-4ee5-a273-a25fc7df02bf",
@@ -77,17 +127,17 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/dj8mdtherbja.jpg",
     "country": "Indonesia",
     "tags": "local music,local news,local radio,talk & speech",
-    "votes": 266
+    "votes": 0
   },
   {
     "stationuuid": "5f96f5c1-e75a-4129-abd3-d7e08360fa56",
     "name": "Radio Dangdut 97.1 FM Jakarta",
     "url": "http://202.147.199.99:8000/;",
     "url_resolved": "http://202.147.199.99:8000/;",
-    "favicon": "http://www.hit-tuner.net/images/radiologos/img_laender/radio_dangdut_971.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/qpzvhD3RrL.png",
     "country": "Indonesia",
     "tags": "radio",
-    "votes": 8211
+    "votes": 0
   },
   {
     "stationuuid": "b3196f29-8c85-4dd8-8a83-6ddc4d1b5620",
@@ -97,7 +147,7 @@
     "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F996bWxQ_VQRrXNPXFc0G4r6Y12RBOiwMSdcID72FM0g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzBkNmYyNjMxLTZmMGItNDc2Ni1iMThmLThkMGMwNmQxMWQ4MC9pbWFnZS8_dXBkYXRlZD0xNjk4MzkyOTk3MDAw.webp&w=750&q=100",
     "country": "Indonesia",
     "tags": "alternative / indie,pop,top hits",
-    "votes": 3358
+    "votes": 0
   },
   {
     "stationuuid": "38c09fe6-481f-4f49-a52e-ce21adabd16d",
@@ -107,7 +157,7 @@
     "favicon": "https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png",
     "country": "Indonesia",
     "tags": "music,news,talk",
-    "votes": 2841
+    "votes": 0
   },
   {
     "stationuuid": "cb031493-2f67-4dd7-ba4a-1e9d413b22a0",
@@ -117,26 +167,6 @@
     "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbNBG5NvUTwrCiRWp7fuzobqInbh3431c_4w5a4pmNgEqbnH8QdWpGgaTR_QbkxfYcnVEWy_hbnbSTgR7IR9VoEQaNG_9N_1WXYebMMBfzWfs4IRdBqq-cn0pQyHBJZkRX7aMLpkdZptptTRD_r3On5JdkSuRMOFtUdXyjMOAnmGEASEd5nDBKWWVT9g/s320/radio%20sholawat.jpg",
     "country": "Indonesia",
     "tags": "religious,sholawat",
-    "votes": 2474
-  },
-  {
-    "stationuuid": "83d48ce0-1633-4b09-a1a5-32b7008c2919",
-    "name": "101 Jak FM",
-    "url": "https://wz.mari.co.id:1936/noice_jakfm/jakfm/playlist.m3u8",
-    "url_resolved": "https://wz.mari.co.id:1936/noice_jakfm/jakfm/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/276/101-jak-fm.a5d28eac.png",
-    "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a86af800-14bf-491f-a915-b0d98b67d300",
-    "name": "Prambors FM 102.2 Jakarta",
-    "url": "https://n11-eu.rcs.revma.com/h77wwp48kxcwv",
-    "url_resolved": "https://n11-eu.rcs.revma.com/h77wwp48kxcwv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/277/prambors-fm-1022-jakarta.9a362952.jpg",
-    "country": "Indonesia",
-    "tags": "radio",
     "votes": 0
   },
   {
@@ -145,36 +175,6 @@
     "url": "https://n0a.radiojar.com/4ywdgup3bnzuv",
     "url_resolved": "https://n0a.radiojar.com/4ywdgup3bnzuv",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/938/iswara-jakarta.3c482bf1.jpg",
-    "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "db0abba7-c66a-46f9-8e9a-3f1a45c1259e",
-    "name": "Hard Rock FM 87.6 - Jakarta",
-    "url": "https://n08.radiojar.com/7csmg90fuqruv.mp3",
-    "url_resolved": "https://n08.radiojar.com/7csmg90fuqruv.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ANm8fKJ5nb.png",
-    "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "bec8bc1d-385d-4bca-a8e2-cbd4966fa71f",
-    "name": "Gen FM 98.7",
-    "url": "https://wz.mari.co.id:1936/noice_genfm/genfm/playlist.m3u8",
-    "url_resolved": "https://wz.mari.co.id:1936/noice_genfm/genfm/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/443/gen-fm-987.86862967.png",
-    "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "81e8ecd9-5f0d-4344-89eb-e9277751122c",
-    "name": "Radio Suara Surabaya",
-    "url": "https://c5.siar.us/proxy/ssfm/stream",
-    "url_resolved": "https://c5.siar.us/proxy/ssfm/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/3QY2U4Unpt.jpg",
     "country": "Indonesia",
     "tags": "radio",
     "votes": 0
