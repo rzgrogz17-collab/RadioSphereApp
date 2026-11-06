@@ -1,73 +1,163 @@
 [
   {
-    "stationuuid": "96d56356-354d-4a2e-97a7-25483f992be2",
-    "name": "MOR Entertainment",
-    "url": "https://stream.zeno.fm/0ha8ftewqp8uv",
-    "url_resolved": "https://stream.zeno.fm/0ha8ftewqp8uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ngt3qgajtbv4.png",
+    "stationuuid": "0e26f2b3-828c-4926-98d4-ac6d70dd0a41",
+    "name": "DWRK 96.3 Easy Rock Manila",
+    "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+    "url_resolved": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png",
     "country": "Philippines",
-    "tags": "internet radio",
-    "votes": 3547
+    "tags": "Rock,Adult Contemporary",
+    "votes": 1000
+  },
+  {
+    "stationuuid": "ff20fcc8-26eb-4fbb-92e4-c1ebc71016a0",
+    "name": "DZMB Love Radio 90.7 FM",
+    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+    "url_resolved": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png",
+    "country": "Philippines",
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 999
+  },
+  {
+    "stationuuid": "11c919df-8d91-415d-a87b-a711e96043cf",
+    "name": "DWLS Barangay LS 97.1 FM",
+    "url": "https://magic.radioca.st/stream",
+    "url_resolved": "https://magic.radioca.st/stream",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/672/dwls-barangay-ls-971-fm.75899014.jpg",
+    "country": "Philippines",
+    "tags": "Adult Contemporary",
+    "votes": 997
+  },
+  {
+    "stationuuid": "17e42915-0514-4923-9cdd-3162f2d13936",
+    "name": "Yes FM Manila 101.1",
+    "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+    "url_resolved": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png",
+    "country": "Philippines",
+    "tags": "Easy Listening,Adult Contemporary,Romantic",
+    "votes": 996
+  },
+  {
+    "stationuuid": "8fabfa78-020d-4b8f-a5cf-8adf2138a5ca",
+    "name": "DYRK 96.3 WRocK",
+    "url": "https://wrockceb-iradioph.radioca.st/;",
+    "url_resolved": "https://wrockceb-iradioph.radioca.st/;",
+    "favicon": "https://apk.radyoph.com/upload/1730769042_WRockCebu.png",
+    "country": "Philippines",
+    "tags": "Rock",
+    "votes": 995
+  },
+  {
+    "stationuuid": "bf4756ff-d48a-4104-af55-1342cbfe27e4",
+    "name": "97.9 Home Radio",
+    "url": "https://hrmanila.radioca.st/stream",
+    "url_resolved": "https://hrmanila.radioca.st/stream",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/140/979-home-radio.178401e7.jpg",
+    "country": "Philippines",
+    "tags": "Easy Listening",
+    "votes": 994
+  },
+  {
+    "stationuuid": "1481a000-28a7-42de-b94c-078bb1da3c9e",
+    "name": "Star FM - Manila",
+    "url": "https://stream-24.zeno.fm/536cwdq78heuv",
+    "url_resolved": "https://stream-24.zeno.fm/536cwdq78heuv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png",
+    "country": "Philippines",
+    "tags": "Variety",
+    "votes": 993
+  },
+  {
+    "stationuuid": "f1c4a1a7-f381-4833-a7f4-07713ebbdf2e",
+    "name": "91.5 Win Radio Manila",
+    "url": "https://stream.zeno.fm/2ss1hgnu6hhvv",
+    "url_resolved": "https://stream.zeno.fm/2ss1hgnu6hhvv",
+    "favicon": "https://i1.sndcdn.com/artworks-m6cXvg0KJ28X1bOs-BfP3pg-t1080x1080.jpg",
+    "country": "Philippines",
+    "tags": "Pop / Top 40,Alternative / Indie,Blues",
+    "votes": 992
+  },
+  {
+    "stationuuid": "7eb4bad0-49e4-4c4d-bba7-dc7b24540ec4",
+    "name": "DWET 106.7 Energy FM",
+    "url": "https://stream.zeno.fm/dnddzf0osc1uv",
+    "url_resolved": "https://stream.zeno.fm/dnddzf0osc1uv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/694/dwet-1067-energy-fm.468386b2.png",
+    "country": "Philippines",
+    "tags": "Adult Contemporary",
+    "votes": 991
   },
   {
     "stationuuid": "2940f5dc-195e-4547-ab7a-f33ae2f70f41",
     "name": "DZRH",
     "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3",
     "url_resolved": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/614/dzrh-666-am.b57c7abf.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/614/dzrh-666-am.b57c7abf.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 421
+    "tags": "News,Talk",
+    "votes": 990
+  },
+  {
+    "stationuuid": "96d56356-354d-4a2e-97a7-25483f992be2",
+    "name": "MOR Entertainment",
+    "url": "https://stream.zeno.fm/0ha8ftewqp8uv",
+    "url_resolved": "https://stream.zeno.fm/0ha8ftewqp8uv",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ngt3qgajtbv4.png",
+    "country": "Philippines",
+    "tags": "Internet Radio,Adult Contemporary,Local",
+    "votes": 989
   },
   {
     "stationuuid": "09fad89d-183a-4a53-8ff4-c3c5acf27e66",
     "name": "Yes FM Cagayan de Oro",
     "url": "http://comet.shoutca.st:8040/stream",
     "url_resolved": "http://comet.shoutca.st:8040/stream",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/CDO_Poblacion%2C_CM_Recto_Avenue-A._Velez%2C_Misamis_Oriental_Provincial_Capitol_drone_%28Cagayan_De_Oro_City%3B_03-21-2026%29.jpg/500px-CDO_Poblacion%2C_CM_Recto_Avenue-A._Velez%2C_Misamis_Oriental_Provincial_Capitol_drone_%28Cagayan_De_Oro_City%3B_03-21-2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/702/yes-fm-cagayan-de-oro-1047.ae3600e7.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 386
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 988
   },
   {
     "stationuuid": "3ddccbd3-8691-4bb2-a3cf-38e632e1042e",
     "name": "DZMM Radyo Patrol 630",
     "url": "http://209.126.124.126:8852/stream",
     "url_resolved": "http://209.126.124.126:8852/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/142/dwpm-radyo-630.4b154568.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/142/dwpm-radyo-630.4b154568.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 1329
+    "tags": "News,Talk",
+    "votes": 997
   },
   {
     "stationuuid": "3e110a58-f654-48e4-b91c-8e124a0abbed",
     "name": "Radyo5 105.9 True FM",
-    "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-    "url_resolved": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/TrueFM1059-logo.png/500px-TrueFM1059-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "url": "https://truefm.ph/radio-stream/media_w603555511_201785.aac",
+    "url_resolved": "https://truefm.ph/radio-stream/media_w603555511_201785.aac",
+    "favicon": "https://static.wikia.nocookie.net/russel/images/9/9e/105.9_True_FM_Logo_May_2026.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 967
+    "tags": "Classic Hits",
+    "votes": 996
   },
   {
     "stationuuid": "c3350b0a-4ae6-4800-97cd-4551264b33a9",
     "name": "RMN DYRI Iloilo",
     "url": "https://us1.amfmph.com/ssl/rmniloilo?mp=/stream",
     "url_resolved": "https://us1.amfmph.com/ssl/rmniloilo?mp=/stream",
-    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/Iloilo.png?w=400&ssl=1",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/Iloilo.png",
     "country": "Philippines",
     "tags": "news",
-    "votes": 717
+    "votes": 665
   },
   {
     "stationuuid": "b629ec4f-1fbc-4608-99f3-58ecd60d2524",
     "name": "RMN DYHB Bacolod",
     "url": "http://us2.amfmph.com:8848/live",
     "url_resolved": "http://us2.amfmph.com:8848/live",
-    "favicon": "https://i2.wp.com/rmn.ph/wp-content/uploads/2019/08/admin-ajax-4.png?w=400&ssl=1",
+    "favicon": "https://i2.wp.com/rmn.ph/wp-content/uploads/2019/08/admin-ajax-4.png",
     "country": "Philippines",
     "tags": "news",
-    "votes": 680
+    "votes": 994
   },
   {
     "stationuuid": "ce5a4a02-88bb-4e79-809e-63f971059bfe",
@@ -77,147 +167,57 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png",
     "country": "Philippines",
     "tags": "distance learning,educational",
-    "votes": 433
+    "votes": 993
   },
   {
     "stationuuid": "dcfdc24c-4efb-4e87-a2f3-097684ce2838",
     "name": "FM Radio 105.5 Pampanga",
     "url": "http://209.126.124.126:8872/stream",
     "url_resolved": "http://209.126.124.126:8872/stream",
-    "favicon": "https://pcmc.com.ph/wp-content/uploads/2024/09/FM-Radio.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/040/fm-radio-baguio-943.d2679cf9.jpg",
     "country": "Philippines",
     "tags": "music,news,talk",
-    "votes": 205
-  },
-  {
-    "stationuuid": "0e26f2b3-828c-4926-98d4-ac6d70dd0a41",
-    "name": "DWRK 96.3 Easy Rock Manila",
-    "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
-    "url_resolved": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/138/dwrk-963-easy-rock.c2c03660.png",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "f1c4a1a7-f381-4833-a7f4-07713ebbdf2e",
-    "name": "91.5 Win Radio Manila",
-    "url": "https://stream.zeno.fm/2ss1hgnu6hhvv",
-    "url_resolved": "https://stream.zeno.fm/2ss1hgnu6hhvv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/x4zvpbxrnhkk.jpg",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "bf4756ff-d48a-4104-af55-1342cbfe27e4",
-    "name": "97.9 Home Radio",
-    "url": "https://hrmanila.radioca.st/stream",
-    "url_resolved": "https://hrmanila.radioca.st/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/140/979-home-radio.178401e7.jpg",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "11c919df-8d91-415d-a87b-a711e96043cf",
-    "name": "DWLS Barangay LS 97.1 FM",
-    "url": "https://magic.radioca.st/stream",
-    "url_resolved": "https://magic.radioca.st/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/672/dwls-barangay-ls-971-fm.75899014.jpg",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "ff20fcc8-26eb-4fbb-92e4-c1ebc71016a0",
-    "name": "DZMB Love Radio 90.7 FM",
-    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
-    "url_resolved": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/141/dzmb-love-radio-907-fm.fd6dd832.png",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1481a000-28a7-42de-b94c-078bb1da3c9e",
-    "name": "Star FM - Manila",
-    "url": "https://stream-24.zeno.fm/536cwdq78heuv",
-    "url_resolved": "https://stream-24.zeno.fm/536cwdq78heuv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/848/star-fm-manila.c6a245b5.png",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "17e42915-0514-4923-9cdd-3162f2d13936",
-    "name": "Yes FM Manila 101.1",
-    "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
-    "url_resolved": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/211/yes-fm-manila-1011.3596a020.png",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "8fabfa78-020d-4b8f-a5cf-8adf2138a5ca",
-    "name": "DYRK 96.3 WRocK",
-    "url": "https://wrockceb-iradioph.radioca.st/;",
-    "url_resolved": "https://wrockceb-iradioph.radioca.st/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/669/dyrk-963-wrock.b988c09b.png",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "7eb4bad0-49e4-4c4d-bba7-dc7b24540ec4",
-    "name": "DWET 106.7 Energy FM",
-    "url": "https://stream.zeno.fm/dnddzf0osc1uv",
-    "url_resolved": "https://stream.zeno.fm/dnddzf0osc1uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/694/dwet-1067-energy-fm.468386b2.png",
-    "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "votes": 992
   },
   {
     "stationuuid": "1e545263-1778-4580-a796-95128ae3ac07",
     "name": "Eagle FM 95.5",
     "url": "http://stream.radiojar.com/yus0r2bghd3vv",
     "url_resolved": "http://stream.radiojar.com/yus0r2bghd3vv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/550/eagle-fm-955.31726a37.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "National Capital Region - 95.5",
+    "votes": 991
   },
   {
     "stationuuid": "41d52624-8ab4-46ab-9496-842d67e349e5",
     "name": "DWIZ 882 AM Manila",
     "url": "https://dwizmanila.radioca.st/stream",
     "url_resolved": "https://dwizmanila.radioca.st/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/zqJsRvBTB7.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/226/dwiz-882-am-manila.fc7c56f1.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "News,Local,World Music",
+    "votes": 990
   },
   {
     "stationuuid": "3ecc2cc8-757a-41de-96f2-81876e79f3db",
     "name": "Beam FM 92.5",
     "url": "https://stream3.hornhost.com/8052/stream",
     "url_resolved": "https://stream3.hornhost.com/8052/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/576/beam-fm-925.a3b96efe.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/576/beam-fm-925.a3b96efe.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variety",
+    "votes": 989
   },
   {
     "stationuuid": "302c4635-55c5-4a5c-a298-c32b9722cd15",
     "name": "DWTM - Magic 89.9 FM",
     "url": "https://stream-140.zeno.fm/hcbrvvfd938uv",
     "url_resolved": "https://stream-140.zeno.fm/hcbrvvfd938uv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/216/dwtm-magic-899-fm.dd9f5d41.png",
+    "favicon": "https://i0.wp.com/submitaam.com/wp-content/uploads/2025/03/IMG_5109.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary",
+    "votes": 988
   },
   {
     "stationuuid": "6b4d589e-cb0d-4521-b2c2-079f8a40ec91",
