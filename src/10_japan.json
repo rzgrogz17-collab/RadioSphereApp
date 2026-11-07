@@ -1,5 +1,15 @@
 [
   {
+    "stationuuid": "f72771a3-cf3a-4cc5-af91-2493ca31c54d",
+    "name": "J-Pop Sakura (asia DREAM radio)",
+    "url": "https://quincy.torontocast.com:2070/stream.mp3",
+    "url_resolved": "https://quincy.torontocast.com:2070/stream.mp3",
+    "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_51151.jpg",
+    "country": "Japan",
+    "tags": "j-pop,japanese,jpop,oldies",
+    "votes": 1000
+  },
+  {
     "stationuuid": "2119387e-f76a-449f-b15d-315ba83c2dfe",
     "name": "Patchwork Archive - VTuber Songs and Covers",
     "url": "https://a4.asurahosting.com:6930/radio.mp3",
@@ -7,17 +17,17 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/PTCFM.png",
     "country": "Japan",
     "tags": "anime,japan,japanese music,vtuber",
-    "votes": 0
+    "votes": 999
   },
   {
     "stationuuid": "e698b1df-bd9c-4084-9c21-22a452b27664",
-    "name": "Listen.moe J-Pop (MP3)",
-    "url": "https://listen.moe/fallback",
-    "url_resolved": "https://listen.moe/fallback",
-    "favicon": "https://listen.moe/favicon.ico",
+    "name": "The Big 80s Station",
+    "url": "https://ssl.nexuscast.com:9044/;",
+    "url_resolved": "https://ssl.nexuscast.com:9044/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/293/the-big-80s-station.e2770854.jpg",
     "country": "Japan",
-    "tags": "",
-    "votes": 0
+    "tags": "80年代",
+    "votes": 998
   },
   {
     "stationuuid": "0d926201-13b3-4e14-9348-68b7666be53d",
@@ -27,7 +37,7 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RAJPN.png",
     "country": "Japan",
     "tags": "",
-    "votes": 0
+    "votes": 997
   },
   {
     "stationuuid": "18da9cc0-210c-41ab-b7ba-e74cb02450a3",
@@ -37,47 +47,67 @@
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/FMJPN.jpg",
     "country": "Japan",
     "tags": "",
-    "votes": 0
+    "votes": 996
   },
   {
     "stationuuid": "2396ce2c-9fde-4353-98a8-7e307daefddc",
     "name": "Real Love Music - Radio Future Funk",
     "url": "https://stream-152.zeno.fm/48533y95cnruv",
     "url_resolved": "https://stream-152.zeno.fm/48533y95cnruv",
-    "favicon": "https://zeno.fm/favicon.ico",
+    "favicon": "https://f4.bcbits.com/img/0035211378_41.jpg",
     "country": "Japan",
     "tags": "",
-    "votes": 0
+    "votes": 995
+  },
+  {
+    "stationuuid": "766350f7-1e38-4dd7-8053-1dea11d78072",
+    "name": "AFN 360 Tokyo (Japan Only)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO_SC",
+    "favicon": "https://rajio.org/storage/logos/56/5660c5a6-5cd4-441e-8dfb-0a2811d58517-256.webp",
+    "country": "Japan",
+    "tags": "ニュース,トーク",
+    "votes": 994
   },
   {
     "stationuuid": "918ec34d-9572-49c8-a6b5-653325f99eef",
     "name": "A&G+",
     "url": "https://www.uniqueradio.jp/agapps/hls/cdn.m3u8",
     "url_resolved": "https://www.uniqueradio.jp/agapps/hls/cdn.m3u8",
-    "favicon": "https://www.joqr.co.jp/wp/wp-content/themes/joqr/img/favicon.ico",
+    "favicon": "https://tw.fltaradio.com/upload/2018/01/1992.png",
     "country": "Japan",
     "tags": "classical",
-    "votes": 0
+    "votes": 993
   },
   {
     "stationuuid": "d609ee78-0936-468c-b52a-c72a11bbce5b",
     "name": "Tokyo Star Radio",
     "url": "https://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
     "url_resolved": "https://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
-    "favicon": "https://775fm.com/wp-content/themes/hfm2/images/logo.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nkdjrxrksehq.png",
     "country": "Japan",
-    "tags": "",
-    "votes": 0
+    "tags": "ローカル",
+    "votes": 992
   },
   {
     "stationuuid": "e0763775-fdb9-4f6d-b88e-057165cb283c",
     "name": "Gensokyo Radio (OGG)",
     "url": "https://stream.gensokyoradio.net/2",
     "url_resolved": "https://stream.gensokyoradio.net/2",
-    "favicon": "https://stream.gensokyoradio.net/images/logo.png",
+    "favicon": "https://i1.sndcdn.com/avatars-000236276450-qf4lez-t1080x1080.jpg",
     "country": "Japan",
-    "tags": "",
-    "votes": 0
+    "tags": "テクノ",
+    "votes": 991
+  },
+   {
+    "stationuuid": "1909f412-f4d4-4edd-9ea2-50a288183ba0",
+    "name": "Ottava (オッターヴァ)",
+    "url": "http://ottava2.out.airtime.pro:8000/ottava2_a",
+    "url_resolved": "http://ottava2.out.airtime.pro:8000/ottava2_a",
+    "favicon": "https://d1uzk9o9cg136f.cloudfront.net/f/16783364/rc/2019/04/25/88de5b759354340bf2804e911c729ae7133526f4.png",
+    "country": "Japan",
+    "tags": "classical,クラシック",
+    "votes": 990
   },
   {
     "stationuuid": "3ddece15-fd94-44a1-bf9c-6f62107e3d9d",
@@ -127,16 +157,6 @@
     "favicon": "https://www.joqr.co.jp/wp/wp-content/themes/joqr/img/favicon.ico",
     "country": "Japan",
     "tags": "anime",
-    "votes": 0
-  },
-  {
-    "stationuuid": "1909f412-f4d4-4edd-9ea2-50a288183ba0",
-    "name": "Ottava",
-    "url": "http://ottava2.out.airtime.pro:8000/ottava2_a",
-    "url_resolved": "http://ottava2.out.airtime.pro:8000/ottava2_a",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/238/ottava-otsutavua.713b96fb.png",
-    "country": "Japan",
-    "tags": "classical",
     "votes": 0
   },
   {
@@ -350,16 +370,6 @@
     "votes": 4
   },
   {
-    "stationuuid": "f72771a3-cf3a-4cc5-af91-2493ca31c54d",
-    "name": "J-Pop Sakura (asia DREAM radio)",
-    "url": "https://quincy.torontocast.com:2070/stream.mp3",
-    "url_resolved": "https://quincy.torontocast.com:2070/stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/027/j-pop-sakura-huai-kashii.f8395ee3.jpg",
-    "country": "Japan",
-    "tags": "j-pop,japanese,jpop,oldies",
-    "votes": 117
-  },
-  {
     "stationuuid": "87dabf49-c5ad-4906-b0bb-9716b710385a",
     "name": "Justplay",
     "url": "https://justplay.stream.laut.fm/justplay",
@@ -478,16 +488,6 @@
     "country": "Japan",
     "tags": "radio",
     "votes": 46
-  },
-  {
-    "stationuuid": "766350f7-1e38-4dd7-8053-1dea11d78072",
-    "name": "AFN 360 Tokyo (Japan Only)",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/kkbcmsg984eh.png",
-    "country": "Japan",
-    "tags": "radio",
-    "votes": 0
   },
   {
     "stationuuid": "9c0bb8e3-3720-4a8c-9f75-94730cca0752",
