@@ -754,100 +754,100 @@
     "name": "101.9 HAPPY HEARTSFM",
     "url": "https://razzrdfx.com/listen/happyheartsfm/radio.mp3",
     "url_resolved": "https://razzrdfx.com/listen/happyheartsfm/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/560/1019-happy-heartsfm.c2d1463d.png",
+    "favicon": "https://happyheartsfm.com/assets/img/logo.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Bollywood,Country,90s",
+    "votes": 934
   },
   {
     "stationuuid": "6930b024-c826-4447-9ced-3a6be63d6438",
     "name": "10.23 STAR POWER FM CEBU CITY",
     "url": "https://stream3.hornhost.com:8092/stream",
     "url_resolved": "https://stream3.hornhost.com:8092/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/159/1023-star-power-fm-cebu-city.78d715ea.png",
+    "favicon": "http://static.mytuner.mobi/media/tvos_radios/159/1023-star-power-fm-cebu-city.78d715ea.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Alternative / Indie,80s,90s",
+    "votes": 933
   },
   {
     "stationuuid": "9172a8a0-ddb3-4c3c-900d-f734d52a4db1",
     "name": "102.4 BHESTFRIEND FM",
     "url": "https://eu8.fastcast4u.com/proxy/bhestfriendfm?mp=/1",
     "url_resolved": "https://eu8.fastcast4u.com/proxy/bhestfriendfm?mp=/1",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/HC7gKWmmj3.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/HC7gKWmmj3.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variety",
+    "votes": 932
   },
   {
     "stationuuid": "eacbf4a7-0ec4-4caf-b149-9c2423118f45",
     "name": "102.7 Easy Rock Cebu",
     "url": "https://easyrockcebu.radioca.st/;",
     "url_resolved": "https://easyrockcebu.radioca.st/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/SZwkzMLfst.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/SZwkzMLfst.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Easy Listening,Adult Contemporary",
+    "votes": 931
   },
   {
     "stationuuid": "b36a36aa-e37b-4eb0-ade4-b4452ee8a42d",
     "name": "104.2 MIX LOVER'S FM",
     "url": "https://stream.hornhost.com/8036/stream",
     "url_resolved": "https://stream.hornhost.com/8036/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/261/1042-mix-lovers-fm.fdece6c8.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/261/1042-mix-lovers-fm.fdece6c8.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,Oldies",
+    "votes": 930
   },
   {
     "stationuuid": "7f32d8a3-85e5-44d0-a734-d2f1840db3e1",
     "name": "104.2 Star Radio FM",
     "url": "https://stream.hornhost.com/8072/stream",
     "url_resolved": "https://stream.hornhost.com/8072/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/627/1042-star-radio-fm.0608ef2f.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/627/1042-star-radio-fm.0608ef2f.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,Oldies",
+    "votes": 929
   },
   {
     "stationuuid": "a7cceb6f-67e3-457f-beda-bf59c4cd0319",
     "name": "104.5 Radyo Natin Candon DWRE",
     "url": "https://stream.zeno.fm/wdoohvi3fdhtv",
     "url_resolved": "https://stream.zeno.fm/wdoohvi3fdhtv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/716/1052-sanaol-hit-radio.a82b05df.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/716/1052-sanaol-hit-radio.a82b05df.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Adult Contemporary,R&B / Soul",
+    "votes": 928
   },
   {
     "stationuuid": "44c9f6d1-e3bf-402a-9a52-76145b870e62",
     "name": "105.5 Radyo Natin Bais City",
     "url": "https://sound.amfm.link/radio/8000/dybr",
     "url_resolved": "https://sound.amfm.link/radio/8000/dybr",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/102/1055-radyo-natin-bais-city.faefed6c.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/102/1055-radyo-natin-bais-city.faefed6c.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Public,Adult Contemporary,Local",
+    "votes": 927
   },
   {
     "stationuuid": "b425280c-1a87-416b-bc8f-669bdd52270c",
     "name": "105.6 Love Radio Roxas",
     "url": "https://loveradioroxas.radioca.st/;",
     "url_resolved": "https://loveradioroxas.radioca.st/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/6pq9y9unnyls.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/6pq9y9unnyls.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40",
+    "votes": 926
   },
   {
     "stationuuid": "7303f755-adbc-49f5-8bfe-d7bdec2a327c",
     "name": "105.7 Marlex FM",
     "url": "https://stream.hornhost.com/8120/stream",
     "url_resolved": "https://stream.hornhost.com/8120/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/098/1057-marlex-fm.3ada9792.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/098/1057-marlex-fm.3ada9792.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,Oldies",
+    "votes": 925
   },
   {
     "stationuuid": "23545ec9-af0e-477b-8c58-19bc340aa192",
@@ -856,18 +856,18 @@
     "url_resolved": "https://radio.hornhost.com/8072/stream",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/043/1058-flrfm.f5a5b8b0.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "National Capital Region - 105.8 FM",
+    "votes": 924
   },
   {
     "stationuuid": "3d679a70-08e7-48bf-ab60-de6e428f5b7c",
     "name": "106.3 Love Radio Malaybalay",
     "url": "https://lovemalaybalay.radioca.st/;",
     "url_resolved": "https://lovemalaybalay.radioca.st/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/ve5gczqkxyme.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/ve5gczqkxyme.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40",
+    "votes": 923
   },
   {
     "stationuuid": "63de84ce-0c47-4593-8e88-58cf6571006c",
@@ -876,18 +876,18 @@
     "url_resolved": "https://stream.hornhost.com/8022/stream",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/wWJwuFxqXm.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,Oldies",
+    "votes": 922
   },
   {
     "stationuuid": "c285347b-04af-4f40-8077-e00c329a92a3",
     "name": "108.8 Tug Unbreakable Radio FM",
     "url": "https://stream.hornhost.com/8016/stream",
     "url_resolved": "https://stream.hornhost.com/8016/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/363/1088-tug-unbreakable-online-radio.ae93c9af.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/363/1088-tug-unbreakable-online-radio.ae93c9af.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,Oldies",
+    "votes": 921
   },
   {
     "stationuuid": "d21af7f6-2b06-402c-9cd1-5efc91b94ac7",
@@ -897,97 +897,97 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/470/1114-kljs-coolest-radio-fm.9605fb4b.png",
     "country": "Philippines",
     "tags": "radio",
-    "votes": 0
+    "votes": 920
   },
   {
     "stationuuid": "fc789e5c-f5f5-4ddf-9de4-0a63bd862640",
     "name": "14.3 Global Online Radio",
     "url": "https://cast.143globalonlineradio.com/proxy/globalonlineradio/stream",
     "url_resolved": "https://cast.143globalonlineradio.com/proxy/globalonlineradio/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/XwpUg3gXYJ.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/XwpUg3gXYJ.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Alternative / Indie,80s,90s",
+    "votes": 919
   },
   {
     "stationuuid": "8b8c0bab-2ba9-416e-bb23-13b165cc3cca",
     "name": "26.5 DREAMLOVE SING ALONG RADIO",
     "url": "https://stream.hornhost.com/8084/stream",
     "url_resolved": "https://stream.hornhost.com/8084/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/240/1437-dream-love-fm.5c4e96b1.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/240/1437-dream-love-fm.5c4e96b1.png",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,Oldies",
+    "votes": 918
   },
   {
     "stationuuid": "23e501a9-9853-42f2-88b4-799c64952cd2",
     "name": "15.5 T.L.C.S.P PINOY FM",
     "url": "https://stream.hornhost.com/8014/stream",
     "url_resolved": "https://stream.hornhost.com/8014/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/858/155-tlcsp-pinoy-fm.88372fe3.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/858/155-tlcsp-pinoy-fm.88372fe3.jpg",
     "country": "Philippines",
     "tags": "radio",
-    "votes": 0
+    "votes": 917
   },
   {
     "stationuuid": "9b476411-33a4-49ad-8906-d31dabd8027b",
     "name": "15.7 Sky Love Fm",
     "url": "https://stream.hornhost.com/8080/stream",
     "url_resolved": "https://stream.hornhost.com/8080/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/801/157-sky-love-fm.4dc74329.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/801/157-sky-love-fm.4dc74329.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Oldies,90s",
+    "votes": 916
   },
   {
     "stationuuid": "4d791e3f-07c6-496a-8b67-52b2e91a4558",
     "name": "201.9 Adzaa Online Radio FM",
     "url": "https://stream.hornhost.com/8016/stream",
     "url_resolved": "https://stream.hornhost.com/8016/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/493/2019-adzaa-online-radio-fm.a7883b43.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/493/2019-adzaa-online-radio-fm.a7883b43.png",
     "country": "Philippines",
     "tags": "radio",
-    "votes": 0
+    "votes": 915
   },
   {
     "stationuuid": "988c3e9b-60b7-4255-b8ba-9d70ea02ba74",
     "name": "205.4 JCOEVB FM",
     "url": "https://usa2.server2028.com/listen/205.4_jcoevb_fm/radio.mp3",
     "url_resolved": "https://usa2.server2028.com/listen/205.4_jcoevb_fm/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/569/2054-jcoevb-fm.810c5eed.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/569/2054-jcoevb-fm.810c5eed.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variety,80s,90s",
+    "votes": 914
   },
   {
     "stationuuid": "de183bf9-1413-4c3b-8888-a8757b7a3a13",
     "name": "22.17 JSW ONLINE RADIO",
     "url": "https://stream.zeno.fm/b6cbfdxkr0hvv",
     "url_resolved": "https://stream.zeno.fm/b6cbfdxkr0hvv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/724/2217-jsw-online-radio.91151de6.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/724/2217-jsw-online-radio.91151de6.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,Oldies",
+    "votes": 913
   },
   {
     "stationuuid": "d3b9966a-32ca-48b8-98b3-5a9f18c0f94c",
     "name": "26.4 Sweet FM",
     "url": "https://usa2.server2028.com/listen/nhers_teleradyo_/radio.mp3",
     "url_resolved": "https://usa2.server2028.com/listen/nhers_teleradyo_/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/186/264-sweet-fm.3309b3a6.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/186/264-sweet-fm.3309b3a6.jpg",
     "country": "Philippines",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80s,90s",
+    "votes": 912
   },
   {
     "stationuuid": "706c713b-3a53-425b-b3a9-0b30a3a49c8d",
     "name": "27.21 JAR FM Radio",
     "url": "https://radio.hornhost.com/8074/stream",
     "url_resolved": "https://radio.hornhost.com/8074/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/340/2721-jar-fm-radio.ad073f0f.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/340/2721-jar-fm-radio.ad073f0f.png",
     "country": "Philippines",
     "tags": "radio",
-    "votes": 0
+    "votes": 911
   },
   {
     "stationuuid": "3d9ce039-5521-461d-8628-c38bdcea8cbf",
@@ -997,6 +997,6 @@
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/007/279-heart-of-asia-fm.573007ac.png",
     "country": "Philippines",
     "tags": "80s,Country,90s",
-    "votes": 0
+    "votes": 910
   }
 ]
