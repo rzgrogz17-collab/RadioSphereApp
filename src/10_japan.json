@@ -114,20 +114,20 @@
     "name": "Opening Radio",
     "url": "http://stream.zeno.fm/tza2ayy47qruv",
     "url_resolved": "http://stream.zeno.fm/tza2ayy47qruv",
-    "favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+    "favicon": "https://www.blackcultureradio.com/wp-content/uploads/2021/06/apple-icon-512x512-1.png",
     "country": "Japan",
     "tags": "",
-    "votes": 0
+    "votes": 989
   },
   {
     "stationuuid": "b6512cd8-9b4d-4b25-82a6-3fcd9a6273c6",
     "name": "Gensokyo Radio (Enhanced)",
     "url": "https://stream.gensokyoradio.net/3",
     "url_resolved": "https://stream.gensokyoradio.net/3",
-    "favicon": "https://stream.gensokyoradio.net/images/logo.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/Gensokyo.jpg",
     "country": "Japan",
-    "tags": "",
-    "votes": 0
+    "tags": "テクノ",
+    "votes": 988
   },
   {
     "stationuuid": "090ec5aa-54d0-4410-8442-82c5236c57b8",
@@ -136,28 +136,28 @@
     "url_resolved": "https://jenny.torontocast.com:2000/stream/J1HITS",
     "favicon": "https://mmo.aiircdn.com/387/5e763a347e800.png",
     "country": "Japan",
-    "tags": "",
-    "votes": 0
+    "tags": "J-POP",
+    "votes": 987
   },
   {
     "stationuuid": "da391117-93a3-4f25-8dc3-c8aa604dde6a",
     "name": "Súper Tokio Radio",
     "url": "https://streamer.radio.co/s83eb8ff39/listen",
     "url_resolved": "https://streamer.radio.co/s83eb8ff39/listen",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/r8uhzyznrxlc.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/r8uhzyznrxlc.jpg",
     "country": "Japan",
-    "tags": "international",
-    "votes": 0
+    "tags": "ポップ / トップ40,レゲトン,ラテン",
+    "votes": 986
   },
   {
     "stationuuid": "82154c4f-9c3b-4577-9ae1-9837687a6e16",
     "name": "超！A&G+",
     "url": "http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8",
     "url_resolved": "http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8",
-    "favicon": "https://www.joqr.co.jp/wp/wp-content/themes/joqr/img/favicon.ico",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/xy9zy7v8v2qx.png",
     "country": "Japan",
     "tags": "anime",
-    "votes": 0
+    "votes": 985
   },
   {
     "stationuuid": "fb462bde-d4dc-4f05-8654-69350a6b3816",
@@ -166,18 +166,18 @@
     "url_resolved": "https://mtist.as.smartstream.ne.jp/30039/livestream/chunklist.m3u8",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/CHFM.png",
     "country": "Japan",
-    "tags": "",
-    "votes": 0
+    "tags": "ニュース,J-POP",
+    "votes": 984
   },
   {
     "stationuuid": "57cf528a-02be-4805-a510-6d05bb0ff996",
     "name": "REPLAY NEWS - 日本語 5分ごとのニュースラジオ",
     "url": "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3",
     "url_resolved": "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3",
-    "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-JA.png",
+    "favicon": "https://www.radio.net/300/replaynewsjapanese.png",
     "country": "Japan",
     "tags": "information,news",
-    "votes": 0
+    "votes": 983
   },
   {
     "stationuuid": "dfaa1037-4c8b-445c-a230-fb96b812db99",
@@ -187,17 +187,17 @@
     "favicon": "http://cyberforest.nenv.k.u-tokyo.ac.jp/image/otohama3.jpg",
     "country": "Japan",
     "tags": "relax",
-    "votes": 0
+    "votes": 982
   },
   {
     "stationuuid": "661c6656-d27e-45dc-b60a-7f77e2c989a5",
     "name": "Nightwave Plaza (Opus 64)",
     "url": "http://radio.plaza.one/ogg_low",
     "url_resolved": "http://radio.plaza.one/ogg_low",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/509/nightwave-plaza.31d4675c.jpg",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/d/d2/ContemporarySapporoCoverArt.jpeg",
     "country": "Japan",
     "tags": "future funk,synthwave,vaporwave",
-    "votes": 0
+    "votes": 981
   },
   {
     "stationuuid": "90397feb-f9ab-43b8-87c0-4a8e1b7e4316",
@@ -206,37 +206,87 @@
     "url_resolved": "http://195.154.79.204:8638/stream",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/ALRJZZ.png",
     "country": "Japan",
-    "tags": "",
-    "votes": 0
+    "tags": "80年代,90年代",
+    "votes": 980
   },
   {
     "stationuuid": "d37f6140-a3c4-4b91-9d2c-801894a4c53d",
     "name": "Moon Mission Recordings, Tokyo Deep and Electronic",
     "url": "https://uk5.internet-radio.com/proxy/mmr?mp=%2Fstream%3B",
     "url_resolved": "https://uk5.internet-radio.com/proxy/mmr?mp=%2Fstream%3B",
-    "favicon": "https://static.wixstatic.com/media/b4e9b8_d568257bd6474ac0ad5ea280d38461e4~mv2.png/v1/fill/w_403,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MOON%20MISSION%202_0%20%E3%83%AD%E3%82%B4%E3%80%80%E9%BB%92%E3%80%801000x1000.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/622/moon-mission-recordings-mmr.32ed41e3.png",
     "country": "Japan",
-    "tags": "",
-    "votes": 0
+    "tags": "テクノ",
+    "votes": 979
+  },
+  {
+    "stationuuid": "dd118c98-c5b0-45c0-9ada-eb81a4d2486e",
+    "name": "Jazz Sakura - asia DREAM radio",
+    "url": "http://kathy.torontocast.com:3330/;",
+    "url_resolved": "http://kathy.torontocast.com:3330/;",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nxrsacawm2ey.png",
+    "country": "Japan",
+    "tags": "ジャズ,J-POP",
+    "votes": 978
+  },
+  {
+    "stationuuid": "09983f06-279c-497a-8e96-8e1057fa094a",
+    "name": "BOX : J-POP Radio - ジェイポップ 無線",
+    "url": "https://boxradio-edge-00.streamafrica.net/jpop",
+    "url_resolved": "https://boxradio-edge-00.streamafrica.net/jpop",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/S9Rx44K67a.png",
+    "country": "Japan",
+    "tags": "ポップ / トップ40,J-POP,K-POP",
+    "votes": 977
   },
   {
     "stationuuid": "1bca74bf-82e7-4631-87b6-1e96be3bae43",
     "name": "SOUND UP STATION NFRS",
     "url": "https://stream2.rcast.net/70945",
     "url_resolved": "https://stream2.rcast.net/70945",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/667/sound-up-station-nfrs.ed422d7c.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/667/sound-up-station-nfrs.ed422d7c.jpg",
     "country": "Japan",
     "tags": "indie,jpop",
-    "votes": 0
+    "votes": 976
+  },
+  {
+    "stationuuid": "a7d745ca-f393-4c5b-a348-99b34a7cc669",
+    "name": "J-Pop Project Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC139_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC139_SC",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/5slkqvvdhajd.png",
+    "country": "Japan",
+    "tags": "J-POP,ワールドミュージック",
+    "votes": 975
   },
   {
     "stationuuid": "c4796463-de02-4344-a9d1-21f3d0508cc6",
-    "name": "FM那覇 (FM Naha)",
-    "url": "https://mtist.as.smartstream.ne.jp/30068/livestream/chunklist.m3u8",
-    "url_resolved": "https://mtist.as.smartstream.ne.jp/30068/livestream/chunklist.m3u8",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/NHFMJPN.jpg",
+    "name": "Radio KZOO Hawaii",
+    "url": "https://us2.maindigitalstream.com/ssl/KZOO",
+    "url_resolved": "https://us2.maindigitalstream.com/ssl/KZOO",
+    "favicon": "https://img2.tubidy.fm/img2731880901b2caa0dd2.png",
+    "country": "Japan",
+    "tags": "ローカル,J-POP,ワールドミュージック",
+    "votes": 974
+  },
+  {
+    "stationuuid": "4b0e9c63-3cec-4964-a3d7-de99decd023b",
+    "name": "Nightwave Plaza MP3 182",
+    "url": "http://radio.plaza.one/mp3",
+    "url_resolved": "http://radio.plaza.one/mp3",
+    "favicon": "https://plaza.one/icons/apple-touch-icon.png",
     "country": "Japan",
     "tags": "",
+    "votes": 973
+  },
+  {
+    "stationuuid": "fb22dad5-9710-4eb8-9b53-3f52f2aad80a",
+    "name": "Moon Mission Recordings MMR",
+    "url": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;",
+    "url_resolved": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/622/moon-mission-recordings-mmr.32ed41e3.png",
+    "country": "Japan",
+    "tags": "radio",
     "votes": 0
   },
   {
@@ -247,16 +297,6 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/509/nightwave-plaza.31d4675c.jpg",
     "country": "Japan",
     "tags": "future funk,vaporwave",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4b0e9c63-3cec-4964-a3d7-de99decd023b",
-    "name": "Nightwave Plaza MP3 182",
-    "url": "http://radio.plaza.one/mp3",
-    "url_resolved": "http://radio.plaza.one/mp3",
-    "favicon": "https://plaza.one/icons/apple-touch-icon.png?v=7knqx0ar5k",
-    "country": "Japan",
-    "tags": "",
     "votes": 0
   },
   {
@@ -347,7 +387,7 @@
     "favicon": "http://anime-radio.neko-network.net/images/logo.png",
     "country": "Japan",
     "tags": "",
-    "votes": 7
+    "votes": 0
   },
   {
     "stationuuid": "149b595b-9490-4cf9-9e25-8bc46806d75a",
@@ -357,7 +397,7 @@
     "favicon": "https://static.wixstatic.com/media/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg",
     "country": "Japan",
     "tags": "country,dj sets,pop",
-    "votes": 4
+    "votes": 0
   },
   {
     "stationuuid": "9a6855fe-1c7f-422b-a4bc-f15af3b347ff",
@@ -367,7 +407,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/241/nhk-world.19e08f62.png",
     "country": "Japan",
     "tags": "education,general,international news,world news",
-    "votes": 4
+    "votes": 0
   },
   {
     "stationuuid": "87dabf49-c5ad-4906-b0bb-9716b710385a",
@@ -377,7 +417,7 @@
     "favicon": "https://assets.laut.fm/e2ba4c2950bdc47c7af05acebcdb9661",
     "country": "Japan",
     "tags": "j-pop,pop,pop-rock",
-    "votes": 16
+    "votes": 0
   },
   {
     "stationuuid": "90c96d5f-8c72-49fb-8f47-3c07cb636264",
@@ -387,7 +427,7 @@
     "favicon": "https://booth.pximg.net/1b3b1730-3c83-47fb-bb90-5043af605d63/i/8135483/4636d6a4-f95b-45b3-abd8-cad490173211_base_resized.jpg",
     "country": "Japan",
     "tags": "music,video games",
-    "votes": 12
+    "votes": 0
   },
   {
     "stationuuid": "875ad2de-f6a2-44e8-95b2-0d197dc66123",
@@ -397,7 +437,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/XUvdnwDSyt.jpg",
     "country": "Japan",
     "tags": "radio",
-    "votes": 10
+    "votes": 0
   },
   {
     "stationuuid": "7ea8bc67-c0b9-4cc6-b1bd-f3e1770fad74",
@@ -407,7 +447,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/639/j-pop-christmas-japan.8e17449c.png",
     "country": "Japan",
     "tags": "christmas,j-pop,japanese",
-    "votes": 9
+    "votes": 0
   },
   {
     "stationuuid": "ad5f4036-0f69-4327-ab2a-b481eea0edcd",
@@ -417,7 +457,7 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/820/stereo-anime.ed20ebb6.jpg",
     "country": "Japan",
     "tags": "radio",
-    "votes": 7
+    "votes": 0
   },
   {
     "stationuuid": "a4fc8fc6-5eae-4e2e-9881-7770556abd01",
@@ -427,7 +467,7 @@
     "favicon": "https://yt3.googleusercontent.com/ytc/AIdro_mdnuovYgEJ9KclQYa5ECb4eR_94VbI-hNx4-Ml5YA7OQ=s900-c-k-c0x00ffffff-no-rj",
     "country": "Japan",
     "tags": "jpop",
-    "votes": 3
+    "votes": 0
   },
   {
     "stationuuid": "8cbc1e1e-d478-43f3-a39a-f1eaa8b44664",
@@ -437,17 +477,7 @@
     "favicon": "https://pbs.twimg.com/profile_images/1613873763149283329/mfOYmC0L_400x400.jpg",
     "country": "Japan",
     "tags": "city pop,citypop,japanese,japanese music",
-    "votes": 2
-  },
-  {
-    "stationuuid": "603d37de-50aa-47f3-b8ad-10c72cff4282",
-    "name": "羊飼いラジオ(Hitsujikai Radio / Shepherd radio)",
-    "url": "https://streaming.radio.co/se4a8e6a93/low",
-    "url_resolved": "https://streaming.radio.co/se4a8e6a93/low",
-    "favicon": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
-    "country": "Japan",
-    "tags": "radio",
-    "votes": 80
+    "votes": 0
   },
   {
     "stationuuid": "d7fc828c-4305-4fa0-8ca5-2131e26c312f",
@@ -457,7 +487,7 @@
     "favicon": "https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png",
     "country": "Japan",
     "tags": "anime radio,denpa,japanese music,jpop",
-    "votes": 4
+    "votes": 0
   },
   {
     "stationuuid": "f224c900-8796-4063-8aca-0bb3afd8507f",
@@ -467,7 +497,7 @@
     "favicon": "https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg",
     "country": "Japan",
     "tags": "radio",
-    "votes": 14
+    "votes": 0
   },
   {
     "stationuuid": "64039cf5-d820-456c-9c12-7b5bdefc76ac",
@@ -477,17 +507,7 @@
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR7cP5IK-Znc_XP1IzQQmLE0eQFSfpLKTanmC9NqZ-bRenKauIZvw6lQ&s=10",
     "country": "Japan",
     "tags": "darkwave,ebm,gothic,industrial,post-punk",
-    "votes": 13
-  },
-  {
-    "stationuuid": "09983f06-279c-497a-8e96-8e1057fa094a",
-    "name": "Hitsujikai Radio",
-    "url": "http://streaming.radio.co/se4a8e6a93/listen",
-    "url_resolved": "http://streaming.radio.co/se4a8e6a93/listen",
-    "favicon": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
-    "country": "Japan",
-    "tags": "radio",
-    "votes": 46
+    "votes": 0
   },
   {
     "stationuuid": "9c0bb8e3-3720-4a8c-9f75-94730cca0752",
@@ -510,16 +530,6 @@
     "votes": 0
   },
   {
-    "stationuuid": "dd118c98-c5b0-45c0-9ada-eb81a4d2486e",
-    "name": "Jazz Sakura - asia DREAM radio",
-    "url": "http://kathy.torontocast.com:3330/;",
-    "url_resolved": "http://kathy.torontocast.com:3330/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/nxrsacawm2ey.png",
-    "country": "Japan",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
     "stationuuid": "3725abd3-28b1-4cde-a3bc-4c078b0c7f09",
     "name": "ビームFM (Beam FM) - Adult Hits",
     "url": "https://beamadult.streeemer.com/listen/beamadult/radio.aac",
@@ -535,16 +545,6 @@
     "url": "http://kathy.torontocast.com:3060/;",
     "url_resolved": "http://kathy.torontocast.com:3060/;",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/bytgkfy7xy4q.jpg",
-    "country": "Japan",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "a7d745ca-f393-4c5b-a348-99b34a7cc669",
-    "name": "J-Pop Project Radio",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC139_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC139_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/5slkqvvdhajd.png",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -734,17 +734,17 @@
     "name": "AFN 360 Sasebo (Japan Only)",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_SBO_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_SBO_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/4gsnzkaynf4y.png",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/sasebojp.png",
     "country": "Japan",
     "tags": "radio",
-    "votes": 0
+    "votes": 100
   },
   {
     "stationuuid": "5f86affd-7630-4c51-b5ad-9850022606d6",
     "name": "きみのFM 88",
     "url": "http://us3.internet-radio.com:8245/live",
     "url_resolved": "http://us3.internet-radio.com:8245/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/716/kiminofm-88.80b5550d.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/716/kiminofm-88.80b5550d.png",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -754,7 +754,7 @@
     "name": "Japanimradio - Osaka",
     "url": "https://japanimradio.be:8000/stream",
     "url_resolved": "https://japanimradio.be:8000/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/264/japanimradio-officiel.8956156a.jpg",
+    "favicon": "https://i1.sndcdn.com/avatars-3QIOFUJWBa2FhKs8-WGtGuQ-t240x240.jpg",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -764,7 +764,7 @@
     "name": "Japan Next",
     "url": "https://japannex.radioca.st/;",
     "url_resolved": "https://japannex.radioca.st/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/6qhshbgzaefj.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/6qhshbgzaefj.png",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -774,7 +774,7 @@
     "name": "An Opera Celebration",
     "url": "https://mpc1.mediacp.eu/stream/beethoveninsequence",
     "url_resolved": "https://mpc1.mediacp.eu/stream/beethoveninsequence",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/YtLc3byexu.jpeg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/YtLc3byexu.jpeg",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -784,7 +784,7 @@
     "name": "Wave Anime Radio",
     "url": "https://stream.waveani.fun/hls/channel_1/playlist.m3u8",
     "url_resolved": "https://stream.waveani.fun/hls/channel_1/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/649/wave-anime-radio.6ab30537.png",
+    "favicon": "https://www.radio.net/300/waveanimeradio.png",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -794,7 +794,7 @@
     "name": "えふえむ・エヌ・ワン (FM N1)",
     "url": "https://hls.fmn1.jp/fmn1/live01.m3u8",
     "url_resolved": "https://hls.fmn1.jp/fmn1/live01.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/WtRyZmqLkY.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/WtRyZmqLkY.png",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -804,7 +804,7 @@
     "name": "Block.fm",
     "url": "https://edge.mixlr.com/channel/bsuau",
     "url_resolved": "https://edge.mixlr.com/channel/bsuau",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/bhkve3y6erfv.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/bhkve3y6erfv.jpg",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -814,7 +814,7 @@
     "name": "Freebird Radio",
     "url": "http://freebird.ddns.net:8000/;",
     "url_resolved": "http://freebird.ddns.net:8000/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/hErhG3R2YP.png",
+    "favicon": "https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/59812.png",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -824,7 +824,7 @@
     "name": "Future Groove",
     "url": "https://streamer.radio.co/s4b3dafa6d/listen",
     "url_resolved": "https://streamer.radio.co/s4b3dafa6d/listen",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/2qsynnhaykxs.jpg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/2qsynnhaykxs.jpg",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -834,7 +834,7 @@
     "name": "IA Music & News - Japanese",
     "url": "https://ianewsja.ice.infomaniak.ch/ianewsja-128.mp3",
     "url_resolved": "https://ianewsja.ice.infomaniak.ch/ianewsja-128.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/949/ia-music-news-japanese.357d3856.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/949/ia-music-news-japanese.357d3856.png",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
@@ -844,17 +844,7 @@
     "name": "LISTEN.moe",
     "url": "https://listen.moe/opus",
     "url_resolved": "https://listen.moe/opus",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/9t2unfkehj8b.jpg",
-    "country": "Japan",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "fb22dad5-9710-4eb8-9b53-3f52f2aad80a",
-    "name": "Moon Mission Recordings MMR",
-    "url": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;",
-    "url_resolved": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/622/moon-mission-recordings-mmr.32ed41e3.png",
+    "favicon": "https://f-droid.org/repo/me.echeung.moemoekyun.fdroid/en-US/icon_ogfCVMXWZkVqVSqa6dorG0b2k8Hh_7u5HuNx93RNsz0=.png",
     "country": "Japan",
     "tags": "radio",
     "votes": 0
