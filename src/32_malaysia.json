@@ -434,90 +434,80 @@
     "name": "Radio Muzik",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/786/radio-muzik.a171e213.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/786/radio-muzik.a171e213.png",
     "country": "Malaysia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rock,Pop / Top 40",
+    "votes": 1457
   },
   {
     "stationuuid": "5cb82c7c-62fc-4d0f-a826-3aa73a447147",
     "name": "ANF Radio Malaysia",
     "url": "https://c16.radioboss.fm:8450/stream",
     "url_resolved": "https://c16.radioboss.fm:8450/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/434/anf-radio.20903d87.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/434/anf-radio.20903d87.png",
     "country": "Malaysia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Variety",
+    "votes": 1456
   },
   {
     "stationuuid": "695105af-9648-4084-abf0-9bef6d920d63",
     "name": "Kupi-Kupi FM",
     "url": "https://n22a-eu.rcs.revma.com/axht8yawe1bwv/34_41ilua5wdpbc02/playlist.m3u8",
     "url_resolved": "https://n22a-eu.rcs.revma.com/axht8yawe1bwv/34_41ilua5wdpbc02/playlist.m3u8",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/141/kupi-kupi-fm.4454de04.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/141/kupi-kupi-fm.4454de04.png",
     "country": "Malaysia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Sabah - 96.3 FM",
+    "votes": 1455
   },
   {
     "stationuuid": "bbb264bd-c3e1-4010-8081-5981d62b2591",
     "name": "BIGCOWFM",
     "url": "http://onairnow.ddns.net:8000/chinese.mp3",
     "url_resolved": "http://onairnow.ddns.net:8000/chinese.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/817/bigcowfm.ee8cbee9.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/817/bigcowfm.ee8cbee9.jpg",
     "country": "Malaysia",
-    "tags": "radio",
-    "votes": 0
-  },
-  {
-    "stationuuid": "d4a7dd7d-7f39-4669-8ede-757d35f162d7",
-    "name": "BIG BIG MIX MY",
-    "url": "https://hi.bigbigmix.com/audio/stream",
-    "url_resolved": "https://hi.bigbigmix.com/audio/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/598/big-big-mix-my.ad0085d6.jpg",
-    "country": "Malaysia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Talk,90s,00s",
+    "votes": 1454
   },
   {
     "stationuuid": "62f9d281-7870-4872-8141-969d70119b25",
     "name": "City Plus FM",
     "url": "https://n29a-eu.rcs.revma.com/9ykdmcawe1bwv",
     "url_resolved": "https://n29a-eu.rcs.revma.com/9ykdmcawe1bwv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/916/city-plus-fm.8346774b.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/916/city-plus-fm.8346774b.png",
     "country": "Malaysia",
     "tags": "radio",
-    "votes": 0
+    "votes": 1453
   },
   {
     "stationuuid": "aad76189-8671-4d7a-a1de-fbfed8da816d",
     "name": "TAWAUfm",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAWAU_FM_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAWAU_FM_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/q6fa9y8k7qzx.jpg",
+    "favicon": "https://static.wikia.nocookie.net/logopedia/images/0/04/Tawau_FM.png",
     "country": "Malaysia",
     "tags": "radio",
-    "votes": 0
+    "votes": 1452
   },
   {
     "stationuuid": "69cdc473-7b70-402f-bbdf-66122bedf50a",
     "name": "Labuan FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FMAAC_SC",
     "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FMAAC_SC",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/pxkufmtaehb9.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/pxkufmtaehb9.jpg",
     "country": "Malaysia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "89.4 FM",
+    "votes": 1451
   },
   {
     "stationuuid": "cbad031a-c29f-472d-acc6-0d6340cf85a5",
     "name": "Bapakku",
     "url": "https://servidor30-2.brlogic.com:7048/live",
     "url_resolved": "https://servidor30-2.brlogic.com:7048/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/826/bapakku.92029d26.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/826/bapakku.92029d26.png",
     "country": "Malaysia",
     "tags": "radio",
-    "votes": 0
+    "votes": 1450
   },
   {
     "stationuuid": "77c3a4b3-5032-4d77-b546-2e5eca9acb2d",
