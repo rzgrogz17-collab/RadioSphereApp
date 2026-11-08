@@ -14,7 +14,7 @@
     "name": "Ретро FM",
     "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
     "url_resolved": "http://retroserver.streamr.ru:8043/retro256.mp3",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/yefHwktXGz.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/086/retro-fm-retro-fm.68aecbb2.jpg",
     "country": "Russia",
     "tags": "classic hits,moscow,music,pop,retro,russia",
     "votes": 1499
@@ -34,7 +34,7 @@
     "name": "Наше Радио",
     "url": "http://nashe1.hostingradio.ru/nashe-128.mp3",
     "url_resolved": "http://nashe1.hostingradio.ru/nashe-128.mp3",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/HAWERU.png",
+    "favicon": "https://moscow.rekradio.ru/thumb/2/997CyFnBntCcmjCvItDwvQ/r/d/reklama-na-radio-nashe.jpg",
     "country": "Russia",
     "tags": "live air",
     "votes": 1497
@@ -674,7 +674,7 @@
     "name": "Хит FM Стопудовый хит",
     "url": "https://hitfm-hit100pud.hostingradio.ru/hit100pud96.aacp",
     "url_resolved": "https://hitfm-hit100pud.hostingradio.ru/hit100pud96.aacp",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/XNTFMRU.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/336/retro-khit-retro-hit.ba1fe584.png",
     "country": "Russia",
     "tags": "поп-музыка",
     "votes": 1433
@@ -1086,7 +1086,7 @@
     "url_resolved": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
     "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/RBH.png",
     "country": "Russia",
-    "tags": "pop",
+    "tags": "pop,90s",
     "votes": 1392
   },
   {
@@ -1454,7 +1454,7 @@
     "name": "Радио Ангелов",
     "url": "https://listen6.myradio24.com/angels_low.aac",
     "url_resolved": "https://listen6.myradio24.com/angels_low.aac",
-    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/radyo-logolari/refs/heads/main/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%BE%D0%B2.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/yg4mxcRLqD.png",
     "country": "Russia",
     "tags": "",
     "votes": 1355
@@ -1498,5 +1498,15 @@
     "country": "Russia",
     "tags": "club,dance,dancefloor,house",
     "votes": 1351
+  },
+  {
+    "stationuuid": "d3fe1382-aed1-4737-8663-dc8a2732b099",
+    "name": "Радио Монте Карло (Monte Carlo) 102.1 FM",
+    "url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+    "url_resolved": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+    "favicon": "https://www.radio.net/300/montecarlo1021.png",
+    "country": "Russia",
+    "tags": "Dance / EDM,House,R&B / Soul",
+    "votes": 1350
   }
 ]
