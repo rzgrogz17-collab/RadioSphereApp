@@ -384,7 +384,7 @@
     "name": "Neko-Network Radio: Anime/Japanese",
     "url": "http://listen.nekonetwork.moe:8400/anime.mp3",
     "url_resolved": "http://listen.nekonetwork.moe:8400/anime.mp3",
-    "favicon": "https://wallpapercave.com/wp/VEnpb1b.jpg",
+    "favicon": "https://f4.bcbits.com/img/a0283353935_2.jpg",
     "country": "Japan",
     "tags": "",
     "votes": 962
@@ -426,7 +426,7 @@
     "url_resolved": "https://boxradio-edge-00.streamafrica.net/anime?_cb=1788442564659",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/045/box-weeb-radio-network-anime.a588a7a6.png",
     "country": "Japan",
-    "tags": "education,general,international news,world news,サウンドトラック",
+    "tags": "education,general,international news,world news",
     "votes": 959
   },
   {
@@ -512,11 +512,11 @@
   {
     "stationuuid": "f224c900-8796-4063-8aca-0bb3afd8507f",
     "name": "A Radio for ACG & others",
-    "url": "https://hkradio.myaddr.io/listen/new_radio/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF",
-    "url_resolved": "https://hkradio.myaddr.io/listen/new_radio/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF",
-    "favicon": "https://static.utaitedb.net/img/Album/mainOrig/1150.jpg",
+    "url": "https://radio.itprishtina.com/aradio",
+    "url_resolved": "https://radio.itprishtina.com/aradio",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/351/a-radio2.f8ec3666.png",
     "country": "Japan",
-    "tags": "radio",
+    "tags": "89.4 FM",
     "votes": 950
   },
   {
