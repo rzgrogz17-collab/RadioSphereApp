@@ -74,20 +74,20 @@
     "name": "elshinta jakarta",
     "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
     "url_resolved": "https://stream-ssl.arenastreaming.com:8000/jakarta",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/115/elshinta-jakarta.1152cdaa.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/115/elshinta-jakarta.1152cdaa.jpg",
     "country": "Indonesia",
     "tags": "news",
-    "votes": 0
+    "votes": 983
   },
   {
     "stationuuid": "cfe1148b-37d1-49be-814c-4a023f08beeb",
     "name": "88.0 Mustang FM Jakarta",
     "url": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
     "url_resolved": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/id/thumb/7/72/Logo_Mustang88FM_%282019%29.svg/500px-Logo_Mustang88FM_%282019%29.svg.png?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/699/mustang-88-fm.37ee47db.jpg",
     "country": "Indonesia",
     "tags": "musik and news",
-    "votes": 0
+    "votes": 982
   },
   {
     "stationuuid": "77e8af14-cb58-4bb2-95f2-d4bdcaf6af4b",
@@ -97,7 +97,7 @@
     "favicon": "https://images.noiceid.cc/catalog/content-1614529857498.jpg",
     "country": "Indonesia",
     "tags": "hits,pop",
-    "votes": 0
+    "votes": 981
   },
   {
     "stationuuid": "183223f7-bd0e-4789-aa92-8945b6921e87",
@@ -107,7 +107,7 @@
     "favicon": "https://prambors.live/logo.png",
     "country": "Indonesia",
     "tags": "pop",
-    "votes": 0
+    "votes": 980
   },
   {
     "stationuuid": "5ed99da2-c11f-42b3-bd92-1adb65452237",
@@ -116,18 +116,18 @@
     "url_resolved": "http://185.47.62.52:8000/listen.mp3/stats?sid=1&json=1&callback=jQuery1124046759743595637016_1677813104799&_=1677813104800",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/sl3b9ssppf9c.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rupa-Rupa",
+    "votes": 979
   },
   {
     "stationuuid": "e45d3451-d020-4ee5-a273-a25fc7df02bf",
     "name": "Radio Swara Semarang",
     "url": "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
     "url_resolved": "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/dj8mdtherbja.jpg",
+    "favicon": "https://images.noiceid.cc/catalog/content-1684921414295",
     "country": "Indonesia",
     "tags": "local music,local news,local radio,talk & speech",
-    "votes": 0
+    "votes": 978
   },
   {
     "stationuuid": "5f96f5c1-e75a-4129-abd3-d7e08360fa56",
@@ -136,8 +136,8 @@
     "url_resolved": "http://202.147.199.99:8000/;",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/qpzvhD3RrL.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rupa-Rupa",
+    "votes": 977
   },
   {
     "stationuuid": "b3196f29-8c85-4dd8-8a83-6ddc4d1b5620",
@@ -147,87 +147,87 @@
     "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F996bWxQ_VQRrXNPXFc0G4r6Y12RBOiwMSdcID72FM0g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzBkNmYyNjMxLTZmMGItNDc2Ni1iMThmLThkMGMwNmQxMWQ4MC9pbWFnZS8_dXBkYXRlZD0xNjk4MzkyOTk3MDAw.webp&w=750&q=100",
     "country": "Indonesia",
     "tags": "alternative / indie,pop,top hits",
-    "votes": 0
+    "votes": 976
   },
   {
     "stationuuid": "38c09fe6-481f-4f49-a52e-ce21adabd16d",
     "name": "Jak 101 FM",
     "url": "http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8",
     "url_resolved": "http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8",
-    "favicon": "https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png",
+    "favicon": "https://images-v2.noiceid.cc/catalog/original/catalog-1748420759764.jpg",
     "country": "Indonesia",
     "tags": "music,news,talk",
-    "votes": 0
+    "votes": 975
   },
   {
     "stationuuid": "cb031493-2f67-4dd7-ba4a-1e9d413b22a0",
     "name": "Radio Sholawat",
     "url": "https://stream-177.surfernetwork.com/us5bsznu3rptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1czVic3pudTNycHR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9rZlJwc1BMUUVhMzA3TlNkcUxydEEiLCJpYXQiOjE3OTEyMTU1NzMsImV4cCI6MTc5MTIxNTYzM30.onotuNRXpNL-YkX1RO_U8FT4YhaKCuQIJ8PLWH6vHX8",
     "url_resolved": "https://stream-177.surfernetwork.com/us5bsznu3rptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1czVic3pudTNycHR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9rZlJwc1BMUUVhMzA3TlNkcUxydEEiLCJpYXQiOjE3OTEyMTU1NzMsImV4cCI6MTc5MTIxNTYzM30.onotuNRXpNL-YkX1RO_U8FT4YhaKCuQIJ8PLWH6vHX8",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbNBG5NvUTwrCiRWp7fuzobqInbh3431c_4w5a4pmNgEqbnH8QdWpGgaTR_QbkxfYcnVEWy_hbnbSTgR7IR9VoEQaNG_9N_1WXYebMMBfzWfs4IRdBqq-cn0pQyHBJZkRX7aMLpkdZptptTRD_r3On5JdkSuRMOFtUdXyjMOAnmGEASEd5nDBKWWVT9g/s320/radio%20sholawat.jpg",
+    "favicon": "https://rc1.nobexinc.com/StationImage.ashx?StationID=6985&size=300",
     "country": "Indonesia",
     "tags": "religious,sholawat",
-    "votes": 0
+    "votes": 974
   },
   {
     "stationuuid": "ae43973a-1e40-4b84-a3f5-858cbfc806ad",
     "name": "iSWARA Jakarta",
     "url": "https://n0a.radiojar.com/4ywdgup3bnzuv",
     "url_resolved": "https://n0a.radiojar.com/4ywdgup3bnzuv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/938/iswara-jakarta.3c482bf1.jpg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/938/iswara-jakarta.3c482bf1.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Daerah Khusus Ibukota Jakarta - 101.4 FM",
+    "votes": 973
   },
   {
     "stationuuid": "0bdc4873-e6a0-423b-b5e9-0f4bba331788",
     "name": "Sonora 92.0 FM",
     "url": "https://sonora-radio.arenastreaming.com/8130/stream",
     "url_resolved": "https://sonora-radio.arenastreaming.com/8130/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/133/sonora-920-fm.960e2c55.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/133/sonora-920-fm.960e2c55.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Obrolan",
+    "votes": 972
   },
   {
     "stationuuid": "98c60e2f-f30f-4bc2-845d-e5d00ff3726b",
     "name": "FeMale Radio 97.9 FM",
     "url": "https://stream.rcs.revma.com/2cn5erwq9ncwv",
     "url_resolved": "https://stream.rcs.revma.com/2cn5erwq9ncwv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/998/female-radio-979-fm.d7b96bd0.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/998/female-radio-979-fm.d7b96bd0.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Kontemporer untuk Dewasa",
+    "votes": 971
   },
   {
     "stationuuid": "1eea73d8-9753-4873-8535-ac9aeafdfbb6",
     "name": "Trax FM",
     "url": "https://n0e.radiojar.com/rrqf78p3bnzuv",
     "url_resolved": "https://n0e.radiojar.com/rrqf78p3bnzuv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/686/trax-fm.caeddc21.jpg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/686/trax-fm.caeddc21.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40",
+    "votes": 970
   },
   {
     "stationuuid": "c9d26e0a-4d00-4f02-a2fa-2bbd2b7d5038",
     "name": "Mettaswara Koplo",
     "url": "https://mettaswara.com:8700/koplo",
     "url_resolved": "https://mettaswara.com:8700/koplo",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/4kU6XKQHap.png",
+    "favicon": "https://radiosphere.net/uploads/logos/mettaswara-koplo-24944fc120.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Musik Dunia",
+    "votes": 969
   },
   {
     "stationuuid": "c88cddd3-7315-4c6e-b619-419aef71f24e",
     "name": "CLASSY NetRadio",
     "url": "https://streaming.classynetradio.com/radio/8000/classyHD",
     "url_resolved": "https://streaming.classynetradio.com/radio/8000/classyHD",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/123/classy-netradio.d3810422.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/123/classy-netradio.d3810422.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Kontemporer untuk Dewasa,Jazz Lembut",
+    "votes": 965
   },
   {
     "stationuuid": "11eca779-9059-4b5d-a71f-c4774c8bb058",
@@ -237,197 +237,197 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/946/radio-music-indonesia.d9756e57.png",
     "country": "Indonesia",
     "tags": "radio",
-    "votes": 0
+    "votes": 964
   },
   {
     "stationuuid": "84c1caa8-eaad-4cb1-b149-67ee7e04e22f",
     "name": "Mettaswara Campursari",
     "url": "https://mettaswara.com:8700/cps",
     "url_resolved": "https://mettaswara.com:8700/cps",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/s3jdKC9HKv.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/s3jdKC9HKv.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Musik Dunia",
+    "votes": 963
   },
   {
     "stationuuid": "78f7eae9-73db-4040-b228-b08a7fd30df9",
     "name": "Mettaswara Indo 2000",
     "url": "https://mettaswara.com:8700/indo00",
     "url_resolved": "https://mettaswara.com:8700/indo00",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/119/mettaswara-indo-2000.117802d9.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/119/mettaswara-indo-2000.117802d9.png",
     "country": "Indonesia",
     "tags": "radio",
-    "votes": 0
+    "votes": 962
   },
   {
     "stationuuid": "2815d656-851a-4bcd-95bd-53129f1d88a5",
     "name": "Mettaswara Dangdut",
     "url": "https://mettaswara.com:8700/d4d",
     "url_resolved": "https://mettaswara.com:8700/d4d",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/qx7WyEBUnR.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/qx7WyEBUnR.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "upa-Rupa,Budaya & Pendidikan",
+    "votes": 961
   },
   {
     "stationuuid": "7e6598ab-16a2-4b85-9373-848365585467",
     "name": "Mettaswara Nostalgia SLow",
     "url": "https://mettaswara.com:8700/slow",
     "url_resolved": "https://mettaswara.com:8700/slow",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/300/mettaswara-nostalgia-slow.ce70ab80.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/300/mettaswara-nostalgia-slow.ce70ab80.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Enak Didengar,80-an,90-an",
+    "votes": 960
   },
   {
     "stationuuid": "7fe2b566-81e9-4a66-b941-f4f3e4268e36",
     "name": "Radio Campursari FM",
     "url": "https://streaming.campursarifm.com/listen/campursari/campursari892",
     "url_resolved": "https://streaming.campursarifm.com/listen/campursari/campursari892",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/045/radio-campursari-fm.daaedc15.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/045/radio-campursari-fm.daaedc15.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Musik Dunia",
+    "votes": 959
   },
   {
     "stationuuid": "a109cd05-82e7-43d7-86b9-3d320334ecea",
     "name": "Cosmopolitan FM",
     "url": "https://n0f.radiojar.com/u7d8heq3bnzuv",
     "url_resolved": "https://n0f.radiojar.com/u7d8heq3bnzuv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/327/cosmopolitan-fm.535db385.png",
+    "favicon": "https://d371i8ihhgym7w.cloudfront.net/99480871.jpg",
     "country": "Indonesia",
     "tags": "radio",
-    "votes": 0
+    "votes": 958
   },
   {
     "stationuuid": "17b4c517-211e-4246-8e97-399a74464499",
     "name": "Gajahmada 102.4 FM",
     "url": "https://server.radioimeldafm.co.id/radio/8040/gajahmadafm",
     "url_resolved": "https://server.radioimeldafm.co.id/radio/8040/gajahmadafm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/CpvRgznUmJ.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/CpvRgznUmJ.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40",
+    "votes": 957
   },
   {
     "stationuuid": "d6988fe8-77a8-4d61-bf81-8ca2cc0ee1e8",
     "name": "Ardan FM",
     "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
     "url_resolved": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/396/ardan-fm.46d7b4ee.jpg",
+    "favicon": "https://images.noiceid.cc/catalog/300x300/content-1634888608805.png",
     "country": "Indonesia",
     "tags": "radio",
-    "votes": 0
+    "votes": 956
   },
   {
     "stationuuid": "8d4355d6-6041-4cd3-b67b-05872d3e7da8",
     "name": "Mettaswara REMIX DhutKoplo",
     "url": "https://mettaswara.com:8700/mix",
     "url_resolved": "https://mettaswara.com:8700/mix",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/715/mettaswara-remix-dhutkoplo.0223d1d7.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/715/mettaswara-remix-dhutkoplo.0223d1d7.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Rupa-Rupa,Kontemporer untuk Dewasa,Lokal",
+    "votes": 955
   },
   {
     "stationuuid": "cc60d91c-ce43-47f1-b37b-414704438f9c",
     "name": "GOLDEN CLASSY",
     "url": "https://streaming.classynetradio.com/listen/golden.classy/goldenclassy",
     "url_resolved": "https://streaming.classynetradio.com/listen/golden.classy/goldenclassy",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/750/golden-classy.b7ef40ea.jpg",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/750/golden-classy.b7ef40ea.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Lawas",
+    "votes": 954
   },
   {
     "stationuuid": "a38cf002-6964-47dc-9823-d846ae24a925",
     "name": "RRI Pro 3",
     "url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
     "url_resolved": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/NCUHGk4XRJ.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/NCUHGk4XRJ.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Berita",
+    "votes": 953
   },
   {
     "stationuuid": "0ef6f553-abec-4699-959c-8a064e0fb9c6",
     "name": "Radio Imelda FM",
     "url": "https://server.radioimeldafm.co.id/radio/8030/imeldafm",
     "url_resolved": "https://server.radioimeldafm.co.id/radio/8030/imeldafm",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/637/radio-imelda-fm.483e6841.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/637/radio-imelda-fm.483e6841.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Jawa Tengah - 104.4 FM",
+    "votes": 952
   },
   {
     "stationuuid": "5b2115c2-6eb8-4fea-9777-bcbc77b05517",
     "name": "V-Radio Jakarta 106.6 FM",
     "url": "http://202.147.199.100:8000/;stream.mp3",
     "url_resolved": "http://202.147.199.100:8000/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/135/v-radio-jakarta-1066-fm.9060ce48.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/135/v-radio-jakarta-1066-fm.9060ce48.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Daerah Khusus Ibukota Jakarta - 106.6 FM",
+    "votes": 951
   },
   {
     "stationuuid": "27ad555e-d0a8-4100-9450-f2f866062910",
     "name": "MNC Trijaya 104.6 FM",
     "url": "http://202.147.199.101:8000/;",
     "url_resolved": "http://202.147.199.101:8000/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/AVCR99kQR6.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/AVCR99kQR6.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Berita",
+    "votes": 950
   },
   {
     "stationuuid": "3f8b09a4-80a5-4359-9fd4-a78de126e29f",
     "name": "Radio Karanganyar Mendhut FM 87.9",
     "url": "http://c4.siar.us:8790/stream",
     "url_resolved": "http://c4.siar.us:8790/stream",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/wDE3HuFQQz.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/wDE3HuFQQz.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Jawa Tengah - 87.9 FM",
+    "votes": 949
   },
   {
     "stationuuid": "ee2a0b5e-017f-49dd-9f3d-3f6650d4638c",
     "name": "Suara Giri 98.4 FM",
     "url": "http://streaming.girifm.com:8010/;stream.mp3",
     "url_resolved": "http://streaming.girifm.com:8010/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/sgyw8andwmrw.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/sgyw8andwmrw.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Daerah Khusus Ibukota Jakarta - 98.4 FM",
+    "votes": 948
   },
   {
     "stationuuid": "e91c9655-1210-4138-9029-e099b2bc9937",
     "name": "Radio Gentara",
     "url": "https://s1.gntr.net/radio/8080/gentara64",
     "url_resolved": "https://s1.gntr.net/radio/8080/gentara64",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/157/radio-gentara.04b3d352.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/157/radio-gentara.04b3d352.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Folk,Budaya & Pendidikan,Lokal",
+    "votes": 947
   },
   {
     "stationuuid": "d0f76241-133b-4eda-a146-891288fc2059",
     "name": "Mettaswara Indonesia Gold",
     "url": "https://mettaswara.com:8700/disco",
     "url_resolved": "https://mettaswara.com:8700/disco",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/385/mettaswara-disco.827bbb2d.png",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/CDCqpweNvm.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Dance / EDM",
+    "votes": 946
   },
   {
     "stationuuid": "70c10134-4aa1-4ed2-81ea-29dd2573996b",
     "name": "Suara Soneta",
     "url": "https://a2.siar.us/listen/suarasoneta/radio.mp3",
     "url_resolved": "https://a2.siar.us/listen/suarasoneta/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/35cgxzahyytq.jpeg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/35cgxzahyytq.jpeg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Jawa Timur - Online",
+    "votes": 945
   },
   {
     "stationuuid": "2dc08384-e7ac-4ada-9eef-4b66ebe42f82",
@@ -437,47 +437,47 @@
     "favicon": "https://static.mytuner.mobi/media/radios-150px/390/mettaswara-java.c77663f7.jpg",
     "country": "Indonesia",
     "tags": "radio",
-    "votes": 0
+    "votes": 944
   },
   {
     "stationuuid": "edfea4a2-db6c-4633-b942-5d3b3f732336",
     "name": "Gentara Wayangan",
     "url": "https://s1.gntr.net/listen/gentara_wayangan/radio",
     "url_resolved": "https://s1.gntr.net/listen/gentara_wayangan/radio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/598/gentara-wayangan.ea34f1dc.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/598/gentara-wayangan.ea34f1dc.png",
     "country": "Indonesia",
     "tags": "radio",
-    "votes": 0
+    "votes": 943
   },
   {
     "stationuuid": "e81ebe3e-675b-45bb-bcb7-624283962d10",
     "name": "Musik kita",
     "url": "https://stream.zeno.fm/wvq442iwm6ztv",
     "url_resolved": "https://stream.zeno.fm/wvq442iwm6ztv",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/945/gending-jawa-online.a0158b43.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/945/gending-jawa-online.a0158b43.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "80-an,Lawas",
+    "votes": 942
   },
   {
     "stationuuid": "2cc2bda0-6a28-4dc5-afec-194eff8a6fb1",
     "name": "Phoenix Radio Bali",
     "url": "https://live.phoenixradiobali.com:8250/phoenixradio",
     "url_resolved": "https://live.phoenixradiobali.com:8250/phoenixradio",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/tvjCWGTApT.jpg",
+    "favicon": "https://phoenixradiobali.com/images/program/20251221996266.jpg",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Provinsi Bali - 91.0 FM,pop,top 40",
+    "votes": 941
   },
   {
     "stationuuid": "7ec9af26-e60b-4a10-95b0-e70c5c12338c",
     "name": "Z 99.9 FM",
     "url": "https://svara-stream.radioddns.net/jakarta_z999fm_aac",
     "url_resolved": "https://svara-stream.radioddns.net/jakarta_z999fm_aac",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/864/z-jakarta.5830f19e.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/864/z-jakarta.5830f19e.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,Kontemporer untuk Dewasa",
+    "votes": 940
   },
   {
     "stationuuid": "819c92e8-ac0e-4ec5-b520-bf0f7213e27d",
@@ -486,8 +486,8 @@
     "url_resolved": "https://mettaswara.com:8700/metta90",
     "favicon": "https://static.mytuner.mobi/media/radios-150px/383/mettaswara-90s.867bdbc1.png",
     "country": "Indonesia",
-    "tags": "radio",
-    "votes": 0
+    "tags": "90-an",
+    "votes": 939
   },
   {
     "stationuuid": "705c4fe2-e2d1-4115-903b-2a77b45e41a3",
