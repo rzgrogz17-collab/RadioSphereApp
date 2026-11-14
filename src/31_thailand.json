@@ -494,120 +494,120 @@
     "name": "98 อีสาน เอฟเอ็ม",
     "url": "http://radio11.plathong.net:8900/;stream.mp3",
     "url_resolved": "http://radio11.plathong.net:8900/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/697/98-iisaan-efem.61e86d89.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/697/98-iisaan-efem.61e86d89.png",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "จังหวัดสมุทรปราการ - 98.0 FM",
+    "votes": 949
   },
   {
     "stationuuid": "f3276c79-626c-4748-8780-bf265099904b",
     "name": "Musichitz Station Thailand",
     "url": "https://hp2.hostpleng.cloud/8122/live",
     "url_resolved": "https://hp2.hostpleng.cloud/8122/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/241/radio-music-hitz.930c481b.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/241/radio-music-hitz.930c481b.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,เคป๊อป",
+    "votes": 948
   },
   {
     "stationuuid": "2c8aa3f0-fd29-4498-8d20-1d3f9895a712",
     "name": "รักษ์ปักษ์ใต้เรดิโอ",
     "url": "https://radio10.plathong.net/7100/;stream.mp3",
     "url_resolved": "https://radio10.plathong.net/7100/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/406/rakspaksait-erdio.a2e89035.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/406/rakspaksait-erdio.a2e89035.png",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "จังหวัดสุราษฎร์ธานี",
+    "votes": 947
   },
   {
     "stationuuid": "acb3249c-ff21-48b7-9d56-318a15fda20a",
     "name": "เพลงลูกทุ่ง Looktung Eingdoi Station",
     "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
     "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/816/ephlngluukthung-looktung-eingdoi-station.28ce6084.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/816/ephlngluukthung-looktung-eingdoi-station.28ce6084.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "เพลงยุค 90",
+    "votes": 946
   },
   {
     "stationuuid": "dfb34c7f-b8d3-4837-a6a8-ccf20197faad",
     "name": "Musichitz Radio Looktung ฟังเพลงลูกทุ่งออนไลน์ 24 ชั่วโมง",
     "url": "https://hp2.hostpleng.cloud/9386/live",
     "url_resolved": "https://hp2.hostpleng.cloud/9386/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/188/musichitz-radio-looktug.ac692616.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/188/musichitz-radio-looktug.ac692616.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "เพลงคันทรี,เพลงผ่อนคลาย,00s",
+    "votes": 945
   },
   {
     "stationuuid": "20131cac-7983-4b3e-bf7c-650ff2834efb",
     "name": "Good. 95.5 Hatyai",
     "url": "https://a.hostpleng.cloud/8062/live",
     "url_resolved": "https://a.hostpleng.cloud/8062/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/784/good-955-hatyai.b9f2096f.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/784/good-955-hatyai.b9f2096f.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "เพลงคลาสสิกแนวร็อค,เพลงผ่อนคลาย,เพลงยุค 90",
+    "votes": 944
   },
   {
     "stationuuid": "99e300f4-d4eb-4fa6-8ad0-86864d1cb45c",
     "name": "Musichitz Radio Inter",
     "url": "https://hp2.hostpleng.cloud/8006/live",
     "url_resolved": "https://hp2.hostpleng.cloud/8006/live",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/187/musichitz-radio-inter.1312996b.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,เพลงผ่อนคลาย,เพลงยุค 90",
+    "votes": 943
   },
   {
     "stationuuid": "007e92cf-632c-411d-a2d9-f025200c3e5d",
     "name": "Wat",
     "url": "http://radio1.siamlivehost.com:8001/;",
     "url_resolved": "http://radio1.siamlivehost.com:8001/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/094/wat.ea59a8ed.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/094/wat.ea59a8ed.png",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "คลื่นพูดคุย",
+    "votes": 942
   },
   {
     "stationuuid": "23022593-6c2a-4a79-90d3-92500cacdbd2",
     "name": "CH19 FM",
     "url": "http://103.22.182.104:7000/;stream.mp3",
     "url_resolved": "http://103.22.182.104:7000/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/996/ch19-fm.94817783.jpg",
+    "favicon": "https://raw.githubusercontent.com/rzgrogz17-collab/RadioSphereLogolar/refs/heads/main/CH19.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,คลื่นสากล",
+    "votes": 941
   },
   {
     "stationuuid": "febb334e-e34a-436f-94ab-678ba82149e1",
     "name": "onairPLUS | PassionFM Hatyai Songkhla",
     "url": "https://media.onair.one/8170/my/;",
     "url_resolved": "https://media.onair.one/8170/my/;",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/499/onair-plus-hatyai-songkhla.59dffa1b.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/499/onair-plus-hatyai-songkhla.59dffa1b.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "Pop / Top 40,ฟังง่าย,เพลงร่วมสมัย",
+    "votes": 940
   },
   {
     "stationuuid": "53537aac-b2ec-4511-8c18-15ac9b580d35",
     "name": "102 Radio สถานีวิทยุกระจายเสียง ขส.ทบ",
     "url": "http://media.login.in.th:1100/;stream.mp3",
     "url_resolved": "http://media.login.in.th:1100/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/344/102-radio-sthaaniiwithyukracchaayesiiyng-khsthb.33a0c429.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/344/102-radio-sthaaniiwithyukracchaayesiiyng-khsthb.33a0c429.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "สถานีวาไรตี้",
+    "votes": 939
   },
   {
     "stationuuid": "a175e5ae-929e-43c4-9abd-d14f75a3e563",
     "name": "104 GREEN FM",
     "url": "https://radio14.plathong.net/7072/;stream.mp3",
     "url_resolved": "https://radio14.plathong.net/7072/;stream.mp3",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/342/104-green-fm.d3d8dfee.jpg",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/342/104-green-fm.d3d8dfee.jpg",
     "country": "Thailand",
-    "tags": "radio",
-    "votes": 0
+    "tags": "ฟังง่าย,ท้องถิ่น,เพลงคันทรี",
+    "votes": 938
   },
   {
     "stationuuid": "a6c988f7-fe31-4179-a2aa-a48848a4777c",
