@@ -194,20 +194,20 @@
     "name": "哈尔滨音乐广播",
     "url": "https://stream.hrbtv.net/yypl/playlist.m3u8",
     "url_resolved": "https://stream.hrbtv.net/yypl/playlist.m3u8",
-    "favicon": "http://pic.qingting.fm/2015/1210/20151210172937967.jpg",
+    "favicon": "https://pic.qtfm.cn/2015/1210/20151210172937967.jpg!200",
     "country": "China",
     "tags": "music,pop",
-    "votes": 0
+    "votes": 983
   },
-  {
-    "stationuuid": "ee6f6ddc-b56c-4104-9493-f90aeb95793b",
-    "name": "内江交通广播",
-    "url": "https://www.scnj.tv/hls_njtv/live/jtgb.m3u8",
-    "url_resolved": "https://www.scnj.tv/hls_njtv/live/jtgb.m3u8",
-    "favicon": "",
+   {
+    "stationuuid": "4c3a2b4e-1091-4f5f-9df9-457339d539fe",
+    "name": "山东卫视伴音",
+    "url": "https://piccpndali.v.myalicdn.com/audio/shandong_2.m3u8",
+    "url_resolved": "https://piccpndali.v.myalicdn.com/audio/shandong_2.m3u8",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bsHWChbiB1WzQrKS8juiuiGhysGEte0yBGzOTOSTcg&s=10",
     "country": "China",
-    "tags": "traffic radio broadcast",
-    "votes": 0
+    "tags": "",
+    "votes": 982
   },
   {
     "stationuuid": "a0ea0918-1da7-4c1e-be21-1a2e1c7d7768",
@@ -284,19 +284,9 @@
     "name": "江西旅游广播",
     "url": "http://live.ximalaya.com/radio-first-page-app/live/1303/64.m3u8",
     "url_resolved": "http://live.ximalaya.com/radio-first-page-app/live/1303/64.m3u8",
-    "favicon": "",
+    "favicon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJlmmtQXTzoHVcQ3b3ZuJRvnsSH7OpfDzAbdRZNGiSraac44It",
     "country": "China",
     "tags": "music,oldies",
-    "votes": 0
-  },
-  {
-    "stationuuid": "4c3a2b4e-1091-4f5f-9df9-457339d539fe",
-    "name": "山东卫视伴音",
-    "url": "https://piccpndali.v.myalicdn.com/audio/shandong_2.m3u8",
-    "url_resolved": "https://piccpndali.v.myalicdn.com/audio/shandong_2.m3u8",
-    "favicon": "http://www.iqilu.com/favicon.ico",
-    "country": "China",
-    "tags": "",
     "votes": 0
   },
   {
